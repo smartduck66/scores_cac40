@@ -1,0 +1,3285 @@
+[
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/changes-in-the-finance-organization-fr-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/changes-in-the-finance-organization-fr-1",
+    "timestamp": 1707579346049,
+    "ranks": {
+      "hundos": 2,
+      "performance": 11,
+      "accessibility": 24,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 318
+    },
+    "firstContentfulPaint": 3822.7700000000004,
+    "firstMeaningfulPaint": 6582.0525000000025,
+    "speedIndex": 7322.573976286303,
+    "largestContentfulPaint": 13581.538500000006,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11514.716000000004,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 37.684000000000005,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2337228,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972026,
+      "scriptCount": 4,
+      "document": 38294,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389503,
+      "stylesheetCount": 4,
+      "thirdParty": 3168,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 27,
+      "-weight.document": 23,
+      "+weight.document": 27,
+      "-weight.script": 8,
+      "+weight.script": 5,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 435,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicissapient-and-luminoso-technologies-inc-team-to-accelerate-the-development-and-application-of-artificial-intelligence-for-marketing-and-business-transformation-fr-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicissapient-and-luminoso-technologies-inc-team-to-accelerate-the-development-and-application-of-artificial-intelligence-for-marketing-and-business-transformation-fr-1",
+    "timestamp": 1707578558894,
+    "ranks": {
+      "hundos": 5,
+      "performance": 9,
+      "accessibility": 25,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 318
+    },
+    "firstContentfulPaint": 3811.4300000000003,
+    "firstMeaningfulPaint": 6712.96625,
+    "speedIndex": 7204.728363903763,
+    "largestContentfulPaint": 13672.966250000001,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11544.466250000001,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 305.938,
+    "weight": {
+      "summary": "28 requests • 2,3 MiB",
+      "total": 2339356,
+      "image": 840027,
+      "imageCount": 2,
+      "script": 972030,
+      "scriptCount": 4,
+      "document": 42956,
+      "font": 63937,
+      "fontCount": 9,
+      "stylesheet": 389509,
+      "stylesheetCount": 4,
+      "thirdParty": 3178,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 20,
+      "-weight.document": 41,
+      "+weight.document": 9,
+      "-weight.script": 10,
+      "+weight.script": 3,
+      "-weight.image": 7,
+      "+weight.image": 6,
+      "-weight.font": 4,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 422,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-acquires-marketing-technology-company-yieldify",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-acquires-marketing-technology-company-yieldify",
+    "timestamp": 1707579593870,
+    "ranks": {
+      "hundos": 3,
+      "performance": 12,
+      "accessibility": 27,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 318
+    },
+    "firstContentfulPaint": 3781.966,
+    "firstMeaningfulPaint": 6366.9575,
+    "speedIndex": 7377.871676056517,
+    "largestContentfulPaint": 13331.949,
+    "totalBlockingTime": 41,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11571.9575,
+    "maxPotentialFirstInputDelay": 132,
+    "timeToFirstByte": 37.010999999999996,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2340083,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972023,
+      "scriptCount": 4,
+      "document": 41116,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389539,
+      "stylesheetCount": 4,
+      "thirdParty": 3201,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 14,
+      "-weight.document": 35,
+      "+weight.document": 15,
+      "-weight.script": 5,
+      "+weight.script": 8,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 471,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/zenith-publicis-media-nouvelle-agence-media-delongchamp",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/zenith-publicis-media-nouvelle-agence-media-delongchamp",
+    "timestamp": 1707578756705,
+    "ranks": {
+      "hundos": 4,
+      "performance": 8,
+      "accessibility": 28,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 318
+    },
+    "firstContentfulPaint": 3803.956,
+    "firstMeaningfulPaint": 6622.6894999999995,
+    "speedIndex": 7029.830633938511,
+    "largestContentfulPaint": 13670.178499999998,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.07497542737724207,
+    "timeToInteractive": 11614.933999999997,
+    "maxPotentialFirstInputDelay": 134,
+    "timeToFirstByte": 305.929,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2337192,
+      "image": 842570,
+      "imageCount": 3,
+      "script": 972024,
+      "scriptCount": 4,
+      "document": 38257,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389507,
+      "stylesheetCount": 4,
+      "thirdParty": 3171,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 28,
+      "-weight.document": 22,
+      "+weight.document": 28,
+      "-weight.script": 6,
+      "+weight.script": 7,
+      "-weight.image": 8,
+      "+weight.image": 5,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 447,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-commits-to-lead-responsible-use-of-artificial-intelligence",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-commits-to-lead-responsible-use-of-artificial-intelligence",
+    "timestamp": 1707579602101,
+    "ranks": {
+      "hundos": 1,
+      "performance": 10,
+      "accessibility": 32,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 318
+    },
+    "firstContentfulPaint": 3808.6440000000002,
+    "firstMeaningfulPaint": 6555.1355,
+    "speedIndex": 7260.885661388087,
+    "largestContentfulPaint": 13604.7965,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11472.966,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 34.699999999999996,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2340420,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972031,
+      "scriptCount": 4,
+      "document": 41480,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389504,
+      "stylesheetCount": 4,
+      "thirdParty": 3174,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 12,
+      "-weight.document": 37,
+      "+weight.document": 13,
+      "-weight.script": 11,
+      "+weight.script": 2,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 446,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis90-publicis-groupe-finance-90-startups-vivatech-1-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis90-publicis-groupe-finance-90-startups-vivatech-1-1",
+    "timestamp": 1707578985398,
+    "ranks": {
+      "hundos": 6,
+      "performance": 14,
+      "accessibility": 20,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 317
+    },
+    "firstContentfulPaint": 3927.8819999999996,
+    "firstMeaningfulPaint": 6591.852499999999,
+    "speedIndex": 7492.917276274386,
+    "largestContentfulPaint": 13481.823,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11724.823,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 30.580999999999996,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2343181,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972025,
+      "scriptCount": 4,
+      "document": 44219,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389532,
+      "stylesheetCount": 4,
+      "thirdParty": 3195,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 8,
+      "-weight.document": 42,
+      "+weight.document": 8,
+      "-weight.script": 7,
+      "+weight.script": 6,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 477,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/mark-tutssel-leaving-leo-burnett-after-illustrious-three-decade-career-fr-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/mark-tutssel-leaving-leo-burnett-after-illustrious-three-decade-career-fr-1",
+    "timestamp": 1707578442543,
+    "ranks": {
+      "hundos": 8,
+      "performance": 15,
+      "accessibility": 34,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 317
+    },
+    "firstContentfulPaint": 3809.008,
+    "firstMeaningfulPaint": 6557.636,
+    "speedIndex": 7712.3230681320865,
+    "largestContentfulPaint": 13606.388000000003,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11472.512000000002,
+    "maxPotentialFirstInputDelay": 134,
+    "timeToFirstByte": 330.05600000000004,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2337660,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972029,
+      "scriptCount": 4,
+      "document": 38667,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389559,
+      "stylesheetCount": 4,
+      "thirdParty": 3227,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 24,
+      "-weight.document": 26,
+      "+weight.document": 24,
+      "-weight.script": 9,
+      "+weight.script": 4,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 426,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/viva-technology-deuxieme-edition-paris-les-15-16-et-17-juin-2017",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/viva-technology-deuxieme-edition-paris-les-15-16-et-17-juin-2017",
+    "timestamp": 1707578532424,
+    "ranks": {
+      "hundos": 7,
+      "performance": 13,
+      "accessibility": 41,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 317
+    },
+    "firstContentfulPaint": 3980.6440000000002,
+    "firstMeaningfulPaint": 6812.3855,
+    "speedIndex": 7396.19991051437,
+    "largestContentfulPaint": 14176.627,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.07587754845428188,
+    "timeToInteractive": 11965.0465,
+    "maxPotentialFirstInputDelay": 134,
+    "timeToFirstByte": 316.31399999999996,
+    "weight": {
+      "summary": "28 requests • 2,3 MiB",
+      "total": 2412424,
+      "image": 911116,
+      "imageCount": 4,
+      "script": 972031,
+      "scriptCount": 4,
+      "document": 44933,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389510,
+      "stylesheetCount": 4,
+      "thirdParty": 3180,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 4,
+      "-weight.document": 44,
+      "+weight.document": 6,
+      "-weight.script": 11,
+      "+weight.script": 2,
+      "-weight.image": 10,
+      "+weight.image": 3,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 499,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-one-latin-america-names-jorge-rocha-head-of-performics-latin-america-fr-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-one-latin-america-names-jorge-rocha-head-of-performics-latin-america-fr-1",
+    "timestamp": 1707578912319,
+    "ranks": {
+      "hundos": 9,
+      "performance": 18,
+      "accessibility": 16,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 316
+    },
+    "firstContentfulPaint": 3831.8420322875977,
+    "firstMeaningfulPaint": 6626.653499999999,
+    "speedIndex": 8410.005331021148,
+    "largestContentfulPaint": 13507.6535,
+    "totalBlockingTime": 54.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11418.6535,
+    "maxPotentialFirstInputDelay": 131,
+    "timeToFirstByte": 35.672000000000004,
+    "weight": {
+      "summary": "24 requests • 2,2 MiB",
+      "total": 2329651,
+      "image": 840027,
+      "imageCount": 2,
+      "script": 972019,
+      "scriptCount": 4,
+      "document": 33215,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389556,
+      "stylesheetCount": 4,
+      "thirdParty": 3214,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 32,
+      "-weight.document": 18,
+      "+weight.document": 32,
+      "-weight.script": 4,
+      "+weight.script": 9,
+      "-weight.image": 7,
+      "+weight.image": 6,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 362,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/declaration-de-publicis-groupe-fr-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/declaration-de-publicis-groupe-fr-1",
+    "timestamp": 1707578928289,
+    "ranks": {
+      "hundos": 10,
+      "performance": 19,
+      "accessibility": 29,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 316
+    },
+    "firstContentfulPaint": 3827.5180322875976,
+    "firstMeaningfulPaint": 6625.207999999999,
+    "speedIndex": 8630.211462832514,
+    "largestContentfulPaint": 13675.063999999998,
+    "totalBlockingTime": 59,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11581.135999999999,
+    "maxPotentialFirstInputDelay": 131,
+    "timeToFirstByte": 37.385,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2335995,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972017,
+      "scriptCount": 4,
+      "document": 37051,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389522,
+      "stylesheetCount": 4,
+      "thirdParty": 3179,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 30,
+      "-weight.document": 20,
+      "+weight.document": 30,
+      "-weight.script": 2,
+      "+weight.script": 11,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 427,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-nomme-son-country-leadership-pour-l-Inde",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-nomme-son-country-leadership-pour-l-Inde",
+    "timestamp": 1707578475599,
+    "ranks": {
+      "hundos": 11,
+      "performance": 20,
+      "accessibility": 33,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 316
+    },
+    "firstContentfulPaint": 3778.31,
+    "firstMeaningfulPaint": 6489.3875,
+    "speedIndex": 8697.449814730066,
+    "largestContentfulPaint": 13379.465,
+    "totalBlockingTime": 66.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11675.465,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 229.632,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2337721,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972030,
+      "scriptCount": 4,
+      "document": 38726,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389560,
+      "stylesheetCount": 4,
+      "thirdParty": 3229,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 23,
+      "-weight.document": 27,
+      "+weight.document": 23,
+      "-weight.script": 10,
+      "+weight.script": 3,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 434,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/avis-de-convocation-2",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/avis-de-convocation-2",
+    "timestamp": 1707579000716,
+    "ranks": {
+      "hundos": 12,
+      "performance": 1,
+      "accessibility": 2,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 315
+    },
+    "firstContentfulPaint": 3524.0609999999997,
+    "firstMeaningfulPaint": 6283.4065,
+    "speedIndex": 4625.340563225883,
+    "largestContentfulPaint": 9461.746500000001,
+    "totalBlockingTime": 43,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9361.0255,
+    "maxPotentialFirstInputDelay": 136,
+    "timeToFirstByte": 30.650000000000006,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1556566,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972025,
+      "scriptCount": 4,
+      "document": 31408,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388874,
+      "stylesheetCount": 3,
+      "thirdParty": 3166,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 44,
+      "-weight.document": 2,
+      "+weight.document": 48,
+      "-weight.script": 7,
+      "+weight.script": 6,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/publicis-groupe-resultats-annuels-2012",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/publicis-groupe-resultats-annuels-2012",
+    "timestamp": 1707579102983,
+    "ranks": {
+      "hundos": 13,
+      "performance": 2,
+      "accessibility": 9,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 314
+    },
+    "firstContentfulPaint": 3789.5675,
+    "firstMeaningfulPaint": 6532.7215,
+    "speedIndex": 5124.086734602015,
+    "largestContentfulPaint": 9127.308,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9360.2215,
+    "maxPotentialFirstInputDelay": 139,
+    "timeToFirstByte": 33.115,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1556720,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972016,
+      "scriptCount": 4,
+      "document": 31569,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388874,
+      "stylesheetCount": 3,
+      "thirdParty": 3159,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 43,
+      "-weight.document": 3,
+      "+weight.document": 47,
+      "-weight.script": 1,
+      "+weight.script": 12,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/rapport-des-commissaires-aux-comptes-27eme-resolution",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/rapport-des-commissaires-aux-comptes-27eme-resolution",
+    "timestamp": 1707578624393,
+    "ranks": {
+      "hundos": 27,
+      "performance": 4,
+      "accessibility": 4,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 313
+    },
+    "firstContentfulPaint": 3801.2820322875978,
+    "firstMeaningfulPaint": 6574.782,
+    "speedIndex": 6029.996225963572,
+    "largestContentfulPaint": 9233.583999999999,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9351.782,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 259.657,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1557049,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972023,
+      "scriptCount": 4,
+      "document": 31893,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388874,
+      "stylesheetCount": 3,
+      "thirdParty": 3164,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 37,
+      "-weight.document": 10,
+      "+weight.document": 40,
+      "-weight.script": 5,
+      "+weight.script": 8,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-finalise-la-cession-de-sa-division-de-representants-medicaux-phs",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-finalise-la-cession-de-sa-division-de-representants-medicaux-phs",
+    "timestamp": 1707579249110,
+    "ranks": {
+      "hundos": 15,
+      "performance": 33,
+      "accessibility": 23,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8695.867999999999,
+    "firstMeaningfulPaint": 8724.367999999999,
+    "speedIndex": 9246.060989790301,
+    "largestContentfulPaint": 13314.235999999999,
+    "totalBlockingTime": 76.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11628.519,
+    "maxPotentialFirstInputDelay": 136,
+    "timeToFirstByte": 32.27700000000001,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2337754,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972025,
+      "scriptCount": 4,
+      "document": 38765,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389559,
+      "stylesheetCount": 4,
+      "thirdParty": 3223,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 22,
+      "-weight.document": 28,
+      "+weight.document": 22,
+      "-weight.script": 7,
+      "+weight.script": 6,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 438,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/chaka-sobhani-elevated-to-global-chief-creative-officer-of-leo-burnett",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/chaka-sobhani-elevated-to-global-chief-creative-officer-of-leo-burnett",
+    "timestamp": 1707579561572,
+    "ranks": {
+      "hundos": 19,
+      "performance": 42,
+      "accessibility": 22,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8700.804,
+    "firstMeaningfulPaint": 8733.304,
+    "speedIndex": 9636.693306097515,
+    "largestContentfulPaint": 13455.706,
+    "totalBlockingTime": 77.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11691.005000000001,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 31.873999999999995,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2340198,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972031,
+      "scriptCount": 4,
+      "document": 41257,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389505,
+      "stylesheetCount": 4,
+      "thirdParty": 3175,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 13,
+      "-weight.document": 36,
+      "+weight.document": 14,
+      "-weight.script": 11,
+      "+weight.script": 2,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 462,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-resultats-annuels-2021",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-resultats-annuels-2021",
+    "timestamp": 1707579185148,
+    "ranks": {
+      "hundos": 23,
+      "performance": 37,
+      "accessibility": 18,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8723.511999999999,
+    "firstMeaningfulPaint": 8908.012,
+    "speedIndex": 9517.569539216325,
+    "largestContentfulPaint": 13554.768,
+    "totalBlockingTime": 88,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11570.268,
+    "maxPotentialFirstInputDelay": 144,
+    "timeToFirstByte": 32.220000000000006,
+    "weight": {
+      "summary": "29 requests • 2,3 MiB",
+      "total": 2341053,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972026,
+      "scriptCount": 4,
+      "document": 41519,
+      "font": 63937,
+      "fontCount": 9,
+      "stylesheet": 390103,
+      "stylesheetCount": 4,
+      "thirdParty": 3767,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 11,
+      "-weight.document": 38,
+      "+weight.document": 12,
+      "-weight.script": 8,
+      "+weight.script": 5,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 4,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 519,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/du-sang-neuf-une-etude-de-publicis-groupe-realisee-par-freethinking-sur-les-classes-moyennes-leur-vision-de-la-france-2016-et-de-loffre-politique-pour-2017-fr-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/du-sang-neuf-une-etude-de-publicis-groupe-realisee-par-freethinking-sur-les-classes-moyennes-leur-vision-de-la-france-2016-et-de-loffre-politique-pour-2017-fr-1",
+    "timestamp": 1707578977218,
+    "ranks": {
+      "hundos": 24,
+      "performance": 41,
+      "accessibility": 21,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8705.114,
+    "firstMeaningfulPaint": 8735.114,
+    "speedIndex": 9631.711595188017,
+    "largestContentfulPaint": 13381.670999999998,
+    "totalBlockingTime": 79.5,
+    "cumulativeLayoutShift": 0.07394015449974856,
+    "timeToInteractive": 11682.170999999998,
+    "maxPotentialFirstInputDelay": 132,
+    "timeToFirstByte": 37.291,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2339707,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972025,
+      "scriptCount": 4,
+      "document": 40764,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389513,
+      "stylesheetCount": 4,
+      "thirdParty": 3177,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 18,
+      "-weight.document": 33,
+      "+weight.document": 17,
+      "-weight.script": 7,
+      "+weight.script": 6,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 462,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-media-uk-programmatic-brand-safety-protocols-2020",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-media-uk-programmatic-brand-safety-protocols-2020",
+    "timestamp": 1707579529513,
+    "ranks": {
+      "hundos": 25,
+      "performance": 45,
+      "accessibility": 17,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8885.099,
+    "firstMeaningfulPaint": 9304.756000000001,
+    "speedIndex": 9689.476950557062,
+    "largestContentfulPaint": 13831.541000000001,
+    "totalBlockingTime": 82,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11761.884000000002,
+    "maxPotentialFirstInputDelay": 136,
+    "timeToFirstByte": 39.399,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2351597,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 52672,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389502,
+      "stylesheetCount": 4,
+      "thirdParty": 3159,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 5,
+      "-weight.document": 46,
+      "+weight.document": 4,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 553,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/epsilon-and-citrusad-recognized-in-sell-side-retail-media-solutions-report-by-independent-research-firm",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/epsilon-and-citrusad-recognized-in-sell-side-retail-media-solutions-report-by-independent-research-firm",
+    "timestamp": 1707579177025,
+    "ranks": {
+      "hundos": 18,
+      "performance": 40,
+      "accessibility": 26,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8861.374,
+    "firstMeaningfulPaint": 9046.374,
+    "speedIndex": 9606.775066473401,
+    "largestContentfulPaint": 13545.561,
+    "totalBlockingTime": 82.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11710.561,
+    "maxPotentialFirstInputDelay": 134,
+    "timeToFirstByte": 29.144000000000005,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2343618,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 44664,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389531,
+      "stylesheetCount": 4,
+      "thirdParty": 3187,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 7,
+      "-weight.document": 43,
+      "+weight.document": 7,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 477,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-renforce-l-equipe-finance-groupe",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-renforce-l-equipe-finance-groupe",
+    "timestamp": 1707579216922,
+    "ranks": {
+      "hundos": 16,
+      "performance": 34,
+      "accessibility": 39,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8876.0435,
+    "firstMeaningfulPaint": 9065.264,
+    "speedIndex": 9246.073396377695,
+    "largestContentfulPaint": 13664.866500000002,
+    "totalBlockingTime": 79,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11675.646,
+    "maxPotentialFirstInputDelay": 136,
+    "timeToFirstByte": 33.413,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2337303,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972017,
+      "scriptCount": 4,
+      "document": 38344,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389537,
+      "stylesheetCount": 4,
+      "thirdParty": 3194,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 26,
+      "-weight.document": 24,
+      "+weight.document": 26,
+      "-weight.script": 2,
+      "+weight.script": 11,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 433,
+      "violations": 28
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/scores-parfaits-pour-les-agences-de-publicis-groupe-dans-le-corporate-equality-index-publie-par-human-rights-campaign-en-2018",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/scores-parfaits-pour-les-agences-de-publicis-groupe-dans-le-corporate-equality-index-publie-par-human-rights-campaign-en-2018",
+    "timestamp": 1707578904443,
+    "ranks": {
+      "hundos": 21,
+      "performance": 43,
+      "accessibility": 38,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8740.3525,
+    "firstMeaningfulPaint": 9230.259999999998,
+    "speedIndex": 9648.77358849218,
+    "largestContentfulPaint": 13902.797499999999,
+    "totalBlockingTime": 84,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11762.89,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 31.09400000000001,
+    "weight": {
+      "summary": "29 requests • 2,3 MiB",
+      "total": 2339414,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972017,
+      "scriptCount": 4,
+      "document": 40482,
+      "font": 63937,
+      "fontCount": 9,
+      "stylesheet": 389510,
+      "stylesheetCount": 4,
+      "thirdParty": 3166,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 19,
+      "-weight.document": 32,
+      "+weight.document": 18,
+      "-weight.script": 2,
+      "+weight.script": 11,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 4,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 439,
+      "violations": 28
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-acquiert-kindred-group-en-republique-tcheque",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-acquiert-kindred-group-en-republique-tcheque",
+    "timestamp": 1707579257086,
+    "ranks": {
+      "hundos": 22,
+      "performance": 44,
+      "accessibility": 37,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8707.838,
+    "firstMeaningfulPaint": 8891.338,
+    "speedIndex": 9654.840230251688,
+    "largestContentfulPaint": 13462.257,
+    "totalBlockingTime": 81,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11703.756999999998,
+    "maxPotentialFirstInputDelay": 132,
+    "timeToFirstByte": 32.247,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2339964,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972019,
+      "scriptCount": 4,
+      "document": 40422,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 390118,
+      "stylesheetCount": 4,
+      "thirdParty": 3775,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 15,
+      "-weight.document": 31,
+      "+weight.document": 19,
+      "-weight.script": 4,
+      "+weight.script": 9,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 444,
+      "violations": 28
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-etend-son-country-model-a-tous-ses-marches",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-etend-son-country-model-a-tous-ses-marches",
+    "timestamp": 1707578872145,
+    "ranks": {
+      "hundos": 14,
+      "performance": 31,
+      "accessibility": 42,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8405.446,
+    "firstMeaningfulPaint": 8737.446,
+    "speedIndex": 9083.454322998785,
+    "largestContentfulPaint": 13387.669,
+    "totalBlockingTime": 78.5,
+    "cumulativeLayoutShift": 0.07485020421609082,
+    "timeToInteractive": 11480.669,
+    "maxPotentialFirstInputDelay": 134,
+    "timeToFirstByte": 29.29200000000001,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2339784,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 40855,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389506,
+      "stylesheetCount": 4,
+      "thirdParty": 3163,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 17,
+      "-weight.document": 34,
+      "+weight.document": 16,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 458,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/node/8490",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/node/8490",
+    "timestamp": 1707579585851,
+    "ranks": {
+      "hundos": 20,
+      "performance": 35,
+      "accessibility": 40,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8760.845000000001,
+    "firstMeaningfulPaint": 9235.776000000002,
+    "speedIndex": 9343.339130946855,
+    "largestContentfulPaint": 13830.698499999999,
+    "totalBlockingTime": 89.5,
+    "cumulativeLayoutShift": 0.07384920213785338,
+    "timeToInteractive": 11835.414,
+    "maxPotentialFirstInputDelay": 143,
+    "timeToFirstByte": 31.541000000000004,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2349312,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972029,
+      "scriptCount": 4,
+      "document": 50365,
+      "font": 48625,
+      "fontCount": 7,
+      "stylesheet": 389513,
+      "stylesheetCount": 4,
+      "thirdParty": 3181,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 6,
+      "-weight.document": 45,
+      "+weight.document": 5,
+      "-weight.script": 9,
+      "+weight.script": 4,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 2,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 628,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/loris-nold-nomme-au-poste-nouvellement-cree-de-ceo-publicis-groupe-apac",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/loris-nold-nomme-au-poste-nouvellement-cree-de-ceo-publicis-groupe-apac",
+    "timestamp": 1707578491347,
+    "ranks": {
+      "hundos": 28,
+      "performance": 36,
+      "accessibility": 43,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8611.995,
+    "firstMeaningfulPaint": 9081.896,
+    "speedIndex": 9434.716456263048,
+    "largestContentfulPaint": 13758.393500000002,
+    "totalBlockingTime": 84,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11621.594000000001,
+    "maxPotentialFirstInputDelay": 139,
+    "timeToFirstByte": 199.541,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2339929,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972024,
+      "scriptCount": 4,
+      "document": 40350,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 390150,
+      "stylesheetCount": 4,
+      "thirdParty": 3812,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 16,
+      "-weight.document": 30,
+      "+weight.document": 20,
+      "-weight.script": 6,
+      "+weight.script": 7,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 439,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-assemblee-generale-mixte-2015",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-assemblee-generale-mixte-2015",
+    "timestamp": 1707578969121,
+    "ranks": {
+      "hundos": 17,
+      "performance": 32,
+      "accessibility": 45,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8414.1,
+    "firstMeaningfulPaint": 8748.1,
+    "speedIndex": 9148.0251145504,
+    "largestContentfulPaint": 13326.150000000001,
+    "totalBlockingTime": 87.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11492.150000000001,
+    "maxPotentialFirstInputDelay": 139,
+    "timeToFirstByte": 32.234,
+    "weight": {
+      "summary": "27 requests • 2,3 MiB",
+      "total": 2338494,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972025,
+      "scriptCount": 4,
+      "document": 39537,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389527,
+      "stylesheetCount": 4,
+      "thirdParty": 3190,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 21,
+      "-weight.document": 29,
+      "+weight.document": 21,
+      "-weight.script": 7,
+      "+weight.script": 6,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 453,
+      "violations": 30
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/mediavest-spark-devient-spark-foundry-au-niveau-mondial",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/mediavest-spark-devient-spark-foundry-au-niveau-mondial",
+    "timestamp": 1707579312518,
+    "ranks": {
+      "hundos": 26,
+      "performance": 38,
+      "accessibility": 46,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 313
+    },
+    "firstContentfulPaint": 8690.759999999997,
+    "firstMeaningfulPaint": 9088.537499999999,
+    "speedIndex": 9540.865697726322,
+    "largestContentfulPaint": 13743.204999999994,
+    "totalBlockingTime": 75,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11653.3975,
+    "maxPotentialFirstInputDelay": 136,
+    "timeToFirstByte": 57.931,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2337546,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972019,
+      "scriptCount": 4,
+      "document": 38616,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389506,
+      "stylesheetCount": 4,
+      "thirdParty": 3164,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 25,
+      "-weight.document": 25,
+      "+weight.document": 25,
+      "-weight.script": 4,
+      "+weight.script": 9,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 452,
+      "violations": 30
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/decision-du-conseil-de-surveillance-du-12-septembre-2018",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/decision-du-conseil-de-surveillance-du-12-septembre-2018",
+    "timestamp": 1707579402098,
+    "ranks": {
+      "hundos": 29,
+      "performance": 5,
+      "accessibility": 3,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 312
+    },
+    "firstContentfulPaint": 3793.9440322875976,
+    "firstMeaningfulPaint": 6574.775,
+    "speedIndex": 6223.861152315533,
+    "largestContentfulPaint": 9298.8,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9415.774999999998,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 33.198,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1556960,
+      "image": 13299,
+      "imageCount": 1,
+      "script": 972017,
+      "scriptCount": 4,
+      "document": 31805,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388879,
+      "stylesheetCount": 3,
+      "thirdParty": 3163,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 39,
+      "-weight.document": 9,
+      "+weight.document": 41,
+      "-weight.script": 2,
+      "+weight.script": 11,
+      "-weight.image": 1,
+      "+weight.image": 12,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/actions-et-droits-de-vote-au-31-mai-2019",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/actions-et-droits-de-vote-au-31-mai-2019",
+    "timestamp": 1707579513350,
+    "ranks": {
+      "hundos": 30,
+      "performance": 6,
+      "accessibility": 12,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 312
+    },
+    "firstContentfulPaint": 3820.9320322875974,
+    "firstMeaningfulPaint": 6605.152249999999,
+    "speedIndex": 6297.99606269141,
+    "largestContentfulPaint": 9506.5475,
+    "totalBlockingTime": 52,
+    "cumulativeLayoutShift": 0.07331563927083405,
+    "timeToInteractive": 9440.0475,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 30.277,
+    "weight": {
+      "summary": "24 requests • 1,5 MiB",
+      "total": 1557752,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972019,
+      "scriptCount": 4,
+      "document": 31947,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389527,
+      "stylesheetCount": 4,
+      "thirdParty": 3185,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 36,
+      "-weight.document": 11,
+      "+weight.document": 39,
+      "-weight.script": 4,
+      "+weight.script": 9,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 361,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news/communiques-de-presse/croissance-deux-chiffres-pour-les-challenges-startups-de-viva-technology-en-2019",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news/communiques-de-presse/croissance-deux-chiffres-pour-les-challenges-startups-de-viva-technology-en-2019",
+    "timestamp": 1707579128514,
+    "ranks": {
+      "hundos": 32,
+      "performance": 46,
+      "accessibility": 19,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 312
+    },
+    "firstContentfulPaint": 8722.382000000001,
+    "firstMeaningfulPaint": 8907.882,
+    "speedIndex": 9580.009272207784,
+    "largestContentfulPaint": 13559.573,
+    "totalBlockingTime": 88.5,
+    "cumulativeLayoutShift": 0.08101767718408258,
+    "timeToInteractive": 11649.072999999999,
+    "maxPotentialFirstInputDelay": 141,
+    "timeToFirstByte": 32.68699999999999,
+    "weight": {
+      "summary": "29 requests • 2,3 MiB",
+      "total": 2341439,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 42459,
+      "font": 63937,
+      "fontCount": 9,
+      "stylesheet": 389557,
+      "stylesheetCount": 4,
+      "thirdParty": 3214,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 10,
+      "-weight.document": 39,
+      "+weight.document": 11,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 4,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 486,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/declaration-doperations-sur-actions-propres-3",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/declaration-doperations-sur-actions-propres-3",
+    "timestamp": 1707578680936,
+    "ranks": {
+      "hundos": 33,
+      "performance": 7,
+      "accessibility": 30,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 312
+    },
+    "firstContentfulPaint": 3822.5800322875975,
+    "firstMeaningfulPaint": 6597.41825,
+    "speedIndex": 6530.6316456071345,
+    "largestContentfulPaint": 9646.607500000002,
+    "totalBlockingTime": 54,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 9604.91825,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 261.011,
+    "weight": {
+      "summary": "24 requests • 1,5 MiB",
+      "total": 1566645,
+      "image": 77084,
+      "imageCount": 2,
+      "script": 972024,
+      "scriptCount": 4,
+      "document": 33200,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389503,
+      "stylesheetCount": 4,
+      "thirdParty": 3165,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 35,
+      "-weight.document": 17,
+      "+weight.document": 33,
+      "-weight.script": 6,
+      "+weight.script": 7,
+      "-weight.image": 3,
+      "+weight.image": 10,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 376,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/ad-age-nomme-bruno-bertelli-dans-son-classement-top-creative-2017",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/ad-age-nomme-bruno-bertelli-dans-son-classement-top-creative-2017",
+    "timestamp": 1707578888340,
+    "ranks": {
+      "hundos": 31,
+      "performance": 47,
+      "accessibility": 35,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 312
+    },
+    "firstContentfulPaint": 8682.092,
+    "firstMeaningfulPaint": 8711.092,
+    "speedIndex": 9616.025524333083,
+    "largestContentfulPaint": 13357.638,
+    "totalBlockingTime": 69,
+    "cumulativeLayoutShift": 0.07860978793897064,
+    "timeToInteractive": 11671.865000000002,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 31.764999999999993,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2335820,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 36888,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389509,
+      "stylesheetCount": 4,
+      "thirdParty": 3166,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 31,
+      "-weight.document": 19,
+      "+weight.document": 31,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 407,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-resultats-annuels-2016",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/publicis-groupe-resultats-annuels-2016",
+    "timestamp": 1707578945261,
+    "ranks": {
+      "hundos": 34,
+      "performance": 49,
+      "accessibility": 47,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 311
+    },
+    "firstContentfulPaint": 9029.506,
+    "firstMeaningfulPaint": 9081.006,
+    "speedIndex": 14723.998753526117,
+    "largestContentfulPaint": 18833.641499999998,
+    "totalBlockingTime": 113.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 16225.765,
+    "maxPotentialFirstInputDelay": 170,
+    "timeToFirstByte": 31.168999999999997,
+    "weight": {
+      "summary": "47 requests • 4,0 MiB",
+      "total": 4143016,
+      "image": 2594288,
+      "imageCount": 21,
+      "script": 972017,
+      "scriptCount": 4,
+      "document": 92367,
+      "font": 63937,
+      "fontCount": 9,
+      "stylesheet": 389510,
+      "stylesheetCount": 4,
+      "thirdParty": 3167,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 1,
+      "-weight.document": 49,
+      "+weight.document": 1,
+      "-weight.script": 2,
+      "+weight.script": 11,
+      "-weight.image": 12,
+      "+weight.image": 1,
+      "-weight.font": 4,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 842,
+      "violations": 32
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/fil-d-actualites/un-message-darthur-2",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/fil-d-actualites/un-message-darthur-2",
+    "timestamp": 1707578715379,
+    "ranks": {
+      "hundos": 35,
+      "performance": 16,
+      "accessibility": 48,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 310
+    },
+    "firstContentfulPaint": 3962.177,
+    "firstMeaningfulPaint": 4131.336,
+    "speedIndex": 9419.510424442715,
+    "largestContentfulPaint": 5307.5485,
+    "totalBlockingTime": 221,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 18905.970647819515,
+    "maxPotentialFirstInputDelay": 141,
+    "timeToFirstByte": 364.22400000000005,
+    "weight": {
+      "summary": "51 requests • 2,8 MiB",
+      "total": 2907653,
+      "image": 118833,
+      "imageCount": 7,
+      "script": 2104831,
+      "scriptCount": 11,
+      "document": 76144,
+      "font": 70879,
+      "fontCount": 9,
+      "stylesheet": 448837,
+      "stylesheetCount": 6,
+      "thirdParty": 1180066,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 2,
+      "-weight.document": 48,
+      "+weight.document": 2,
+      "-weight.script": 12,
+      "+weight.script": 1,
+      "-weight.image": 5,
+      "+weight.image": 8,
+      "-weight.font": 5,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 471,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/splash",
+    "requestedUrl": "https://www.publicisgroupe.com/fr",
+    "timestamp": 1707579224988,
+    "ranks": {
+      "hundos": 36,
+      "performance": 17,
+      "accessibility": 15,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 309
+    },
+    "firstContentfulPaint": 4144.689032287598,
+    "firstMeaningfulPaint": 6913.24375,
+    "speedIndex": 7555.944283018908,
+    "largestContentfulPaint": 12313.676249999999,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0.07527311697645263,
+    "timeToInteractive": 11121.46,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 20.875999999999998,
+    "weight": {
+      "summary": "24 requests • 2,0 MiB",
+      "total": 2079971,
+      "image": 520319,
+      "imageCount": 3,
+      "script": 972025,
+      "scriptCount": 4,
+      "document": 25464,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 390082,
+      "stylesheetCount": 4,
+      "thirdParty": 3745,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 33,
+      "-weight.document": 1,
+      "+weight.document": 49,
+      "-weight.script": 7,
+      "+weight.script": 6,
+      "-weight.image": 6,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 288,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/epsilon-named-a-data-and-tech-powerhouse",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news-fr/communiques-de-presse/epsilon-named-a-data-and-tech-powerhouse",
+    "timestamp": 1707578765039,
+    "ranks": {
+      "hundos": 37,
+      "performance": 21,
+      "accessibility": 36,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 309
+    },
+    "firstContentfulPaint": 3779.018,
+    "firstMeaningfulPaint": 6416.7725,
+    "speedIndex": 8812.47034499024,
+    "largestContentfulPaint": 13383.027,
+    "totalBlockingTime": 66,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11668.2725,
+    "maxPotentialFirstInputDelay": 134,
+    "timeToFirstByte": 291.766,
+    "weight": {
+      "summary": "25 requests • 2,3 MiB",
+      "total": 2341617,
+      "image": 842571,
+      "imageCount": 3,
+      "script": 972025,
+      "scriptCount": 4,
+      "document": 42677,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389510,
+      "stylesheetCount": 4,
+      "thirdParty": 3173,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 9,
+      "-weight.document": 40,
+      "+weight.document": 10,
+      "-weight.script": 7,
+      "+weight.script": 6,
+      "-weight.image": 9,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 462,
+      "violations": 28
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/nombre-dactions-et-de-droits-de-vote-au-30-septembre-2017",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/nombre-dactions-et-de-droits-de-vote-au-30-septembre-2017",
+    "timestamp": 1707579425691,
+    "ranks": {
+      "hundos": 38,
+      "performance": 24,
+      "accessibility": 5,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 307
+    },
+    "firstContentfulPaint": 8679.769,
+    "firstMeaningfulPaint": 8938.7305,
+    "speedIndex": 8679.769,
+    "largestContentfulPaint": 9202.692,
+    "totalBlockingTime": 61,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9359.6535,
+    "maxPotentialFirstInputDelay": 134,
+    "timeToFirstByte": 30.449999999999996,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1556941,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 31784,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388880,
+      "stylesheetCount": 3,
+      "thirdParty": 3165,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 40,
+      "-weight.document": 8,
+      "+weight.document": 42,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/reglement-interieur-du-conseil-de-surveillance-1",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/reglement-interieur-du-conseil-de-surveillance-1",
+    "timestamp": 1707579039650,
+    "ranks": {
+      "hundos": 39,
+      "performance": 23,
+      "accessibility": 6,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 307
+    },
+    "firstContentfulPaint": 8673.393999999998,
+    "firstMeaningfulPaint": 8839.453999999998,
+    "speedIndex": 8673.393999999998,
+    "largestContentfulPaint": 8973.001,
+    "totalBlockingTime": 60,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9564.967499999999,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 32.175,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1556882,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972017,
+      "scriptCount": 4,
+      "document": 31705,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388901,
+      "stylesheetCount": 3,
+      "thirdParty": 3185,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 41,
+      "-weight.document": 5,
+      "+weight.document": 45,
+      "-weight.script": 2,
+      "+weight.script": 11,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/statuts-pgsa-au-31-decembre-2016",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/statuts-pgsa-au-31-decembre-2016",
+    "timestamp": 1707579087086,
+    "ranks": {
+      "hundos": 40,
+      "performance": 26,
+      "accessibility": 7,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 307
+    },
+    "firstContentfulPaint": 8687.970000000001,
+    "firstMeaningfulPaint": 9021.497500000001,
+    "speedIndex": 8687.970000000001,
+    "largestContentfulPaint": 9543.350000000002,
+    "totalBlockingTime": 59.5,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9442.282500000001,
+    "maxPotentialFirstInputDelay": 132,
+    "timeToFirstByte": 33.968999999999994,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1556797,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 31589,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388931,
+      "stylesheetCount": 3,
+      "thirdParty": 3216,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 42,
+      "-weight.document": 4,
+      "+weight.document": 46,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/nombre-dactions-et-de-droits-de-vote-au-30-novembre-2016",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/nombre-dactions-et-de-droits-de-vote-au-30-novembre-2016",
+    "timestamp": 1707579095123,
+    "ranks": {
+      "hundos": 42,
+      "performance": 28,
+      "accessibility": 8,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 307
+    },
+    "firstContentfulPaint": 8690.321,
+    "firstMeaningfulPaint": 8940.3745,
+    "speedIndex": 8690.321,
+    "largestContentfulPaint": 9220.428,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0.0729978680482203,
+    "timeToInteractive": 9378.9815,
+    "maxPotentialFirstInputDelay": 138,
+    "timeToFirstByte": 34.632,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1556962,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972024,
+      "scriptCount": 4,
+      "document": 31780,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388898,
+      "stylesheetCount": 3,
+      "thirdParty": 3190,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 38,
+      "-weight.document": 7,
+      "+weight.document": 43,
+      "-weight.script": 6,
+      "+weight.script": 7,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 357,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/rapport-des-commissaires-aux-comptes-sur-les-comptes-annuels-document-de-reference-2018-section-76-pages-282-a-285",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/rapport-des-commissaires-aux-comptes-sur-les-comptes-annuels-document-de-reference-2018-section-76-pages-282-a-285",
+    "timestamp": 1707578993262,
+    "ranks": {
+      "hundos": 41,
+      "performance": 22,
+      "accessibility": 13,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 307
+    },
+    "firstContentfulPaint": 8646.722,
+    "firstMeaningfulPaint": 8824.222,
+    "speedIndex": 8646.722,
+    "largestContentfulPaint": 8933.082999999999,
+    "totalBlockingTime": 61.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 9456.4025,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 36.416000000000004,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1532514,
+      "image": 13299,
+      "imageCount": 1,
+      "script": 972023,
+      "scriptCount": 4,
+      "document": 32016,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388881,
+      "stylesheetCount": 3,
+      "thirdParty": 3173,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 45,
+      "-weight.document": 12,
+      "+weight.document": 38,
+      "-weight.script": 5,
+      "+weight.script": 8,
+      "-weight.image": 1,
+      "+weight.image": 12,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 355,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/declaration-doperations-sur-actions-propres-9",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/declaration-doperations-sur-actions-propres-9",
+    "timestamp": 1707579441376,
+    "ranks": {
+      "hundos": 43,
+      "performance": 30,
+      "accessibility": 31,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 306
+    },
+    "firstContentfulPaint": 8936.279999999999,
+    "firstMeaningfulPaint": 8963.779999999999,
+    "speedIndex": 8936.279999999999,
+    "largestContentfulPaint": 10022.509999999998,
+    "totalBlockingTime": 66.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 9695.009999999998,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 45.266,
+    "weight": {
+      "summary": "24 requests • 1,6 MiB",
+      "total": 1606806,
+      "image": 117504,
+      "imageCount": 2,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 32942,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389508,
+      "stylesheetCount": 4,
+      "thirdParty": 3166,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 34,
+      "-weight.document": 16,
+      "+weight.document": 34,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 4,
+      "+weight.image": 9,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 375,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/publicis-groupe-revenu-du-1er-trimestre-2008",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/publicis-groupe-revenu-du-1er-trimestre-2008",
+    "timestamp": 1707579071356,
+    "ranks": {
+      "hundos": 44,
+      "performance": 3,
+      "accessibility": 1,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 3814.5200000000004,
+    "firstMeaningfulPaint": 6563.215,
+    "speedIndex": 5510.250233919306,
+    "largestContentfulPaint": 9465.150000000001,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0.07302556475777706,
+    "timeToInteractive": 9365.650000000001,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 30.552000000000007,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1502521,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972019,
+      "scriptCount": 4,
+      "document": 32862,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389506,
+      "stylesheetCount": 4,
+      "thirdParty": 3164,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 46,
+      "-weight.document": 15,
+      "+weight.document": 35,
+      "-weight.script": 4,
+      "+weight.script": 9,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 372,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/services-fr/services-publicis-media-fr",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/services-fr/services-publicis-media-fr",
+    "timestamp": 1707579233346,
+    "ranks": {
+      "hundos": 45,
+      "performance": 48,
+      "accessibility": 49,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.91,
+      "total": 303
+    },
+    "firstContentfulPaint": 8863.992,
+    "firstMeaningfulPaint": 8918.992,
+    "speedIndex": 10832.647788698796,
+    "largestContentfulPaint": 15001.240000000002,
+    "totalBlockingTime": 85.5,
+    "cumulativeLayoutShift": 0.073005225684842,
+    "timeToInteractive": 12980.988000000001,
+    "maxPotentialFirstInputDelay": 135,
+    "timeToFirstByte": 33.143,
+    "weight": {
+      "summary": "37 requests • 2,8 MiB",
+      "total": 2858839,
+      "image": 1170600,
+      "imageCount": 10,
+      "script": 972017,
+      "scriptCount": 4,
+      "document": 72999,
+      "font": 48693,
+      "fontCount": 7,
+      "stylesheet": 389624,
+      "stylesheetCount": 4,
+      "thirdParty": 3164,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 3,
+      "-weight.document": 47,
+      "+weight.document": 3,
+      "-weight.script": 2,
+      "+weight.script": 11,
+      "-weight.image": 11,
+      "+weight.image": 2,
+      "-weight.font": 3,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 671,
+      "violations": 44
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/news/communiques-de-presse/mise-a-disposition-du-document-enregistrement-universel-2019",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/news/communiques-de-presse/mise-a-disposition-du-document-enregistrement-universel-2019",
+    "timestamp": 1707579537472,
+    "ranks": {
+      "hundos": 46,
+      "performance": 39,
+      "accessibility": 44,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.84,
+      "bestPractices": 0.56,
+      "seo": 1,
+      "total": 295
+    },
+    "firstContentfulPaint": 8543.31,
+    "firstMeaningfulPaint": 8722.81,
+    "speedIndex": 9548.938623144162,
+    "largestContentfulPaint": 13379.465,
+    "totalBlockingTime": 78,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 11549.965,
+    "maxPotentialFirstInputDelay": 142,
+    "timeToFirstByte": 31.89399999999999,
+    "weight": {
+      "summary": "26 requests • 2,3 MiB",
+      "total": 2336199,
+      "image": 842570,
+      "imageCount": 3,
+      "script": 972030,
+      "scriptCount": 4,
+      "document": 37264,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389501,
+      "stylesheetCount": 4,
+      "thirdParty": 3170,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 29,
+      "-weight.document": 21,
+      "+weight.document": 29,
+      "-weight.script": 10,
+      "+weight.script": 3,
+      "-weight.image": 8,
+      "+weight.image": 5,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 437,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/rapport-sur-les-remunerations-des-mandataires-sociaux-document-de-reference-2016-chapitre-22-pages-73-a-99",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/rapport-sur-les-remunerations-des-mandataires-sociaux-document-de-reference-2016-chapitre-22-pages-73-a-99",
+    "timestamp": 1707579055382,
+    "ranks": {
+      "hundos": 47,
+      "performance": 27,
+      "accessibility": 14,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.56,
+      "seo": 0.93,
+      "total": 289
+    },
+    "firstContentfulPaint": 8688.812999999998,
+    "firstMeaningfulPaint": 8949.448499999999,
+    "speedIndex": 8688.812999999998,
+    "largestContentfulPaint": 9138.083999999999,
+    "totalBlockingTime": 61.5,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 9446.2195,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 34.197,
+    "weight": {
+      "summary": "23 requests • 1,5 MiB",
+      "total": 1500815,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972026,
+      "scriptCount": 4,
+      "document": 31755,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 388900,
+      "stylesheetCount": 3,
+      "thirdParty": 3193,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 49,
+      "-weight.document": 6,
+      "+weight.document": 44,
+      "-weight.script": 8,
+      "+weight.script": 5,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 355,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/publicis-groupe-revenu-du-1er-trimestre-2014",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/publicis-groupe-revenu-du-1er-trimestre-2014",
+    "timestamp": 1707579063243,
+    "ranks": {
+      "hundos": 48,
+      "performance": 25,
+      "accessibility": 10,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.56,
+      "seo": 0.93,
+      "total": 289
+    },
+    "firstContentfulPaint": 8683.25,
+    "firstMeaningfulPaint": 8709.25,
+    "speedIndex": 8683.25,
+    "largestContentfulPaint": 8982.375,
+    "totalBlockingTime": 67,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 9507.375,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 31.324000000000005,
+    "weight": {
+      "summary": "25 requests • 1,5 MiB",
+      "total": 1502319,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972026,
+      "scriptCount": 4,
+      "document": 32598,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389561,
+      "stylesheetCount": 4,
+      "thirdParty": 3226,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 47,
+      "-weight.document": 14,
+      "+weight.document": 36,
+      "-weight.script": 8,
+      "+weight.script": 5,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 377,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/investisseurs/assemblee-generale-mixte-du-30-mai-2018",
+    "requestedUrl": "https://www.publicisgroupe.com/fr/investisseurs/assemblee-generale-mixte-du-30-mai-2018",
+    "timestamp": 1707579016350,
+    "ranks": {
+      "hundos": 49,
+      "performance": 29,
+      "accessibility": 11,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.56,
+      "seo": 0.93,
+      "total": 289
+    },
+    "firstContentfulPaint": 8787.1885,
+    "firstMeaningfulPaint": 9123.144,
+    "speedIndex": 8787.1885,
+    "largestContentfulPaint": 9317.0995,
+    "totalBlockingTime": 66,
+    "cumulativeLayoutShift": 0.07290400972053462,
+    "timeToInteractive": 9476.555,
+    "maxPotentialFirstInputDelay": 136,
+    "timeToFirstByte": 61.32899999999999,
+    "weight": {
+      "summary": "25 requests • 1,5 MiB",
+      "total": 1501924,
+      "image": 13300,
+      "imageCount": 1,
+      "script": 972018,
+      "scriptCount": 4,
+      "document": 32214,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389558,
+      "stylesheetCount": 4,
+      "thirdParty": 3215,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 48,
+      "-weight.document": 13,
+      "+weight.document": 37,
+      "-weight.script": 3,
+      "+weight.script": 10,
+      "-weight.image": 2,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 369,
+      "violations": 23
+    }
+  }
+]

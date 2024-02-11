@@ -1,0 +1,427 @@
+[
+  {
+    "name": "airliquide",
+    "type": "line",
+    "data": [
+      342,
+      338,
+      335,
+      342,
+      342
+    ]
+  },
+  {
+    "name": "airbus",
+    "type": "line",
+    "data": [
+      336,
+      338,
+      336,
+      339,
+      350
+    ]
+  },
+  {
+    "name": "alstom",
+    "type": "line",
+    "data": [
+      342,
+      343,
+      343,
+      343,
+      343
+    ]
+  },
+  {
+    "name": "france.arcelormittal",
+    "type": "line",
+    "data": [
+      392,
+      390,
+      392,
+      392,
+      392
+    ]
+  },
+  {
+    "name": "axa",
+    "type": "line",
+    "data": [
+      302,
+      302,
+      301,
+      301,
+      300
+    ]
+  },
+  {
+    "name": "group.bnpparibas",
+    "type": "line",
+    "data": [
+      329,
+      328,
+      332,
+      333,
+      326
+    ]
+  },
+  {
+    "name": "bouygues",
+    "type": "line",
+    "data": [
+      362,
+      360,
+      345,
+      360,
+      359
+    ]
+  },
+  {
+    "name": "capgemini",
+    "type": "line",
+    "data": [
+      281,
+      281,
+      277,
+      276,
+      272
+    ]
+  },
+  {
+    "name": "carrefour",
+    "type": "line",
+    "data": [
+      297,
+      298,
+      298,
+      298,
+      293
+    ]
+  },
+  {
+    "name": "credit-agricole",
+    "type": "line",
+    "data": [
+      285,
+      284,
+      286,
+      284,
+      268
+    ]
+  },
+  {
+    "name": "danone",
+    "type": "line",
+    "data": [
+      287,
+      300,
+      300,
+      296,
+      293
+    ]
+  },
+  {
+    "name": "3ds",
+    "type": "line",
+    "data": [
+      335,
+      330,
+      331,
+      332,
+      331
+    ]
+  },
+  {
+    "name": "edenred",
+    "type": "line",
+    "data": [
+      350,
+      375,
+      371,
+      341,
+      363
+    ]
+  },
+  {
+    "name": "engie",
+    "type": "line",
+    "data": [
+      311,
+      312,
+      312,
+      313,
+      312
+    ]
+  },
+  {
+    "name": "essilorluxottica",
+    "type": "line",
+    "data": [
+      315,
+      310,
+      315,
+      314,
+      294
+    ]
+  },
+  {
+    "name": "eurofins",
+    "type": "line",
+    "data": [
+      331,
+      330,
+      335,
+      335,
+      332
+    ]
+  },
+  {
+    "name": "kering",
+    "type": "line",
+    "data": [
+      339,
+      341,
+      333,
+      336,
+      319
+    ]
+  },
+  {
+    "name": "legrandgroup",
+    "type": "line",
+    "data": [
+      303
+    ]
+  },
+  {
+    "name": "loreal",
+    "type": "line",
+    "data": [
+      324,
+      301,
+      302,
+      299,
+      300
+    ]
+  },
+  {
+    "name": "lvmh",
+    "type": "line",
+    "data": [
+      327,
+      329,
+      324,
+      327,
+      290
+    ]
+  },
+  {
+    "name": "michelin",
+    "type": "line",
+    "data": [
+      233,
+      232,
+      232,
+      231,
+      349
+    ]
+  },
+  {
+    "name": "orange",
+    "type": "line",
+    "data": [
+      363,
+      364,
+      363,
+      362,
+      363
+    ]
+  },
+  {
+    "name": "pernod-ricard",
+    "type": "line",
+    "data": [
+      362,
+      363,
+      363,
+      364,
+      359
+    ]
+  },
+  {
+    "name": "publicisgroupe",
+    "type": "line",
+    "data": [
+      309,
+      311,
+      310,
+      311,
+      309
+    ]
+  },
+  {
+    "name": "renaultgroup",
+    "type": "line",
+    "data": [
+      323,
+      326,
+      318,
+      323,
+      334
+    ]
+  },
+  {
+    "name": "safran-group",
+    "type": "line",
+    "data": [
+      358,
+      357,
+      358,
+      359,
+      358
+    ]
+  },
+  {
+    "name": "saint-gobain",
+    "type": "line",
+    "data": [
+      363,
+      366,
+      366,
+      366,
+      362
+    ]
+  },
+  {
+    "name": "sanofi",
+    "type": "line",
+    "data": [
+      298,
+      298,
+      299,
+      300,
+      300
+    ]
+  },
+  {
+    "name": "se",
+    "type": "line",
+    "data": [
+      338,
+      338,
+      349,
+      339,
+      318
+    ]
+  },
+  {
+    "name": "societegenerale",
+    "type": "line",
+    "data": [
+      254,
+      258,
+      261,
+      261,
+      258
+    ]
+  },
+  {
+    "name": "stellantis",
+    "type": "line",
+    "data": [
+      352,
+      349,
+      353,
+      354,
+      317
+    ]
+  },
+  {
+    "name": "st",
+    "type": "line",
+    "data": [
+      352,
+      349,
+      353,
+      354,
+      343
+    ]
+  },
+  {
+    "name": "teleperformance",
+    "type": "line",
+    "data": [
+      277,
+      277,
+      277,
+      277,
+      272
+    ]
+  },
+  {
+    "name": "thalesgroup",
+    "type": "line",
+    "data": [
+      279,
+      279,
+      280,
+      278,
+      277
+    ]
+  },
+  {
+    "name": "totalenergies",
+    "type": "line",
+    "data": [
+      364,
+      357,
+      360,
+      356,
+      362
+    ]
+  },
+  {
+    "name": "urw",
+    "type": "line",
+    "data": [
+      321,
+      323,
+      322,
+      331,
+      316
+    ]
+  },
+  {
+    "name": "veolia",
+    "type": "line",
+    "data": [
+      295,
+      315,
+      316,
+      315,
+      313
+    ]
+  },
+  {
+    "name": "vinci",
+    "type": "line",
+    "data": [
+      374,
+      380,
+      378,
+      385,
+      387
+    ]
+  },
+  {
+    "name": "vivendi",
+    "type": "line",
+    "data": [
+      327,
+      327,
+      327,
+      327,
+      327
+    ]
+  }
+]

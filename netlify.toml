@@ -1,0 +1,50 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    cache-control = "public; max-age=60"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "no-referrer-when-downgrade"
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Strict-Transport-Security = "max-age=2592000; includeSubDomains"
+    Feature-Policy = "camera 'none'; geolocation 'none'; microphone 'none'"
+    Accept-CH = "Downlink,RTT,Device-Memory,Save-Data,DPR,Width"
+
+    # Multi-key header rules are expressed with multi-line strings
+    # To permit external fonts, fontawesome and google, style-src, font-src and script-src (optional) are mandatory
+    # default-src 'self'; connect-src 'self' https://www.google-analytics.com;
+    Content-Security-Policy = '''
+    	script-src 'self' 'unsafe-inline' 'unsafe-eval' https://gc.zgo.at; 
+      worker-src 'self';
+      '''
+
+# Override cache duration for static assets : 1 an
+[[headers]]
+  for = "*.webp" # webp files should be set this way
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+[[headers]]
+  for = "*.png" # png files should be set this way
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+[[headers]]
+  for = "*.svg" # svg files too
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+[[headers]]
+  for = "*.js" # js files too
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+    [[headers]]
+  for = "*.json" # json files too
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+[[headers]]
+  for = "*.css" # css files too
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+[[headers]]
+  for = "*.manifest" # manifest files too
+  [headers.values]
+    cache-control = "public, max-age=31536000"
+

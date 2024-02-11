@@ -1,0 +1,3419 @@
+[
+  {
+    "url": "https://www.veolia.com/en/2018-integrated-report/2018-key-figures",
+    "requestedUrl": "https://www.veolia.com/en/2018-integrated-report/2018-key-figures",
+    "timestamp": 1707549417790,
+    "ranks": {
+      "hundos": 1,
+      "performance": 2,
+      "accessibility": 38,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.9,
+      "total": 351
+    },
+    "firstContentfulPaint": 2832.093,
+    "firstMeaningfulPaint": 5556.287,
+    "speedIndex": 5998.976648573426,
+    "largestContentfulPaint": 4077.276999999999,
+    "totalBlockingTime": 223.5,
+    "cumulativeLayoutShift": 0.09039403303269165,
+    "timeToInteractive": 9000.547,
+    "maxPotentialFirstInputDelay": 175,
+    "timeToFirstByte": 167.15300000000002,
+    "weight": {
+      "summary": "55 requests • 1,5 MiB",
+      "total": 1569984,
+      "image": 427936,
+      "imageCount": 13,
+      "script": 587131,
+      "scriptCount": 25,
+      "document": 27121,
+      "font": 250601,
+      "fontCount": 6,
+      "stylesheet": 261169,
+      "stylesheetCount": 5,
+      "thirdParty": 365893,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 14,
+      "-weight.document": 7,
+      "+weight.document": 45,
+      "-weight.script": 28,
+      "+weight.script": 23,
+      "-weight.image": 42,
+      "+weight.image": 6,
+      "-weight.font": 30,
+      "+weight.font": 19,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 913,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/our-media/news/estelle-brachlianoff-health-and-safety-prevention-our-absolute-priority",
+    "requestedUrl": "https://www.veolia.com/en/our-media/news/estelle-brachlianoff-health-and-safety-prevention-our-absolute-priority",
+    "timestamp": 1707549336517,
+    "ranks": {
+      "hundos": 2,
+      "performance": 4,
+      "accessibility": 12,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 350
+    },
+    "firstContentfulPaint": 2872.639,
+    "firstMeaningfulPaint": 4805.204000000001,
+    "speedIndex": 5442.868650787458,
+    "largestContentfulPaint": 4297.428999999999,
+    "totalBlockingTime": 253.5,
+    "cumulativeLayoutShift": 0.1008179260542628,
+    "timeToInteractive": 8739.783,
+    "maxPotentialFirstInputDelay": 172,
+    "timeToFirstByte": 153.401,
+    "weight": {
+      "summary": "51 requests • 1,7 MiB",
+      "total": 1758741,
+      "image": 614920,
+      "imageCount": 9,
+      "script": 587154,
+      "scriptCount": 25,
+      "document": 28981,
+      "font": 250528,
+      "fontCount": 6,
+      "stylesheet": 261029,
+      "stylesheetCount": 5,
+      "thirdParty": 365906,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 10,
+      "-weight.document": 28,
+      "+weight.document": 24,
+      "-weight.script": 31,
+      "+weight.script": 20,
+      "-weight.image": 46,
+      "+weight.image": 2,
+      "-weight.font": 16,
+      "+weight.font": 33,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 908,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/citizens/access-essential-services/bulgaria-tackling-fuel-poverty",
+    "requestedUrl": "https://www.veolia.com/en/citizens/access-essential-services/bulgaria-tackling-fuel-poverty",
+    "timestamp": 1707548167954,
+    "ranks": {
+      "hundos": 4,
+      "performance": 7,
+      "accessibility": 36,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 347
+    },
+    "firstContentfulPaint": 2806.1440000000002,
+    "firstMeaningfulPaint": 4037.408,
+    "speedIndex": 6946.12139732035,
+    "largestContentfulPaint": 4653.040000000001,
+    "totalBlockingTime": 251.5,
+    "cumulativeLayoutShift": 0.08505246342619317,
+    "timeToInteractive": 8827.124000000002,
+    "maxPotentialFirstInputDelay": 173,
+    "timeToFirstByte": 1020.526,
+    "weight": {
+      "summary": "49 requests • 1,3 MiB",
+      "total": 1391714,
+      "image": 213604,
+      "imageCount": 6,
+      "script": 580354,
+      "scriptCount": 25,
+      "document": 27758,
+      "font": 292827,
+      "fontCount": 7,
+      "stylesheet": 261100,
+      "stylesheetCount": 5,
+      "thirdParty": 358880,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 18,
+      "-weight.document": 20,
+      "+weight.document": 32,
+      "-weight.script": 10,
+      "+weight.script": 41,
+      "-weight.image": 31,
+      "+weight.image": 17,
+      "-weight.font": 39,
+      "+weight.font": 10,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 902,
+      "violations": 20
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/newsroom/actualites/changement-climatique-sommet-climate-chance-afrique-2019",
+    "requestedUrl": "https://www.veolia.com/fr/newsroom/actualites/changement-climatique-sommet-climate-chance-afrique-2019",
+    "timestamp": 1707548664877,
+    "ranks": {
+      "hundos": 3,
+      "performance": 8,
+      "accessibility": 2,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.96,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 347
+    },
+    "firstContentfulPaint": 2806.0119999999997,
+    "firstMeaningfulPaint": 4655.545,
+    "speedIndex": 5061.70060802612,
+    "largestContentfulPaint": 6577.4259999999995,
+    "totalBlockingTime": 209.5,
+    "cumulativeLayoutShift": 0.08675087512146333,
+    "timeToInteractive": 8316.042999999998,
+    "maxPotentialFirstInputDelay": 164,
+    "timeToFirstByte": 134.447,
+    "weight": {
+      "summary": "50 requests • 1,2 MiB",
+      "total": 1246736,
+      "image": 104050,
+      "imageCount": 6,
+      "script": 583992,
+      "scriptCount": 25,
+      "document": 30425,
+      "font": 250529,
+      "fontCount": 6,
+      "stylesheet": 261068,
+      "stylesheetCount": 5,
+      "thirdParty": 359457,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 27,
+      "-weight.document": 40,
+      "+weight.document": 12,
+      "-weight.script": 15,
+      "+weight.script": 36,
+      "-weight.image": 22,
+      "+weight.image": 26,
+      "-weight.font": 17,
+      "+weight.font": 32,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 969,
+      "violations": 21
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/quality-life/biodiversity/treating-wastewate-with-plants",
+    "requestedUrl": "https://www.veolia.com/en/quality-life/biodiversity/treating-wastewate-with-plants",
+    "timestamp": 1707548871551,
+    "ranks": {
+      "hundos": 5,
+      "performance": 1,
+      "accessibility": 4,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.96,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 347
+    },
+    "firstContentfulPaint": 2809.1785,
+    "firstMeaningfulPaint": 5512.7995,
+    "speedIndex": 4987.412280166126,
+    "largestContentfulPaint": 3888.4174999999996,
+    "totalBlockingTime": 238,
+    "cumulativeLayoutShift": 0.11360305077251828,
+    "timeToInteractive": 8221.260999999999,
+    "maxPotentialFirstInputDelay": 183,
+    "timeToFirstByte": 165.09,
+    "weight": {
+      "summary": "50 requests • 1,3 MiB",
+      "total": 1317129,
+      "image": 180039,
+      "imageCount": 8,
+      "script": 580257,
+      "scriptCount": 25,
+      "document": 29110,
+      "font": 250518,
+      "fontCount": 6,
+      "stylesheet": 261061,
+      "stylesheetCount": 5,
+      "thirdParty": 358987,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 24,
+      "-weight.document": 29,
+      "+weight.document": 23,
+      "-weight.script": 9,
+      "+weight.script": 42,
+      "-weight.image": 28,
+      "+weight.image": 20,
+      "-weight.font": 10,
+      "+weight.font": 39,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 991,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/actualites/veolia-yara-developpement-economie-circulaire-secteur-alimentation-agriculture",
+    "requestedUrl": "https://www.veolia.com/fr/actualites/veolia-yara-developpement-economie-circulaire-secteur-alimentation-agriculture",
+    "timestamp": 1707549229339,
+    "ranks": {
+      "hundos": 6,
+      "performance": 13,
+      "accessibility": 1,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.96,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 345
+    },
+    "firstContentfulPaint": 2842.343,
+    "firstMeaningfulPaint": 4226.344999999999,
+    "speedIndex": 6008.505046319788,
+    "largestContentfulPaint": 8366.511999999999,
+    "totalBlockingTime": 169.5,
+    "cumulativeLayoutShift": 0.0857890158984992,
+    "timeToInteractive": 9364.366999999998,
+    "maxPotentialFirstInputDelay": 176,
+    "timeToFirstByte": 155.46099999999998,
+    "weight": {
+      "summary": "51 requests • 1,5 MiB",
+      "total": 1591101,
+      "image": 363825,
+      "imageCount": 7,
+      "script": 584111,
+      "scriptCount": 25,
+      "document": 29527,
+      "font": 336481,
+      "fontCount": 8,
+      "stylesheet": 261038,
+      "stylesheetCount": 5,
+      "thirdParty": 358967,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 13,
+      "-weight.document": 33,
+      "+weight.document": 19,
+      "-weight.script": 24,
+      "+weight.script": 27,
+      "-weight.image": 39,
+      "+weight.image": 9,
+      "-weight.font": 47,
+      "+weight.font": 2,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 909,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/pour-nos-clients/nos-realisations/industries/industries-minieres/monde-vallourec",
+    "requestedUrl": "https://www.veolia.com/fr/pour-nos-clients/nos-realisations/industries/industries-minieres/monde-vallourec",
+    "timestamp": 1707549027125,
+    "ranks": {
+      "hundos": 7,
+      "performance": 10,
+      "accessibility": 9,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 344
+    },
+    "firstContentfulPaint": 3135.759,
+    "firstMeaningfulPaint": 5856.3865000000005,
+    "speedIndex": 6080.007838691051,
+    "largestContentfulPaint": 5782.573999999999,
+    "totalBlockingTime": 164.5,
+    "cumulativeLayoutShift": 0.09400889232430062,
+    "timeToInteractive": 9353.860499999999,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 130.93400000000003,
+    "weight": {
+      "summary": "49 requests • 1,5 MiB",
+      "total": 1536559,
+      "image": 354882,
+      "imageCount": 6,
+      "script": 584070,
+      "scriptCount": 25,
+      "document": 28236,
+      "font": 292256,
+      "fontCount": 7,
+      "stylesheet": 260990,
+      "stylesheetCount": 5,
+      "thirdParty": 358943,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 15,
+      "-weight.document": 25,
+      "+weight.document": 27,
+      "-weight.script": 20,
+      "+weight.script": 31,
+      "-weight.image": 37,
+      "+weight.image": 11,
+      "-weight.font": 36,
+      "+weight.font": 13,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 875,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/gouvernance/comite-executif/jean-francois-nogrette-biographie",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/gouvernance/comite-executif/jean-francois-nogrette-biographie",
+    "timestamp": 1707548307304,
+    "ranks": {
+      "hundos": 10,
+      "performance": 15,
+      "accessibility": 7,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 342
+    },
+    "firstContentfulPaint": 2808.924,
+    "firstMeaningfulPaint": 4887.8115,
+    "speedIndex": 5024.574423873073,
+    "largestContentfulPaint": 7626.156999999998,
+    "totalBlockingTime": 234.50000000000045,
+    "cumulativeLayoutShift": 0.09601070934711202,
+    "timeToInteractive": 8162.664999999999,
+    "maxPotentialFirstInputDelay": 169,
+    "timeToFirstByte": 137.236,
+    "weight": {
+      "summary": "48 requests • 1,2 MiB",
+      "total": 1211274,
+      "image": 72418,
+      "imageCount": 6,
+      "script": 584072,
+      "scriptCount": 25,
+      "document": 27228,
+      "font": 250526,
+      "fontCount": 6,
+      "stylesheet": 260987,
+      "stylesheetCount": 5,
+      "thirdParty": 358957,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 28,
+      "-weight.document": 10,
+      "+weight.document": 42,
+      "-weight.script": 21,
+      "+weight.script": 30,
+      "-weight.image": 21,
+      "+weight.image": 27,
+      "-weight.font": 15,
+      "+weight.font": 34,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 805,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/veolia-group/who-are-we/compliance-and-vigilance",
+    "requestedUrl": "https://www.veolia.com/en/veolia-group/who-are-we/compliance-and-vigilance",
+    "timestamp": 1707548839080,
+    "ranks": {
+      "hundos": 8,
+      "performance": 3,
+      "accessibility": 10,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 342
+    },
+    "firstContentfulPaint": 2824.5444999999995,
+    "firstMeaningfulPaint": 5585.7585,
+    "speedIndex": 5024.676609750163,
+    "largestContentfulPaint": 4691.1565,
+    "totalBlockingTime": 227,
+    "cumulativeLayoutShift": 0.09105256586669452,
+    "timeToInteractive": 8450.544000000002,
+    "maxPotentialFirstInputDelay": 171,
+    "timeToFirstByte": 76.029,
+    "weight": {
+      "summary": "50 requests • 1,1 MiB",
+      "total": 1175671,
+      "image": 30592,
+      "imageCount": 6,
+      "script": 587139,
+      "scriptCount": 25,
+      "document": 29719,
+      "font": 250535,
+      "fontCount": 6,
+      "stylesheet": 261063,
+      "stylesheetCount": 5,
+      "thirdParty": 366462,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 31,
+      "-weight.document": 35,
+      "+weight.document": 17,
+      "-weight.script": 29,
+      "+weight.script": 22,
+      "-weight.image": 19,
+      "+weight.image": 29,
+      "-weight.font": 21,
+      "+weight.font": 28,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 1189,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/newsroom/communiques-de-presse/veolia-et-suez-choisis-pour-concevoir-et-exploiter-l-usine-de-production-d-eau-potable-de-dhaka-la-capitale-du-bangladesh",
+    "requestedUrl": "https://www.veolia.com/fr/newsroom/communiques-de-presse/veolia-et-suez-choisis-pour-concevoir-et-exploiter-l-usine-de-production-d-eau-potable-de-dhaka-la-capitale-du-bangladesh",
+    "timestamp": 1707549528309,
+    "ranks": {
+      "hundos": 9,
+      "performance": 17,
+      "accessibility": 34,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 342
+    },
+    "firstContentfulPaint": 2846.3199999999997,
+    "firstMeaningfulPaint": 5299.33,
+    "speedIndex": 5386.170657963729,
+    "largestContentfulPaint": 7557.625999999998,
+    "totalBlockingTime": 246,
+    "cumulativeLayoutShift": 0.08502209893925579,
+    "timeToInteractive": 8429.137999999997,
+    "maxPotentialFirstInputDelay": 170,
+    "timeToFirstByte": 77.32499999999999,
+    "weight": {
+      "summary": "50 requests • 1,2 MiB",
+      "total": 1260216,
+      "image": 68726,
+      "imageCount": 6,
+      "script": 591709,
+      "scriptCount": 26,
+      "document": 29757,
+      "font": 292801,
+      "fontCount": 7,
+      "stylesheet": 261082,
+      "stylesheetCount": 5,
+      "thirdParty": 365876,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 26,
+      "-weight.document": 36,
+      "+weight.document": 16,
+      "-weight.script": 42,
+      "+weight.script": 9,
+      "-weight.image": 20,
+      "+weight.image": 28,
+      "-weight.font": 37,
+      "+weight.font": 12,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 858,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/rapport-annuel-activite-et-developpement-durable-2016-veolia",
+    "requestedUrl": "https://www.veolia.com/fr/rapport-annuel-activite-et-developpement-durable-2016-veolia",
+    "timestamp": 1707548227768,
+    "ranks": {
+      "hundos": 11,
+      "performance": 21,
+      "accessibility": 6,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 341
+    },
+    "firstContentfulPaint": 2846.139,
+    "firstMeaningfulPaint": 5531.217499999999,
+    "speedIndex": 5341.427261506682,
+    "largestContentfulPaint": 9625.427,
+    "totalBlockingTime": 230.5,
+    "cumulativeLayoutShift": 0.09059458162671431,
+    "timeToInteractive": 8069.610999999998,
+    "maxPotentialFirstInputDelay": 162,
+    "timeToFirstByte": 122.15099999999998,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1156473,
+      "image": 18527,
+      "imageCount": 5,
+      "script": 584062,
+      "scriptCount": 25,
+      "document": 26319,
+      "font": 250504,
+      "fontCount": 6,
+      "stylesheet": 260987,
+      "stylesheetCount": 5,
+      "thirdParty": 358959,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 44,
+      "-weight.document": 1,
+      "+weight.document": 51,
+      "-weight.script": 19,
+      "+weight.script": 32,
+      "-weight.image": 18,
+      "+weight.image": 30,
+      "-weight.font": 5,
+      "+weight.font": 44,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 759,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/newsroom/communiques-de-presse/veolia-annonce-le-lancement-dune-operation-dactionnariat-ouverte",
+    "requestedUrl": "https://www.veolia.com/fr/newsroom/communiques-de-presse/veolia-annonce-le-lancement-dune-operation-dactionnariat-ouverte",
+    "timestamp": 1707548361032,
+    "ranks": {
+      "hundos": 12,
+      "performance": 23,
+      "accessibility": 11,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 341
+    },
+    "firstContentfulPaint": 2821.1904999999997,
+    "firstMeaningfulPaint": 5071.1785,
+    "speedIndex": 5567.055648195988,
+    "largestContentfulPaint": 7172.303499999999,
+    "totalBlockingTime": 279.5,
+    "cumulativeLayoutShift": 0.08502209893925579,
+    "timeToInteractive": 8085.4169999999995,
+    "maxPotentialFirstInputDelay": 172,
+    "timeToFirstByte": 158.576,
+    "weight": {
+      "summary": "48 requests • 1,1 MiB",
+      "total": 1162477,
+      "image": 18430,
+      "imageCount": 5,
+      "script": 584821,
+      "scriptCount": 26,
+      "document": 31406,
+      "font": 250529,
+      "fontCount": 6,
+      "stylesheet": 261130,
+      "stylesheetCount": 5,
+      "thirdParty": 358984,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 36,
+      "-weight.document": 42,
+      "+weight.document": 10,
+      "-weight.script": 26,
+      "+weight.script": 25,
+      "-weight.image": 8,
+      "+weight.image": 40,
+      "-weight.font": 17,
+      "+weight.font": 32,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 927,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/newsroom/news",
+    "requestedUrl": "https://www.veolia.com/en/newsroom/news",
+    "timestamp": 1707548217442,
+    "ranks": {
+      "hundos": 13,
+      "performance": 6,
+      "accessibility": 5,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.95,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 341
+    },
+    "firstContentfulPaint": 2843.9580000000005,
+    "firstMeaningfulPaint": 4186.941999999999,
+    "speedIndex": 5448.802738429396,
+    "largestContentfulPaint": 4802.046,
+    "totalBlockingTime": 232.07250000000022,
+    "cumulativeLayoutShift": 0.11558936853685436,
+    "timeToInteractive": 9214.125999999997,
+    "maxPotentialFirstInputDelay": 232.0000000000009,
+    "timeToFirstByte": 154.52499999999998,
+    "weight": {
+      "summary": "59 requests • 1,7 MiB",
+      "total": 1816781,
+      "image": 601428,
+      "imageCount": 15,
+      "script": 598049,
+      "scriptCount": 26,
+      "document": 29863,
+      "font": 310289,
+      "fontCount": 7,
+      "stylesheet": 261119,
+      "stylesheetCount": 5,
+      "thirdParty": 365850,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 9,
+      "-weight.document": 37,
+      "+weight.document": 15,
+      "-weight.script": 43,
+      "+weight.script": 8,
+      "-weight.image": 45,
+      "+weight.image": 3,
+      "-weight.font": 43,
+      "+weight.font": 6,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 1265,
+      "violations": 52
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/newsroom/news/antoine-frerot-and-alain-juppe-sign-contract-wastewater-and-storm-water-management-bordeaux-metropole",
+    "requestedUrl": "https://www.veolia.com/en/newsroom/news/antoine-frerot-and-alain-juppe-sign-contract-wastewater-and-storm-water-management-bordeaux-metropole",
+    "timestamp": 1707548629221,
+    "ranks": {
+      "hundos": 14,
+      "performance": 19,
+      "accessibility": 14,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.9,
+      "total": 340
+    },
+    "firstContentfulPaint": 3108.072,
+    "firstMeaningfulPaint": 5193.2119999999995,
+    "speedIndex": 5170.5261694902965,
+    "largestContentfulPaint": 6755.75,
+    "totalBlockingTime": 227,
+    "cumulativeLayoutShift": 0.10648567380321279,
+    "timeToInteractive": 8078.607,
+    "maxPotentialFirstInputDelay": 171,
+    "timeToFirstByte": 60.486000000000004,
+    "weight": {
+      "summary": "49 requests • 1,3 MiB",
+      "total": 1391111,
+      "image": 213817,
+      "imageCount": 6,
+      "script": 580247,
+      "scriptCount": 25,
+      "document": 27783,
+      "font": 292222,
+      "fontCount": 7,
+      "stylesheet": 261040,
+      "stylesheetCount": 5,
+      "thirdParty": 358911,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 19,
+      "-weight.document": 21,
+      "+weight.document": 31,
+      "-weight.script": 7,
+      "+weight.script": 44,
+      "-weight.image": 32,
+      "+weight.image": 16,
+      "-weight.font": 35,
+      "+weight.font": 14,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 817,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/nos-medias/newsroom/actualites/sebastien-daziano-population-mondiale-linaction-plus-couteuse-que-laction",
+    "requestedUrl": "https://www.veolia.com/fr/nos-medias/newsroom/actualites/sebastien-daziano-population-mondiale-linaction-plus-couteuse-que-laction",
+    "timestamp": 1707548143534,
+    "ranks": {
+      "hundos": 16,
+      "performance": 38,
+      "accessibility": 3,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.96,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 340
+    },
+    "firstContentfulPaint": 3143.523,
+    "firstMeaningfulPaint": 5798.006000000001,
+    "speedIndex": 6856.549456570812,
+    "largestContentfulPaint": 8074.260000000001,
+    "totalBlockingTime": 236,
+    "cumulativeLayoutShift": 0.08492623230365155,
+    "timeToInteractive": 9091.524000000001,
+    "maxPotentialFirstInputDelay": 175,
+    "timeToFirstByte": 954.221,
+    "weight": {
+      "summary": "51 requests • 1,4 MiB",
+      "total": 1474769,
+      "image": 290852,
+      "imageCount": 8,
+      "script": 584092,
+      "scriptCount": 25,
+      "document": 29886,
+      "font": 292849,
+      "fontCount": 7,
+      "stylesheet": 261132,
+      "stylesheetCount": 5,
+      "thirdParty": 358921,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 16,
+      "-weight.document": 38,
+      "+weight.document": 14,
+      "-weight.script": 23,
+      "+weight.script": 28,
+      "-weight.image": 35,
+      "+weight.image": 13,
+      "-weight.font": 42,
+      "+weight.font": 7,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 960,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/actualites/veolia-lh-forum-2020-innovation-territoire-transformation-ecologique-economie-circulaire",
+    "requestedUrl": "https://www.veolia.com/fr/actualites/veolia-lh-forum-2020-innovation-territoire-transformation-ecologique-economie-circulaire",
+    "timestamp": 1707549280108,
+    "ranks": {
+      "hundos": 15,
+      "performance": 26,
+      "accessibility": 40,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 340
+    },
+    "firstContentfulPaint": 3207.4745000000003,
+    "firstMeaningfulPaint": 4711.6345,
+    "speedIndex": 5331.5597903480575,
+    "largestContentfulPaint": 7278.127500000002,
+    "totalBlockingTime": 257.4999999999998,
+    "cumulativeLayoutShift": 0.09685787386138818,
+    "timeToInteractive": 8522.753000000002,
+    "maxPotentialFirstInputDelay": 198,
+    "timeToFirstByte": 148.858,
+    "weight": {
+      "summary": "50 requests • 1,3 MiB",
+      "total": 1354183,
+      "image": 211912,
+      "imageCount": 8,
+      "script": 584020,
+      "scriptCount": 25,
+      "document": 30546,
+      "font": 250520,
+      "fontCount": 6,
+      "stylesheet": 261173,
+      "stylesheetCount": 5,
+      "thirdParty": 358974,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 20,
+      "-weight.document": 41,
+      "+weight.document": 11,
+      "-weight.script": 17,
+      "+weight.script": 34,
+      "-weight.image": 30,
+      "+weight.image": 18,
+      "-weight.font": 11,
+      "+weight.font": 38,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 981,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/nos-medias/actualites/estelle-brachlianoff-au-forum-monde-nouveau",
+    "requestedUrl": "https://www.veolia.com/fr/nos-medias/actualites/estelle-brachlianoff-au-forum-monde-nouveau",
+    "timestamp": 1707548119446,
+    "ranks": {
+      "hundos": 17,
+      "performance": 33,
+      "accessibility": 27,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 339
+    },
+    "firstContentfulPaint": 2848.4960000000005,
+    "firstMeaningfulPaint": 5150.841999999999,
+    "speedIndex": 6725.384447272123,
+    "largestContentfulPaint": 6937.238999999998,
+    "totalBlockingTime": 294,
+    "cumulativeLayoutShift": 0.08582978139131796,
+    "timeToInteractive": 8317.211499999998,
+    "maxPotentialFirstInputDelay": 177,
+    "timeToFirstByte": 1067.125,
+    "weight": {
+      "summary": "51 requests • 1,6 MiB",
+      "total": 1713973,
+      "image": 572937,
+      "imageCount": 9,
+      "script": 584070,
+      "scriptCount": 25,
+      "document": 29369,
+      "font": 250525,
+      "fontCount": 6,
+      "stylesheet": 261058,
+      "stylesheetCount": 5,
+      "thirdParty": 358898,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 11,
+      "-weight.document": 31,
+      "+weight.document": 21,
+      "-weight.script": 20,
+      "+weight.script": 31,
+      "-weight.image": 44,
+      "+weight.image": 4,
+      "-weight.font": 14,
+      "+weight.font": 35,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 909,
+      "violations": 18
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/mise-disposition-dun-prospectus-base-1",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/mise-disposition-dun-prospectus-base-1",
+    "timestamp": 1707548596298,
+    "ranks": {
+      "hundos": 18,
+      "performance": 9,
+      "accessibility": 20,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 337
+    },
+    "firstContentfulPaint": 2825.8339999999994,
+    "firstMeaningfulPaint": 5495.456,
+    "speedIndex": 5713.753259191068,
+    "largestContentfulPaint": 7049.646,
+    "totalBlockingTime": 168.29299999999967,
+    "cumulativeLayoutShift": 0.08600569209873443,
+    "timeToInteractive": 8264.776,
+    "maxPotentialFirstInputDelay": 170,
+    "timeToFirstByte": 113.527,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1157540,
+      "image": 18440,
+      "imageCount": 5,
+      "script": 584073,
+      "scriptCount": 25,
+      "document": 27580,
+      "font": 250481,
+      "fontCount": 6,
+      "stylesheet": 261028,
+      "stylesheetCount": 5,
+      "thirdParty": 358911,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 43,
+      "-weight.document": 15,
+      "+weight.document": 37,
+      "-weight.script": 22,
+      "+weight.script": 29,
+      "-weight.image": 10,
+      "+weight.image": 38,
+      "-weight.font": 2,
+      "+weight.font": 47,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 810,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/cp-veolia-demarre-production-delectricite",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/cp-veolia-demarre-production-delectricite",
+    "timestamp": 1707548564627,
+    "ranks": {
+      "hundos": 19,
+      "performance": 11,
+      "accessibility": 18,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 336
+    },
+    "firstContentfulPaint": 2800.3149999999996,
+    "firstMeaningfulPaint": 5114.759999999999,
+    "speedIndex": 5435.46215916015,
+    "largestContentfulPaint": 7148.386999999999,
+    "totalBlockingTime": 223,
+    "cumulativeLayoutShift": 0.08596930000044292,
+    "timeToInteractive": 8140.808999999999,
+    "maxPotentialFirstInputDelay": 167,
+    "timeToFirstByte": 125.26100000000001,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1164455,
+      "image": 18376,
+      "imageCount": 5,
+      "script": 590974,
+      "scriptCount": 25,
+      "document": 27534,
+      "font": 250565,
+      "fontCount": 6,
+      "stylesheet": 261069,
+      "stylesheetCount": 5,
+      "thirdParty": 365870,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 35,
+      "-weight.document": 13,
+      "+weight.document": 39,
+      "-weight.script": 39,
+      "+weight.script": 12,
+      "-weight.image": 1,
+      "+weight.image": 47,
+      "-weight.font": 28,
+      "+weight.font": 21,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 810,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/our-media/news/veolia-la-tribunes-sharing-economy-forum-what-stake-today-global-leadership",
+    "requestedUrl": "https://www.veolia.com/en/our-media/news/veolia-la-tribunes-sharing-economy-forum-what-stake-today-global-leadership",
+    "timestamp": 1707548702024,
+    "ranks": {
+      "hundos": 20,
+      "performance": 12,
+      "accessibility": 13,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 335
+    },
+    "firstContentfulPaint": 2815.3499999999995,
+    "firstMeaningfulPaint": 5142.742,
+    "speedIndex": 5464.475801491144,
+    "largestContentfulPaint": 6801.328,
+    "totalBlockingTime": 221.5,
+    "cumulativeLayoutShift": 0.08533456988183755,
+    "timeToInteractive": 8030.776000000002,
+    "maxPotentialFirstInputDelay": 176,
+    "timeToFirstByte": 63.667,
+    "weight": {
+      "summary": "51 requests • 1,3 MiB",
+      "total": 1311840,
+      "image": 168608,
+      "imageCount": 9,
+      "script": 587149,
+      "scriptCount": 25,
+      "document": 28547,
+      "font": 250492,
+      "fontCount": 6,
+      "stylesheet": 261024,
+      "stylesheetCount": 5,
+      "thirdParty": 365792,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 25,
+      "-weight.document": 26,
+      "+weight.document": 26,
+      "-weight.script": 30,
+      "+weight.script": 21,
+      "-weight.image": 25,
+      "+weight.image": 23,
+      "-weight.font": 3,
+      "+weight.font": 46,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 860,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/finance/actionnaires/assemblees-generales",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/finance/actionnaires/assemblees-generales",
+    "timestamp": 1707548179424,
+    "ranks": {
+      "hundos": 21,
+      "performance": 43,
+      "accessibility": 42,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.92,
+      "total": 335
+    },
+    "firstContentfulPaint": 2863.7310000000007,
+    "firstMeaningfulPaint": 5705.785000000002,
+    "speedIndex": 5601.643823546967,
+    "largestContentfulPaint": 4528.9400000000005,
+    "totalBlockingTime": 192.0629999999992,
+    "cumulativeLayoutShift": 0.4002748366810943,
+    "timeToInteractive": 8864.579000000002,
+    "maxPotentialFirstInputDelay": 192,
+    "timeToFirstByte": 185.888,
+    "weight": {
+      "summary": "48 requests • 1,3 MiB",
+      "total": 1414721,
+      "image": 262632,
+      "imageCount": 6,
+      "script": 590977,
+      "scriptCount": 25,
+      "document": 33357,
+      "font": 250533,
+      "fontCount": 6,
+      "stylesheet": 261149,
+      "stylesheetCount": 5,
+      "thirdParty": 365880,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 17,
+      "-weight.document": 43,
+      "+weight.document": 9,
+      "-weight.script": 40,
+      "+weight.script": 11,
+      "-weight.image": 33,
+      "+weight.image": 15,
+      "-weight.font": 19,
+      "+weight.font": 30,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 1031,
+      "violations": 42
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/nos-medias/newsroom/communiques-presse/veolia-suez-annoncent-etre-parvenus-accord-permettant",
+    "requestedUrl": "https://www.veolia.com/fr/nos-medias/newsroom/communiques-presse/veolia-suez-annoncent-etre-parvenus-accord-permettant",
+    "timestamp": 1707549560388,
+    "ranks": {
+      "hundos": 22,
+      "performance": 18,
+      "accessibility": 31,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 335
+    },
+    "firstContentfulPaint": 2812.0280000000002,
+    "firstMeaningfulPaint": 4931.501,
+    "speedIndex": 5509.7449903126835,
+    "largestContentfulPaint": 7688.819,
+    "totalBlockingTime": 228,
+    "cumulativeLayoutShift": 0.08649725138593001,
+    "timeToInteractive": 8312.17,
+    "maxPotentialFirstInputDelay": 183,
+    "timeToFirstByte": 168.379,
+    "weight": {
+      "summary": "49 requests • 1,1 MiB",
+      "total": 1203419,
+      "image": 18455,
+      "imageCount": 5,
+      "script": 584867,
+      "scriptCount": 26,
+      "document": 30148,
+      "font": 292832,
+      "fontCount": 7,
+      "stylesheet": 261046,
+      "stylesheetCount": 5,
+      "thirdParty": 358932,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 29,
+      "-weight.document": 39,
+      "+weight.document": 13,
+      "-weight.script": 27,
+      "+weight.script": 24,
+      "-weight.image": 13,
+      "+weight.image": 35,
+      "-weight.font": 41,
+      "+weight.font": 8,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 907,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/notre-raison-detre/nos-parties-prenantes/1-ecologie-actions/decouvrez-collectif-1",
+    "requestedUrl": "https://www.veolia.com/fr/notre-raison-detre/nos-parties-prenantes/1-ecologie-actions/decouvrez-collectif-1",
+    "timestamp": 1707549449614,
+    "ranks": {
+      "hundos": 23,
+      "performance": 5,
+      "accessibility": 43,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.93,
+      "bestPractices": 0.93,
+      "seo": 0.81,
+      "total": 334
+    },
+    "firstContentfulPaint": 3003.9849999999997,
+    "firstMeaningfulPaint": 4196.401,
+    "speedIndex": 5119.803653341358,
+    "largestContentfulPaint": 3513.516,
+    "totalBlockingTime": 504.5,
+    "cumulativeLayoutShift": 0.09062542181857186,
+    "timeToInteractive": 8523.353,
+    "maxPotentialFirstInputDelay": 413,
+    "timeToFirstByte": 169.548,
+    "weight": {
+      "summary": "59 requests • 1,3 MiB",
+      "total": 1327850,
+      "image": 158810,
+      "imageCount": 17,
+      "script": 590950,
+      "scriptCount": 25,
+      "document": 50409,
+      "font": 250537,
+      "fontCount": 6,
+      "stylesheet": 261068,
+      "stylesheetCount": 5,
+      "thirdParty": 365872,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 23,
+      "-weight.document": 44,
+      "+weight.document": 8,
+      "-weight.script": 38,
+      "+weight.script": 13,
+      "-weight.image": 23,
+      "+weight.image": 25,
+      "-weight.font": 22,
+      "+weight.font": 27,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 2847,
+      "violations": 156
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/energy-recovery-waste-sdeda-renewable-energy",
+    "requestedUrl": "https://www.veolia.com/en/energy-recovery-waste-sdeda-renewable-energy",
+    "timestamp": 1707548191196,
+    "ranks": {
+      "hundos": 28,
+      "performance": 42,
+      "accessibility": 8,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.9,
+      "total": 334
+    },
+    "firstContentfulPaint": 2803.7909999999993,
+    "firstMeaningfulPaint": 5044.7495,
+    "speedIndex": 6554.304820254087,
+    "largestContentfulPaint": 7033.893999999999,
+    "totalBlockingTime": 331,
+    "cumulativeLayoutShift": 0.12214768584087293,
+    "timeToInteractive": 8368.9585,
+    "maxPotentialFirstInputDelay": 158,
+    "timeToFirstByte": 964.713,
+    "weight": {
+      "summary": "50 requests • 1,3 MiB",
+      "total": 1348658,
+      "image": 206120,
+      "imageCount": 8,
+      "script": 587174,
+      "scriptCount": 25,
+      "document": 27693,
+      "font": 250466,
+      "fontCount": 6,
+      "stylesheet": 261063,
+      "stylesheetCount": 5,
+      "thirdParty": 365920,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 21,
+      "-weight.document": 19,
+      "+weight.document": 33,
+      "-weight.script": 32,
+      "+weight.script": 19,
+      "-weight.image": 29,
+      "+weight.image": 19,
+      "-weight.font": 1,
+      "+weight.font": 48,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 867,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/information-relative-au-nombre-total-7",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/information-relative-au-nombre-total-7",
+    "timestamp": 1707547904322,
+    "ranks": {
+      "hundos": 27,
+      "performance": 24,
+      "accessibility": 15,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 334
+    },
+    "firstContentfulPaint": 2804.8689999999997,
+    "firstMeaningfulPaint": 5571.575999999999,
+    "speedIndex": 6676.875104056186,
+    "largestContentfulPaint": 7255.378999999999,
+    "totalBlockingTime": 227.5,
+    "cumulativeLayoutShift": 0.08563046909256802,
+    "timeToInteractive": 8051.690499999999,
+    "maxPotentialFirstInputDelay": 167,
+    "timeToFirstByte": 929.502,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1157601,
+      "image": 18399,
+      "imageCount": 5,
+      "script": 584014,
+      "scriptCount": 25,
+      "document": 27666,
+      "font": 250538,
+      "fontCount": 6,
+      "stylesheet": 261046,
+      "stylesheetCount": 5,
+      "thirdParty": 358882,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 42,
+      "-weight.document": 17,
+      "+weight.document": 35,
+      "-weight.script": 16,
+      "+weight.script": 35,
+      "-weight.image": 4,
+      "+weight.image": 44,
+      "-weight.font": 23,
+      "+weight.font": 26,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 810,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/our-media/newsroom/press-releases/final-result-veolias-friendly-tender-offer-suez-shares",
+    "requestedUrl": "https://www.veolia.com/en/our-media/newsroom/press-releases/final-result-veolias-friendly-tender-offer-suez-shares",
+    "timestamp": 1707548982523,
+    "ranks": {
+      "hundos": 25,
+      "performance": 14,
+      "accessibility": 32,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 334
+    },
+    "firstContentfulPaint": 2842.638,
+    "firstMeaningfulPaint": 5063.135,
+    "speedIndex": 5014.378996790784,
+    "largestContentfulPaint": 6728.807999999999,
+    "totalBlockingTime": 281,
+    "cumulativeLayoutShift": 0.09272796220092065,
+    "timeToInteractive": 7989.548,
+    "maxPotentialFirstInputDelay": 174,
+    "timeToFirstByte": 125.54,
+    "weight": {
+      "summary": "48 requests • 1,1 MiB",
+      "total": 1155073,
+      "image": 18433,
+      "imageCount": 5,
+      "script": 580989,
+      "scriptCount": 26,
+      "document": 27956,
+      "font": 250514,
+      "fontCount": 6,
+      "stylesheet": 261064,
+      "stylesheetCount": 5,
+      "thirdParty": 358938,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 46,
+      "-weight.document": 23,
+      "+weight.document": 29,
+      "-weight.script": 11,
+      "+weight.script": 40,
+      "-weight.image": 9,
+      "+weight.image": 39,
+      "-weight.font": 9,
+      "+weight.font": 40,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 884,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/nos-medias/communiques-presse/veolia-deploie-solution-inedite-recuperation-froid-port-barcelone",
+    "requestedUrl": "https://www.veolia.com/fr/nos-medias/communiques-presse/veolia-deploie-solution-inedite-recuperation-froid-port-barcelone",
+    "timestamp": 1707549003839,
+    "ranks": {
+      "hundos": 26,
+      "performance": 22,
+      "accessibility": 33,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 334
+    },
+    "firstContentfulPaint": 2846.627,
+    "firstMeaningfulPaint": 5766.8820000000005,
+    "speedIndex": 5396.675580257952,
+    "largestContentfulPaint": 7465.097000000001,
+    "totalBlockingTime": 243.50000000000045,
+    "cumulativeLayoutShift": 0.10248512263769595,
+    "timeToInteractive": 8248.683500000001,
+    "maxPotentialFirstInputDelay": 175,
+    "timeToFirstByte": 160.339,
+    "weight": {
+      "summary": "49 requests • 1,1 MiB",
+      "total": 1202611,
+      "image": 18472,
+      "imageCount": 5,
+      "script": 584782,
+      "scriptCount": 26,
+      "document": 29395,
+      "font": 292831,
+      "fontCount": 7,
+      "stylesheet": 261108,
+      "stylesheetCount": 5,
+      "thirdParty": 358917,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 30,
+      "-weight.document": 32,
+      "+weight.document": 20,
+      "-weight.script": 25,
+      "+weight.script": 26,
+      "-weight.image": 15,
+      "+weight.image": 33,
+      "-weight.font": 40,
+      "+weight.font": 9,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 872,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/our-media/newsroom/news/estelle-brachlianoff-europe-africa-forum-ecological-transformation",
+    "requestedUrl": "https://www.veolia.com/en/our-media/newsroom/news/estelle-brachlianoff-europe-africa-forum-ecological-transformation",
+    "timestamp": 1707549313896,
+    "ranks": {
+      "hundos": 24,
+      "performance": 16,
+      "accessibility": 39,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 334
+    },
+    "firstContentfulPaint": 2814.5150000000003,
+    "firstMeaningfulPaint": 4985.557000000001,
+    "speedIndex": 5371.3732505996395,
+    "largestContentfulPaint": 7173.170000000004,
+    "totalBlockingTime": 253,
+    "cumulativeLayoutShift": 0.08549095048344306,
+    "timeToInteractive": 8105.713000000003,
+    "maxPotentialFirstInputDelay": 167,
+    "timeToFirstByte": 72.023,
+    "weight": {
+      "summary": "49 requests • 1,8 MiB",
+      "total": 1858299,
+      "image": 721069,
+      "imageCount": 7,
+      "script": 580245,
+      "scriptCount": 25,
+      "document": 29350,
+      "font": 250512,
+      "fontCount": 6,
+      "stylesheet": 261072,
+      "stylesheetCount": 5,
+      "thirdParty": 358958,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 8,
+      "-weight.document": 30,
+      "+weight.document": 22,
+      "-weight.script": 6,
+      "+weight.script": 45,
+      "-weight.image": 47,
+      "+weight.image": 1,
+      "-weight.font": 8,
+      "+weight.font": 41,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 905,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/pr-veolia-environment-launches-tender",
+    "requestedUrl": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/pr-veolia-environment-launches-tender",
+    "timestamp": 1707547986629,
+    "ranks": {
+      "hundos": 31,
+      "performance": 35,
+      "accessibility": 23,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.85,
+      "total": 333
+    },
+    "firstContentfulPaint": 2845.881,
+    "firstMeaningfulPaint": 4986.633,
+    "speedIndex": 7112.122301917136,
+    "largestContentfulPaint": 6905.938,
+    "totalBlockingTime": 243.5,
+    "cumulativeLayoutShift": 0.09538090415024969,
+    "timeToInteractive": 7999.653,
+    "maxPotentialFirstInputDelay": 180,
+    "timeToFirstByte": 1408.28,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1160403,
+      "image": 18403,
+      "imageCount": 5,
+      "script": 587237,
+      "scriptCount": 25,
+      "document": 27162,
+      "font": 250521,
+      "fontCount": 6,
+      "stylesheet": 261070,
+      "stylesheetCount": 5,
+      "thirdParty": 365857,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 37,
+      "-weight.document": 9,
+      "+weight.document": 43,
+      "-weight.script": 33,
+      "+weight.script": 18,
+      "-weight.image": 5,
+      "+weight.image": 43,
+      "-weight.font": 12,
+      "+weight.font": 37,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 51,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 801,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/newsroom/press-releases/press-release-engie-veolia",
+    "requestedUrl": "https://www.veolia.com/en/newsroom/press-releases/press-release-engie-veolia",
+    "timestamp": 1707548371607,
+    "ranks": {
+      "hundos": 29,
+      "performance": 20,
+      "accessibility": 35,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 333
+    },
+    "firstContentfulPaint": 2861.4375,
+    "firstMeaningfulPaint": 4780.983,
+    "speedIndex": 5328.763605936537,
+    "largestContentfulPaint": 9820.258500000002,
+    "totalBlockingTime": 240.5,
+    "cumulativeLayoutShift": 0.08718510502281757,
+    "timeToInteractive": 8097.087000000001,
+    "maxPotentialFirstInputDelay": 169,
+    "timeToFirstByte": 154.25600000000003,
+    "weight": {
+      "summary": "52 requests • 1,1 MiB",
+      "total": 1155588,
+      "image": 18468,
+      "imageCount": 5,
+      "script": 581017,
+      "scriptCount": 26,
+      "document": 27392,
+      "font": 250528,
+      "fontCount": 6,
+      "stylesheet": 261081,
+      "stylesheetCount": 5,
+      "thirdParty": 359976,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 45,
+      "-weight.document": 12,
+      "+weight.document": 40,
+      "-weight.script": 12,
+      "+weight.script": 39,
+      "-weight.image": 14,
+      "+weight.image": 34,
+      "-weight.font": 16,
+      "+weight.font": 33,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 832,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/final-terms-eur-650-000-000-bond-issue-due-november-2026",
+    "requestedUrl": "https://www.veolia.com/en/final-terms-eur-650-000-000-bond-issue-due-november-2026",
+    "timestamp": 1707547892974,
+    "ranks": {
+      "hundos": 30,
+      "performance": 25,
+      "accessibility": 37,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 333
+    },
+    "firstContentfulPaint": 2811.042,
+    "firstMeaningfulPaint": 5100.318000000001,
+    "speedIndex": 6868.1310394495795,
+    "largestContentfulPaint": 6928.491000000002,
+    "totalBlockingTime": 227,
+    "cumulativeLayoutShift": 0.09150340243867951,
+    "timeToInteractive": 8022.468000000003,
+    "maxPotentialFirstInputDelay": 179,
+    "timeToFirstByte": 1165.515,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1153279,
+      "image": 18425,
+      "imageCount": 5,
+      "script": 580235,
+      "scriptCount": 25,
+      "document": 26994,
+      "font": 250547,
+      "fontCount": 6,
+      "stylesheet": 261047,
+      "stylesheetCount": 5,
+      "thirdParty": 358867,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 51,
+      "-weight.document": 3,
+      "+weight.document": 49,
+      "-weight.script": 3,
+      "+weight.script": 48,
+      "-weight.image": 7,
+      "+weight.image": 41,
+      "-weight.font": 24,
+      "+weight.font": 25,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 793,
+      "violations": 20
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/se-chauffer-grace-aux-dechets-devient-une-realite-pour-la-metropole-europeenne-de-lille",
+    "requestedUrl": "https://www.veolia.com/fr/se-chauffer-grace-aux-dechets-devient-une-realite-pour-la-metropole-europeenne-de-lille",
+    "timestamp": 1707549058542,
+    "ranks": {
+      "hundos": 32,
+      "performance": 28,
+      "accessibility": 29,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 333
+    },
+    "firstContentfulPaint": 2811.845,
+    "firstMeaningfulPaint": 5185.124000000001,
+    "speedIndex": 5589.876009549531,
+    "largestContentfulPaint": 6901.059000000002,
+    "totalBlockingTime": 244,
+    "cumulativeLayoutShift": 0.11668996898110078,
+    "timeToInteractive": 8125.749000000002,
+    "maxPotentialFirstInputDelay": 180,
+    "timeToFirstByte": 169.708,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1164907,
+      "image": 18394,
+      "imageCount": 5,
+      "script": 590933,
+      "scriptCount": 25,
+      "document": 27881,
+      "font": 250510,
+      "fontCount": 6,
+      "stylesheet": 261061,
+      "stylesheetCount": 5,
+      "thirdParty": 365904,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 32,
+      "-weight.document": 22,
+      "+weight.document": 30,
+      "-weight.script": 36,
+      "+weight.script": 15,
+      "-weight.image": 2,
+      "+weight.image": 46,
+      "-weight.font": 6,
+      "+weight.font": 43,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 812,
+      "violations": 18
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/france-activite-eau-veolia-devoile-la-selection-des-candidats-retenus-pour-la-plage-de-la-baule-french-0",
+    "requestedUrl": "https://www.veolia.com/en/france-activite-eau-veolia-devoile-la-selection-des-candidats-retenus-pour-la-plage-de-la-baule-french-0",
+    "timestamp": 1707549069192,
+    "ranks": {
+      "hundos": 33,
+      "performance": 27,
+      "accessibility": 26,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 332
+    },
+    "firstContentfulPaint": 2808.393,
+    "firstMeaningfulPaint": 5527.0845,
+    "speedIndex": 5511.536719485768,
+    "largestContentfulPaint": 6780.5960000000005,
+    "totalBlockingTime": 203.00000000000045,
+    "cumulativeLayoutShift": 0.13406690531871712,
+    "timeToInteractive": 8092.5895,
+    "maxPotentialFirstInputDelay": 162,
+    "timeToFirstByte": 137.155,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1160213,
+      "image": 18433,
+      "imageCount": 5,
+      "script": 587242,
+      "scriptCount": 25,
+      "document": 26962,
+      "font": 250547,
+      "fontCount": 6,
+      "stylesheet": 260967,
+      "stylesheetCount": 5,
+      "thirdParty": 365898,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 39,
+      "-weight.document": 2,
+      "+weight.document": 50,
+      "-weight.script": 34,
+      "+weight.script": 17,
+      "-weight.image": 9,
+      "+weight.image": 39,
+      "-weight.font": 24,
+      "+weight.font": 25,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 796,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/cp-assemblee-generale-mixte-du-22-avril",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/cp-assemblee-generale-mixte-du-22-avril",
+    "timestamp": 1707547951470,
+    "ranks": {
+      "hundos": 34,
+      "performance": 32,
+      "accessibility": 17,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 332
+    },
+    "firstContentfulPaint": 2805.9849999999997,
+    "firstMeaningfulPaint": 5123.078,
+    "speedIndex": 6636.631951227959,
+    "largestContentfulPaint": 10096.973,
+    "totalBlockingTime": 252.5,
+    "cumulativeLayoutShift": 0.08745505143941537,
+    "timeToInteractive": 8044.757000000001,
+    "maxPotentialFirstInputDelay": 189,
+    "timeToFirstByte": 929.047,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1164590,
+      "image": 18479,
+      "imageCount": 5,
+      "script": 590941,
+      "scriptCount": 25,
+      "document": 27552,
+      "font": 250498,
+      "fontCount": 6,
+      "stylesheet": 261077,
+      "stylesheetCount": 5,
+      "thirdParty": 365815,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 34,
+      "-weight.document": 14,
+      "+weight.document": 38,
+      "-weight.script": 37,
+      "+weight.script": 14,
+      "-weight.image": 16,
+      "+weight.image": 32,
+      "-weight.font": 4,
+      "+weight.font": 45,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 51
+    },
+    "axe": {
+      "passes": 810,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/information-relative-au-nombre-total-21",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/information-relative-au-nombre-total-21",
+    "timestamp": 1707547928447,
+    "ranks": {
+      "hundos": 36,
+      "performance": 34,
+      "accessibility": 16,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 332
+    },
+    "firstContentfulPaint": 2805.3490000000006,
+    "firstMeaningfulPaint": 4928.327,
+    "speedIndex": 6865.273289155068,
+    "largestContentfulPaint": 6770.033999999998,
+    "totalBlockingTime": 240.49999999999955,
+    "cumulativeLayoutShift": 0.10779251315923438,
+    "timeToInteractive": 8201.725999999999,
+    "maxPotentialFirstInputDelay": 190,
+    "timeToFirstByte": 1122.462,
+    "weight": {
+      "summary": "51 requests • 1,1 MiB",
+      "total": 1158907,
+      "image": 18444,
+      "imageCount": 5,
+      "script": 584040,
+      "scriptCount": 25,
+      "document": 27678,
+      "font": 250530,
+      "fontCount": 6,
+      "stylesheet": 261074,
+      "stylesheetCount": 5,
+      "thirdParty": 360039,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 40,
+      "-weight.document": 18,
+      "+weight.document": 34,
+      "-weight.script": 18,
+      "+weight.script": 33,
+      "-weight.image": 11,
+      "+weight.image": 37,
+      "-weight.font": 18,
+      "+weight.font": 31,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 810,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/veolia-et-suez-choisis-pour-concevoir-et-exploiter-l-usine-de-production-d-eau-potable-de-dhaka-la-capitale-du-bangladesh-1",
+    "requestedUrl": "https://www.veolia.com/fr/veolia-et-suez-choisis-pour-concevoir-et-exploiter-l-usine-de-production-d-eau-potable-de-dhaka-la-capitale-du-bangladesh-1",
+    "timestamp": 1707547881268,
+    "ranks": {
+      "hundos": 35,
+      "performance": 31,
+      "accessibility": 30,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 332
+    },
+    "firstContentfulPaint": 2816.63,
+    "firstMeaningfulPaint": 5456.406999999999,
+    "speedIndex": 6527.608875888646,
+    "largestContentfulPaint": 6649.730999999998,
+    "totalBlockingTime": 308.5,
+    "cumulativeLayoutShift": 0.09042872656878238,
+    "timeToInteractive": 8106.684499999999,
+    "maxPotentialFirstInputDelay": 183,
+    "timeToFirstByte": 947.275,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1158061,
+      "image": 18396,
+      "imageCount": 5,
+      "script": 583977,
+      "scriptCount": 25,
+      "document": 28045,
+      "font": 250534,
+      "fontCount": 6,
+      "stylesheet": 261081,
+      "stylesheetCount": 5,
+      "thirdParty": 358868,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 41,
+      "-weight.document": 24,
+      "+weight.document": 28,
+      "-weight.script": 14,
+      "+weight.script": 37,
+      "-weight.image": 3,
+      "+weight.image": 45,
+      "-weight.font": 20,
+      "+weight.font": 29,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 812,
+      "violations": 18
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/annual-update-euro-medium-term-notes-program-visa-amf-ndeg15-508-dated-29-september-2015",
+    "requestedUrl": "https://www.veolia.com/en/annual-update-euro-medium-term-notes-program-visa-amf-ndeg15-508-dated-29-september-2015",
+    "timestamp": 1707548459285,
+    "ranks": {
+      "hundos": 37,
+      "performance": 30,
+      "accessibility": 25,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 331
+    },
+    "firstContentfulPaint": 3930.8109999999997,
+    "firstMeaningfulPaint": 5609.771,
+    "speedIndex": 5506.637207884325,
+    "largestContentfulPaint": 7163.312999999999,
+    "totalBlockingTime": 243,
+    "cumulativeLayoutShift": 0.0865417692140747,
+    "timeToInteractive": 8080.4175,
+    "maxPotentialFirstInputDelay": 169,
+    "timeToFirstByte": 84.4,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1153303,
+      "image": 18411,
+      "imageCount": 5,
+      "script": 580193,
+      "scriptCount": 25,
+      "document": 27114,
+      "font": 250523,
+      "fontCount": 6,
+      "stylesheet": 261067,
+      "stylesheetCount": 5,
+      "thirdParty": 358933,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 50,
+      "-weight.document": 6,
+      "+weight.document": 46,
+      "-weight.script": 2,
+      "+weight.script": 49,
+      "-weight.image": 6,
+      "+weight.image": 42,
+      "-weight.font": 13,
+      "+weight.font": 36,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 796,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/veolia-environnement-announces-indicative",
+    "requestedUrl": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/veolia-environnement-announces-indicative",
+    "timestamp": 1707549111529,
+    "ranks": {
+      "hundos": 38,
+      "performance": 36,
+      "accessibility": 21,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 330
+    },
+    "firstContentfulPaint": 3841.3009999999995,
+    "firstMeaningfulPaint": 5589.910999999999,
+    "speedIndex": 5562.2220819234,
+    "largestContentfulPaint": 7132.596999999998,
+    "totalBlockingTime": 269,
+    "cumulativeLayoutShift": 0.08492623230365155,
+    "timeToInteractive": 8068.521999999999,
+    "maxPotentialFirstInputDelay": 171,
+    "timeToFirstByte": 162.22799999999998,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1153549,
+      "image": 18445,
+      "imageCount": 5,
+      "script": 580253,
+      "scriptCount": 25,
+      "document": 27126,
+      "font": 250511,
+      "fontCount": 6,
+      "stylesheet": 261036,
+      "stylesheetCount": 5,
+      "thirdParty": 358961,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 48,
+      "-weight.document": 8,
+      "+weight.document": 44,
+      "-weight.script": 8,
+      "+weight.script": 43,
+      "-weight.image": 12,
+      "+weight.image": 36,
+      "-weight.font": 7,
+      "+weight.font": 42,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 801,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/half-year-liquidity-contract-statement-1",
+    "requestedUrl": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/half-year-liquidity-contract-statement-1",
+    "timestamp": 1707547940150,
+    "ranks": {
+      "hundos": 39,
+      "performance": 37,
+      "accessibility": 22,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 330
+    },
+    "firstContentfulPaint": 2819.4469999999997,
+    "firstMeaningfulPaint": 4835.855,
+    "speedIndex": 6822.437691395935,
+    "largestContentfulPaint": 7180.580999999997,
+    "totalBlockingTime": 218,
+    "cumulativeLayoutShift": 0.13305313961162152,
+    "timeToInteractive": 8034.783499999998,
+    "maxPotentialFirstInputDelay": 168,
+    "timeToFirstByte": 1130.196,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1160352,
+      "image": 18472,
+      "imageCount": 5,
+      "script": 587305,
+      "scriptCount": 25,
+      "document": 27021,
+      "font": 250551,
+      "fontCount": 6,
+      "stylesheet": 260949,
+      "stylesheetCount": 5,
+      "thirdParty": 365839,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 38,
+      "-weight.document": 5,
+      "+weight.document": 47,
+      "-weight.script": 35,
+      "+weight.script": 16,
+      "-weight.image": 15,
+      "+weight.image": 33,
+      "-weight.font": 25,
+      "+weight.font": 24,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 801,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/pr-veolia-accelerates-local-decarbonizing",
+    "requestedUrl": "https://www.veolia.com/en/veolia-group/finance/financial-information/press-releases/pr-veolia-accelerates-local-decarbonizing",
+    "timestamp": 1707548606796,
+    "ranks": {
+      "hundos": 40,
+      "performance": 39,
+      "accessibility": 24,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 329
+    },
+    "firstContentfulPaint": 4151.266000000001,
+    "firstMeaningfulPaint": 5169.367,
+    "speedIndex": 5559.4324890435355,
+    "largestContentfulPaint": 7155.0109999999995,
+    "totalBlockingTime": 275.5,
+    "cumulativeLayoutShift": 0.08563046909256802,
+    "timeToInteractive": 8072.842499999999,
+    "maxPotentialFirstInputDelay": 170,
+    "timeToFirstByte": 114.66499999999999,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1153434,
+      "image": 18468,
+      "imageCount": 5,
+      "script": 580236,
+      "scriptCount": 25,
+      "document": 27014,
+      "font": 250563,
+      "fontCount": 6,
+      "stylesheet": 261020,
+      "stylesheetCount": 5,
+      "thirdParty": 358903,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 49,
+      "-weight.document": 4,
+      "+weight.document": 48,
+      "-weight.script": 4,
+      "+weight.script": 47,
+      "-weight.image": 14,
+      "+weight.image": 34,
+      "-weight.font": 27,
+      "+weight.font": 22,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 801,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/key-figures-nine-months-ended-september-30-2016-0",
+    "requestedUrl": "https://www.veolia.com/en/key-figures-nine-months-ended-september-30-2016-0",
+    "timestamp": 1707547835070,
+    "ranks": {
+      "hundos": 41,
+      "performance": 40,
+      "accessibility": 28,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 329
+    },
+    "firstContentfulPaint": 2823.247,
+    "firstMeaningfulPaint": 5473.518499999999,
+    "speedIndex": 6532.2877341445765,
+    "largestContentfulPaint": 9785.377999999999,
+    "totalBlockingTime": 254.5,
+    "cumulativeLayoutShift": 0.11642071462109585,
+    "timeToInteractive": 7902.3724999999995,
+    "maxPotentialFirstInputDelay": 193,
+    "timeToFirstByte": 1112.478,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1153619,
+      "image": 18480,
+      "imageCount": 5,
+      "script": 580241,
+      "scriptCount": 25,
+      "document": 27303,
+      "font": 250566,
+      "fontCount": 6,
+      "stylesheet": 261017,
+      "stylesheetCount": 5,
+      "thirdParty": 358899,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 47,
+      "-weight.document": 11,
+      "+weight.document": 41,
+      "-weight.script": 5,
+      "+weight.script": 46,
+      "-weight.image": 17,
+      "+weight.image": 31,
+      "-weight.font": 29,
+      "+weight.font": 20,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 823,
+      "violations": 18
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/our-media/newsroom/press-releases/veolia-and-elabe-present-first-global-opinion-survey-ecological-transformation",
+    "requestedUrl": "https://www.veolia.com/en/our-media/newsroom/press-releases/veolia-and-elabe-present-first-global-opinion-survey-ecological-transformation",
+    "timestamp": 1707549581816,
+    "ranks": {
+      "hundos": 42,
+      "performance": 41,
+      "accessibility": 41,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 328
+    },
+    "firstContentfulPaint": 3860.853,
+    "firstMeaningfulPaint": 5741.8679999999995,
+    "speedIndex": 5794.900290793096,
+    "largestContentfulPaint": 7426.8994999999995,
+    "totalBlockingTime": 264.5000000000002,
+    "cumulativeLayoutShift": 0.11123227227831674,
+    "timeToInteractive": 8268.1925,
+    "maxPotentialFirstInputDelay": 175,
+    "timeToFirstByte": 135.829,
+    "weight": {
+      "summary": "50 requests • 1,3 MiB",
+      "total": 1341719,
+      "image": 161098,
+      "imageCount": 6,
+      "script": 581021,
+      "scriptCount": 26,
+      "document": 29584,
+      "font": 292817,
+      "fontCount": 7,
+      "stylesheet": 261085,
+      "stylesheetCount": 5,
+      "thirdParty": 358969,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 22,
+      "-weight.document": 34,
+      "+weight.document": 18,
+      "-weight.script": 13,
+      "+weight.script": 38,
+      "-weight.image": 24,
+      "+weight.image": 24,
+      "-weight.font": 38,
+      "+weight.font": 11,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 935,
+      "violations": 28
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/cp-mise-disposition-lurd-2021-anglais",
+    "requestedUrl": "https://www.veolia.com/fr/groupe/finance/information-financiere/communiques-presse/cp-mise-disposition-lurd-2021-anglais",
+    "timestamp": 1707547974512,
+    "ranks": {
+      "hundos": 43,
+      "performance": 44,
+      "accessibility": 19,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.94,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 327
+    },
+    "firstContentfulPaint": 2815.655,
+    "firstMeaningfulPaint": 5141.8315,
+    "speedIndex": 6476.2639080628815,
+    "largestContentfulPaint": 10068.778,
+    "totalBlockingTime": 325.0305000000003,
+    "cumulativeLayoutShift": 0.12911533076714507,
+    "timeToInteractive": 8190.486500000001,
+    "maxPotentialFirstInputDelay": 183,
+    "timeToFirstByte": 892.773,
+    "weight": {
+      "summary": "47 requests • 1,1 MiB",
+      "total": 1164637,
+      "image": 18472,
+      "imageCount": 5,
+      "script": 591056,
+      "scriptCount": 25,
+      "document": 27601,
+      "font": 250559,
+      "fontCount": 6,
+      "stylesheet": 260937,
+      "stylesheetCount": 5,
+      "thirdParty": 365853,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 33,
+      "-weight.document": 16,
+      "+weight.document": 36,
+      "-weight.script": 41,
+      "+weight.script": 10,
+      "-weight.image": 15,
+      "+weight.image": 33,
+      "-weight.font": 26,
+      "+weight.font": 23,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "passes": 810,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/2017-integrated-annual-report/interview-antoine-frerot",
+    "requestedUrl": "https://www.veolia.com/en/2017-integrated-annual-report/interview-antoine-frerot",
+    "timestamp": 1707549383061,
+    "ranks": {
+      "hundos": 44,
+      "performance": 46,
+      "accessibility": 46,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.91,
+      "bestPractices": 0.93,
+      "seo": 0.9,
+      "total": 325
+    },
+    "firstContentfulPaint": 3574.802,
+    "firstMeaningfulPaint": 5501.989500000001,
+    "speedIndex": 11602.902198649383,
+    "largestContentfulPaint": 5116.552000000001,
+    "totalBlockingTime": 437.5,
+    "cumulativeLayoutShift": 0.11529956636710384,
+    "timeToInteractive": 24708.909,
+    "maxPotentialFirstInputDelay": 182,
+    "timeToFirstByte": 63.214999999999996,
+    "weight": {
+      "summary": "82 requests • 4,2 MiB",
+      "total": 4422755,
+      "image": 404566,
+      "imageCount": 16,
+      "script": 3224750,
+      "scriptCount": 33,
+      "document": 112936,
+      "font": 272772,
+      "fontCount": 10,
+      "stylesheet": 309238,
+      "stylesheetCount": 7,
+      "thirdParty": 3366930,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 4,
+      "-weight.document": 48,
+      "+weight.document": 4,
+      "-weight.script": 47,
+      "+weight.script": 4,
+      "-weight.image": 41,
+      "+weight.image": 7,
+      "-weight.font": 34,
+      "+weight.font": 15,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 1225,
+      "violations": 38
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en",
+    "requestedUrl": "https://www.veolia.com/en",
+    "timestamp": 1707548427118,
+    "ranks": {
+      "hundos": 45,
+      "performance": 29,
+      "accessibility": 49,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.85,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 323
+    },
+    "firstContentfulPaint": 3423.1765000000005,
+    "firstMeaningfulPaint": 6022.005500000001,
+    "speedIndex": 5600.5490721931765,
+    "largestContentfulPaint": 8747.407500000001,
+    "totalBlockingTime": 188,
+    "cumulativeLayoutShift": 0.09961751962702957,
+    "timeToInteractive": 9375.252,
+    "maxPotentialFirstInputDelay": 170,
+    "timeToFirstByte": 130.892,
+    "weight": {
+      "summary": "54 requests • 1,5 MiB",
+      "total": 1614119,
+      "image": 355269,
+      "imageCount": 16,
+      "script": 551571,
+      "scriptCount": 19,
+      "document": 28972,
+      "font": 420805,
+      "fontCount": 8,
+      "stylesheet": 241495,
+      "stylesheetCount": 5,
+      "thirdParty": 421324,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 12,
+      "-weight.document": 27,
+      "+weight.document": 25,
+      "-weight.script": 1,
+      "+weight.script": 50,
+      "-weight.image": 38,
+      "+weight.image": 10,
+      "-weight.font": 48,
+      "+weight.font": 1,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 1122,
+      "violations": 41
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/pollutions/pollution-plastique/recyclage-plastiques-urgence-ecologique",
+    "requestedUrl": "https://www.veolia.com/fr/pollutions/pollution-plastique/recyclage-plastiques-urgence-ecologique",
+    "timestamp": 1707548296765,
+    "ranks": {
+      "hundos": 46,
+      "performance": 47,
+      "accessibility": 48,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.88,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 322
+    },
+    "firstContentfulPaint": 3621.1819999999993,
+    "firstMeaningfulPaint": 5966.607999999998,
+    "speedIndex": 14289.907060079657,
+    "largestContentfulPaint": 4194.549999999999,
+    "totalBlockingTime": 729.9999999999982,
+    "cumulativeLayoutShift": 0.07886536102323222,
+    "timeToInteractive": 27835.626000000004,
+    "maxPotentialFirstInputDelay": 233,
+    "timeToFirstByte": 145.266,
+    "weight": {
+      "summary": "112 requests • 4,5 MiB",
+      "total": 4716323,
+      "image": 347740,
+      "imageCount": 22,
+      "script": 3437530,
+      "scriptCount": 42,
+      "document": 184212,
+      "font": 272493,
+      "fontCount": 14,
+      "stylesheet": 334791,
+      "stylesheetCount": 10,
+      "thirdParty": 3843190,
+      "thirdPartyCount": 11
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 2,
+      "-weight.document": 49,
+      "+weight.document": 3,
+      "-weight.script": 50,
+      "+weight.script": 1,
+      "-weight.image": 36,
+      "+weight.image": 12,
+      "-weight.font": 31,
+      "+weight.font": 18,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 47,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 1610,
+      "violations": 49
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/resourcers/oceane",
+    "requestedUrl": "https://www.veolia.com/en/resourcers/oceane",
+    "timestamp": 1707548321923,
+    "ranks": {
+      "hundos": 47,
+      "performance": 45,
+      "accessibility": 47,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.91,
+      "bestPractices": 0.93,
+      "seo": 0.84,
+      "total": 321
+    },
+    "firstContentfulPaint": 3402.5170000000003,
+    "firstMeaningfulPaint": 7162.965,
+    "speedIndex": 11211.66401571703,
+    "largestContentfulPaint": 5454.693,
+    "totalBlockingTime": 396,
+    "cumulativeLayoutShift": 0.08533814438773477,
+    "timeToInteractive": 24010.186,
+    "maxPotentialFirstInputDelay": 177,
+    "timeToFirstByte": 153.507,
+    "weight": {
+      "summary": "72 requests • 4,0 MiB",
+      "total": 4142329,
+      "image": 171607,
+      "imageCount": 12,
+      "script": 3217652,
+      "scriptCount": 29,
+      "document": 70031,
+      "font": 315021,
+      "fontCount": 9,
+      "stylesheet": 309305,
+      "stylesheetCount": 6,
+      "thirdParty": 3186990,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 6,
+      "-weight.document": 46,
+      "+weight.document": 6,
+      "-weight.script": 46,
+      "+weight.script": 5,
+      "-weight.image": 26,
+      "+weight.image": 22,
+      "-weight.font": 45,
+      "+weight.font": 4,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 1374,
+      "violations": 87
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/newsroom/actualites/production-eau-potable-dhaka-bangladesh-veolia-suez",
+    "requestedUrl": "https://www.veolia.com/fr/newsroom/actualites/production-eau-potable-dhaka-bangladesh-veolia-suez",
+    "timestamp": 1707548020599,
+    "ranks": {
+      "hundos": 48,
+      "performance": 48,
+      "accessibility": 45,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.45,
+      "accessibility": 0.91,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 320
+    },
+    "firstContentfulPaint": 3626.27,
+    "firstMeaningfulPaint": 7235.41,
+    "speedIndex": 11655.325158289264,
+    "largestContentfulPaint": 8338.569999999998,
+    "totalBlockingTime": 484.5,
+    "cumulativeLayoutShift": 0.08492623230365155,
+    "timeToInteractive": 24472.566,
+    "maxPotentialFirstInputDelay": 175,
+    "timeToFirstByte": 152.545,
+    "weight": {
+      "summary": "66 requests • 4,1 MiB",
+      "total": 4347217,
+      "image": 368695,
+      "imageCount": 10,
+      "script": 3228486,
+      "scriptCount": 29,
+      "document": 68218,
+      "font": 315035,
+      "fontCount": 9,
+      "stylesheet": 309269,
+      "stylesheetCount": 6,
+      "thirdParty": 3208178,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 5,
+      "-weight.document": 45,
+      "+weight.document": 7,
+      "-weight.script": 48,
+      "+weight.script": 3,
+      "-weight.image": 40,
+      "+weight.image": 8,
+      "-weight.font": 46,
+      "+weight.font": 3,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 929,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/newsroom/news/2019-Student-Solidarity-Awards-winners",
+    "requestedUrl": "https://www.veolia.com/en/newsroom/news/2019-Student-Solidarity-Awards-winners",
+    "timestamp": 1707548653946,
+    "ranks": {
+      "hundos": 49,
+      "performance": 49,
+      "accessibility": 44,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.42,
+      "accessibility": 0.92,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 318
+    },
+    "firstContentfulPaint": 3391.865500000001,
+    "firstMeaningfulPaint": 19282.787,
+    "speedIndex": 11425.380569615132,
+    "largestContentfulPaint": 8729.444999999998,
+    "totalBlockingTime": 640.5,
+    "cumulativeLayoutShift": 0.08563262185890161,
+    "timeToInteractive": 23695.786999999997,
+    "maxPotentialFirstInputDelay": 309,
+    "timeToFirstByte": 154.849,
+    "weight": {
+      "summary": "65 requests • 3,9 MiB",
+      "total": 4102950,
+      "image": 173102,
+      "imageCount": 10,
+      "script": 3217637,
+      "scriptCount": 29,
+      "document": 72679,
+      "font": 272666,
+      "fontCount": 8,
+      "stylesheet": 309335,
+      "stylesheetCount": 6,
+      "thirdParty": 3207586,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 7,
+      "-weight.document": 47,
+      "+weight.document": 5,
+      "-weight.script": 45,
+      "+weight.script": 6,
+      "-weight.image": 27,
+      "+weight.image": 21,
+      "-weight.font": 32,
+      "+weight.font": 17,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 1129,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr/ressources/economie-circulaire",
+    "requestedUrl": "https://www.veolia.com/fr/ressources/economie-circulaire",
+    "timestamp": 1707549517403,
+    "ranks": {
+      "hundos": 50,
+      "performance": 51,
+      "accessibility": 50,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.34,
+      "accessibility": 0.83,
+      "bestPractices": 0.93,
+      "seo": 0.84,
+      "total": 294
+    },
+    "firstContentfulPaint": 4785.761,
+    "firstMeaningfulPaint": 6742.084,
+    "speedIndex": 7981.42534961395,
+    "largestContentfulPaint": 6753.0650000000005,
+    "totalBlockingTime": 1503.5,
+    "cumulativeLayoutShift": 0.061968408262454436,
+    "timeToInteractive": 14695.023,
+    "maxPotentialFirstInputDelay": 216,
+    "timeToFirstByte": 143.393,
+    "weight": {
+      "summary": "147 requests • 4,5 MiB",
+      "total": 4748317,
+      "image": 443937,
+      "imageCount": 37,
+      "script": 3228495,
+      "scriptCount": 49,
+      "document": 271960,
+      "font": 272689,
+      "fontCount": 18,
+      "stylesheet": 309224,
+      "stylesheetCount": 11,
+      "thirdParty": 3794459,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 51,
+      "+weight.total": 1,
+      "-weight.document": 51,
+      "+weight.document": 1,
+      "-weight.script": 49,
+      "+weight.script": 2,
+      "-weight.image": 43,
+      "+weight.image": 5,
+      "-weight.font": 33,
+      "+weight.font": 16,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 49,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 1990,
+      "violations": 76
+    }
+  },
+  {
+    "url": "https://www.veolia.com/en/news/veolia-institute-conference-indoor-air-quality-tacking-invisible-challenges",
+    "requestedUrl": "https://www.veolia.com/en/news/veolia-institute-conference-indoor-air-quality-tacking-invisible-challenges",
+    "timestamp": 1707548680108,
+    "ranks": {
+      "hundos": 51,
+      "performance": 50,
+      "accessibility": 51,
+      "cumulative": 51
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.41,
+      "accessibility": null,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 225
+    },
+    "firstContentfulPaint": 2855.0464999999995,
+    "firstMeaningfulPaint": 7442.683500000001,
+    "speedIndex": 6918.847343904377,
+    "largestContentfulPaint": 8767.960500000001,
+    "totalBlockingTime": 1141,
+    "cumulativeLayoutShift": 0.0014419073021647694,
+    "timeToInteractive": 15139.229500000001,
+    "maxPotentialFirstInputDelay": 268,
+    "timeToFirstByte": 130.879,
+    "weight": {
+      "summary": "113 requests • 4,3 MiB",
+      "total": 4499010,
+      "image": 284013,
+      "imageCount": 23,
+      "script": 3217628,
+      "scriptCount": 41,
+      "document": 191992,
+      "font": 314994,
+      "fontCount": 15,
+      "stylesheet": 309327,
+      "stylesheetCount": 9,
+      "thirdParty": 3546866,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 3,
+      "-weight.document": 50,
+      "+weight.document": 2,
+      "-weight.script": 44,
+      "+weight.script": 7,
+      "-weight.image": 34,
+      "+weight.image": 14,
+      "-weight.font": 44,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 48,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 1404,
+      "violations": 42
+    }
+  }
+]

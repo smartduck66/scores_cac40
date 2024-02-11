@@ -1,0 +1,3302 @@
+[
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/dossiers-thematiques/festival-international-mode-photographie-dhyeres/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/dossiers-thematiques/festival-international-mode-photographie-dhyeres/",
+    "timestamp": 1707593713200,
+    "ranks": {
+      "hundos": 1,
+      "performance": 9,
+      "accessibility": 7,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.61,
+      "accessibility": 0.91,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 332
+    },
+    "firstContentfulPaint": 3439.9479999999994,
+    "firstMeaningfulPaint": 4644.447,
+    "speedIndex": 5800.95392297664,
+    "largestContentfulPaint": 9616.258499999998,
+    "totalBlockingTime": 172,
+    "cumulativeLayoutShift": 0.010558821660529601,
+    "timeToInteractive": 9522.871500000001,
+    "maxPotentialFirstInputDelay": 182,
+    "timeToFirstByte": 148.731,
+    "weight": {
+      "summary": "79 requests • 1,2 MiB",
+      "total": 1237816,
+      "image": 67126,
+      "imageCount": 14,
+      "script": 775430,
+      "scriptCount": 26,
+      "document": 22322,
+      "font": 264952,
+      "fontCount": 6,
+      "stylesheet": 61415,
+      "stylesheetCount": 7,
+      "thirdParty": 1076563,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 36,
+      "-weight.document": 14,
+      "+weight.document": 37,
+      "-weight.script": 14,
+      "+weight.script": 32,
+      "-weight.image": 16,
+      "+weight.image": 33,
+      "-weight.font": 7,
+      "+weight.font": 20,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/immersion/case-studies/comment-reussir-un-changement-historique-de-siege-social/",
+    "requestedUrl": "https://www.lvmh.fr/talents/immersion/case-studies/comment-reussir-un-changement-historique-de-siege-social/",
+    "timestamp": 1707594391365,
+    "ranks": {
+      "hundos": 2,
+      "performance": 8,
+      "accessibility": 23,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.62,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 329
+    },
+    "firstContentfulPaint": 3167.1095000000005,
+    "firstMeaningfulPaint": 3559.7295,
+    "speedIndex": 5572.448013668947,
+    "largestContentfulPaint": 6075.4214999999995,
+    "totalBlockingTime": 254.35199999999986,
+    "cumulativeLayoutShift": 0.07500704949226464,
+    "timeToInteractive": 9342.733499999998,
+    "maxPotentialFirstInputDelay": 185,
+    "timeToFirstByte": 93.458,
+    "weight": {
+      "summary": "81 requests • 1,5 MiB",
+      "total": 1541202,
+      "image": 368531,
+      "imageCount": 20,
+      "script": 775421,
+      "scriptCount": 26,
+      "document": 25573,
+      "font": 264951,
+      "fontCount": 6,
+      "stylesheet": 61412,
+      "stylesheetCount": 7,
+      "thirdParty": 1376700,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 29,
+      "-weight.document": 35,
+      "+weight.document": 16,
+      "-weight.script": 10,
+      "+weight.script": 36,
+      "-weight.image": 23,
+      "+weight.image": 26,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/credits/",
+    "requestedUrl": "https://www.lvmh.fr/credits/",
+    "timestamp": 1707593567660,
+    "ranks": {
+      "hundos": 3,
+      "performance": 1,
+      "accessibility": 16,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.68,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 327
+    },
+    "firstContentfulPaint": 3276.008500000001,
+    "firstMeaningfulPaint": 4575.7255000000005,
+    "speedIndex": 4772.426135367648,
+    "largestContentfulPaint": 5567.038500000001,
+    "totalBlockingTime": 167,
+    "cumulativeLayoutShift": 0.013234336636996202,
+    "timeToInteractive": 9225.285500000002,
+    "maxPotentialFirstInputDelay": 143,
+    "timeToFirstByte": 51.357000000000006,
+    "weight": {
+      "summary": "76 requests • 1,1 MiB",
+      "total": 1186482,
+      "image": 17021,
+      "imageCount": 11,
+      "script": 775492,
+      "scriptCount": 26,
+      "document": 20963,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 61415,
+      "stylesheetCount": 7,
+      "thirdParty": 1026563,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 46,
+      "-weight.document": 6,
+      "+weight.document": 45,
+      "-weight.script": 23,
+      "+weight.script": 23,
+      "-weight.image": 7,
+      "+weight.image": 42,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/acqua-di-parma-yellow-cafe-la-maison-italienne-sinstalle-a-seoul/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/acqua-di-parma-yellow-cafe-la-maison-italienne-sinstalle-a-seoul/",
+    "timestamp": 1707593557134,
+    "ranks": {
+      "hundos": 4,
+      "performance": 13,
+      "accessibility": 15,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.6,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 327
+    },
+    "firstContentfulPaint": 2871.2775,
+    "firstMeaningfulPaint": 2871.2775,
+    "speedIndex": 8115.563534419349,
+    "largestContentfulPaint": 9783.2775,
+    "totalBlockingTime": 195.0000000000009,
+    "cumulativeLayoutShift": 0.012699060761934583,
+    "timeToInteractive": 9479.777500000004,
+    "maxPotentialFirstInputDelay": 145.0000000000009,
+    "timeToFirstByte": 1718.728,
+    "weight": {
+      "summary": "85 requests • 2,0 MiB",
+      "total": 2081080,
+      "image": 910082,
+      "imageCount": 20,
+      "script": 775435,
+      "scriptCount": 26,
+      "document": 22608,
+      "font": 264955,
+      "fontCount": 6,
+      "stylesheet": 61413,
+      "stylesheetCount": 7,
+      "thirdParty": 1919528,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 22,
+      "-weight.document": 20,
+      "+weight.document": 31,
+      "-weight.script": 15,
+      "+weight.script": 31,
+      "-weight.image": 30,
+      "+weight.image": 19,
+      "-weight.font": 10,
+      "+weight.font": 17,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/loro-piana-et-le-juventus-football-club-renouvellent-leur-partenariat-pour-la-troisieme-saison-de-football-consecutive/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/loro-piana-et-le-juventus-football-club-renouvellent-leur-partenariat-pour-la-troisieme-saison-de-football-consecutive/",
+    "timestamp": 1707595140516,
+    "ranks": {
+      "hundos": 5,
+      "performance": 19,
+      "accessibility": 30,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.58,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 325
+    },
+    "firstContentfulPaint": 3398.9069999999997,
+    "firstMeaningfulPaint": 3398.9069999999997,
+    "speedIndex": 7799.103709315799,
+    "largestContentfulPaint": 10273.7585,
+    "totalBlockingTime": 174.0000000000009,
+    "cumulativeLayoutShift": 0.0681779785402648,
+    "timeToInteractive": 9627.040500000003,
+    "maxPotentialFirstInputDelay": 144.0000000000009,
+    "timeToFirstByte": 1765.8609999999999,
+    "weight": {
+      "summary": "82 requests • 1,3 MiB",
+      "total": 1331712,
+      "image": 162141,
+      "imageCount": 21,
+      "script": 775496,
+      "scriptCount": 26,
+      "document": 22368,
+      "font": 264949,
+      "fontCount": 6,
+      "stylesheet": 61406,
+      "stylesheetCount": 7,
+      "thirdParty": 1170407,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 32,
+      "-weight.document": 17,
+      "+weight.document": 34,
+      "-weight.script": 25,
+      "+weight.script": 21,
+      "-weight.image": 20,
+      "+weight.image": 29,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/communiques/programme-de-rachat-dactions-propres-juillet-2023/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/communiques/programme-de-rachat-dactions-propres-juillet-2023/",
+    "timestamp": 1707594582469,
+    "ranks": {
+      "hundos": 6,
+      "performance": 10,
+      "accessibility": 9,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.61,
+      "accessibility": 0.91,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 324
+    },
+    "firstContentfulPaint": 3304.299,
+    "firstMeaningfulPaint": 5005.989,
+    "speedIndex": 5964.0269972325905,
+    "largestContentfulPaint": 6035.741,
+    "totalBlockingTime": 274,
+    "cumulativeLayoutShift": 0.01065541394770696,
+    "timeToInteractive": 9451.621,
+    "maxPotentialFirstInputDelay": 185,
+    "timeToFirstByte": 127.94699999999999,
+    "weight": {
+      "summary": "72 requests • 1,1 MiB",
+      "total": 1185795,
+      "image": 17041,
+      "imageCount": 11,
+      "script": 775448,
+      "scriptCount": 26,
+      "document": 21535,
+      "font": 264950,
+      "fontCount": 6,
+      "stylesheet": 61407,
+      "stylesheetCount": 7,
+      "thirdParty": 1025330,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 49,
+      "-weight.document": 8,
+      "+weight.document": 43,
+      "-weight.script": 20,
+      "+weight.script": 26,
+      "-weight.image": 8,
+      "+weight.image": 41,
+      "-weight.font": 5,
+      "+weight.font": 22,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/nous-rejoindre/les-graduate-programs-de-lvmh/lvmh-spring-hr/",
+    "requestedUrl": "https://www.lvmh.fr/talents/nous-rejoindre/les-graduate-programs-de-lvmh/lvmh-spring-hr/",
+    "timestamp": 1707593817335,
+    "ranks": {
+      "hundos": 7,
+      "performance": 20,
+      "accessibility": 27,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.57,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 324
+    },
+    "firstContentfulPaint": 3437.6285,
+    "firstMeaningfulPaint": 4480.245499999999,
+    "speedIndex": 5569.667407577147,
+    "largestContentfulPaint": 9501.2575,
+    "totalBlockingTime": 201.9999999999991,
+    "cumulativeLayoutShift": 0.1224702414366055,
+    "timeToInteractive": 9472.2455,
+    "maxPotentialFirstInputDelay": 181,
+    "timeToFirstByte": 198.589,
+    "weight": {
+      "summary": "78 requests • 1,2 MiB",
+      "total": 1218753,
+      "image": 47694,
+      "imageCount": 13,
+      "script": 775427,
+      "scriptCount": 26,
+      "document": 22526,
+      "font": 264954,
+      "fontCount": 6,
+      "stylesheet": 61415,
+      "stylesheetCount": 7,
+      "thirdParty": 1057285,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 39,
+      "-weight.document": 19,
+      "+weight.document": 32,
+      "-weight.script": 13,
+      "+weight.script": 33,
+      "-weight.image": 14,
+      "+weight.image": 35,
+      "-weight.font": 9,
+      "+weight.font": 18,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actionnaires/profil/indicateurs-extra-financiers/",
+    "requestedUrl": "https://www.lvmh.fr/actionnaires/profil/indicateurs-extra-financiers/",
+    "timestamp": 1707594788559,
+    "ranks": {
+      "hundos": 9,
+      "performance": 4,
+      "accessibility": 49,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.66,
+      "accessibility": 0.77,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 323
+    },
+    "firstContentfulPaint": 2971.321999999999,
+    "firstMeaningfulPaint": 5343.220499999999,
+    "speedIndex": 7398.958646261983,
+    "largestContentfulPaint": 5241.217,
+    "totalBlockingTime": 170.49999999999818,
+    "cumulativeLayoutShift": 0.024478202050266348,
+    "timeToInteractive": 9323.5455,
+    "maxPotentialFirstInputDelay": 180,
+    "timeToFirstByte": 1397.829,
+    "weight": {
+      "summary": "72 requests • 1,1 MiB",
+      "total": 1134140,
+      "image": 15545,
+      "imageCount": 10,
+      "script": 746540,
+      "scriptCount": 26,
+      "document": 22435,
+      "font": 236475,
+      "fontCount": 5,
+      "stylesheet": 64907,
+      "stylesheetCount": 8,
+      "thirdParty": 969921,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 50,
+      "-weight.document": 18,
+      "+weight.document": 33,
+      "-weight.script": 2,
+      "+weight.script": 44,
+      "-weight.image": 1,
+      "+weight.image": 48,
+      "-weight.font": 2,
+      "+weight.font": 25,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/communiques/proposition-de-nominations-au-conseil-dadministration/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/communiques/proposition-de-nominations-au-conseil-dadministration/",
+    "timestamp": 1707594955996,
+    "ranks": {
+      "hundos": 8,
+      "performance": 12,
+      "accessibility": 6,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.6,
+      "accessibility": 0.91,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 323
+    },
+    "firstContentfulPaint": 3170.293,
+    "firstMeaningfulPaint": 5175.505,
+    "speedIndex": 5518.133933929355,
+    "largestContentfulPaint": 6051.8369999999995,
+    "totalBlockingTime": 337,
+    "cumulativeLayoutShift": 0.041428921113281524,
+    "timeToInteractive": 9560.344999999998,
+    "maxPotentialFirstInputDelay": 187,
+    "timeToFirstByte": 80.49600000000001,
+    "weight": {
+      "summary": "73 requests • 1,2 MiB",
+      "total": 1227076,
+      "image": 16994,
+      "imageCount": 11,
+      "script": 775409,
+      "scriptCount": 26,
+      "document": 22076,
+      "font": 305832,
+      "fontCount": 7,
+      "stylesheet": 61408,
+      "stylesheetCount": 7,
+      "thirdParty": 1066059,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 37,
+      "-weight.document": 11,
+      "+weight.document": 40,
+      "-weight.script": 5,
+      "+weight.script": 41,
+      "-weight.image": 2,
+      "+weight.image": 47,
+      "-weight.font": 17,
+      "+weight.font": 10,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/code-de-conduite-fournisseurs-lvmh/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/code-de-conduite-fournisseurs-lvmh/",
+    "timestamp": 1707594844437,
+    "ranks": {
+      "hundos": 10,
+      "performance": 6,
+      "accessibility": 18,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.63,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 322
+    },
+    "firstContentfulPaint": 3299.8149999999996,
+    "firstMeaningfulPaint": 4966.91,
+    "speedIndex": 5688.564187238341,
+    "largestContentfulPaint": 6067.425,
+    "totalBlockingTime": 242.85499999999865,
+    "cumulativeLayoutShift": 0.011459740485209988,
+    "timeToInteractive": 9632.970000000001,
+    "maxPotentialFirstInputDelay": 172,
+    "timeToFirstByte": 135.63299999999998,
+    "weight": {
+      "summary": "72 requests • 1,1 MiB",
+      "total": 1186140,
+      "image": 17018,
+      "imageCount": 11,
+      "script": 775413,
+      "scriptCount": 26,
+      "document": 21965,
+      "font": 264950,
+      "fontCount": 6,
+      "stylesheet": 61408,
+      "stylesheetCount": 7,
+      "thirdParty": 1025249,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 48,
+      "-weight.document": 10,
+      "+weight.document": 41,
+      "-weight.script": 8,
+      "+weight.script": 38,
+      "-weight.image": 4,
+      "+weight.image": 45,
+      "-weight.font": 5,
+      "+weight.font": 22,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actionnaires/actionnaires-individuels/mode-detention/",
+    "requestedUrl": "https://www.lvmh.fr/actionnaires/actionnaires-individuels/mode-detention/",
+    "timestamp": 1707594169786,
+    "ranks": {
+      "hundos": 11,
+      "performance": 11,
+      "accessibility": 43,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.61,
+      "accessibility": 0.8,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 321
+    },
+    "firstContentfulPaint": 3222.174,
+    "firstMeaningfulPaint": 4741.063999999999,
+    "speedIndex": 6735.8554049178,
+    "largestContentfulPaint": 7169.187999999997,
+    "totalBlockingTime": 195.5,
+    "cumulativeLayoutShift": 0.02955094014557781,
+    "timeToInteractive": 9537.9645,
+    "maxPotentialFirstInputDelay": 145,
+    "timeToFirstByte": 839.332,
+    "weight": {
+      "summary": "72 requests • 1,1 MiB",
+      "total": 1187050,
+      "image": 16998,
+      "imageCount": 11,
+      "script": 775438,
+      "scriptCount": 26,
+      "document": 22828,
+      "font": 264950,
+      "fontCount": 6,
+      "stylesheet": 61415,
+      "stylesheetCount": 7,
+      "thirdParty": 1025285,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 43,
+      "-weight.document": 24,
+      "+weight.document": 27,
+      "-weight.script": 16,
+      "+weight.script": 30,
+      "-weight.image": 3,
+      "+weight.image": 46,
+      "-weight.font": 5,
+      "+weight.font": 22,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/communiques/excellent-semestre-pour-lvmh_juillet-2023/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/communiques/excellent-semestre-pour-lvmh_juillet-2023/",
+    "timestamp": 1707594305859,
+    "ranks": {
+      "hundos": 12,
+      "performance": 21,
+      "accessibility": 5,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.57,
+      "accessibility": 0.91,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 320
+    },
+    "firstContentfulPaint": 3205.976,
+    "firstMeaningfulPaint": 5385.779,
+    "speedIndex": 6153.576347492291,
+    "largestContentfulPaint": 6139.265,
+    "totalBlockingTime": 400.5,
+    "cumulativeLayoutShift": 0.010699920577524908,
+    "timeToInteractive": 10059.378,
+    "maxPotentialFirstInputDelay": 180,
+    "timeToFirstByte": 96.201,
+    "weight": {
+      "summary": "78 requests • 1,2 MiB",
+      "total": 1263258,
+      "image": 17021,
+      "imageCount": 11,
+      "script": 775416,
+      "scriptCount": 26,
+      "document": 27744,
+      "font": 335092,
+      "fontCount": 8,
+      "stylesheet": 61411,
+      "stylesheetCount": 7,
+      "thirdParty": 1096580,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 33,
+      "-weight.document": 45,
+      "+weight.document": 6,
+      "-weight.script": 9,
+      "+weight.script": 37,
+      "-weight.image": 7,
+      "+weight.image": 42,
+      "-weight.font": 26,
+      "+weight.font": 1,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 48,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/financement-de-marche-11-fevrier-2020-fr0013482866/",
+    "requestedUrl": "https://www.lvmh.fr/financement-de-marche-11-fevrier-2020-fr0013482866/",
+    "timestamp": 1707593829080,
+    "ranks": {
+      "hundos": 13,
+      "performance": 23,
+      "accessibility": 8,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.57,
+      "accessibility": 0.91,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 320
+    },
+    "firstContentfulPaint": 3634.843,
+    "firstMeaningfulPaint": 4776.755999999999,
+    "speedIndex": 7266.663998801707,
+    "largestContentfulPaint": 6150.494000000001,
+    "totalBlockingTime": 302,
+    "cumulativeLayoutShift": 0.012219757483445792,
+    "timeToInteractive": 9723.074,
+    "maxPotentialFirstInputDelay": 180,
+    "timeToFirstByte": 944.7729999999999,
+    "weight": {
+      "summary": "76 requests • 1,1 MiB",
+      "total": 1186380,
+      "image": 17020,
+      "imageCount": 11,
+      "script": 775439,
+      "scriptCount": 26,
+      "document": 20937,
+      "font": 264951,
+      "fontCount": 6,
+      "stylesheet": 61418,
+      "stylesheetCount": 7,
+      "thirdParty": 1026502,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 47,
+      "-weight.document": 5,
+      "+weight.document": 46,
+      "-weight.script": 17,
+      "+weight.script": 29,
+      "-weight.image": 6,
+      "+weight.image": 43,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/groupe/engagements/leadership-entrepreneuriat/lvmh-partenaire-fondateur-de-vivatech/",
+    "requestedUrl": "https://www.lvmh.fr/groupe/engagements/leadership-entrepreneuriat/lvmh-partenaire-fondateur-de-vivatech/",
+    "timestamp": 1707594225123,
+    "ranks": {
+      "hundos": 14,
+      "performance": 3,
+      "accessibility": 44,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.66,
+      "accessibility": 0.8,
+      "bestPractices": 0.96,
+      "seo": 0.77,
+      "total": 319
+    },
+    "firstContentfulPaint": 3226.6609999999996,
+    "firstMeaningfulPaint": 3226.6609999999996,
+    "speedIndex": 6184.53530566922,
+    "largestContentfulPaint": 5528.357000000002,
+    "totalBlockingTime": 155,
+    "cumulativeLayoutShift": 0.01156932820660915,
+    "timeToInteractive": 10312.430999999999,
+    "maxPotentialFirstInputDelay": 148,
+    "timeToFirstByte": 31.848,
+    "weight": {
+      "summary": "82 requests • 1,4 MiB",
+      "total": 1441910,
+      "image": 229715,
+      "imageCount": 20,
+      "script": 775447,
+      "scriptCount": 26,
+      "document": 24089,
+      "font": 305836,
+      "fontCount": 7,
+      "stylesheet": 61414,
+      "stylesheetCount": 7,
+      "thirdParty": 1278895,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 31,
+      "-weight.document": 31,
+      "+weight.document": 20,
+      "-weight.script": 19,
+      "+weight.script": 27,
+      "-weight.image": 21,
+      "+weight.image": 28,
+      "-weight.font": 20,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actionnaires/agenda/assemblee-generale-2021/",
+    "requestedUrl": "https://www.lvmh.fr/actionnaires/agenda/assemblee-generale-2021/",
+    "timestamp": 1707594469401,
+    "ranks": {
+      "hundos": 15,
+      "performance": 7,
+      "accessibility": 38,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.63,
+      "accessibility": 0.84,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 319
+    },
+    "firstContentfulPaint": 3357.5525,
+    "firstMeaningfulPaint": 4589.976499999999,
+    "speedIndex": 7017.413525710721,
+    "largestContentfulPaint": 5988.2265,
+    "totalBlockingTime": 184.5,
+    "cumulativeLayoutShift": 0.013918624278714879,
+    "timeToInteractive": 9411.726499999999,
+    "maxPotentialFirstInputDelay": 183,
+    "timeToFirstByte": 1150.743,
+    "weight": {
+      "summary": "72 requests • 1,1 MiB",
+      "total": 1186843,
+      "image": 17019,
+      "imageCount": 11,
+      "script": 775423,
+      "scriptCount": 26,
+      "document": 22685,
+      "font": 264950,
+      "fontCount": 6,
+      "stylesheet": 61413,
+      "stylesheetCount": 7,
+      "thirdParty": 1025207,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 44,
+      "-weight.document": 22,
+      "+weight.document": 29,
+      "-weight.script": 11,
+      "+weight.script": 35,
+      "-weight.image": 5,
+      "+weight.image": 44,
+      "-weight.font": 5,
+      "+weight.font": 22,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/voyage-en-scandinavie-chateau-galoupet-et-le-restaurant-etoile-ang/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/voyage-en-scandinavie-chateau-galoupet-et-le-restaurant-etoile-ang/",
+    "timestamp": 1707594507981,
+    "ranks": {
+      "hundos": 17,
+      "performance": 15,
+      "accessibility": 29,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.59,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.77,
+      "total": 319
+    },
+    "firstContentfulPaint": 3211.5385,
+    "firstMeaningfulPaint": 3707.6655,
+    "speedIndex": 8279.617348330517,
+    "largestContentfulPaint": 22349.39100000001,
+    "totalBlockingTime": 166.29100000000017,
+    "cumulativeLayoutShift": 0.015893063865888582,
+    "timeToInteractive": 9385.271499999999,
+    "maxPotentialFirstInputDelay": 145,
+    "timeToFirstByte": 1820.112,
+    "weight": {
+      "summary": "87 requests • 4,1 MiB",
+      "total": 4305240,
+      "image": 3133574,
+      "imageCount": 22,
+      "script": 775456,
+      "scriptCount": 26,
+      "document": 23265,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 61412,
+      "stylesheetCount": 7,
+      "thirdParty": 4143046,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 13,
+      "-weight.document": 27,
+      "+weight.document": 24,
+      "-weight.script": 21,
+      "+weight.script": 25,
+      "-weight.image": 43,
+      "+weight.image": 6,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/hennessy-presente-cultivons-nos-forets-cultivons-notre-avenir-une-exposition-engagee-pour-la-reforestation-au-jardin-dacclimatation-a-paris/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/hennessy-presente-cultivons-nos-forets-cultivons-notre-avenir-une-exposition-engagee-pour-la-reforestation-au-jardin-dacclimatation-a-paris/",
+    "timestamp": 1707595154540,
+    "ranks": {
+      "hundos": 16,
+      "performance": 16,
+      "accessibility": 31,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.59,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.77,
+      "total": 319
+    },
+    "firstContentfulPaint": 3374.6024999999995,
+    "firstMeaningfulPaint": 3517.9429999999993,
+    "speedIndex": 8279.887144546181,
+    "largestContentfulPaint": 20010.780999999995,
+    "totalBlockingTime": 144.5,
+    "cumulativeLayoutShift": 0.0491172322295885,
+    "timeToInteractive": 9665.399000000001,
+    "maxPotentialFirstInputDelay": 145.0000000000009,
+    "timeToFirstByte": 1839.079,
+    "weight": {
+      "summary": "89 requests • 4,9 MiB",
+      "total": 5140639,
+      "image": 3928082,
+      "imageCount": 23,
+      "script": 775425,
+      "scriptCount": 26,
+      "document": 23249,
+      "font": 305830,
+      "fontCount": 7,
+      "stylesheet": 61408,
+      "stylesheetCount": 7,
+      "thirdParty": 4978456,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 10,
+      "-weight.document": 26,
+      "+weight.document": 25,
+      "-weight.script": 12,
+      "+weight.script": 34,
+      "-weight.image": 45,
+      "+weight.image": 4,
+      "-weight.font": 16,
+      "+weight.font": 11,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actionnaires/lvmh-en-bourse/information-reglementee/autres-informations/",
+    "requestedUrl": "https://www.lvmh.fr/actionnaires/lvmh-en-bourse/information-reglementee/autres-informations/",
+    "timestamp": 1707594480745,
+    "ranks": {
+      "hundos": 18,
+      "performance": 17,
+      "accessibility": 28,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.58,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 317
+    },
+    "firstContentfulPaint": 3150.6035,
+    "firstMeaningfulPaint": 4961.3814999999995,
+    "speedIndex": 7179.564312700431,
+    "largestContentfulPaint": 6100.4875,
+    "totalBlockingTime": 322.4999999999991,
+    "cumulativeLayoutShift": 0.010122645937920031,
+    "timeToInteractive": 9420.871499999997,
+    "maxPotentialFirstInputDelay": 182,
+    "timeToFirstByte": 1233.1879999999999,
+    "weight": {
+      "summary": "76 requests • 1,1 MiB",
+      "total": 1186523,
+      "image": 17020,
+      "imageCount": 11,
+      "script": 775439,
+      "scriptCount": 26,
+      "document": 21095,
+      "font": 264950,
+      "fontCount": 6,
+      "stylesheet": 61413,
+      "stylesheetCount": 7,
+      "thirdParty": 1026463,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 45,
+      "-weight.document": 7,
+      "+weight.document": 44,
+      "-weight.script": 17,
+      "+weight.script": 29,
+      "-weight.image": 6,
+      "+weight.image": 43,
+      "-weight.font": 5,
+      "+weight.font": 22,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/berluti-devoile-nouvelle-identite-visuelle-premiere-campagne-direction-artistique-de-kris-van-assche/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/berluti-devoile-nouvelle-identite-visuelle-premiere-campagne-direction-artistique-de-kris-van-assche/",
+    "timestamp": 1707593931805,
+    "ranks": {
+      "hundos": 20,
+      "performance": 24,
+      "accessibility": 33,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.57,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 316
+    },
+    "firstContentfulPaint": 3245.6304999999993,
+    "firstMeaningfulPaint": 3592.4929999999995,
+    "speedIndex": 8156.153000973739,
+    "largestContentfulPaint": 9750.293000000001,
+    "totalBlockingTime": 236.25500000000102,
+    "cumulativeLayoutShift": 0.03398536118624402,
+    "timeToInteractive": 9898.9205,
+    "maxPotentialFirstInputDelay": 185,
+    "timeToFirstByte": 1545.106,
+    "weight": {
+      "summary": "79 requests • 1,2 MiB",
+      "total": 1225941,
+      "image": 54452,
+      "imageCount": 14,
+      "script": 775443,
+      "scriptCount": 26,
+      "document": 22273,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 61413,
+      "stylesheetCount": 7,
+      "thirdParty": 1063945,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 38,
+      "-weight.document": 12,
+      "+weight.document": 39,
+      "-weight.script": 18,
+      "+weight.script": 28,
+      "-weight.image": 15,
+      "+weight.image": 34,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/immersion/temoignages/michele-giordano/",
+    "requestedUrl": "https://www.lvmh.fr/talents/immersion/temoignages/michele-giordano/",
+    "timestamp": 1707594426801,
+    "ranks": {
+      "hundos": 19,
+      "performance": 35,
+      "accessibility": 25,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.52,
+      "accessibility": 0.87,
+      "bestPractices": 0.93,
+      "seo": 0.84,
+      "total": 316
+    },
+    "firstContentfulPaint": 3070.853,
+    "firstMeaningfulPaint": 4754.243,
+    "speedIndex": 5623.719523787257,
+    "largestContentfulPaint": 9522.919705566408,
+    "totalBlockingTime": 162.5,
+    "cumulativeLayoutShift": 0.22765197513059113,
+    "timeToInteractive": 9587.413,
+    "maxPotentialFirstInputDelay": 183,
+    "timeToFirstByte": 89.80100000000002,
+    "weight": {
+      "summary": "75 requests • 1,1 MiB",
+      "total": 1198076,
+      "image": 28472,
+      "imageCount": 14,
+      "script": 775477,
+      "scriptCount": 26,
+      "document": 22355,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 61416,
+      "stylesheetCount": 7,
+      "thirdParty": 1036768,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 42,
+      "-weight.document": 15,
+      "+weight.document": 36,
+      "-weight.script": 22,
+      "+weight.script": 24,
+      "-weight.image": 10,
+      "+weight.image": 39,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/autres-activites/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/autres-activites/",
+    "timestamp": 1707594733280,
+    "ranks": {
+      "hundos": 22,
+      "performance": 2,
+      "accessibility": 46,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.68,
+      "accessibility": 0.78,
+      "bestPractices": 0.93,
+      "seo": 0.76,
+      "total": 315
+    },
+    "firstContentfulPaint": 2982.6914999999995,
+    "firstMeaningfulPaint": 3376.109,
+    "speedIndex": 6643.35000946501,
+    "largestContentfulPaint": 5126.429499999999,
+    "totalBlockingTime": 139,
+    "cumulativeLayoutShift": 0.016256483499715264,
+    "timeToInteractive": 9982.9395,
+    "maxPotentialFirstInputDelay": 144,
+    "timeToFirstByte": 63.501000000000005,
+    "weight": {
+      "summary": "99 requests • 1,6 MiB",
+      "total": 1689306,
+      "image": 572916,
+      "imageCount": 32,
+      "script": 741935,
+      "scriptCount": 25,
+      "document": 20644,
+      "font": 236474,
+      "fontCount": 5,
+      "stylesheet": 70765,
+      "stylesheetCount": 11,
+      "thirdParty": 1529736,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 27,
+      "-weight.document": 4,
+      "+weight.document": 47,
+      "-weight.script": 1,
+      "+weight.script": 45,
+      "-weight.image": 27,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/groupe/engagements/societe-environnement/",
+    "requestedUrl": "https://www.lvmh.fr/groupe/engagements/societe-environnement/",
+    "timestamp": 1707593371562,
+    "ranks": {
+      "hundos": 21,
+      "performance": 5,
+      "accessibility": 45,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.64,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.77,
+      "total": 315
+    },
+    "firstContentfulPaint": 2947.5095000000006,
+    "firstMeaningfulPaint": 4892.461500000001,
+    "speedIndex": 6002.115400383682,
+    "largestContentfulPaint": 6802.159500000002,
+    "totalBlockingTime": 177.5,
+    "cumulativeLayoutShift": 0.023391580925229617,
+    "timeToInteractive": 11449.3015,
+    "maxPotentialFirstInputDelay": 146,
+    "timeToFirstByte": 42.617000000000004,
+    "weight": {
+      "summary": "106 requests • 15,4 MiB",
+      "total": 16169529,
+      "image": 15005939,
+      "imageCount": 39,
+      "script": 747976,
+      "scriptCount": 26,
+      "document": 24053,
+      "font": 279069,
+      "fontCount": 6,
+      "stylesheet": 65892,
+      "stylesheetCount": 9,
+      "thirdParty": 16006531,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 4,
+      "-weight.document": 30,
+      "+weight.document": 21,
+      "-weight.script": 3,
+      "+weight.script": 43,
+      "-weight.image": 48,
+      "+weight.image": 1,
+      "-weight.font": 12,
+      "+weight.font": 15,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/immersion/temoignages/catherine-lee/",
+    "requestedUrl": "https://www.lvmh.fr/talents/immersion/temoignages/catherine-lee/",
+    "timestamp": 1707594379937,
+    "ranks": {
+      "hundos": 23,
+      "performance": 37,
+      "accessibility": 22,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.51,
+      "accessibility": 0.87,
+      "bestPractices": 0.93,
+      "seo": 0.84,
+      "total": 315
+    },
+    "firstContentfulPaint": 3175.6170000000006,
+    "firstMeaningfulPaint": 3632.8010000000004,
+    "speedIndex": 5499.63259906902,
+    "largestContentfulPaint": 9651.285,
+    "totalBlockingTime": 183.5,
+    "cumulativeLayoutShift": 0.22798705079157514,
+    "timeToInteractive": 9796.285000000003,
+    "maxPotentialFirstInputDelay": 148,
+    "timeToFirstByte": 246.387,
+    "weight": {
+      "summary": "80 requests • 1,2 MiB",
+      "total": 1245963,
+      "image": 33838,
+      "imageCount": 14,
+      "script": 775516,
+      "scriptCount": 26,
+      "document": 22726,
+      "font": 305838,
+      "fontCount": 7,
+      "stylesheet": 61413,
+      "stylesheetCount": 7,
+      "thirdParty": 1084285,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 34,
+      "-weight.document": 23,
+      "+weight.document": 28,
+      "-weight.script": 27,
+      "+weight.script": 19,
+      "-weight.image": 13,
+      "+weight.image": 36,
+      "-weight.font": 22,
+      "+weight.font": 5,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/lartiste-chiharu-shiota-tisse-toile-au-bon-marche-lors-lexposition-where-are-we-going/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/lartiste-chiharu-shiota-tisse-toile-au-bon-marche-lors-lexposition-where-are-we-going/",
+    "timestamp": 1707595168715,
+    "ranks": {
+      "hundos": 24,
+      "performance": 28,
+      "accessibility": 32,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.55,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 314
+    },
+    "firstContentfulPaint": 3143.481999999999,
+    "firstMeaningfulPaint": 3520.9545,
+    "speedIndex": 9993.661379530535,
+    "largestContentfulPaint": 10581.931999999999,
+    "totalBlockingTime": 249.11099999999897,
+    "cumulativeLayoutShift": 0.04504497711407817,
+    "timeToInteractive": 9432.152999999998,
+    "maxPotentialFirstInputDelay": 185,
+    "timeToFirstByte": 3261.16,
+    "weight": {
+      "summary": "81 requests • 1,6 MiB",
+      "total": 1695917,
+      "image": 524387,
+      "imageCount": 16,
+      "script": 775411,
+      "scriptCount": 26,
+      "document": 23184,
+      "font": 264948,
+      "fontCount": 6,
+      "stylesheet": 61407,
+      "stylesheetCount": 7,
+      "thirdParty": 1533786,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 26,
+      "-weight.document": 25,
+      "+weight.document": 26,
+      "-weight.script": 6,
+      "+weight.script": 40,
+      "-weight.image": 24,
+      "+weight.image": 25,
+      "-weight.font": 3,
+      "+weight.font": 24,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/retour-20-ans-dengagement-environnemental/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/retour-20-ans-dengagement-environnemental/",
+    "timestamp": 1707595115223,
+    "ranks": {
+      "hundos": 25,
+      "performance": 27,
+      "accessibility": 39,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.56,
+      "accessibility": 0.84,
+      "bestPractices": 0.96,
+      "seo": 0.76,
+      "total": 312
+    },
+    "firstContentfulPaint": 3432.2865000000006,
+    "firstMeaningfulPaint": 3508.8700000000003,
+    "speedIndex": 9983.853508192014,
+    "largestContentfulPaint": 6072.41,
+    "totalBlockingTime": 102,
+    "cumulativeLayoutShift": 0.14948779005762597,
+    "timeToInteractive": 9814.8825,
+    "maxPotentialFirstInputDelay": 143,
+    "timeToFirstByte": 2531.5409999999997,
+    "weight": {
+      "summary": "84 requests • 1,6 MiB",
+      "total": 1707763,
+      "image": 536048,
+      "imageCount": 19,
+      "script": 775494,
+      "scriptCount": 26,
+      "document": 23270,
+      "font": 264949,
+      "fontCount": 6,
+      "stylesheet": 61409,
+      "stylesheetCount": 7,
+      "thirdParty": 1545564,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 25,
+      "-weight.document": 28,
+      "+weight.document": 23,
+      "-weight.script": 24,
+      "+weight.script": 22,
+      "-weight.image": 25,
+      "+weight.image": 24,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/groupe/identite/gouvernance/comite-executif/stephane-bianchi/",
+    "requestedUrl": "https://www.lvmh.fr/groupe/identite/gouvernance/comite-executif/stephane-bianchi/",
+    "timestamp": 1707594834131,
+    "ranks": {
+      "hundos": 26,
+      "performance": 44,
+      "accessibility": 17,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.44,
+      "accessibility": 0.87,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 311
+    },
+    "firstContentfulPaint": 3208.4404999999997,
+    "firstMeaningfulPaint": 4894.5535,
+    "speedIndex": 5939.765003634545,
+    "largestContentfulPaint": 9642.152705566408,
+    "totalBlockingTime": 293.0000000000018,
+    "cumulativeLayoutShift": 0.2604074481667618,
+    "timeToInteractive": 9760.286500000002,
+    "maxPotentialFirstInputDelay": 178.0000000000009,
+    "timeToFirstByte": 66.13,
+    "weight": {
+      "summary": "73 requests • 1,1 MiB",
+      "total": 1202759,
+      "image": 33313,
+      "imageCount": 12,
+      "script": 775412,
+      "scriptCount": 26,
+      "document": 22309,
+      "font": 264951,
+      "fontCount": 6,
+      "stylesheet": 61410,
+      "stylesheetCount": 7,
+      "thirdParty": 1041515,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 40,
+      "-weight.document": 13,
+      "+weight.document": 38,
+      "-weight.script": 7,
+      "+weight.script": 39,
+      "-weight.image": 12,
+      "+weight.image": 37,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/immersion/temoignages/antoine-leveque/",
+    "requestedUrl": "https://www.lvmh.fr/talents/immersion/temoignages/antoine-leveque/",
+    "timestamp": 1707593806492,
+    "ranks": {
+      "hundos": 28,
+      "performance": 41,
+      "accessibility": 26,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.46,
+      "accessibility": 0.87,
+      "bestPractices": 0.93,
+      "seo": 0.84,
+      "total": 310
+    },
+    "firstContentfulPaint": 3193.0249999999996,
+    "firstMeaningfulPaint": 3578.8524999999995,
+    "speedIndex": 5802.838448037825,
+    "largestContentfulPaint": 9440.952000000001,
+    "totalBlockingTime": 310,
+    "cumulativeLayoutShift": 0.22567703027491465,
+    "timeToInteractive": 9523.734,
+    "maxPotentialFirstInputDelay": 178,
+    "timeToFirstByte": 70.046,
+    "weight": {
+      "summary": "75 requests • 1,1 MiB",
+      "total": 1200706,
+      "image": 30954,
+      "imageCount": 14,
+      "script": 775413,
+      "scriptCount": 26,
+      "document": 22657,
+      "font": 264952,
+      "fontCount": 6,
+      "stylesheet": 61417,
+      "stylesheetCount": 7,
+      "thirdParty": 1039134,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 41,
+      "-weight.document": 21,
+      "+weight.document": 30,
+      "-weight.script": 8,
+      "+weight.script": 38,
+      "-weight.image": 11,
+      "+weight.image": 38,
+      "-weight.font": 7,
+      "+weight.font": 20,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/immersion/temoignages/noemie-savreux/",
+    "requestedUrl": "https://www.lvmh.fr/talents/immersion/temoignages/noemie-savreux/",
+    "timestamp": 1707594416411,
+    "ranks": {
+      "hundos": 27,
+      "performance": 42,
+      "accessibility": 24,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.46,
+      "accessibility": 0.87,
+      "bestPractices": 0.93,
+      "seo": 0.84,
+      "total": 310
+    },
+    "firstContentfulPaint": 3220.6440000000007,
+    "firstMeaningfulPaint": 3589.7215000000006,
+    "speedIndex": 5991.151911752214,
+    "largestContentfulPaint": 9828.556,
+    "totalBlockingTime": 280.5,
+    "cumulativeLayoutShift": 0.2470957200616013,
+    "timeToInteractive": 9908.830500000002,
+    "maxPotentialFirstInputDelay": 182,
+    "timeToFirstByte": 33.528000000000006,
+    "weight": {
+      "summary": "76 requests • 1,2 MiB",
+      "total": 1238814,
+      "image": 28308,
+      "imageCount": 14,
+      "script": 775505,
+      "scriptCount": 26,
+      "document": 22363,
+      "font": 305835,
+      "fontCount": 7,
+      "stylesheet": 61415,
+      "stylesheetCount": 7,
+      "thirdParty": 1077490,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 35,
+      "-weight.document": 16,
+      "+weight.document": 35,
+      "-weight.script": 26,
+      "+weight.script": 20,
+      "-weight.image": 9,
+      "+weight.image": 40,
+      "-weight.font": 19,
+      "+weight.font": 8,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/parfums-cosmetiques/benefit/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/parfums-cosmetiques/benefit/",
+    "timestamp": 1707594065618,
+    "ranks": {
+      "hundos": 29,
+      "performance": 46,
+      "accessibility": 12,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.4,
+      "accessibility": 0.89,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 309
+    },
+    "firstContentfulPaint": 2970.6105,
+    "firstMeaningfulPaint": 4640.6105,
+    "speedIndex": 5769.73535638717,
+    "largestContentfulPaint": 10205.610499999999,
+    "totalBlockingTime": 140,
+    "cumulativeLayoutShift": 0.7483442848370127,
+    "timeToInteractive": 9862.610499999999,
+    "maxPotentialFirstInputDelay": 144,
+    "timeToFirstByte": 44.191,
+    "weight": {
+      "summary": "95 requests • 3,2 MiB",
+      "total": 3350272,
+      "image": 2166832,
+      "imageCount": 30,
+      "script": 775412,
+      "scriptCount": 26,
+      "document": 26879,
+      "font": 264951,
+      "fontCount": 6,
+      "stylesheet": 70773,
+      "stylesheetCount": 11,
+      "thirdParty": 3184469,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 16,
+      "-weight.document": 40,
+      "+weight.document": 11,
+      "-weight.script": 7,
+      "+weight.script": 39,
+      "-weight.image": 39,
+      "+weight.image": 10,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/vins-spiritueux/eminente/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/vins-spiritueux/eminente/",
+    "timestamp": 1707594652642,
+    "ranks": {
+      "hundos": 30,
+      "performance": 47,
+      "accessibility": 2,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.36,
+      "accessibility": 0.92,
+      "bestPractices": 0.96,
+      "seo": 0.84,
+      "total": 308
+    },
+    "firstContentfulPaint": 3179.9890000000005,
+    "firstMeaningfulPaint": 5041.381000000001,
+    "speedIndex": 5976.624391073034,
+    "largestContentfulPaint": 9726.430411132813,
+    "totalBlockingTime": 231,
+    "cumulativeLayoutShift": 0.7442632649591334,
+    "timeToInteractive": 9895.517000000003,
+    "maxPotentialFirstInputDelay": 160,
+    "timeToFirstByte": 206.664,
+    "weight": {
+      "summary": "93 requests • 1,9 MiB",
+      "total": 1950601,
+      "image": 766899,
+      "imageCount": 24,
+      "script": 775405,
+      "scriptCount": 26,
+      "document": 26014,
+      "font": 264951,
+      "fontCount": 6,
+      "stylesheet": 70766,
+      "stylesheetCount": 11,
+      "thirdParty": 1785661,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 23,
+      "-weight.document": 37,
+      "+weight.document": 14,
+      "-weight.script": 4,
+      "+weight.script": 42,
+      "-weight.image": 28,
+      "+weight.image": 21,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/lvmh-celebre-les-deux-ans-du-lvmh-heart-fund-fonds-mondial-durgence-et-de-solidarite-destine-a-tous-les-collaborateurs-du-groupe/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/lvmh-celebre-les-deux-ans-du-lvmh-heart-fund-fonds-mondial-durgence-et-de-solidarite-destine-a-tous-les-collaborateurs-du-groupe/",
+    "timestamp": 1707594263968,
+    "ranks": {
+      "hundos": 31,
+      "performance": 34,
+      "accessibility": 14,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.53,
+      "accessibility": 0.88,
+      "bestPractices": 0.74,
+      "seo": 0.84,
+      "total": 299
+    },
+    "firstContentfulPaint": 3176.5825,
+    "firstMeaningfulPaint": 3655.6165,
+    "speedIndex": 9725.96818178656,
+    "largestContentfulPaint": 18288.155,
+    "totalBlockingTime": 312.5,
+    "cumulativeLayoutShift": 0.042484228189264464,
+    "timeToInteractive": 12981.175999999996,
+    "maxPotentialFirstInputDelay": 173,
+    "timeToFirstByte": 1779.223,
+    "weight": {
+      "summary": "116 requests • 2,7 MiB",
+      "total": 2818324,
+      "image": 1202271,
+      "imageCount": 22,
+      "script": 1180894,
+      "scriptCount": 45,
+      "document": 27125,
+      "font": 279664,
+      "fontCount": 7,
+      "stylesheet": 79750,
+      "stylesheetCount": 12,
+      "thirdParty": 2656615,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 20,
+      "-weight.document": 43,
+      "+weight.document": 8,
+      "-weight.script": 40,
+      "+weight.script": 6,
+      "-weight.image": 31,
+      "+weight.image": 18,
+      "-weight.font": 14,
+      "+weight.font": 13,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/immersion/temoignages/aya-yamanouchi/",
+    "requestedUrl": "https://www.lvmh.fr/talents/immersion/temoignages/aya-yamanouchi/",
+    "timestamp": 1707594369236,
+    "ranks": {
+      "hundos": 32,
+      "performance": 32,
+      "accessibility": 21,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.53,
+      "accessibility": 0.87,
+      "bestPractices": 0.74,
+      "seo": 0.84,
+      "total": 298
+    },
+    "firstContentfulPaint": 3176.5609999999997,
+    "firstMeaningfulPaint": 5085.355,
+    "speedIndex": 7964.514977678422,
+    "largestContentfulPaint": 5958.133,
+    "totalBlockingTime": 458.5,
+    "cumulativeLayoutShift": 0.05871987352967698,
+    "timeToInteractive": 13499.399999999998,
+    "maxPotentialFirstInputDelay": 197,
+    "timeToFirstByte": 61.051,
+    "weight": {
+      "summary": "137 requests • 22,7 MiB",
+      "total": 23830240,
+      "image": 95032,
+      "imageCount": 25,
+      "script": 1180907,
+      "scriptCount": 45,
+      "document": 26078,
+      "font": 279666,
+      "fontCount": 7,
+      "stylesheet": 79753,
+      "stylesheetCount": 12,
+      "thirdParty": 23669564,
+      "thirdPartyCount": 18
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 2,
+      "-weight.document": 38,
+      "+weight.document": 13,
+      "-weight.script": 42,
+      "+weight.script": 4,
+      "-weight.image": 18,
+      "+weight.image": 31,
+      "-weight.font": 15,
+      "+weight.font": 12,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 49,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/vins-spiritueux/numanthia/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/vins-spiritueux/numanthia/",
+    "timestamp": 1707593385770,
+    "ranks": {
+      "hundos": 33,
+      "performance": 38,
+      "accessibility": 1,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.48,
+      "accessibility": 0.92,
+      "bestPractices": 0.74,
+      "seo": 0.84,
+      "total": 298
+    },
+    "firstContentfulPaint": 3035.0454999999997,
+    "firstMeaningfulPaint": 5044.0675,
+    "speedIndex": 6369.0516506218955,
+    "largestContentfulPaint": 10125.663499999999,
+    "totalBlockingTime": 196.50000000000045,
+    "cumulativeLayoutShift": 0.2523501769324875,
+    "timeToInteractive": 12153.65125,
+    "maxPotentialFirstInputDelay": 142.00000000000045,
+    "timeToFirstByte": 472.55999999999995,
+    "weight": {
+      "summary": "127 requests • 4,6 MiB",
+      "total": 4812547,
+      "image": 1472813,
+      "imageCount": 29,
+      "script": 1149793,
+      "scriptCount": 44,
+      "document": 27142,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 87352,
+      "stylesheetCount": 14,
+      "thirdParty": 4646463,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 11,
+      "-weight.document": 44,
+      "+weight.document": 7,
+      "-weight.script": 32,
+      "+weight.script": 14,
+      "-weight.image": 33,
+      "+weight.image": 16,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/les-journees-particulieres-lvmh-jour-3-dernier-jour-pour-venir-a-la-rencontre-de-nos-artisans-createurs-et-collaborateurs-dans-des-lieux-uniques/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/les-journees-particulieres-lvmh-jour-3-dernier-jour-pour-venir-a-la-rencontre-de-nos-artisans-createurs-et-collaborateurs-dans-des-lieux-uniques/",
+    "timestamp": 1707594922905,
+    "ranks": {
+      "hundos": 34,
+      "performance": 14,
+      "accessibility": 50,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.6,
+      "accessibility": 0.74,
+      "bestPractices": 0.93,
+      "seo": 0.7,
+      "total": 297
+    },
+    "firstContentfulPaint": 3073.6625,
+    "firstMeaningfulPaint": 3073.6625,
+    "speedIndex": 9513.151379764411,
+    "largestContentfulPaint": 12311.932499999999,
+    "totalBlockingTime": 129.5,
+    "cumulativeLayoutShift": 0.02759301781039579,
+    "timeToInteractive": 11017.349499999998,
+    "maxPotentialFirstInputDelay": 144,
+    "timeToFirstByte": 1734.009,
+    "weight": {
+      "summary": "123 requests • 3,5 MiB",
+      "total": 3665168,
+      "image": 2446832,
+      "imageCount": 57,
+      "script": 775438,
+      "scriptCount": 26,
+      "document": 29084,
+      "font": 305833,
+      "fontCount": 7,
+      "stylesheet": 61407,
+      "stylesheetCount": 7,
+      "thirdParty": 3497143,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 15,
+      "-weight.document": 47,
+      "+weight.document": 4,
+      "-weight.script": 16,
+      "+weight.script": 30,
+      "-weight.image": 40,
+      "+weight.image": 9,
+      "-weight.font": 18,
+      "+weight.font": 9,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/linstitut-des-metiers-dexcellence-lvmh-choisit-polimoda-comme-partenaire-officielmaroquinerie/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/linstitut-des-metiers-dexcellence-lvmh-choisit-polimoda-comme-partenaire-officielmaroquinerie/",
+    "timestamp": 1707593968104,
+    "ranks": {
+      "hundos": 35,
+      "performance": 30,
+      "accessibility": 48,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.54,
+      "accessibility": 0.78,
+      "bestPractices": 0.93,
+      "seo": 0.69,
+      "total": 294
+    },
+    "firstContentfulPaint": 3174.5649999999996,
+    "firstMeaningfulPaint": 3560.3199999999997,
+    "speedIndex": 11090.133589886245,
+    "largestContentfulPaint": 10364.91,
+    "totalBlockingTime": 267.0000000000009,
+    "cumulativeLayoutShift": 0.04965854523458196,
+    "timeToInteractive": 9770.747,
+    "maxPotentialFirstInputDelay": 178,
+    "timeToFirstByte": 3571.743,
+    "weight": {
+      "summary": "81 requests • 1,4 MiB",
+      "total": 1458029,
+      "image": 246500,
+      "imageCount": 19,
+      "script": 775421,
+      "scriptCount": 26,
+      "document": 23444,
+      "font": 305837,
+      "fontCount": 7,
+      "stylesheet": 61413,
+      "stylesheetCount": 7,
+      "thirdParty": 1295658,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 30,
+      "-weight.document": 29,
+      "+weight.document": 22,
+      "-weight.script": 10,
+      "+weight.script": 36,
+      "-weight.image": 22,
+      "+weight.image": 27,
+      "-weight.font": 21,
+      "+weight.font": 6,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/le-bon-marche-rive-gauche-presente-sa-nouvelle-creation-exclusive-entre-chiens-et-louves/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/le-bon-marche-rive-gauche-presente-sa-nouvelle-creation-exclusive-entre-chiens-et-louves/",
+    "timestamp": 1707593613456,
+    "ranks": {
+      "hundos": 36,
+      "performance": 26,
+      "accessibility": 19,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.56,
+      "accessibility": 0.87,
+      "bestPractices": 0.74,
+      "seo": 0.76,
+      "total": 293
+    },
+    "firstContentfulPaint": 3022.432,
+    "firstMeaningfulPaint": 3857.270999999999,
+    "speedIndex": 9185.974597597566,
+    "largestContentfulPaint": 24788.022000000004,
+    "totalBlockingTime": 252.5,
+    "cumulativeLayoutShift": 0.04678547867227964,
+    "timeToInteractive": 12741.010749999998,
+    "maxPotentialFirstInputDelay": 184,
+    "timeToFirstByte": 1744.98,
+    "weight": {
+      "summary": "115 requests • 4,2 MiB",
+      "total": 4357788,
+      "image": 2606498,
+      "imageCount": 20,
+      "script": 1180895,
+      "scriptCount": 45,
+      "document": 27015,
+      "font": 279663,
+      "fontCount": 7,
+      "stylesheet": 79754,
+      "stylesheetCount": 12,
+      "thirdParty": 4196175,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 12,
+      "-weight.document": 41,
+      "+weight.document": 10,
+      "-weight.script": 41,
+      "+weight.script": 5,
+      "-weight.image": 42,
+      "+weight.image": 7,
+      "-weight.font": 13,
+      "+weight.font": 14,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/vins-spiritueux/veuve-clicquot/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/vins-spiritueux/veuve-clicquot/",
+    "timestamp": 1707593412041,
+    "ranks": {
+      "hundos": 37,
+      "performance": 43,
+      "accessibility": 10,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.46,
+      "accessibility": 0.89,
+      "bestPractices": 0.74,
+      "seo": 0.84,
+      "total": 293
+    },
+    "firstContentfulPaint": 3017.242,
+    "firstMeaningfulPaint": 4891.986,
+    "speedIndex": 6785.784608505869,
+    "largestContentfulPaint": 8705.607411132813,
+    "totalBlockingTime": 249.50000000000045,
+    "cumulativeLayoutShift": 0.2519001797870754,
+    "timeToInteractive": 12842.892000000003,
+    "maxPotentialFirstInputDelay": 147,
+    "timeToFirstByte": 41.165,
+    "weight": {
+      "summary": "126 requests • 5,1 MiB",
+      "total": 5391607,
+      "image": 1668853,
+      "imageCount": 28,
+      "script": 1150096,
+      "scriptCount": 44,
+      "document": 26854,
+      "font": 264951,
+      "fontCount": 6,
+      "stylesheet": 87351,
+      "stylesheetCount": 14,
+      "thirdParty": 5225818,
+      "thirdPartyCount": 17
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 9,
+      "-weight.document": 39,
+      "+weight.document": 12,
+      "-weight.script": 36,
+      "+weight.script": 10,
+      "-weight.image": 37,
+      "+weight.image": 12,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/partenaire-fondateur-de-viva-technology-lvmh-devoile-ses-ambitions-pour-le-plus-grand-evenement-europeen-dedie-a-linnovation-et-aux-startups/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/partenaire-fondateur-de-viva-technology-lvmh-devoile-ses-ambitions-pour-le-plus-grand-evenement-europeen-dedie-a-linnovation-et-aux-startups/",
+    "timestamp": 1707594277568,
+    "ranks": {
+      "hundos": 39,
+      "performance": 29,
+      "accessibility": 20,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.55,
+      "accessibility": 0.87,
+      "bestPractices": 0.74,
+      "seo": 0.76,
+      "total": 292
+    },
+    "firstContentfulPaint": 3257.9945,
+    "firstMeaningfulPaint": 3674.716999999999,
+    "speedIndex": 10097.159407124356,
+    "largestContentfulPaint": 5348.1515,
+    "totalBlockingTime": 374.309500000003,
+    "cumulativeLayoutShift": 0.07486195875713869,
+    "timeToInteractive": 13306.411,
+    "maxPotentialFirstInputDelay": 187,
+    "timeToFirstByte": 2240.8740000000003,
+    "weight": {
+      "summary": "113 requests • 1,7 MiB",
+      "total": 1732499,
+      "image": 74102,
+      "imageCount": 21,
+      "script": 1180890,
+      "scriptCount": 45,
+      "document": 29185,
+      "font": 320549,
+      "fontCount": 8,
+      "stylesheet": 79754,
+      "stylesheetCount": 12,
+      "thirdParty": 1568751,
+      "thirdPartyCount": 15
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 24,
+      "-weight.document": 48,
+      "+weight.document": 3,
+      "-weight.script": 39,
+      "+weight.script": 7,
+      "-weight.image": 17,
+      "+weight.image": 32,
+      "-weight.font": 24,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/groupe/engagements/transmission-savoir-faire/inside-lvmh/",
+    "requestedUrl": "https://www.lvmh.fr/groupe/engagements/transmission-savoir-faire/inside-lvmh/",
+    "timestamp": 1707593520644,
+    "ranks": {
+      "hundos": 38,
+      "performance": 33,
+      "accessibility": 41,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.53,
+      "accessibility": 0.81,
+      "bestPractices": 0.74,
+      "seo": 0.84,
+      "total": 292
+    },
+    "firstContentfulPaint": 3246.1620000000003,
+    "firstMeaningfulPaint": 3667.8195000000005,
+    "speedIndex": 9124.701930858513,
+    "largestContentfulPaint": 18595.411012252807,
+    "totalBlockingTime": 332,
+    "cumulativeLayoutShift": 0.011733268126701045,
+    "timeToInteractive": 14308.165,
+    "maxPotentialFirstInputDelay": 152,
+    "timeToFirstByte": 82.81499999999998,
+    "weight": {
+      "summary": "162 requests • 3,1 MiB",
+      "total": 3281827,
+      "image": 1616554,
+      "imageCount": 38,
+      "script": 1180912,
+      "scriptCount": 64,
+      "document": 33381,
+      "font": 320547,
+      "fontCount": 9,
+      "stylesheet": 79751,
+      "stylesheetCount": 17,
+      "thirdParty": 3118122,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 17,
+      "-weight.document": 49,
+      "+weight.document": 2,
+      "-weight.script": 44,
+      "+weight.script": 2,
+      "-weight.image": 35,
+      "+weight.image": 14,
+      "-weight.font": 23,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/",
+    "requestedUrl": "https://www.lvmh.fr/",
+    "timestamp": 1707594610646,
+    "ranks": {
+      "hundos": 40,
+      "performance": 40,
+      "accessibility": 34,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.48,
+      "accessibility": 0.85,
+      "bestPractices": 0.74,
+      "seo": 0.83,
+      "total": 290
+    },
+    "firstContentfulPaint": 3060.1084999999994,
+    "firstMeaningfulPaint": 5261.1355,
+    "speedIndex": 10700.436974659568,
+    "largestContentfulPaint": 9416.7325,
+    "totalBlockingTime": 270,
+    "cumulativeLayoutShift": 0.17107627441760206,
+    "timeToInteractive": 13647.270000000004,
+    "maxPotentialFirstInputDelay": 298,
+    "timeToFirstByte": 66.483,
+    "weight": {
+      "summary": "151 requests • 34,9 MiB",
+      "total": 36549281,
+      "image": 3801400,
+      "imageCount": 31,
+      "script": 1131083,
+      "scriptCount": 44,
+      "document": 21919,
+      "font": 236474,
+      "fontCount": 5,
+      "stylesheet": 85322,
+      "stylesheetCount": 12,
+      "thirdParty": 36388426,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 1,
+      "-weight.document": 9,
+      "+weight.document": 42,
+      "-weight.script": 31,
+      "+weight.script": 15,
+      "-weight.image": 44,
+      "+weight.image": 5,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/media/decouvrez-la-carte-de-voeux-2022-lvmh/",
+    "requestedUrl": "https://www.lvmh.fr/media/decouvrez-la-carte-de-voeux-2022-lvmh/",
+    "timestamp": 1707593692357,
+    "ranks": {
+      "hundos": 41,
+      "performance": 18,
+      "accessibility": 35,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.58,
+      "accessibility": 0.84,
+      "bestPractices": 0.7,
+      "seo": 0.77,
+      "total": 289
+    },
+    "firstContentfulPaint": 3075.4830000000006,
+    "firstMeaningfulPaint": 4643.1825,
+    "speedIndex": 7784.261993617438,
+    "largestContentfulPaint": 15411.538499999999,
+    "totalBlockingTime": 236.5,
+    "cumulativeLayoutShift": 0.021757660841620802,
+    "timeToInteractive": 13226.280999999997,
+    "maxPotentialFirstInputDelay": 181,
+    "timeToFirstByte": 62.119,
+    "weight": {
+      "summary": "111 requests • 2,0 MiB",
+      "total": 2088949,
+      "image": 559534,
+      "imageCount": 22,
+      "script": 1116622,
+      "scriptCount": 43,
+      "document": 20547,
+      "font": 264952,
+      "fontCount": 6,
+      "stylesheet": 78623,
+      "stylesheetCount": 11,
+      "thirdParty": 1929472,
+      "thirdPartyCount": 15
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 21,
+      "-weight.document": 3,
+      "+weight.document": 48,
+      "-weight.script": 28,
+      "+weight.script": 18,
+      "-weight.image": 26,
+      "+weight.image": 23,
+      "-weight.font": 7,
+      "+weight.font": 20,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/media/la-mission/",
+    "requestedUrl": "https://www.lvmh.fr/media/la-mission/",
+    "timestamp": 1707594357695,
+    "ranks": {
+      "hundos": 42,
+      "performance": 22,
+      "accessibility": 36,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.57,
+      "accessibility": 0.84,
+      "bestPractices": 0.7,
+      "seo": 0.77,
+      "total": 288
+    },
+    "firstContentfulPaint": 3059.4024999999997,
+    "firstMeaningfulPaint": 5557.752999999999,
+    "speedIndex": 7201.099471694646,
+    "largestContentfulPaint": 19985.769500000006,
+    "totalBlockingTime": 238.5,
+    "cumulativeLayoutShift": 0.08480591636126351,
+    "timeToInteractive": 13206.483,
+    "maxPotentialFirstInputDelay": 184,
+    "timeToFirstByte": 41.068000000000005,
+    "weight": {
+      "summary": "107 requests • 3,0 MiB",
+      "total": 3184904,
+      "image": 1656898,
+      "imageCount": 22,
+      "script": 1116694,
+      "scriptCount": 43,
+      "document": 20300,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 78620,
+      "stylesheetCount": 11,
+      "thirdParty": 3025673,
+      "thirdPartyCount": 14
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 18,
+      "-weight.document": 2,
+      "+weight.document": 49,
+      "-weight.script": 29,
+      "+weight.script": 17,
+      "-weight.image": 36,
+      "+weight.image": 13,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/groupe/engagements/societe-environnement/nona-source/",
+    "requestedUrl": "https://www.lvmh.fr/groupe/engagements/societe-environnement/nona-source/",
+    "timestamp": 1707594251034,
+    "ranks": {
+      "hundos": 43,
+      "performance": 25,
+      "accessibility": 42,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.56,
+      "accessibility": 0.81,
+      "bestPractices": 0.74,
+      "seo": 0.77,
+      "total": 288
+    },
+    "firstContentfulPaint": 3252.3304999999996,
+    "firstMeaningfulPaint": 3660.7754999999997,
+    "speedIndex": 8057.060211088268,
+    "largestContentfulPaint": 28837.92799999998,
+    "totalBlockingTime": 253.5,
+    "cumulativeLayoutShift": 0.0113402677768259,
+    "timeToInteractive": 14058.799500000001,
+    "maxPotentialFirstInputDelay": 147,
+    "timeToFirstByte": 43.007999999999996,
+    "weight": {
+      "summary": "134 requests • 5,5 MiB",
+      "total": 5813953,
+      "image": 4155064,
+      "imageCount": 39,
+      "script": 1180994,
+      "scriptCount": 45,
+      "document": 28811,
+      "font": 320549,
+      "fontCount": 8,
+      "stylesheet": 79862,
+      "stylesheetCount": 12,
+      "thirdParty": 5650517,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 8,
+      "-weight.document": 46,
+      "+weight.document": 5,
+      "-weight.script": 45,
+      "+weight.script": 1,
+      "-weight.image": 46,
+      "+weight.image": 3,
+      "-weight.font": 24,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/actualites-documents/actualites/avec-you-and-me-les-metiers-dexcellence-lvmh-partent-en-tournee-a-la-rencontre-des-jeunes-et-des-personnes-en-reconversion/",
+    "requestedUrl": "https://www.lvmh.fr/actualites-documents/actualites/avec-you-and-me-les-metiers-dexcellence-lvmh-partent-en-tournee-a-la-rencontre-des-jeunes-et-des-personnes-en-reconversion/",
+    "timestamp": 1707593774676,
+    "ranks": {
+      "hundos": 45,
+      "performance": 36,
+      "accessibility": 37,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.52,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.76,
+      "total": 286
+    },
+    "firstContentfulPaint": 3172.9559999999997,
+    "firstMeaningfulPaint": 5389.59,
+    "speedIndex": 8764.023075816413,
+    "largestContentfulPaint": 8174.619411132811,
+    "totalBlockingTime": 400.4999999999991,
+    "cumulativeLayoutShift": 0.0415221789866871,
+    "timeToInteractive": 14483.078499999996,
+    "maxPotentialFirstInputDelay": 150,
+    "timeToFirstByte": 101.32,
+    "weight": {
+      "summary": "161 requests • 8,0 MiB",
+      "total": 8351751,
+      "image": 6685659,
+      "imageCount": 37,
+      "script": 1180908,
+      "scriptCount": 64,
+      "document": 34087,
+      "font": 320550,
+      "fontCount": 9,
+      "stylesheet": 79753,
+      "stylesheetCount": 17,
+      "thirdParty": 8187432,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 7,
+      "-weight.document": 50,
+      "+weight.document": 1,
+      "-weight.script": 43,
+      "+weight.script": 3,
+      "-weight.image": 47,
+      "+weight.image": 2,
+      "-weight.font": 25,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 47,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/parfums-cosmetiques/make-up-for-ever/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/parfums-cosmetiques/make-up-for-ever/",
+    "timestamp": 1707593452900,
+    "ranks": {
+      "hundos": 44,
+      "performance": 45,
+      "accessibility": 13,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.43,
+      "accessibility": 0.89,
+      "bestPractices": 0.7,
+      "seo": 0.84,
+      "total": 286
+    },
+    "firstContentfulPaint": 3143.9740000000006,
+    "firstMeaningfulPaint": 4956.036,
+    "speedIndex": 6873.5762413838,
+    "largestContentfulPaint": 10267.363411132814,
+    "totalBlockingTime": 196.9999999999991,
+    "cumulativeLayoutShift": 0.3404549570814183,
+    "timeToInteractive": 12643.2995,
+    "maxPotentialFirstInputDelay": 141.9999999999991,
+    "timeToFirstByte": 106.143,
+    "weight": {
+      "summary": "127 requests • 8,3 MiB",
+      "total": 8677689,
+      "image": 1319297,
+      "imageCount": 33,
+      "script": 1150071,
+      "scriptCount": 44,
+      "document": 27078,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 87347,
+      "stylesheetCount": 14,
+      "thirdParty": 8510901,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 6,
+      "-weight.document": 42,
+      "+weight.document": 9,
+      "-weight.script": 34,
+      "+weight.script": 12,
+      "-weight.image": 32,
+      "+weight.image": 17,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/media/changenow/",
+    "requestedUrl": "https://www.lvmh.fr/media/changenow/",
+    "timestamp": 1707594572212,
+    "ranks": {
+      "hundos": 47,
+      "performance": 31,
+      "accessibility": 40,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.53,
+      "accessibility": 0.84,
+      "bestPractices": 0.7,
+      "seo": 0.77,
+      "total": 284
+    },
+    "firstContentfulPaint": 3015.8205,
+    "firstMeaningfulPaint": 4893.53,
+    "speedIndex": 6703.584218912012,
+    "largestContentfulPaint": 12991.567,
+    "totalBlockingTime": 373.5,
+    "cumulativeLayoutShift": 0.08580221379846856,
+    "timeToInteractive": 12144.448499999999,
+    "maxPotentialFirstInputDelay": 198,
+    "timeToFirstByte": 33.62199999999999,
+    "weight": {
+      "summary": "107 requests • 1,6 MiB",
+      "total": 1667085,
+      "image": 138683,
+      "imageCount": 21,
+      "script": 1116703,
+      "scriptCount": 43,
+      "document": 20195,
+      "font": 264951,
+      "fontCount": 6,
+      "stylesheet": 78613,
+      "stylesheetCount": 11,
+      "thirdParty": 1507943,
+      "thirdPartyCount": 14
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 28,
+      "-weight.document": 1,
+      "+weight.document": 50,
+      "-weight.script": 30,
+      "+weight.script": 16,
+      "-weight.image": 19,
+      "+weight.image": 30,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/montres-joaillerie/repossi/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/montres-joaillerie/repossi/",
+    "timestamp": 1707594721741,
+    "ranks": {
+      "hundos": 46,
+      "performance": 49,
+      "accessibility": 3,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.34,
+      "accessibility": 0.92,
+      "bestPractices": 0.74,
+      "seo": 0.84,
+      "total": 284
+    },
+    "firstContentfulPaint": 3085.7605000000003,
+    "firstMeaningfulPaint": 5539.2155,
+    "speedIndex": 6999.02761297351,
+    "largestContentfulPaint": 8918.886911132813,
+    "totalBlockingTime": 270.9999999999991,
+    "cumulativeLayoutShift": 0.7503225451812888,
+    "timeToInteractive": 12735.982499999995,
+    "maxPotentialFirstInputDelay": 145.9999999999991,
+    "timeToFirstByte": 57.868,
+    "weight": {
+      "summary": "129 requests • 14,9 MiB",
+      "total": 15615990,
+      "image": 887871,
+      "imageCount": 31,
+      "script": 1150048,
+      "scriptCount": 44,
+      "document": 25556,
+      "font": 264948,
+      "fontCount": 6,
+      "stylesheet": 87343,
+      "stylesheetCount": 14,
+      "thirdParty": 15451495,
+      "thirdPartyCount": 17
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 5,
+      "-weight.document": 34,
+      "+weight.document": 17,
+      "-weight.script": 33,
+      "+weight.script": 13,
+      "-weight.image": 29,
+      "+weight.image": 20,
+      "-weight.font": 3,
+      "+weight.font": 24,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/mode-maroquinerie/kenzo/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/mode-maroquinerie/kenzo/",
+    "timestamp": 1707593425691,
+    "ranks": {
+      "hundos": 48,
+      "performance": 48,
+      "accessibility": 11,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.35,
+      "accessibility": 0.89,
+      "bestPractices": 0.74,
+      "seo": 0.84,
+      "total": 282
+    },
+    "firstContentfulPaint": 3052.6130000000003,
+    "firstMeaningfulPaint": 5070.8505000000005,
+    "speedIndex": 8218.836137966407,
+    "largestContentfulPaint": 10486.504000000004,
+    "totalBlockingTime": 218.5,
+    "cumulativeLayoutShift": 0.7536866157057633,
+    "timeToInteractive": 12778.594000000001,
+    "maxPotentialFirstInputDelay": 158,
+    "timeToFirstByte": 52.010999999999996,
+    "weight": {
+      "summary": "145 requests • 18,3 MiB",
+      "total": 19154380,
+      "image": 2141948,
+      "imageCount": 29,
+      "script": 1150284,
+      "scriptCount": 44,
+      "document": 25304,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 87354,
+      "stylesheetCount": 14,
+      "thirdParty": 18990110,
+      "thirdPartyCount": 16
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 3,
+      "-weight.document": 32,
+      "+weight.document": 19,
+      "-weight.script": 37,
+      "+weight.script": 9,
+      "-weight.image": 38,
+      "+weight.image": 11,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/les-maisons/autres-activites/royal-van-lent/",
+    "requestedUrl": "https://www.lvmh.fr/les-maisons/autres-activites/royal-van-lent/",
+    "timestamp": 1707594118844,
+    "ranks": {
+      "hundos": 49,
+      "performance": 50,
+      "accessibility": 4,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.32,
+      "accessibility": 0.91,
+      "bestPractices": 0.7,
+      "seo": 0.84,
+      "total": 277
+    },
+    "firstContentfulPaint": 3050.5435000000007,
+    "firstMeaningfulPaint": 4988.163499999999,
+    "speedIndex": 6653.796521931398,
+    "largestContentfulPaint": 8905.494911132813,
+    "totalBlockingTime": 309,
+    "cumulativeLayoutShift": 1.2552307950864308,
+    "timeToInteractive": 13270.5215,
+    "maxPotentialFirstInputDelay": 150,
+    "timeToFirstByte": 43.335,
+    "weight": {
+      "summary": "122 requests • 3,0 MiB",
+      "total": 3148483,
+      "image": 1573191,
+      "imageCount": 30,
+      "script": 1150077,
+      "scriptCount": 44,
+      "document": 25946,
+      "font": 264953,
+      "fontCount": 6,
+      "stylesheet": 87353,
+      "stylesheetCount": 14,
+      "thirdParty": 2983610,
+      "thirdPartyCount": 14
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 19,
+      "-weight.document": 36,
+      "+weight.document": 15,
+      "-weight.script": 35,
+      "+weight.script": 11,
+      "-weight.image": 34,
+      "+weight.image": 15,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/talents/nos-metiers/retail/",
+    "requestedUrl": "https://www.lvmh.fr/talents/nos-metiers/retail/",
+    "timestamp": 1707594763364,
+    "ranks": {
+      "hundos": 50,
+      "performance": 39,
+      "accessibility": 47,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.48,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.77,
+      "total": 273
+    },
+    "firstContentfulPaint": 2965.8160000000003,
+    "firstMeaningfulPaint": 5283.1720000000005,
+    "speedIndex": 9356.779141745445,
+    "largestContentfulPaint": 12028.602000000003,
+    "totalBlockingTime": 526.5,
+    "cumulativeLayoutShift": 0.047573304475322944,
+    "timeToInteractive": 15809.107999999997,
+    "maxPotentialFirstInputDelay": 532,
+    "timeToFirstByte": 41.874000000000024,
+    "weight": {
+      "summary": "145 requests • 4,0 MiB",
+      "total": 4148878,
+      "image": 2538258,
+      "imageCount": 42,
+      "script": 1168891,
+      "scriptCount": 47,
+      "document": 25513,
+      "font": 279068,
+      "fontCount": 6,
+      "stylesheet": 85045,
+      "stylesheetCount": 13,
+      "thirdParty": 3984416,
+      "thirdPartyCount": 15
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 14,
+      "-weight.document": 33,
+      "+weight.document": 18,
+      "-weight.script": 38,
+      "+weight.script": 8,
+      "-weight.image": 41,
+      "+weight.image": 8,
+      "-weight.font": 11,
+      "+weight.font": 16,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 50,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "error": "{}"
+    }
+  }
+]

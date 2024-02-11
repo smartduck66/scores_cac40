@@ -1,0 +1,3218 @@
+[
+  {
+    "url": "https://www.michelin.com/",
+    "requestedUrl": "https://www.michelin.com/",
+    "timestamp": 1707553440706,
+    "ranks": {
+      "hundos": 1,
+      "performance": 6,
+      "accessibility": 17,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 346
+    },
+    "firstContentfulPaint": 5392.2925,
+    "firstMeaningfulPaint": 5870.983,
+    "speedIndex": 5392.2925,
+    "largestContentfulPaint": 8651.5255,
+    "totalBlockingTime": 135.7820000000006,
+    "cumulativeLayoutShift": 0.02559568397208183,
+    "timeToInteractive": 7876.525499999999,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 60.399,
+    "weight": {
+      "summary": "62 requests • 1,5 MiB",
+      "total": 1579643,
+      "image": 763314,
+      "imageCount": 15,
+      "script": 533641,
+      "scriptCount": 27,
+      "document": 58324,
+      "font": 74372,
+      "fontCount": 3,
+      "stylesheet": 146755,
+      "stylesheetCount": 14,
+      "thirdParty": 332551,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 32,
+      "-weight.document": 4,
+      "+weight.document": 45,
+      "-weight.script": 13,
+      "+weight.script": 34,
+      "-weight.image": 34,
+      "+weight.image": 15,
+      "-weight.font": 2,
+      "+weight.font": 26,
+      "+weight.fontCount": 14,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 1021,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.michelin.com/activites/materiaux-haute-technologie/produits-caoutchouc/",
+    "requestedUrl": "https://www.michelin.com/activites/materiaux-haute-technologie/produits-caoutchouc/",
+    "timestamp": 1707552765896,
+    "ranks": {
+      "hundos": 3,
+      "performance": 10,
+      "accessibility": 5,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 345
+    },
+    "firstContentfulPaint": 5709.9490000000005,
+    "firstMeaningfulPaint": 5709.9490000000005,
+    "speedIndex": 5709.9490000000005,
+    "largestContentfulPaint": 10352.744499999999,
+    "totalBlockingTime": 153,
+    "cumulativeLayoutShift": 0.022613006955777053,
+    "timeToInteractive": 10586.07625,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 62.42400000000001,
+    "weight": {
+      "summary": "72 requests • 1,5 MiB",
+      "total": 1558900,
+      "image": 329104,
+      "imageCount": 5,
+      "script": 813019,
+      "scriptCount": 37,
+      "document": 94756,
+      "font": 100157,
+      "fontCount": 4,
+      "stylesheet": 218492,
+      "stylesheetCount": 19,
+      "thirdParty": 589504,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 35,
+      "-weight.document": 10,
+      "+weight.document": 39,
+      "-weight.script": 21,
+      "+weight.script": 26,
+      "-weight.image": 15,
+      "+weight.image": 34,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 897,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/actionnaires-individuels/actionnaire-michelin/",
+    "requestedUrl": "https://www.michelin.com/finance/actionnaires-individuels/actionnaire-michelin/",
+    "timestamp": 1707553379162,
+    "ranks": {
+      "hundos": 2,
+      "performance": 9,
+      "accessibility": 15,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 345
+    },
+    "firstContentfulPaint": 5674.967499999999,
+    "firstMeaningfulPaint": 7120.0305,
+    "speedIndex": 5674.967499999999,
+    "largestContentfulPaint": 10773.464000000002,
+    "totalBlockingTime": 117.5,
+    "cumulativeLayoutShift": 0.07282722525767153,
+    "timeToInteractive": 10637.655999999999,
+    "maxPotentialFirstInputDelay": 84,
+    "timeToFirstByte": 64.451,
+    "weight": {
+      "summary": "78 requests • 1,6 MiB",
+      "total": 1695382,
+      "image": 430317,
+      "imageCount": 10,
+      "script": 819989,
+      "scriptCount": 37,
+      "document": 97859,
+      "font": 125135,
+      "fontCount": 5,
+      "stylesheet": 218710,
+      "stylesheetCount": 19,
+      "thirdParty": 597480,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 30,
+      "-weight.document": 17,
+      "+weight.document": 32,
+      "-weight.script": 23,
+      "+weight.script": 24,
+      "-weight.image": 19,
+      "+weight.image": 30,
+      "-weight.font": 17,
+      "+weight.font": 11,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1122,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.michelin.com/le-groupe-michelin/gouvernance/biographies-dirigeants/pierre-louis-dubourdeau/",
+    "requestedUrl": "https://www.michelin.com/le-groupe-michelin/gouvernance/biographies-dirigeants/pierre-louis-dubourdeau/",
+    "timestamp": 1707553246881,
+    "ranks": {
+      "hundos": 4,
+      "performance": 15,
+      "accessibility": 11,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 344
+    },
+    "firstContentfulPaint": 4814.914000000001,
+    "firstMeaningfulPaint": 4814.914000000001,
+    "speedIndex": 9763.625031293315,
+    "largestContentfulPaint": 7594.772500000001,
+    "totalBlockingTime": 90.5,
+    "cumulativeLayoutShift": 0.038679116213217686,
+    "timeToInteractive": 7669.772500000001,
+    "maxPotentialFirstInputDelay": 127,
+    "timeToFirstByte": 3982.1820000000002,
+    "weight": {
+      "summary": "52 requests • 1,1 MiB",
+      "total": 1174494,
+      "image": 370187,
+      "imageCount": 6,
+      "script": 521480,
+      "scriptCount": 26,
+      "document": 57728,
+      "font": 74898,
+      "fontCount": 3,
+      "stylesheet": 146965,
+      "stylesheetCount": 14,
+      "thirdParty": 325594,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 43,
+      "-weight.document": 3,
+      "+weight.document": 46,
+      "-weight.script": 9,
+      "+weight.script": 38,
+      "-weight.image": 16,
+      "+weight.image": 33,
+      "-weight.font": 3,
+      "+weight.font": 25,
+      "+weight.fontCount": 14,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 851,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/le-groupe-michelin/nos-engagements/",
+    "requestedUrl": "https://www.michelin.com/le-groupe-michelin/nos-engagements/",
+    "timestamp": 1707554312462,
+    "ranks": {
+      "hundos": 6,
+      "performance": 5,
+      "accessibility": 14,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.93,
+      "bestPractices": 0.96,
+      "seo": 0.93,
+      "total": 343
+    },
+    "firstContentfulPaint": 5308.646,
+    "firstMeaningfulPaint": 5308.646,
+    "speedIndex": 5308.646,
+    "largestContentfulPaint": 10176.463,
+    "totalBlockingTime": 87.5,
+    "cumulativeLayoutShift": 0.022781817028170632,
+    "timeToInteractive": 7253.130999999998,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 64.84800000000001,
+    "weight": {
+      "summary": "53 requests • 1,5 MiB",
+      "total": 1529057,
+      "image": 719081,
+      "imageCount": 8,
+      "script": 509646,
+      "scriptCount": 25,
+      "document": 56802,
+      "font": 100157,
+      "fontCount": 4,
+      "stylesheet": 140134,
+      "stylesheetCount": 13,
+      "thirdParty": 325601,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 36,
+      "-weight.document": 2,
+      "+weight.document": 47,
+      "-weight.script": 4,
+      "+weight.script": 43,
+      "-weight.image": 32,
+      "+weight.image": 17,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 847,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.michelin.com/innovation/",
+    "requestedUrl": "https://www.michelin.com/innovation/",
+    "timestamp": 1707554023053,
+    "ranks": {
+      "hundos": 5,
+      "performance": 3,
+      "accessibility": 40,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.88,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 343
+    },
+    "firstContentfulPaint": 4973.5470000000005,
+    "firstMeaningfulPaint": 4973.5470000000005,
+    "speedIndex": 4973.5470000000005,
+    "largestContentfulPaint": 8679.5475,
+    "totalBlockingTime": 92.5,
+    "cumulativeLayoutShift": 0.0014779999571990993,
+    "timeToInteractive": 8200.0475,
+    "maxPotentialFirstInputDelay": 126,
+    "timeToFirstByte": 66.524,
+    "weight": {
+      "summary": "55 requests • 1,6 MiB",
+      "total": 1637101,
+      "image": 775915,
+      "imageCount": 7,
+      "script": 522258,
+      "scriptCount": 26,
+      "document": 62402,
+      "font": 125370,
+      "fontCount": 5,
+      "stylesheet": 147920,
+      "stylesheetCount": 14,
+      "thirdParty": 325606,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 31,
+      "-weight.document": 7,
+      "+weight.document": 42,
+      "-weight.script": 10,
+      "+weight.script": 37,
+      "-weight.image": 36,
+      "+weight.image": 13,
+      "-weight.font": 18,
+      "+weight.font": 10,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 1250,
+      "violations": 20
+    }
+  },
+  {
+    "url": "https://www.michelin.com/le-groupe-michelin/gouvernance/biographies-dirigeants/benedicte-de-bonnechose/",
+    "requestedUrl": "https://www.michelin.com/en/michelin-group/governance/executive-biographies/benedicte-de-bonnechose/",
+    "timestamp": 1707553901617,
+    "ranks": {
+      "hundos": 7,
+      "performance": 19,
+      "accessibility": 10,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 342
+    },
+    "firstContentfulPaint": 7397.371500000002,
+    "firstMeaningfulPaint": 7397.371500000002,
+    "speedIndex": 7397.371500000002,
+    "largestContentfulPaint": 9378.566000000003,
+    "totalBlockingTime": 91.5,
+    "cumulativeLayoutShift": 0.0932309980932815,
+    "timeToInteractive": 9374.454000000002,
+    "maxPotentialFirstInputDelay": 172,
+    "timeToFirstByte": 72.142,
+    "weight": {
+      "summary": "108 requests • 1,2 MiB",
+      "total": 1287878,
+      "image": 407992,
+      "imageCount": 13,
+      "script": 533352,
+      "scriptCount": 52,
+      "document": 114460,
+      "font": 74898,
+      "fontCount": 9,
+      "stylesheet": 153895,
+      "stylesheetCount": 28,
+      "thirdParty": 325960,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 42,
+      "-weight.document": 24,
+      "+weight.document": 25,
+      "-weight.script": 12,
+      "+weight.script": 35,
+      "-weight.image": 17,
+      "+weight.image": 32,
+      "-weight.font": 3,
+      "+weight.font": 25,
+      "+weight.fontCount": 9,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 864,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/actualites/media-day-michelin-2021/vers-un-pneu-100-durable/",
+    "requestedUrl": "https://www.michelin.com/actualites/media-day-michelin-2021/vers-un-pneu-100-durable/",
+    "timestamp": 1707554325144,
+    "ranks": {
+      "hundos": 8,
+      "performance": 4,
+      "accessibility": 42,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.88,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 342
+    },
+    "firstContentfulPaint": 4547.7825,
+    "firstMeaningfulPaint": 4547.7825,
+    "speedIndex": 4703.097636568623,
+    "largestContentfulPaint": 11245.034522750855,
+    "totalBlockingTime": 150,
+    "cumulativeLayoutShift": 0.006295345429284506,
+    "timeToInteractive": 11088.189000000002,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 60.562,
+    "weight": {
+      "summary": "82 requests • 1,9 MiB",
+      "total": 2023118,
+      "image": 789058,
+      "imageCount": 12,
+      "script": 836139,
+      "scriptCount": 40,
+      "document": 96437,
+      "font": 74900,
+      "fontCount": 3,
+      "stylesheet": 223212,
+      "stylesheetCount": 20,
+      "thirdParty": 588292,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 18,
+      "-weight.document": 14,
+      "+weight.document": 35,
+      "-weight.script": 37,
+      "+weight.script": 10,
+      "-weight.image": 37,
+      "+weight.image": 12,
+      "-weight.font": 4,
+      "+weight.font": 24,
+      "+weight.fontCount": 14,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 1277,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/mobilite-durable/mobilite-sure/",
+    "requestedUrl": "https://www.michelin.com/developpement-mobilite-durables/mobilite-durable/mobilite-sure/",
+    "timestamp": 1707552823604,
+    "ranks": {
+      "hundos": 10,
+      "performance": 8,
+      "accessibility": 32,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.88,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 340
+    },
+    "firstContentfulPaint": 5399.7125,
+    "firstMeaningfulPaint": 5399.7125,
+    "speedIndex": 5517.897995138808,
+    "largestContentfulPaint": 11425.62204550171,
+    "totalBlockingTime": 155,
+    "cumulativeLayoutShift": 0.007566514083223556,
+    "timeToInteractive": 11517.5015,
+    "maxPotentialFirstInputDelay": 121,
+    "timeToFirstByte": 76.25900000000001,
+    "weight": {
+      "summary": "73 requests • 1,6 MiB",
+      "total": 1709998,
+      "image": 454148,
+      "imageCount": 5,
+      "script": 813038,
+      "scriptCount": 37,
+      "document": 95300,
+      "font": 125653,
+      "fontCount": 5,
+      "stylesheet": 218487,
+      "stylesheetCount": 19,
+      "thirdParty": 589171,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 28,
+      "-weight.document": 12,
+      "+weight.document": 37,
+      "-weight.script": 22,
+      "+weight.script": 25,
+      "-weight.image": 23,
+      "+weight.image": 26,
+      "-weight.font": 19,
+      "+weight.font": 9,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 967,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/activites/experiences-mobilite/cartes-applis-voyage/",
+    "requestedUrl": "https://www.michelin.com/activites/experiences-mobilite/cartes-applis-voyage/",
+    "timestamp": 1707553522293,
+    "ranks": {
+      "hundos": 11,
+      "performance": 12,
+      "accessibility": 30,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 340
+    },
+    "firstContentfulPaint": 6140.028750000001,
+    "firstMeaningfulPaint": 7085.7335,
+    "speedIndex": 6140.028750000001,
+    "largestContentfulPaint": 10872.538522750854,
+    "totalBlockingTime": 157,
+    "cumulativeLayoutShift": 0.05065010107627637,
+    "timeToInteractive": 10833.453,
+    "maxPotentialFirstInputDelay": 160,
+    "timeToFirstByte": 58.28800000000001,
+    "weight": {
+      "summary": "74 requests • 1,4 MiB",
+      "total": 1508708,
+      "image": 174709,
+      "imageCount": 5,
+      "script": 820177,
+      "scriptCount": 37,
+      "document": 95709,
+      "font": 180781,
+      "fontCount": 5,
+      "stylesheet": 233960,
+      "stylesheetCount": 20,
+      "thirdParty": 596637,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 37,
+      "-weight.document": 13,
+      "+weight.document": 36,
+      "-weight.script": 26,
+      "+weight.script": 21,
+      "-weight.image": 9,
+      "+weight.image": 40,
+      "-weight.font": 26,
+      "+weight.font": 2,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 1019,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/actionnaires-individuels/",
+    "requestedUrl": "https://www.michelin.com/finance/actionnaires-individuels/",
+    "timestamp": 1707553402547,
+    "ranks": {
+      "hundos": 9,
+      "performance": 2,
+      "accessibility": 23,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.91,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 340
+    },
+    "firstContentfulPaint": 4828.667,
+    "firstMeaningfulPaint": 4828.667,
+    "speedIndex": 4828.667,
+    "largestContentfulPaint": 7885.495999999999,
+    "totalBlockingTime": 52,
+    "cumulativeLayoutShift": 0.03475308184939797,
+    "timeToInteractive": 7481.495999999999,
+    "maxPotentialFirstInputDelay": 76,
+    "timeToFirstByte": 73.42899999999999,
+    "weight": {
+      "summary": "57 requests • 952,9 KiB",
+      "total": 975751,
+      "image": 136488,
+      "imageCount": 10,
+      "script": 528481,
+      "scriptCount": 26,
+      "document": 60681,
+      "font": 99878,
+      "fontCount": 4,
+      "stylesheet": 146986,
+      "stylesheetCount": 14,
+      "thirdParty": 332576,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 47,
+      "-weight.document": 6,
+      "+weight.document": 43,
+      "-weight.script": 11,
+      "+weight.script": 36,
+      "-weight.image": 5,
+      "+weight.image": 44,
+      "-weight.font": 10,
+      "+weight.font": 18,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 1201,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.michelin.com/innovation/concept-vision/connecte/",
+    "requestedUrl": "https://www.michelin.com/en/innovation/vision-concept/connected/",
+    "timestamp": 1707552835714,
+    "ranks": {
+      "hundos": 12,
+      "performance": 27,
+      "accessibility": 8,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 338
+    },
+    "firstContentfulPaint": 8420.797499999997,
+    "firstMeaningfulPaint": 8420.797499999997,
+    "speedIndex": 8420.797499999997,
+    "largestContentfulPaint": 12586.035250000004,
+    "totalBlockingTime": 184.49999999999818,
+    "cumulativeLayoutShift": 0.08741055578395762,
+    "timeToInteractive": 11929.597749999994,
+    "maxPotentialFirstInputDelay": 169.99999999999818,
+    "timeToFirstByte": 66.015,
+    "weight": {
+      "summary": "154 requests • 1,6 MiB",
+      "total": 1698596,
+      "image": 432732,
+      "imageCount": 22,
+      "script": 825074,
+      "scriptCount": 70,
+      "document": 162341,
+      "font": 49394,
+      "fontCount": 15,
+      "stylesheet": 225638,
+      "stylesheetCount": 36,
+      "thirdParty": 590113,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 29,
+      "-weight.document": 42,
+      "+weight.document": 7,
+      "-weight.script": 33,
+      "+weight.script": 14,
+      "-weight.image": 20,
+      "+weight.image": 29,
+      "-weight.font": 1,
+      "+weight.font": 27,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 1123,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/actualites/publications/",
+    "requestedUrl": "https://www.michelin.com/actualites/publications/",
+    "timestamp": 1707554121796,
+    "ranks": {
+      "hundos": 13,
+      "performance": 14,
+      "accessibility": 21,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.91,
+      "bestPractices": 0.96,
+      "seo": 0.93,
+      "total": 338
+    },
+    "firstContentfulPaint": 3965.059,
+    "firstMeaningfulPaint": 3965.059,
+    "speedIndex": 8682.718290008228,
+    "largestContentfulPaint": 14521.997,
+    "totalBlockingTime": 93.46399999999949,
+    "cumulativeLayoutShift": 0.0014844781892214632,
+    "timeToInteractive": 9400.042000000001,
+    "maxPotentialFirstInputDelay": 128,
+    "timeToFirstByte": 2392.1259999999997,
+    "weight": {
+      "summary": "53 requests • 2,4 MiB",
+      "total": 2519521,
+      "image": 1717046,
+      "imageCount": 9,
+      "script": 504139,
+      "scriptCount": 24,
+      "document": 54808,
+      "font": 100157,
+      "fontCount": 4,
+      "stylesheet": 140134,
+      "stylesheetCount": 13,
+      "thirdParty": 325608,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 11,
+      "-weight.document": 1,
+      "+weight.document": 48,
+      "-weight.script": 1,
+      "+weight.script": 46,
+      "-weight.image": 45,
+      "+weight.image": 4,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 806,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/actionnaires-individuels/capsules-thematiques/",
+    "requestedUrl": "https://www.michelin.com/en/finance/individual-shareholders/capsule/",
+    "timestamp": 1707554010478,
+    "ranks": {
+      "hundos": 15,
+      "performance": 30,
+      "accessibility": 3,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 337
+    },
+    "firstContentfulPaint": 11098.293249999997,
+    "firstMeaningfulPaint": 11098.293249999997,
+    "speedIndex": 11098.293249999997,
+    "largestContentfulPaint": 19176.10127275085,
+    "totalBlockingTime": 171,
+    "cumulativeLayoutShift": 0.08675858920082533,
+    "timeToInteractive": 22858.70274999999,
+    "maxPotentialFirstInputDelay": 175,
+    "timeToFirstByte": 184.214,
+    "weight": {
+      "summary": "181 requests • 15,4 MiB",
+      "total": 16134377,
+      "image": 14788728,
+      "imageCount": 42,
+      "script": 825048,
+      "scriptCount": 72,
+      "document": 189603,
+      "font": 100154,
+      "fontCount": 19,
+      "stylesheet": 227428,
+      "stylesheetCount": 37,
+      "thirdParty": 618973,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 1,
+      "-weight.document": 45,
+      "+weight.document": 4,
+      "-weight.script": 31,
+      "+weight.script": 16,
+      "-weight.image": 48,
+      "+weight.image": 1,
+      "-weight.font": 11,
+      "+weight.font": 17,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 1284,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.michelin.com/activites/services-autour-pneu/mobilite-connectee/",
+    "requestedUrl": "https://www.michelin.com/activites/services-autour-pneu/mobilite-connectee/",
+    "timestamp": 1707554618282,
+    "ranks": {
+      "hundos": 14,
+      "performance": 1,
+      "accessibility": 43,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.88,
+      "bestPractices": 0.93,
+      "seo": 0.93,
+      "total": 337
+    },
+    "firstContentfulPaint": 4092.1639999999998,
+    "firstMeaningfulPaint": 5189.329999999999,
+    "speedIndex": 4280.244147988573,
+    "largestContentfulPaint": 9323.636000000002,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.08361438684764155,
+    "timeToInteractive": 9348.003250000002,
+    "maxPotentialFirstInputDelay": 79,
+    "timeToFirstByte": 67.012,
+    "weight": {
+      "summary": "66 requests • 1,4 MiB",
+      "total": 1501705,
+      "image": 445581,
+      "imageCount": 13,
+      "script": 613354,
+      "scriptCount": 28,
+      "document": 69163,
+      "font": 205759,
+      "fontCount": 6,
+      "stylesheet": 164611,
+      "stylesheetCount": 15,
+      "thirdParty": 419360,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 38,
+      "-weight.document": 9,
+      "+weight.document": 40,
+      "-weight.script": 14,
+      "+weight.script": 33,
+      "-weight.image": 21,
+      "+weight.image": 28,
+      "-weight.font": 27,
+      "+weight.font": 1,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 1870,
+      "violations": 36
+    }
+  },
+  {
+    "url": "https://www.michelin.com/innovation/open-innovation/open-innovation/",
+    "requestedUrl": "https://www.michelin.com/en/innovation/open-innovation/open-innovation/",
+    "timestamp": 1707553633403,
+    "ranks": {
+      "hundos": 17,
+      "performance": 33,
+      "accessibility": 4,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 336
+    },
+    "firstContentfulPaint": 8544.9975,
+    "firstMeaningfulPaint": 8544.9975,
+    "speedIndex": 8544.9975,
+    "largestContentfulPaint": 11178.197499999998,
+    "totalBlockingTime": 250.7609999999986,
+    "cumulativeLayoutShift": 0.0941591565118209,
+    "timeToInteractive": 11223.978499999997,
+    "maxPotentialFirstInputDelay": 179.99999999999818,
+    "timeToFirstByte": 63.576,
+    "weight": {
+      "summary": "165 requests • 1,5 MiB",
+      "total": 1572872,
+      "image": 244033,
+      "imageCount": 26,
+      "script": 824876,
+      "scriptCount": 71,
+      "document": 161815,
+      "font": 113334,
+      "fontCount": 21,
+      "stylesheet": 225397,
+      "stylesheetCount": 36,
+      "thirdParty": 602461,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 33,
+      "-weight.document": 41,
+      "+weight.document": 8,
+      "-weight.script": 30,
+      "+weight.script": 17,
+      "-weight.image": 14,
+      "+weight.image": 35,
+      "-weight.font": 16,
+      "+weight.font": 12,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1038,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.michelin.com/innovation/open-innovation/",
+    "requestedUrl": "https://www.michelin.com/en/innovation/open-innovation/",
+    "timestamp": 1707552754435,
+    "ranks": {
+      "hundos": 16,
+      "performance": 21,
+      "accessibility": 13,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.93,
+      "bestPractices": 0.96,
+      "seo": 0.93,
+      "total": 336
+    },
+    "firstContentfulPaint": 7157.211500000001,
+    "firstMeaningfulPaint": 7157.211500000001,
+    "speedIndex": 7157.211500000001,
+    "largestContentfulPaint": 8900.52175,
+    "totalBlockingTime": 146.87824999999975,
+    "cumulativeLayoutShift": 0.106624010540933,
+    "timeToInteractive": 8837.565000000002,
+    "maxPotentialFirstInputDelay": 233.9999999999991,
+    "timeToFirstByte": 60.628,
+    "weight": {
+      "summary": "108 requests • 1,0 MiB",
+      "total": 1095277,
+      "image": 229267,
+      "imageCount": 15,
+      "script": 509667,
+      "scriptCount": 50,
+      "document": 112771,
+      "font": 100157,
+      "fontCount": 11,
+      "stylesheet": 140133,
+      "stylesheetCount": 26,
+      "thirdParty": 325972,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 44,
+      "-weight.document": 23,
+      "+weight.document": 26,
+      "-weight.script": 6,
+      "+weight.script": 41,
+      "-weight.image": 12,
+      "+weight.image": 37,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 854,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.michelin.com/le-groupe-michelin/nous-connaitre/croissance-externe/",
+    "requestedUrl": "https://www.michelin.com/en/michelin-group/about-us/external-growth/",
+    "timestamp": 1707554190570,
+    "ranks": {
+      "hundos": 21,
+      "performance": 38,
+      "accessibility": 7,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 335
+    },
+    "firstContentfulPaint": 9212.210999999996,
+    "firstMeaningfulPaint": 9212.210999999996,
+    "speedIndex": 9212.210999999996,
+    "largestContentfulPaint": 12099.112,
+    "totalBlockingTime": 233,
+    "cumulativeLayoutShift": 0.1048743715400485,
+    "timeToInteractive": 12524.400999999998,
+    "maxPotentialFirstInputDelay": 171,
+    "timeToFirstByte": 66.50999999999999,
+    "weight": {
+      "summary": "147 requests • 1,9 MiB",
+      "total": 1955157,
+      "image": 641067,
+      "imageCount": 11,
+      "script": 823842,
+      "scriptCount": 70,
+      "document": 161560,
+      "font": 100157,
+      "fontCount": 19,
+      "stylesheet": 225114,
+      "stylesheetCount": 36,
+      "thirdParty": 588109,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 20,
+      "-weight.document": 40,
+      "+weight.document": 9,
+      "-weight.script": 28,
+      "+weight.script": 19,
+      "-weight.image": 30,
+      "+weight.image": 19,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 1032,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.michelin.com/actualites/news/",
+    "requestedUrl": "https://www.michelin.com/en/newsroom/news/",
+    "timestamp": 1707553452586,
+    "ranks": {
+      "hundos": 19,
+      "performance": 20,
+      "accessibility": 19,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.91,
+      "bestPractices": 0.96,
+      "seo": 0.93,
+      "total": 335
+    },
+    "firstContentfulPaint": 7141.467000000002,
+    "firstMeaningfulPaint": 7141.467000000002,
+    "speedIndex": 7141.467000000002,
+    "largestContentfulPaint": 13608.756000000003,
+    "totalBlockingTime": 132.5,
+    "cumulativeLayoutShift": 0.08342976059450222,
+    "timeToInteractive": 8438.532250000004,
+    "maxPotentialFirstInputDelay": 238,
+    "timeToFirstByte": 61.705,
+    "weight": {
+      "summary": "102 requests • 2,0 MiB",
+      "total": 2109402,
+      "image": 1245878,
+      "imageCount": 10,
+      "script": 509641,
+      "scriptCount": 49,
+      "document": 110326,
+      "font": 100154,
+      "fontCount": 11,
+      "stylesheet": 140122,
+      "stylesheetCount": 26,
+      "thirdParty": 325967,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 16,
+      "-weight.document": 21,
+      "+weight.document": 28,
+      "-weight.script": 3,
+      "+weight.script": 44,
+      "-weight.image": 42,
+      "+weight.image": 7,
+      "-weight.font": 11,
+      "+weight.font": 17,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 772,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/actualites/actualites-conflit-ukraine/",
+    "requestedUrl": "https://www.michelin.com/actualites/actualites-conflit-ukraine/",
+    "timestamp": 1707553284144,
+    "ranks": {
+      "hundos": 18,
+      "performance": 13,
+      "accessibility": 22,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.91,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 335
+    },
+    "firstContentfulPaint": 6492.018499999998,
+    "firstMeaningfulPaint": 6492.018499999998,
+    "speedIndex": 6492.018499999998,
+    "largestContentfulPaint": 13323.248500000002,
+    "totalBlockingTime": 132.5,
+    "cumulativeLayoutShift": 0.05076469198609897,
+    "timeToInteractive": 12457.514022750855,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 64.34100000000001,
+    "weight": {
+      "summary": "77 requests • 2,1 MiB",
+      "total": 2252701,
+      "image": 1015820,
+      "imageCount": 10,
+      "script": 819995,
+      "scriptCount": 37,
+      "document": 94868,
+      "font": 100157,
+      "fontCount": 4,
+      "stylesheet": 218489,
+      "stylesheetCount": 19,
+      "thirdParty": 596468,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 15,
+      "-weight.document": 11,
+      "+weight.document": 38,
+      "-weight.script": 24,
+      "+weight.script": 23,
+      "-weight.image": 41,
+      "+weight.image": 8,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 985,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/pour-une-mobilite-durable/",
+    "requestedUrl": "https://www.michelin.com/developpement-mobilite-durables/pour-une-mobilite-durable/",
+    "timestamp": 1707553776545,
+    "ranks": {
+      "hundos": 20,
+      "performance": 17,
+      "accessibility": 16,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 335
+    },
+    "firstContentfulPaint": 6208.511500000001,
+    "firstMeaningfulPaint": 6208.511500000001,
+    "speedIndex": 6208.511500000001,
+    "largestContentfulPaint": 10304.127000000004,
+    "totalBlockingTime": 204.2365000000009,
+    "cumulativeLayoutShift": 0.036372359672853766,
+    "timeToInteractive": 10809.400500000003,
+    "maxPotentialFirstInputDelay": 163.00000000000045,
+    "timeToFirstByte": 77.576,
+    "weight": {
+      "summary": "82 requests • 1,3 MiB",
+      "total": 1373202,
+      "image": 160579,
+      "imageCount": 17,
+      "script": 801356,
+      "scriptCount": 36,
+      "document": 100143,
+      "font": 95905,
+      "fontCount": 4,
+      "stylesheet": 211847,
+      "stylesheetCount": 18,
+      "thirdParty": 611887,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 40,
+      "-weight.document": 19,
+      "+weight.document": 30,
+      "-weight.script": 19,
+      "+weight.script": 28,
+      "-weight.image": 6,
+      "+weight.image": 43,
+      "-weight.font": 5,
+      "+weight.font": 23,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 1405,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/pour-toutes-et-tous/",
+    "requestedUrl": "https://www.michelin.com/developpement-mobilite-durables/pour-toutes-et-tous/",
+    "timestamp": 1707552929048,
+    "ranks": {
+      "hundos": 22,
+      "performance": 16,
+      "accessibility": 1,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.94,
+      "bestPractices": 1,
+      "seo": 0.84,
+      "total": 335
+    },
+    "firstContentfulPaint": 5131.516499999999,
+    "firstMeaningfulPaint": 5131.516499999999,
+    "speedIndex": 5131.516499999999,
+    "largestContentfulPaint": 9000.897999999997,
+    "totalBlockingTime": 260.99999999999955,
+    "cumulativeLayoutShift": 0.028433234817143757,
+    "timeToInteractive": 11054.059249999998,
+    "maxPotentialFirstInputDelay": 135.99999999999955,
+    "timeToFirstByte": 60.888999999999996,
+    "weight": {
+      "summary": "88 requests • 1,3 MiB",
+      "total": 1377078,
+      "image": 161441,
+      "imageCount": 22,
+      "script": 801153,
+      "scriptCount": 36,
+      "document": 99579,
+      "font": 99686,
+      "fontCount": 5,
+      "stylesheet": 211847,
+      "stylesheetCount": 18,
+      "thirdParty": 610663,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 39,
+      "-weight.document": 18,
+      "+weight.document": 31,
+      "-weight.script": 18,
+      "+weight.script": 29,
+      "-weight.image": 7,
+      "+weight.image": 42,
+      "-weight.font": 9,
+      "+weight.font": 19,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 1520,
+      "violations": 18
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/donnees-indicateurs/performances-extra-financieres/",
+    "requestedUrl": "https://www.michelin.com/finance/donnees-indicateurs/performances-extra-financieres/",
+    "timestamp": 1707554591060,
+    "ranks": {
+      "hundos": 23,
+      "performance": 18,
+      "accessibility": 20,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.91,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 333
+    },
+    "firstContentfulPaint": 6594.6810000000005,
+    "firstMeaningfulPaint": 8139.2069999999985,
+    "speedIndex": 6594.6810000000005,
+    "largestContentfulPaint": 12788.78904550171,
+    "totalBlockingTime": 171.9999999999991,
+    "cumulativeLayoutShift": 0.00886236653690846,
+    "timeToInteractive": 12969.811,
+    "maxPotentialFirstInputDelay": 160.9999999999991,
+    "timeToFirstByte": 61.884,
+    "weight": {
+      "summary": "79 requests • 1,9 MiB",
+      "total": 2001381,
+      "image": 648846,
+      "imageCount": 9,
+      "script": 811995,
+      "scriptCount": 37,
+      "document": 97043,
+      "font": 205759,
+      "fontCount": 6,
+      "stylesheet": 234366,
+      "stylesheetCount": 20,
+      "thirdParty": 588537,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 19,
+      "-weight.document": 16,
+      "+weight.document": 33,
+      "-weight.script": 20,
+      "+weight.script": 27,
+      "-weight.image": 31,
+      "+weight.image": 18,
+      "-weight.font": 27,
+      "+weight.font": 1,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 1149,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.michelin.com/actualites/nouveautes-pneus-michelin-2022/atelier-materiaux/",
+    "requestedUrl": "https://www.michelin.com/en/newsroom/2022-new-michelin-tires/tire-materials/",
+    "timestamp": 1707554406152,
+    "ranks": {
+      "hundos": 24,
+      "performance": 35,
+      "accessibility": 29,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.9,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 333
+    },
+    "firstContentfulPaint": 9890.083,
+    "firstMeaningfulPaint": 9890.083,
+    "speedIndex": 9890.083,
+    "largestContentfulPaint": 12447.115500000002,
+    "totalBlockingTime": 224.72091621398886,
+    "cumulativeLayoutShift": 0.09449336575826461,
+    "timeToInteractive": 12755.729500000005,
+    "maxPotentialFirstInputDelay": 177,
+    "timeToFirstByte": 59.158,
+    "weight": {
+      "summary": "155 requests • 2,0 MiB",
+      "total": 2076013,
+      "image": 789660,
+      "imageCount": 20,
+      "script": 823865,
+      "scriptCount": 71,
+      "document": 158272,
+      "font": 74900,
+      "fontCount": 17,
+      "stylesheet": 225899,
+      "stylesheetCount": 36,
+      "thirdParty": 588400,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 17,
+      "-weight.document": 36,
+      "+weight.document": 13,
+      "-weight.script": 29,
+      "+weight.script": 18,
+      "-weight.image": 38,
+      "+weight.image": 11,
+      "-weight.font": 4,
+      "+weight.font": 24,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 1034,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/pour-une-mobilite-durable/pour-une-mobilite-plus-efficiente/",
+    "requestedUrl": "https://www.michelin.com/en/sustainable-development-mobility/working-towards-sustainable-mobility/more-efficient-mobility/",
+    "timestamp": 1707553609044,
+    "ranks": {
+      "hundos": 25,
+      "performance": 23,
+      "accessibility": 18,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.91,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 331
+    },
+    "firstContentfulPaint": 8840.217499999999,
+    "firstMeaningfulPaint": 8840.217499999999,
+    "speedIndex": 8840.217499999999,
+    "largestContentfulPaint": 12422.929499999998,
+    "totalBlockingTime": 179.32849999999962,
+    "cumulativeLayoutShift": 0.051320190807447305,
+    "timeToInteractive": 11461.3145,
+    "maxPotentialFirstInputDelay": 173,
+    "timeToFirstByte": 63.217,
+    "weight": {
+      "summary": "151 requests • 1,7 MiB",
+      "total": 1733309,
+      "image": 409211,
+      "imageCount": 14,
+      "script": 831852,
+      "scriptCount": 71,
+      "document": 163648,
+      "font": 99629,
+      "fontCount": 19,
+      "stylesheet": 225552,
+      "stylesheetCount": 36,
+      "thirdParty": 596301,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 27,
+      "-weight.document": 44,
+      "+weight.document": 5,
+      "-weight.script": 34,
+      "+weight.script": 13,
+      "-weight.image": 18,
+      "+weight.image": 31,
+      "-weight.font": 8,
+      "+weight.font": 20,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 1194,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/pour-toutes-et-tous/ambitions-et-engagements/",
+    "requestedUrl": "https://www.michelin.com/en/sustainable-development-mobility/for-people/ambitions-and-commitments-people/",
+    "timestamp": 1707553874137,
+    "ranks": {
+      "hundos": 26,
+      "performance": 24,
+      "accessibility": 28,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.9,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 330
+    },
+    "firstContentfulPaint": 9326.287000000004,
+    "firstMeaningfulPaint": 9326.287000000004,
+    "speedIndex": 9326.287000000004,
+    "largestContentfulPaint": 13337.104000000005,
+    "totalBlockingTime": 179,
+    "cumulativeLayoutShift": 0.011596790087254066,
+    "timeToInteractive": 13071.176250000004,
+    "maxPotentialFirstInputDelay": 169,
+    "timeToFirstByte": 64.27000000000001,
+    "weight": {
+      "summary": "156 requests • 1,7 MiB",
+      "total": 1821715,
+      "image": 457139,
+      "imageCount": 20,
+      "script": 825049,
+      "scriptCount": 71,
+      "document": 163471,
+      "font": 130016,
+      "fontCount": 17,
+      "stylesheet": 242624,
+      "stylesheetCount": 38,
+      "thirdParty": 589962,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 23,
+      "-weight.document": 43,
+      "+weight.document": 6,
+      "-weight.script": 32,
+      "+weight.script": 15,
+      "-weight.image": 25,
+      "+weight.image": 24,
+      "-weight.font": 21,
+      "+weight.font": 7,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 1364,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/resultats-et-presentations/contacts-investisseurs-analystes/",
+    "requestedUrl": "https://www.michelin.com/en/finance/results-and-presentations/investor-analyst-contacts/",
+    "timestamp": 1707554072013,
+    "ranks": {
+      "hundos": 29,
+      "performance": 43,
+      "accessibility": 2,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.47,
+      "accessibility": 0.93,
+      "bestPractices": 0.96,
+      "seo": 0.93,
+      "total": 329
+    },
+    "firstContentfulPaint": 10064.896,
+    "firstMeaningfulPaint": 10064.896,
+    "speedIndex": 10064.896,
+    "largestContentfulPaint": 11977.591000000002,
+    "totalBlockingTime": 265.4999999999982,
+    "cumulativeLayoutShift": 0.11406383526608449,
+    "timeToInteractive": 12289.609,
+    "maxPotentialFirstInputDelay": 196.99999999999818,
+    "timeToFirstByte": 59.092999999999996,
+    "weight": {
+      "summary": "166 requests • 1,5 MiB",
+      "total": 1567581,
+      "image": 194680,
+      "imageCount": 19,
+      "script": 832032,
+      "scriptCount": 73,
+      "document": 200889,
+      "font": 111022,
+      "fontCount": 20,
+      "stylesheet": 225541,
+      "stylesheetCount": 38,
+      "thirdParty": 640058,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 34,
+      "-weight.document": 48,
+      "+weight.document": 1,
+      "-weight.script": 35,
+      "+weight.script": 12,
+      "-weight.image": 11,
+      "+weight.image": 38,
+      "-weight.font": 14,
+      "+weight.font": 14,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 1965,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.michelin.com/activites/services-autour-pneu/mobilite-connectee/michelin-connected-technologies-lintelligence-du-pneumatiqueen-mouvement/",
+    "requestedUrl": "https://www.michelin.com/en/activities/related-services/connected-mobity/michelin-connected-technologies/",
+    "timestamp": 1707553802480,
+    "ranks": {
+      "hundos": 28,
+      "performance": 40,
+      "accessibility": 31,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.48,
+      "accessibility": 0.88,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 329
+    },
+    "firstContentfulPaint": 10216.9755,
+    "firstMeaningfulPaint": 10216.9755,
+    "speedIndex": 10216.9755,
+    "largestContentfulPaint": 14218.715000000004,
+    "totalBlockingTime": 166.5,
+    "cumulativeLayoutShift": 0.14867189363289587,
+    "timeToInteractive": 13365.398676315313,
+    "maxPotentialFirstInputDelay": 172,
+    "timeToFirstByte": 63.518,
+    "weight": {
+      "summary": "159 requests • 2,8 MiB",
+      "total": 2925405,
+      "image": 1562540,
+      "imageCount": 18,
+      "script": 774597,
+      "scriptCount": 71,
+      "document": 161122,
+      "font": 180781,
+      "fontCount": 21,
+      "stylesheet": 242948,
+      "stylesheetCount": 38,
+      "thirdParty": 538686,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 7,
+      "-weight.document": 39,
+      "+weight.document": 10,
+      "-weight.script": 16,
+      "+weight.script": 31,
+      "-weight.image": 44,
+      "+weight.image": 5,
+      "-weight.font": 26,
+      "+weight.font": 2,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 1059,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/resultats-et-presentations/",
+    "requestedUrl": "https://www.michelin.com/en/finance/results-and-presentations/",
+    "timestamp": 1707552776838,
+    "ranks": {
+      "hundos": 27,
+      "performance": 22,
+      "accessibility": 12,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.93,
+      "bestPractices": 0.96,
+      "seo": 0.86,
+      "total": 329
+    },
+    "firstContentfulPaint": 7183.356499999998,
+    "firstMeaningfulPaint": 7183.356499999998,
+    "speedIndex": 7183.356499999998,
+    "largestContentfulPaint": 9321.145999999999,
+    "totalBlockingTime": 132.5,
+    "cumulativeLayoutShift": 0.10413330558214764,
+    "timeToInteractive": 8995.255999999998,
+    "maxPotentialFirstInputDelay": 236,
+    "timeToFirstByte": 63.229,
+    "weight": {
+      "summary": "112 requests • 1,7 MiB",
+      "total": 1834062,
+      "image": 969151,
+      "imageCount": 20,
+      "script": 509669,
+      "scriptCount": 49,
+      "document": 111670,
+      "font": 100157,
+      "fontCount": 11,
+      "stylesheet": 140133,
+      "stylesheetCount": 26,
+      "thirdParty": 325973,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 21,
+      "-weight.document": 22,
+      "+weight.document": 27,
+      "-weight.script": 7,
+      "+weight.script": 40,
+      "-weight.image": 39,
+      "+weight.image": 10,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 877,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.michelin.com/actualites/media-day-michelin-2021/usage/",
+    "requestedUrl": "https://www.michelin.com/en/newsroom/media-day-michelin-2021/use/",
+    "timestamp": 1707554339475,
+    "ranks": {
+      "hundos": 30,
+      "performance": 25,
+      "accessibility": 41,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.88,
+      "bestPractices": 0.93,
+      "seo": 0.93,
+      "total": 328
+    },
+    "firstContentfulPaint": 9600.955999999998,
+    "firstMeaningfulPaint": 9600.955999999998,
+    "speedIndex": 9600.955999999998,
+    "largestContentfulPaint": 11976.786499999991,
+    "totalBlockingTime": 164,
+    "cumulativeLayoutShift": 0.010570518088848907,
+    "timeToInteractive": 11215.978176315308,
+    "maxPotentialFirstInputDelay": 169.0000000000009,
+    "timeToFirstByte": 63.079,
+    "weight": {
+      "summary": "174 requests • 1,7 MiB",
+      "total": 1794040,
+      "image": 531635,
+      "imageCount": 26,
+      "script": 791511,
+      "scriptCount": 77,
+      "document": 160988,
+      "font": 74900,
+      "fontCount": 21,
+      "stylesheet": 231589,
+      "stylesheetCount": 38,
+      "thirdParty": 530921,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 24,
+      "-weight.document": 38,
+      "+weight.document": 11,
+      "-weight.script": 17,
+      "+weight.script": 30,
+      "-weight.image": 28,
+      "+weight.image": 21,
+      "-weight.font": 4,
+      "+weight.font": 24,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 1345,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/informations-reglementees/opr-sur-siph/",
+    "requestedUrl": "https://www.michelin.com/finance/informations-reglementees/opr-sur-siph/",
+    "timestamp": 1707554166486,
+    "ranks": {
+      "hundos": 31,
+      "performance": 7,
+      "accessibility": 45,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.86,
+      "bestPractices": 0.96,
+      "seo": 0.86,
+      "total": 328
+    },
+    "firstContentfulPaint": 5464.471,
+    "firstMeaningfulPaint": 5464.471,
+    "speedIndex": 5464.471,
+    "largestContentfulPaint": 7442.302000000001,
+    "totalBlockingTime": 161.5,
+    "cumulativeLayoutShift": 0.049431064664736006,
+    "timeToInteractive": 7189.302,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 60.30900000000001,
+    "weight": {
+      "summary": "51 requests • 907,3 KiB",
+      "total": 929044,
+      "image": 100032,
+      "imageCount": 4,
+      "script": 520488,
+      "scriptCount": 26,
+      "document": 58399,
+      "font": 100157,
+      "fontCount": 4,
+      "stylesheet": 146731,
+      "stylesheetCount": 14,
+      "thirdParty": 324581,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 48,
+      "-weight.document": 5,
+      "+weight.document": 44,
+      "-weight.script": 8,
+      "+weight.script": 39,
+      "-weight.image": 1,
+      "+weight.image": 48,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1021,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/informations-reglementees/compagnie-generale-des-etablissements-michelin-amf/",
+    "requestedUrl": "https://www.michelin.com/en/finance/regulated-information/compagnie-generale-des-etablissements-michelin-amf/",
+    "timestamp": 1707553081206,
+    "ranks": {
+      "hundos": 32,
+      "performance": 32,
+      "accessibility": 44,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.86,
+      "bestPractices": 0.96,
+      "seo": 0.93,
+      "total": 325
+    },
+    "firstContentfulPaint": 7670.117,
+    "firstMeaningfulPaint": 7670.117,
+    "speedIndex": 7670.117,
+    "largestContentfulPaint": 8820.069000000001,
+    "totalBlockingTime": 122.5,
+    "cumulativeLayoutShift": 0.16088318059000797,
+    "timeToInteractive": 8491.569000000001,
+    "maxPotentialFirstInputDelay": 233,
+    "timeToFirstByte": 56.314,
+    "weight": {
+      "summary": "100 requests • 1,0 MiB",
+      "total": 1059987,
+      "image": 107961,
+      "imageCount": 8,
+      "script": 509660,
+      "scriptCount": 49,
+      "document": 198794,
+      "font": 100157,
+      "fontCount": 11,
+      "stylesheet": 140133,
+      "stylesheetCount": 26,
+      "thirdParty": 325965,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 45,
+      "-weight.document": 46,
+      "+weight.document": 3,
+      "-weight.script": 5,
+      "+weight.script": 42,
+      "-weight.image": 2,
+      "+weight.image": 47,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 1004,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/action-michelin/fiche-signaletique/",
+    "requestedUrl": "https://www.michelin.com/finance/action-michelin/fiche-signaletique/",
+    "timestamp": 1707554698748,
+    "ranks": {
+      "hundos": 33,
+      "performance": 45,
+      "accessibility": 9,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.42,
+      "accessibility": 0.93,
+      "bestPractices": 0.96,
+      "seo": 0.93,
+      "total": 324
+    },
+    "firstContentfulPaint": 7157.191749999998,
+    "firstMeaningfulPaint": 7157.191749999998,
+    "speedIndex": 7157.191749999998,
+    "largestContentfulPaint": 9937.250999999998,
+    "totalBlockingTime": 84.95500000000175,
+    "cumulativeLayoutShift": 0.3096788716130939,
+    "timeToInteractive": 10012.251,
+    "maxPotentialFirstInputDelay": 706.9999999999995,
+    "timeToFirstByte": 69.17,
+    "weight": {
+      "summary": "81 requests • 1,3 MiB",
+      "total": 1336378,
+      "image": 112088,
+      "imageCount": 6,
+      "script": 761568,
+      "scriptCount": 40,
+      "document": 63498,
+      "font": 104248,
+      "fontCount": 4,
+      "stylesheet": 291739,
+      "stylesheetCount": 28,
+      "thirdParty": 325555,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 41,
+      "-weight.document": 8,
+      "+weight.document": 41,
+      "-weight.script": 15,
+      "+weight.script": 32,
+      "-weight.image": 4,
+      "+weight.image": 45,
+      "-weight.font": 13,
+      "+weight.font": 15,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 946,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/reserve-ecologique-michelin-programme-or-vert-bahia/",
+    "requestedUrl": "https://www.michelin.com/en/michelin-ecological-reserve-green-gold-bahia-project/",
+    "timestamp": 1707553181697,
+    "ranks": {
+      "hundos": 34,
+      "performance": 39,
+      "accessibility": 24,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.9,
+      "bestPractices": 1,
+      "seo": 0.83,
+      "total": 322
+    },
+    "firstContentfulPaint": 14016.002000000026,
+    "firstMeaningfulPaint": 14016.002000000026,
+    "speedIndex": 14016.002000000026,
+    "largestContentfulPaint": 19430.59300000003,
+    "totalBlockingTime": 165.5,
+    "cumulativeLayoutShift": 0.1220706895056678,
+    "timeToInteractive": 18137.83700000003,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 56.788000000000004,
+    "weight": {
+      "summary": "171 requests • 2,2 MiB",
+      "total": 2277414,
+      "image": 775504,
+      "imageCount": 28,
+      "script": 939025,
+      "scriptCount": 73,
+      "document": 159369,
+      "font": 159305,
+      "fontCount": 22,
+      "stylesheet": 240794,
+      "stylesheetCount": 38,
+      "thirdParty": 703991,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 14,
+      "-weight.document": 37,
+      "+weight.document": 12,
+      "-weight.script": 38,
+      "+weight.script": 9,
+      "-weight.image": 35,
+      "+weight.image": 14,
+      "-weight.font": 24,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 1182,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/informations-reglementees/publications-finance/",
+    "requestedUrl": "https://www.michelin.com/en/finance/regulated-information/financial-publications/",
+    "timestamp": 1707554225959,
+    "ranks": {
+      "hundos": 35,
+      "performance": 41,
+      "accessibility": 46,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.47,
+      "accessibility": 0.86,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 320
+    },
+    "firstContentfulPaint": 7376.8515,
+    "firstMeaningfulPaint": 7376.8515,
+    "speedIndex": 7376.8515,
+    "largestContentfulPaint": 8606.622,
+    "totalBlockingTime": 134.5,
+    "cumulativeLayoutShift": 0.20629622570735334,
+    "timeToInteractive": 8129.6219999999985,
+    "maxPotentialFirstInputDelay": 241,
+    "timeToFirstByte": 54.785000000000004,
+    "weight": {
+      "summary": "100 requests • 955,7 KiB",
+      "total": 978682,
+      "image": 107962,
+      "imageCount": 8,
+      "script": 508620,
+      "scriptCount": 49,
+      "document": 118528,
+      "font": 100157,
+      "fontCount": 11,
+      "stylesheet": 140133,
+      "stylesheetCount": 26,
+      "thirdParty": 324926,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 46,
+      "-weight.document": 25,
+      "+weight.document": 24,
+      "-weight.script": 2,
+      "+weight.script": 45,
+      "-weight.image": 3,
+      "+weight.image": 46,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 1196,
+      "violations": 54
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/resultats-et-presentations/journee-investisseurs/",
+    "requestedUrl": "https://www.michelin.com/en/finance/results-and-presentations/capital-markets-day/",
+    "timestamp": 1707553925666,
+    "ranks": {
+      "hundos": 36,
+      "performance": 29,
+      "accessibility": 47,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.83,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 320
+    },
+    "firstContentfulPaint": 9248.246750000002,
+    "firstMeaningfulPaint": 9248.246750000002,
+    "speedIndex": 9248.246750000002,
+    "largestContentfulPaint": 11319.494500000003,
+    "totalBlockingTime": 175.0000000000009,
+    "cumulativeLayoutShift": 0.10661350830217785,
+    "timeToInteractive": 11873.6365,
+    "maxPotentialFirstInputDelay": 172,
+    "timeToFirstByte": 55.017,
+    "weight": {
+      "summary": "155 requests • 1,7 MiB",
+      "total": 1829233,
+      "image": 497888,
+      "imageCount": 16,
+      "script": 832042,
+      "scriptCount": 71,
+      "document": 157248,
+      "font": 113334,
+      "fontCount": 21,
+      "stylesheet": 225304,
+      "stylesheetCount": 36,
+      "thirdParty": 609372,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 22,
+      "-weight.document": 35,
+      "+weight.document": 14,
+      "-weight.script": 36,
+      "+weight.script": 11,
+      "-weight.image": 27,
+      "+weight.image": 22,
+      "-weight.font": 16,
+      "+weight.font": 12,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 956,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.michelin.com/le-groupe-michelin/raison-etre/valeurs/",
+    "requestedUrl": "https://www.michelin.com/en/michelin-group/purpose/values/",
+    "timestamp": 1707554352075,
+    "ranks": {
+      "hundos": 37,
+      "performance": 34,
+      "accessibility": 33,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.88,
+      "bestPractices": 0.93,
+      "seo": 0.86,
+      "total": 317
+    },
+    "firstContentfulPaint": 9202.873,
+    "firstMeaningfulPaint": 9202.873,
+    "speedIndex": 9202.873,
+    "largestContentfulPaint": 12711.170999999998,
+    "totalBlockingTime": 243.50000000000273,
+    "cumulativeLayoutShift": 0.08588794169300382,
+    "timeToInteractive": 12668.903000000006,
+    "maxPotentialFirstInputDelay": 177.00000000000182,
+    "timeToFirstByte": 65.13199999999999,
+    "weight": {
+      "summary": "159 requests • 1,7 MiB",
+      "total": 1770342,
+      "image": 447688,
+      "imageCount": 19,
+      "script": 823819,
+      "scriptCount": 71,
+      "document": 156691,
+      "font": 113331,
+      "fontCount": 21,
+      "stylesheet": 225397,
+      "stylesheetCount": 36,
+      "thirdParty": 601502,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 26,
+      "-weight.document": 34,
+      "+weight.document": 15,
+      "-weight.script": 27,
+      "+weight.script": 20,
+      "-weight.image": 22,
+      "+weight.image": 27,
+      "-weight.font": 15,
+      "+weight.font": 13,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 947,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/actionnaires-individuels/capsule-9-resultats-annuels-2021/",
+    "requestedUrl": "https://www.michelin.com/finance/actionnaires-individuels/capsule-9-resultats-annuels-2021/",
+    "timestamp": 1707553107050,
+    "ranks": {
+      "hundos": 38,
+      "performance": 28,
+      "accessibility": 27,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 305
+    },
+    "firstContentfulPaint": 5398.085499999999,
+    "firstMeaningfulPaint": 5398.085499999999,
+    "speedIndex": 8626.18929170497,
+    "largestContentfulPaint": 10723.03004550171,
+    "totalBlockingTime": 297,
+    "cumulativeLayoutShift": 0.02215008559750122,
+    "timeToInteractive": 20327.172499999993,
+    "maxPotentialFirstInputDelay": 150,
+    "timeToFirstByte": 68.601,
+    "weight": {
+      "summary": "94 requests • 9,2 MiB",
+      "total": 9664105,
+      "image": 7325043,
+      "imageCount": 10,
+      "script": 1743353,
+      "scriptCount": 42,
+      "document": 137147,
+      "font": 146905,
+      "fontCount": 7,
+      "stylesheet": 266506,
+      "stylesheetCount": 20,
+      "thirdParty": 1734558,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 3,
+      "-weight.document": 28,
+      "+weight.document": 21,
+      "-weight.script": 43,
+      "+weight.script": 4,
+      "-weight.image": 46,
+      "+weight.image": 3,
+      "-weight.font": 23,
+      "+weight.font": 5,
+      "+weight.fontCount": 10,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 933,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/action-michelin/repartition-capital/",
+    "requestedUrl": "https://www.michelin.com/finance/action-michelin/repartition-capital/",
+    "timestamp": 1707554648126,
+    "ranks": {
+      "hundos": 39,
+      "performance": 48,
+      "accessibility": 6,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.25,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 304
+    },
+    "firstContentfulPaint": 8090.6425,
+    "firstMeaningfulPaint": 8090.6425,
+    "speedIndex": 12116.405177109064,
+    "largestContentfulPaint": 16879.8915,
+    "totalBlockingTime": 7783,
+    "cumulativeLayoutShift": 0.023077726765328238,
+    "timeToInteractive": 18176.53125,
+    "maxPotentialFirstInputDelay": 7263,
+    "timeToFirstByte": 56.179,
+    "weight": {
+      "summary": "105 requests • 3,1 MiB",
+      "total": 3290502,
+      "image": 1486022,
+      "imageCount": 5,
+      "script": 1238621,
+      "scriptCount": 55,
+      "document": 104812,
+      "font": 129505,
+      "fontCount": 5,
+      "stylesheet": 325164,
+      "stylesheetCount": 32,
+      "thirdParty": 704651,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 5,
+      "-weight.document": 20,
+      "+weight.document": 29,
+      "-weight.script": 39,
+      "+weight.script": 8,
+      "-weight.image": 43,
+      "+weight.image": 6,
+      "-weight.font": 20,
+      "+weight.font": 8,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 1766,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/actionnaires-individuels/capsule-14-resultats-annuels-2022/",
+    "requestedUrl": "https://www.michelin.com/finance/actionnaires-individuels/capsule-14-resultats-annuels-2022/",
+    "timestamp": 1707554631098,
+    "ranks": {
+      "hundos": 40,
+      "performance": 26,
+      "accessibility": 26,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.9,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 303
+    },
+    "firstContentfulPaint": 5332.0815,
+    "firstMeaningfulPaint": 5332.0815,
+    "speedIndex": 7952.774020809941,
+    "largestContentfulPaint": 11743.843045501708,
+    "totalBlockingTime": 268.49999999999955,
+    "cumulativeLayoutShift": 0.02215008559750122,
+    "timeToInteractive": 18459.285999999996,
+    "maxPotentialFirstInputDelay": 142,
+    "timeToFirstByte": 62.986999999999995,
+    "weight": {
+      "summary": "95 requests • 2,7 MiB",
+      "total": 2794530,
+      "image": 455465,
+      "imageCount": 10,
+      "script": 1743353,
+      "scriptCount": 42,
+      "document": 137216,
+      "font": 146905,
+      "fontCount": 7,
+      "stylesheet": 266587,
+      "stylesheetCount": 20,
+      "thirdParty": 1745228,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 8,
+      "-weight.document": 29,
+      "+weight.document": 20,
+      "-weight.script": 43,
+      "+weight.script": 4,
+      "-weight.image": 24,
+      "+weight.image": 25,
+      "-weight.font": 23,
+      "+weight.font": 5,
+      "+weight.fontCount": 10,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 941,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.michelin.com/carrieres-travailler-michelin/",
+    "requestedUrl": "https://www.michelin.com/en/careers-work-for-michelin/",
+    "timestamp": 1707554736629,
+    "ranks": {
+      "hundos": 41,
+      "performance": 42,
+      "accessibility": 39,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.47,
+      "accessibility": 0.88,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 302
+    },
+    "firstContentfulPaint": 7592.2559999999985,
+    "firstMeaningfulPaint": 7592.2559999999985,
+    "speedIndex": 7592.2559999999985,
+    "largestContentfulPaint": 9947.741499999996,
+    "totalBlockingTime": 335.5,
+    "cumulativeLayoutShift": 0.10002592954640634,
+    "timeToInteractive": 17472.900999999998,
+    "maxPotentialFirstInputDelay": 174,
+    "timeToFirstByte": 59.574999999999996,
+    "weight": {
+      "summary": "142 requests • 2,6 MiB",
+      "total": 2737669,
+      "image": 759996,
+      "imageCount": 22,
+      "script": 1475018,
+      "scriptCount": 59,
+      "document": 155286,
+      "font": 96671,
+      "fontCount": 11,
+      "stylesheet": 205790,
+      "stylesheetCount": 33,
+      "thirdParty": 1548256,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 9,
+      "-weight.document": 33,
+      "+weight.document": 16,
+      "-weight.script": 40,
+      "+weight.script": 7,
+      "-weight.image": 33,
+      "+weight.image": 16,
+      "-weight.font": 7,
+      "+weight.font": 21,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 1001,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/resultats-et-presentations/journee-investisseurs-2021/hydrogene-2/",
+    "requestedUrl": "https://www.michelin.com/finance/resultats-et-presentations/journee-investisseurs-2021/hydrogene-2/",
+    "timestamp": 1707552859698,
+    "ranks": {
+      "hundos": 42,
+      "performance": 31,
+      "accessibility": 37,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 302
+    },
+    "firstContentfulPaint": 4564.795499999999,
+    "firstMeaningfulPaint": 4564.795499999999,
+    "speedIndex": 7587.925904787279,
+    "largestContentfulPaint": 10702.839,
+    "totalBlockingTime": 389,
+    "cumulativeLayoutShift": 0.0047782758538690105,
+    "timeToInteractive": 17429.797999999995,
+    "maxPotentialFirstInputDelay": 161,
+    "timeToFirstByte": 62.59800000000001,
+    "weight": {
+      "summary": "93 requests • 2,3 MiB",
+      "total": 2455756,
+      "image": 167706,
+      "imageCount": 11,
+      "script": 1742803,
+      "scriptCount": 42,
+      "document": 136745,
+      "font": 96670,
+      "fontCount": 5,
+      "stylesheet": 266698,
+      "stylesheetCount": 20,
+      "thirdParty": 1704692,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 13,
+      "-weight.document": 27,
+      "+weight.document": 22,
+      "-weight.script": 42,
+      "+weight.script": 5,
+      "-weight.image": 8,
+      "+weight.image": 41,
+      "-weight.font": 6,
+      "+weight.font": 22,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 1094,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/actionnaires-individuels/capsule-9-resultats-annuels-2021/",
+    "requestedUrl": "https://www.michelin.com/en/finance/individual-shareholders/capsule-9-2021-group-annual-results/",
+    "timestamp": 1707553711529,
+    "ranks": {
+      "hundos": 44,
+      "performance": 44,
+      "accessibility": 27,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.47,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 301
+    },
+    "firstContentfulPaint": 10420.436999999998,
+    "firstMeaningfulPaint": 10420.436999999998,
+    "speedIndex": 10420.436999999998,
+    "largestContentfulPaint": 12525.74825,
+    "totalBlockingTime": 370.5000000000018,
+    "cumulativeLayoutShift": 0.04245203204801292,
+    "timeToInteractive": 22915.168999999998,
+    "maxPotentialFirstInputDelay": 169.5000000000009,
+    "timeToFirstByte": 59.056999999999995,
+    "weight": {
+      "summary": "172 requests • 9,3 MiB",
+      "total": 9765249,
+      "image": 7337907,
+      "imageCount": 16,
+      "script": 1761604,
+      "scriptCount": 76,
+      "document": 200569,
+      "font": 146905,
+      "fontCount": 23,
+      "stylesheet": 272914,
+      "stylesheetCount": 37,
+      "thirdParty": 1741459,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 2,
+      "-weight.document": 47,
+      "+weight.document": 2,
+      "-weight.script": 46,
+      "+weight.script": 1,
+      "-weight.image": 47,
+      "+weight.image": 2,
+      "-weight.font": 23,
+      "+weight.font": 5,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 933,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/pour-la-planete/preserver-les-ressources/",
+    "requestedUrl": "https://www.michelin.com/developpement-mobilite-durables/pour-la-planete/preserver-les-ressources/",
+    "timestamp": 1707553737927,
+    "ranks": {
+      "hundos": 43,
+      "performance": 37,
+      "accessibility": 35,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 301
+    },
+    "firstContentfulPaint": 4713.365,
+    "firstMeaningfulPaint": 4713.365,
+    "speedIndex": 8121.185299137951,
+    "largestContentfulPaint": 11585.862000000003,
+    "totalBlockingTime": 382.5,
+    "cumulativeLayoutShift": 0.01677287608431875,
+    "timeToInteractive": 19460.032250000004,
+    "maxPotentialFirstInputDelay": 161,
+    "timeToFirstByte": 59.16199999999999,
+    "weight": {
+      "summary": "95 requests • 2,9 MiB",
+      "total": 3008133,
+      "image": 608896,
+      "imageCount": 11,
+      "script": 1750318,
+      "scriptCount": 42,
+      "document": 143240,
+      "font": 177045,
+      "fontCount": 6,
+      "stylesheet": 283187,
+      "stylesheetCount": 21,
+      "thirdParty": 1760186,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 6,
+      "-weight.document": 32,
+      "+weight.document": 17,
+      "-weight.script": 45,
+      "+weight.script": 2,
+      "-weight.image": 29,
+      "+weight.image": 20,
+      "-weight.font": 25,
+      "+weight.font": 3,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 1548,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/resultats-et-presentations/journee-investisseurs-2021/leadership-environnemental-michelin/",
+    "requestedUrl": "https://www.michelin.com/finance/resultats-et-presentations/journee-investisseurs-2021/leadership-environnemental-michelin/",
+    "timestamp": 1707554250871,
+    "ranks": {
+      "hundos": 45,
+      "performance": 36,
+      "accessibility": 38,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 301
+    },
+    "firstContentfulPaint": 4474.0515000000005,
+    "firstMeaningfulPaint": 4474.0515000000005,
+    "speedIndex": 8021.693930897665,
+    "largestContentfulPaint": 10780.62379550171,
+    "totalBlockingTime": 393.50000000000045,
+    "cumulativeLayoutShift": 0.05117638951024174,
+    "timeToInteractive": 17511.226,
+    "maxPotentialFirstInputDelay": 150,
+    "timeToFirstByte": 64.78300000000002,
+    "weight": {
+      "summary": "94 requests • 2,4 MiB",
+      "total": 2520012,
+      "image": 233104,
+      "imageCount": 12,
+      "script": 1742320,
+      "scriptCount": 42,
+      "document": 136331,
+      "font": 96670,
+      "fontCount": 5,
+      "stylesheet": 266683,
+      "stylesheetCount": 20,
+      "thirdParty": 1766591,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 10,
+      "-weight.document": 26,
+      "+weight.document": 23,
+      "-weight.script": 41,
+      "+weight.script": 6,
+      "-weight.image": 13,
+      "+weight.image": 36,
+      "-weight.font": 6,
+      "+weight.font": 22,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 1123,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/pour-la-planete/ambitions-engagements/",
+    "requestedUrl": "https://www.michelin.com/developpement-mobilite-durables/pour-la-planete/ambitions-engagements/",
+    "timestamp": 1707554543663,
+    "ranks": {
+      "hundos": 46,
+      "performance": 46,
+      "accessibility": 34,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.39,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.93,
+      "total": 298
+    },
+    "firstContentfulPaint": 4467.1475,
+    "firstMeaningfulPaint": 4467.1475,
+    "speedIndex": 7956.605559642984,
+    "largestContentfulPaint": 13163.536500000002,
+    "totalBlockingTime": 361,
+    "cumulativeLayoutShift": 0.22491942472436027,
+    "timeToInteractive": 18910.581000000002,
+    "maxPotentialFirstInputDelay": 167,
+    "timeToFirstByte": 58.127999999999986,
+    "weight": {
+      "summary": "98 requests • 3,1 MiB",
+      "total": 3292357,
+      "image": 1000200,
+      "imageCount": 16,
+      "script": 1742320,
+      "scriptCount": 42,
+      "document": 139839,
+      "font": 96670,
+      "fontCount": 5,
+      "stylesheet": 268323,
+      "stylesheetCount": 20,
+      "thirdParty": 1706712,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 4,
+      "-weight.document": 31,
+      "+weight.document": 18,
+      "-weight.script": 41,
+      "+weight.script": 6,
+      "-weight.image": 40,
+      "+weight.image": 9,
+      "-weight.font": 6,
+      "+weight.font": 22,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 1708,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.michelin.com/finance/resultats-et-presentations/journee-investisseurs-2021/materiaux-de-haute-technologie/",
+    "requestedUrl": "https://www.michelin.com/finance/resultats-et-presentations/journee-investisseurs-2021/materiaux-de-haute-technologie/",
+    "timestamp": 1707554275709,
+    "ranks": {
+      "hundos": 47,
+      "performance": 47,
+      "accessibility": 36,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.37,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 289
+    },
+    "firstContentfulPaint": 4365.987,
+    "firstMeaningfulPaint": 4365.987,
+    "speedIndex": 7275.555479593438,
+    "largestContentfulPaint": 10477.54554550171,
+    "totalBlockingTime": 1042.5,
+    "cumulativeLayoutShift": 0.05096517249429502,
+    "timeToInteractive": 16684.35725,
+    "maxPotentialFirstInputDelay": 750,
+    "timeToFirstByte": 68.83300000000001,
+    "weight": {
+      "summary": "92 requests • 2,4 MiB",
+      "total": 2473327,
+      "image": 183429,
+      "imageCount": 10,
+      "script": 1743356,
+      "scriptCount": 42,
+      "document": 137473,
+      "font": 96670,
+      "fontCount": 5,
+      "stylesheet": 266561,
+      "stylesheetCount": 20,
+      "thirdParty": 1721088,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 12,
+      "-weight.document": 30,
+      "+weight.document": 19,
+      "-weight.script": 44,
+      "+weight.script": 3,
+      "-weight.image": 10,
+      "+weight.image": 39,
+      "-weight.font": 6,
+      "+weight.font": 22,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 1065,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.michelin.com/developpement-mobilite-durables/pour-une-mobilite-durable/pour-une-mobilite-plus-respectueuse-de-lenvironnement/",
+    "requestedUrl": "https://www.michelin.com/developpement-mobilite-durables/pour-une-mobilite-durable/pour-une-mobilite-plus-respectueuse-de-lenvironnement/",
+    "timestamp": 1707553723969,
+    "ranks": {
+      "hundos": 48,
+      "performance": 11,
+      "accessibility": 48,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": null,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 244
+    },
+    "firstContentfulPaint": 5076.862000000001,
+    "firstMeaningfulPaint": 5076.862000000001,
+    "speedIndex": 5076.862000000001,
+    "largestContentfulPaint": 11947.598999999998,
+    "totalBlockingTime": 222,
+    "cumulativeLayoutShift": 0.049960288852041,
+    "timeToInteractive": 11237.862000000001,
+    "maxPotentialFirstInputDelay": 174,
+    "timeToFirstByte": 71.856,
+    "weight": {
+      "summary": "75 requests • 1,7 MiB",
+      "total": 1774917,
+      "image": 490359,
+      "imageCount": 8,
+      "script": 820071,
+      "scriptCount": 37,
+      "document": 96988,
+      "font": 130018,
+      "fontCount": 3,
+      "stylesheet": 234109,
+      "stylesheetCount": 20,
+      "thirdParty": 596608,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 25,
+      "-weight.document": 15,
+      "+weight.document": 34,
+      "-weight.script": 25,
+      "+weight.script": 22,
+      "-weight.image": 26,
+      "+weight.image": 23,
+      "-weight.font": 22,
+      "+weight.font": 6,
+      "+weight.fontCount": 14,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 1037,
+      "violations": 8
+    }
+  }
+]

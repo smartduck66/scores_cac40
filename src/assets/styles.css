@@ -1,0 +1,46 @@
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --MainFont: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  position: relative;
+  min-height: 100%;
+}
+
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: left;
+  color: #162330;
+  margin-top: 10px;
+}
+
+body {
+  padding: 0rem 0.6rem;
+  font-size: 1.2em;
+  font-family: var(--CustomFont1);
+  max-width: 1920px;
+  margin: 0 auto; /* top | right | bottom | left */
+}
+
+html,
+body {
+  overflow-x: hidden; /* Pour éviter tout ascenceur horizontal, sur PC ou mobile */
+}
+
+input,
+textarea,
+button {
+  font-size: inherit;
+  font-family: inherit;
+}
+
+/* Styles partagés entre composants, views, etc. */

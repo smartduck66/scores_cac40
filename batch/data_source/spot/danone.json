@@ -1,0 +1,3218 @@
+[
+  {
+    "url": "https://www.danone.com/about-danone.html",
+    "requestedUrl": "https://www.danone.com/about-danone.html",
+    "timestamp": 1707491319978,
+    "ranks": {
+      "hundos": 1,
+      "performance": 2,
+      "accessibility": 17,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 321
+    },
+    "firstContentfulPaint": 1202.8899999999999,
+    "firstMeaningfulPaint": 4140.889999999999,
+    "speedIndex": 1754.6594737939995,
+    "largestContentfulPaint": 4202.889999999999,
+    "totalBlockingTime": 34,
+    "cumulativeLayoutShift": 0.03577837841755194,
+    "timeToInteractive": 4890.889999999999,
+    "maxPotentialFirstInputDelay": 88,
+    "timeToFirstByte": 8.755000000000003,
+    "weight": {
+      "summary": "19 requests • 800,0 KiB",
+      "total": 819157,
+      "image": 159524,
+      "imageCount": 4,
+      "script": 456276,
+      "scriptCount": 5,
+      "document": 16030,
+      "font": 105067,
+      "fontCount": 3,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 252438,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 19,
+      "-weight.document": 7,
+      "+weight.document": 42,
+      "-weight.script": 7,
+      "+weight.script": 16,
+      "-weight.image": 29,
+      "+weight.image": 17,
+      "-weight.font": 9,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 1260,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.danone.com/about-danone/sustainable-value-creation.html",
+    "requestedUrl": "https://www.danone.com/about-danone/sustainable-value-creation.html",
+    "timestamp": 1707491335638,
+    "ranks": {
+      "hundos": 2,
+      "performance": 5,
+      "accessibility": 16,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 320
+    },
+    "firstContentfulPaint": 1211.94384,
+    "firstMeaningfulPaint": 4180.446,
+    "speedIndex": 1828.9891708479795,
+    "largestContentfulPaint": 4226.15664,
+    "totalBlockingTime": 48.5,
+    "cumulativeLayoutShift": 0.06702565302478021,
+    "timeToInteractive": 4933.9992,
+    "maxPotentialFirstInputDelay": 105,
+    "timeToFirstByte": 5.271000000000001,
+    "weight": {
+      "summary": "19 requests • 799,6 KiB",
+      "total": 818810,
+      "image": 159524,
+      "imageCount": 4,
+      "script": 456276,
+      "scriptCount": 5,
+      "document": 15618,
+      "font": 105078,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 252492,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 21,
+      "-weight.document": 4,
+      "+weight.document": 45,
+      "-weight.script": 7,
+      "+weight.script": 16,
+      "-weight.image": 29,
+      "+weight.image": 17,
+      "-weight.font": 14,
+      "+weight.font": 14,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 1274,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/balclutha1.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/balclutha1.html",
+    "timestamp": 1707491877213,
+    "ranks": {
+      "hundos": 3,
+      "performance": 6,
+      "accessibility": 40,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 320
+    },
+    "firstContentfulPaint": 1219.51714,
+    "firstMeaningfulPaint": 4211.5095,
+    "speedIndex": 1872.50429803903,
+    "largestContentfulPaint": 4274.24594,
+    "totalBlockingTime": 38,
+    "cumulativeLayoutShift": 0.030319317366628858,
+    "timeToInteractive": 4975.191699999999,
+    "maxPotentialFirstInputDelay": 90,
+    "timeToFirstByte": 6.492999999999995,
+    "weight": {
+      "summary": "19 requests • 684,3 KiB",
+      "total": 700768,
+      "image": 39844,
+      "imageCount": 4,
+      "script": 456584,
+      "scriptCount": 5,
+      "document": 16974,
+      "font": 105077,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 278786,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 35,
+      "-weight.document": 28,
+      "+weight.document": 21,
+      "-weight.script": 15,
+      "+weight.script": 8,
+      "-weight.image": 14,
+      "+weight.image": 32,
+      "-weight.font": 13,
+      "+weight.font": 15,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 1291,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/volvic-coffee-matcha.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/volvic-coffee-matcha.html",
+    "timestamp": 1707491494488,
+    "ranks": {
+      "hundos": 4,
+      "performance": 7,
+      "accessibility": 36,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 320
+    },
+    "firstContentfulPaint": 1214.5299,
+    "firstMeaningfulPaint": 4202.0725,
+    "speedIndex": 1946.8615571786004,
+    "largestContentfulPaint": 4249.8379,
+    "totalBlockingTime": 46,
+    "cumulativeLayoutShift": 0.06750850090963381,
+    "timeToInteractive": 4960.8995,
+    "maxPotentialFirstInputDelay": 104,
+    "timeToFirstByte": 4.713999999999999,
+    "weight": {
+      "summary": "19 requests • 677,6 KiB",
+      "total": 693850,
+      "image": 33595,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 16544,
+      "font": 105079,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 272258,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 38,
+      "-weight.document": 17,
+      "+weight.document": 32,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 10,
+      "+weight.image": 36,
+      "-weight.font": 15,
+      "+weight.font": 13,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 1310,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/the-science-behind-food-taste.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/the-science-behind-food-taste.html",
+    "timestamp": 1707491422397,
+    "ranks": {
+      "hundos": 5,
+      "performance": 9,
+      "accessibility": 32,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 320
+    },
+    "firstContentfulPaint": 1215.3209000000002,
+    "firstMeaningfulPaint": 4210.6865,
+    "speedIndex": 2221.2618434557094,
+    "largestContentfulPaint": 4240.9689,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.040432367234394,
+    "timeToInteractive": 4967.0985,
+    "maxPotentialFirstInputDelay": 121,
+    "timeToFirstByte": 6.600999999999999,
+    "weight": {
+      "summary": "18 requests • 659,7 KiB",
+      "total": 675522,
+      "image": 13834,
+      "imageCount": 3,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 17987,
+      "font": 105088,
+      "fontCount": 3,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 252517,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 40,
+      "-weight.document": 38,
+      "+weight.document": 11,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 2,
+      "+weight.image": 44,
+      "-weight.font": 18,
+      "+weight.font": 10,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 1320,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/danone-contribution-zero-hunger.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/danone-contribution-zero-hunger.html",
+    "timestamp": 1707491096323,
+    "ranks": {
+      "hundos": 6,
+      "performance": 8,
+      "accessibility": 39,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 320
+    },
+    "firstContentfulPaint": 1214.9445,
+    "firstMeaningfulPaint": 4191.0135,
+    "speedIndex": 1997.6528733680848,
+    "largestContentfulPaint": 4253.9645,
+    "totalBlockingTime": 37.5,
+    "cumulativeLayoutShift": 0.06691849959564902,
+    "timeToInteractive": 4950.7685,
+    "maxPotentialFirstInputDelay": 89,
+    "timeToFirstByte": 78.65199999999999,
+    "weight": {
+      "summary": "21 requests • 741,5 KiB",
+      "total": 759295,
+      "image": 100101,
+      "imageCount": 6,
+      "script": 455283,
+      "scriptCount": 5,
+      "document": 16211,
+      "font": 105078,
+      "fontCount": 3,
+      "stylesheet": 51170,
+      "stylesheetCount": 1,
+      "thirdParty": 338085,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 28,
+      "-weight.document": 9,
+      "+weight.document": 40,
+      "-weight.script": 3,
+      "+weight.script": 20,
+      "-weight.image": 24,
+      "+weight.image": 22,
+      "-weight.font": 14,
+      "+weight.font": 14,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 1292,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/brands/dairy-plant-based-products/danone.html",
+    "requestedUrl": "https://www.danone.com/brands/dairy-plant-based-products/danone.html",
+    "timestamp": 1707491361804,
+    "ranks": {
+      "hundos": 7,
+      "performance": 17,
+      "accessibility": 4,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 319
+    },
+    "firstContentfulPaint": 1213.41208,
+    "firstMeaningfulPaint": 4192.6539999999995,
+    "speedIndex": 2067.644006647589,
+    "largestContentfulPaint": 5003.20408,
+    "totalBlockingTime": 37.5,
+    "cumulativeLayoutShift": 0.030319317366628858,
+    "timeToInteractive": 4950.6124,
+    "maxPotentialFirstInputDelay": 99,
+    "timeToFirstByte": 5.368000000000002,
+    "weight": {
+      "summary": "21 requests • 838,0 KiB",
+      "total": 858065,
+      "image": 195039,
+      "imageCount": 6,
+      "script": 456299,
+      "scriptCount": 5,
+      "document": 19340,
+      "font": 105070,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 280054,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 13,
+      "-weight.document": 42,
+      "+weight.document": 7,
+      "-weight.script": 11,
+      "+weight.script": 12,
+      "-weight.image": 40,
+      "+weight.image": 6,
+      "-weight.font": 11,
+      "+weight.font": 17,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 1585,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/integrated-annual-reports/integrated-annual-report-2022.html",
+    "requestedUrl": "https://www.danone.com/integrated-annual-reports/integrated-annual-report-2022.html",
+    "timestamp": 1707491655368,
+    "ranks": {
+      "hundos": 8,
+      "performance": 16,
+      "accessibility": 11,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 319
+    },
+    "firstContentfulPaint": 1208.4882400000001,
+    "firstMeaningfulPaint": 4179.908,
+    "speedIndex": 2013.4383701057313,
+    "largestContentfulPaint": 4220.509040000001,
+    "totalBlockingTime": 53,
+    "cumulativeLayoutShift": 0.11364928418432041,
+    "timeToInteractive": 4932.913200000001,
+    "maxPotentialFirstInputDelay": 110,
+    "timeToFirstByte": 6.6200000000000045,
+    "weight": {
+      "summary": "20 requests • 823,3 KiB",
+      "total": 843034,
+      "image": 183132,
+      "imageCount": 5,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 15929,
+      "font": 105067,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 276416,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 16,
+      "-weight.document": 6,
+      "+weight.document": 43,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 36,
+      "+weight.image": 10,
+      "-weight.font": 9,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 1257,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/danone-launches-new-dairy-plants-blend-baby-formula.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/danone-launches-new-dairy-plants-blend-baby-formula.html",
+    "timestamp": 1707491143148,
+    "ranks": {
+      "hundos": 9,
+      "performance": 12,
+      "accessibility": 45,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.84,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 319
+    },
+    "firstContentfulPaint": 1217.65528,
+    "firstMeaningfulPaint": 4202.775999999999,
+    "speedIndex": 3622.9845260273655,
+    "largestContentfulPaint": 4261.992879999999,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.030319317366628858,
+    "timeToInteractive": 4887.75196,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 1173.551,
+    "weight": {
+      "summary": "20 requests • 685,4 KiB",
+      "total": 701879,
+      "image": 40946,
+      "imageCount": 5,
+      "script": 455283,
+      "scriptCount": 5,
+      "document": 18191,
+      "font": 105078,
+      "fontCount": 3,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 278680,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 34,
+      "-weight.document": 39,
+      "+weight.document": 10,
+      "-weight.script": 3,
+      "+weight.script": 20,
+      "-weight.image": 15,
+      "+weight.image": 31,
+      "-weight.font": 14,
+      "+weight.font": 14,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 1403,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.danone.com/impact/planet/packaging-positive-circular-economy.html",
+    "requestedUrl": "https://www.danone.com/impact/planet/packaging-positive-circular-economy.html",
+    "timestamp": 1707491796767,
+    "ranks": {
+      "hundos": 10,
+      "performance": 20,
+      "accessibility": 10,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 318
+    },
+    "firstContentfulPaint": 1217.0978,
+    "firstMeaningfulPaint": 4214.243,
+    "speedIndex": 1899.0939179447946,
+    "largestContentfulPaint": 4975.597000000001,
+    "totalBlockingTime": 43,
+    "cumulativeLayoutShift": 0.04559646665449339,
+    "timeToInteractive": 4899.4616000000005,
+    "maxPotentialFirstInputDelay": 104,
+    "timeToFirstByte": 4.815999999999995,
+    "weight": {
+      "summary": "19 requests • 800,6 KiB",
+      "total": 819831,
+      "image": 159525,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 16627,
+      "font": 105088,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 252503,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 18,
+      "-weight.document": 20,
+      "+weight.document": 29,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 30,
+      "+weight.image": 16,
+      "-weight.font": 18,
+      "+weight.font": 10,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 1270,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/danone-manifesto-ventures-phenix.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/danone-manifesto-ventures-phenix.html",
+    "timestamp": 1707491510171,
+    "ranks": {
+      "hundos": 11,
+      "performance": 13,
+      "accessibility": 37,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 318
+    },
+    "firstContentfulPaint": 1214.2132000000001,
+    "firstMeaningfulPaint": 4186.334,
+    "speedIndex": 1770.0326411835654,
+    "largestContentfulPaint": 4249.0772,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0.10451608880266658,
+    "timeToInteractive": 4945.05,
+    "maxPotentialFirstInputDelay": 89,
+    "timeToFirstByte": 5.012999999999998,
+    "weight": {
+      "summary": "19 requests • 710,9 KiB",
+      "total": 727983,
+      "image": 67478,
+      "imageCount": 4,
+      "script": 456298,
+      "scriptCount": 5,
+      "document": 16786,
+      "font": 105087,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 306189,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 30,
+      "-weight.document": 24,
+      "+weight.document": 25,
+      "-weight.script": 10,
+      "+weight.script": 13,
+      "-weight.image": 20,
+      "+weight.image": 26,
+      "-weight.font": 17,
+      "+weight.font": 11,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 1301,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/brands/specialized-nutrition.html",
+    "requestedUrl": "https://www.danone.com/brands/specialized-nutrition.html",
+    "timestamp": 1707490935040,
+    "ranks": {
+      "hundos": 12,
+      "performance": 14,
+      "accessibility": 14,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 317
+    },
+    "firstContentfulPaint": 1220.2187199999998,
+    "firstMeaningfulPaint": 4218.563,
+    "speedIndex": 1767.0643848877603,
+    "largestContentfulPaint": 4892.6536,
+    "totalBlockingTime": 36.5,
+    "cumulativeLayoutShift": 0.030319317366628858,
+    "timeToInteractive": 4983.6536,
+    "maxPotentialFirstInputDelay": 91,
+    "timeToFirstByte": 6.025999999999996,
+    "weight": {
+      "summary": "20 requests • 797,3 KiB",
+      "total": 816426,
+      "image": 155689,
+      "imageCount": 5,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 17087,
+      "font": 105085,
+      "fontCount": 3,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 260812,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 23,
+      "-weight.document": 31,
+      "+weight.document": 18,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 26,
+      "+weight.image": 20,
+      "-weight.font": 16,
+      "+weight.font": 12,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1304,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/plant-based-bottle-drinks.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/plant-based-bottle-drinks.html",
+    "timestamp": 1707491453805,
+    "ranks": {
+      "hundos": 13,
+      "performance": 18,
+      "accessibility": 33,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 316
+    },
+    "firstContentfulPaint": 1203.5641800000003,
+    "firstMeaningfulPaint": 4143.092,
+    "speedIndex": 1744.8233161351445,
+    "largestContentfulPaint": 4204.11978,
+    "totalBlockingTime": 36.5,
+    "cumulativeLayoutShift": 0.13892255892280025,
+    "timeToInteractive": 4893.2309000000005,
+    "maxPotentialFirstInputDelay": 89,
+    "timeToFirstByte": 5.633000000000003,
+    "weight": {
+      "summary": "19 requests • 681,3 KiB",
+      "total": 697698,
+      "image": 36549,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 17456,
+      "font": 105087,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 275223,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 36,
+      "-weight.document": 34,
+      "+weight.document": 15,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 13,
+      "+weight.image": 33,
+      "-weight.font": 17,
+      "+weight.font": 11,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 1319,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/healthy-choices-are-fun-with-a-little-magic.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/healthy-choices-are-fun-with-a-little-magic.html",
+    "timestamp": 1707491018401,
+    "ranks": {
+      "hundos": 14,
+      "performance": 22,
+      "accessibility": 42,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 316
+    },
+    "firstContentfulPaint": 1239.52984,
+    "firstMeaningfulPaint": 4172.1543599999995,
+    "speedIndex": 3839.362871058984,
+    "largestContentfulPaint": 4838.55006,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0.030319317366628858,
+    "timeToInteractive": 4954.55006,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 1352.809,
+    "weight": {
+      "summary": "18 requests • 657,7 KiB",
+      "total": 673457,
+      "image": 13832,
+      "imageCount": 3,
+      "script": 455283,
+      "scriptCount": 5,
+      "document": 16911,
+      "font": 105076,
+      "fontCount": 3,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 251541,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 41,
+      "-weight.document": 27,
+      "+weight.document": 22,
+      "-weight.script": 3,
+      "+weight.script": 20,
+      "-weight.image": 1,
+      "+weight.image": 45,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 1309,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.danone.com/investor-relations/shareholders/faq.html",
+    "requestedUrl": "https://www.danone.com/investor-relations/shareholders/faq.html",
+    "timestamp": 1707491989886,
+    "ranks": {
+      "hundos": 15,
+      "performance": 24,
+      "accessibility": 5,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 314
+    },
+    "firstContentfulPaint": 1214.65796,
+    "firstMeaningfulPaint": 4043.5568399999993,
+    "speedIndex": 1725.6638055060926,
+    "largestContentfulPaint": 4705.41764,
+    "totalBlockingTime": 39.5,
+    "cumulativeLayoutShift": 0.14272651719123403,
+    "timeToInteractive": 4802.41764,
+    "maxPotentialFirstInputDelay": 97,
+    "timeToFirstByte": 13.278999999999996,
+    "weight": {
+      "summary": "18 requests • 766,7 KiB",
+      "total": 785117,
+      "image": 159524,
+      "imageCount": 4,
+      "script": 456277,
+      "scriptCount": 5,
+      "document": 17862,
+      "font": 69157,
+      "fontCount": 2,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 252484,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 25,
+      "-weight.document": 37,
+      "+weight.document": 12,
+      "-weight.script": 8,
+      "+weight.script": 15,
+      "-weight.image": 29,
+      "+weight.image": 17,
+      "-weight.font": 1,
+      "+weight.font": 27,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 1538,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/investor-relations/publications-events/investor-seminars/emmanuel-faber-video.html",
+    "requestedUrl": "https://www.danone.com/investor-relations/publications-events/investor-seminars/emmanuel-faber-video.html",
+    "timestamp": 1707491974135,
+    "ranks": {
+      "hundos": 17,
+      "performance": 28,
+      "accessibility": 1,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.76,
+      "accessibility": 0.82,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 314
+    },
+    "firstContentfulPaint": 1859.54108,
+    "firstMeaningfulPaint": 3588.8912000000005,
+    "speedIndex": 3059.19001878678,
+    "largestContentfulPaint": 5986.866,
+    "totalBlockingTime": 52,
+    "cumulativeLayoutShift": 0.04293357129640302,
+    "timeToInteractive": 6158.645880000001,
+    "maxPotentialFirstInputDelay": 96,
+    "timeToFirstByte": 7.658000000000001,
+    "weight": {
+      "summary": "25 requests • 951,3 KiB",
+      "total": 969957,
+      "image": 163647,
+      "imageCount": 8,
+      "script": 622372,
+      "scriptCount": 6,
+      "document": 16235,
+      "font": 73343,
+      "fontCount": 3,
+      "stylesheet": 67317,
+      "stylesheetCount": 2,
+      "thirdParty": 434904,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 8,
+      "-weight.document": 10,
+      "+weight.document": 39,
+      "-weight.script": 16,
+      "+weight.script": 7,
+      "-weight.image": 32,
+      "+weight.image": 14,
+      "-weight.font": 6,
+      "+weight.font": 22,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 1398,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/fresh-food-delivered.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/fresh-food-delivered.html",
+    "timestamp": 1707491059902,
+    "ranks": {
+      "hundos": 18,
+      "performance": 3,
+      "accessibility": 34,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 314
+    },
+    "firstContentfulPaint": 1221.2867399999998,
+    "firstMeaningfulPaint": 4206.293,
+    "speedIndex": 2068.828591990535,
+    "largestContentfulPaint": 4254.97754,
+    "totalBlockingTime": 43.5,
+    "cumulativeLayoutShift": 0.031320861667847325,
+    "timeToInteractive": 4964.715700000001,
+    "maxPotentialFirstInputDelay": 103,
+    "timeToFirstByte": 31.738,
+    "weight": {
+      "summary": "19 requests • 667,6 KiB",
+      "total": 683650,
+      "image": 23509,
+      "imageCount": 4,
+      "script": 455283,
+      "scriptCount": 5,
+      "document": 17193,
+      "font": 105070,
+      "fontCount": 3,
+      "stylesheet": 51170,
+      "stylesheetCount": 1,
+      "thirdParty": 261466,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 39,
+      "-weight.document": 32,
+      "+weight.document": 17,
+      "-weight.script": 3,
+      "+weight.script": 20,
+      "-weight.image": 7,
+      "+weight.image": 39,
+      "-weight.font": 11,
+      "+weight.font": 17,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 1318,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/fresh-salads-healthy-snacks.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/fresh-salads-healthy-snacks.html",
+    "timestamp": 1707491461587,
+    "ranks": {
+      "hundos": 16,
+      "performance": 1,
+      "accessibility": 43,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 314
+    },
+    "firstContentfulPaint": 1204.24648,
+    "firstMeaningfulPaint": 4147.3544999999995,
+    "speedIndex": 1722.6582362091567,
+    "largestContentfulPaint": 4207.51808,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0.05058020151267141,
+    "timeToInteractive": 4898.1724,
+    "maxPotentialFirstInputDelay": 90,
+    "timeToFirstByte": 6.177999999999997,
+    "weight": {
+      "summary": "19 requests • 688,7 KiB",
+      "total": 705218,
+      "image": 44810,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 16721,
+      "font": 105088,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 283487,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 33,
+      "-weight.document": 22,
+      "+weight.document": 27,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 16,
+      "+weight.image": 30,
+      "-weight.font": 18,
+      "+weight.font": 10,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 1322,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.danone.com/id-cards/egypt/articles-list/DANONECORP.html",
+    "requestedUrl": "https://www.danone.com/id-cards/egypt/articles-list/DANONECORP.html",
+    "timestamp": 1707492083644,
+    "ranks": {
+      "hundos": 19,
+      "performance": 4,
+      "accessibility": 26,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 313
+    },
+    "firstContentfulPaint": 1214.1664799999999,
+    "firstMeaningfulPaint": 4038.1339199999993,
+    "speedIndex": 1698.4535025237547,
+    "largestContentfulPaint": 4100.021,
+    "totalBlockingTime": 35,
+    "cumulativeLayoutShift": 0.07570101982319558,
+    "timeToInteractive": 4721.62578,
+    "maxPotentialFirstInputDelay": 90,
+    "timeToFirstByte": 5.552,
+    "weight": {
+      "summary": "18 requests • 638,2 KiB",
+      "total": 653533,
+      "image": 29313,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 16188,
+      "font": 69165,
+      "fontCount": 2,
+      "stylesheet": 51170,
+      "stylesheetCount": 1,
+      "thirdParty": 268258,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 43,
+      "-weight.document": 8,
+      "+weight.document": 41,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 9,
+      "+weight.image": 37,
+      "-weight.font": 2,
+      "+weight.font": 26,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 1244,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.danone.com/media/press-releases-list/pr-danone-seals-a-strategic-alliance-with-ccu.html",
+    "requestedUrl": "https://www.danone.com/media/press-releases-list/pr-danone-seals-a-strategic-alliance-with-ccu.html",
+    "timestamp": 1707491616329,
+    "ranks": {
+      "hundos": 20,
+      "performance": 23,
+      "accessibility": 31,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 313
+    },
+    "firstContentfulPaint": 1201.949,
+    "firstMeaningfulPaint": 4006.9489999999996,
+    "speedIndex": 2046.8362528677096,
+    "largestContentfulPaint": 4051.9489999999996,
+    "totalBlockingTime": 48.5,
+    "cumulativeLayoutShift": 0.1870230758060283,
+    "timeToInteractive": 4756.9490000000005,
+    "maxPotentialFirstInputDelay": 105,
+    "timeToFirstByte": 4.452999999999996,
+    "weight": {
+      "summary": "18 requests • 627,1 KiB",
+      "total": 642167,
+      "image": 17989,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 16372,
+      "font": 69165,
+      "fontCount": 2,
+      "stylesheet": 51170,
+      "stylesheetCount": 1,
+      "thirdParty": 256710,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 46,
+      "-weight.document": 12,
+      "+weight.document": 37,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 5,
+      "+weight.image": 41,
+      "-weight.font": 2,
+      "+weight.font": 26,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1316,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.danone.com/investor-relations/governance/by-laws-rules-of-procedure1.html",
+    "requestedUrl": "https://www.danone.com/investor-relations/governance/by-laws-rules-of-procedure1.html",
+    "timestamp": 1707491981953,
+    "ranks": {
+      "hundos": 21,
+      "performance": 15,
+      "accessibility": 6,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.79,
+      "total": 312
+    },
+    "firstContentfulPaint": 1209.08974,
+    "firstMeaningfulPaint": 4020.2704599999997,
+    "speedIndex": 1788.992202956056,
+    "largestContentfulPaint": 4804.32568,
+    "totalBlockingTime": 33.499999999999545,
+    "cumulativeLayoutShift": 0.04327018762318069,
+    "timeToInteractive": 4775.320659999999,
+    "maxPotentialFirstInputDelay": 92.99999999999955,
+    "timeToFirstByte": 7.098999999999997,
+    "weight": {
+      "summary": "18 requests • 753,7 KiB",
+      "total": 771839,
+      "image": 147344,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 16704,
+      "font": 69176,
+      "fontCount": 2,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 252525,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 27,
+      "-weight.document": 21,
+      "+weight.document": 28,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 25,
+      "+weight.image": 21,
+      "-weight.font": 5,
+      "+weight.font": 23,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1443,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/developing-access-decision-position.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/developing-access-decision-position.html",
+    "timestamp": 1707491445951,
+    "ranks": {
+      "hundos": 22,
+      "performance": 11,
+      "accessibility": 44,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.84,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 312
+    },
+    "firstContentfulPaint": 1204.2440000000001,
+    "firstMeaningfulPaint": 4144.244000000001,
+    "speedIndex": 1977.574146048916,
+    "largestContentfulPaint": 4204.244000000001,
+    "totalBlockingTime": 36,
+    "cumulativeLayoutShift": 0.08743940782488474,
+    "timeToInteractive": 4894.244000000001,
+    "maxPotentialFirstInputDelay": 90,
+    "timeToFirstByte": 6.874000000000002,
+    "weight": {
+      "summary": "19 requests • 705,7 KiB",
+      "total": 722669,
+      "image": 62399,
+      "imageCount": 4,
+      "script": 456276,
+      "scriptCount": 5,
+      "document": 16595,
+      "font": 105061,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 301092,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 31,
+      "-weight.document": 19,
+      "+weight.document": 30,
+      "-weight.script": 7,
+      "+weight.script": 16,
+      "-weight.image": 18,
+      "+weight.image": 28,
+      "-weight.font": 8,
+      "+weight.font": 20,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 1302,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.danone.com/footer/Legal.html",
+    "requestedUrl": "https://www.danone.com/footer/Legal.html",
+    "timestamp": 1707492052397,
+    "ranks": {
+      "hundos": 24,
+      "performance": 21,
+      "accessibility": 7,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.79,
+      "total": 311
+    },
+    "firstContentfulPaint": 1215.1004,
+    "firstMeaningfulPaint": 4209.4905,
+    "speedIndex": 1994.8470194328495,
+    "largestContentfulPaint": 4862.33,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.08128197426880374,
+    "timeToInteractive": 4969.33,
+    "maxPotentialFirstInputDelay": 107,
+    "timeToFirstByte": 6.039999999999996,
+    "weight": {
+      "summary": "19 requests • 811,5 KiB",
+      "total": 831011,
+      "image": 170110,
+      "imageCount": 4,
+      "script": 456561,
+      "scriptCount": 5,
+      "document": 17016,
+      "font": 105076,
+      "fontCount": 3,
+      "stylesheet": 51170,
+      "stylesheetCount": 1,
+      "thirdParty": 252726,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 17,
+      "-weight.document": 30,
+      "+weight.document": 19,
+      "-weight.script": 12,
+      "+weight.script": 11,
+      "-weight.image": 33,
+      "+weight.image": 13,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 1343,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/future-of-food.html",
+    "requestedUrl": "https://www.danone.com/stories/future-of-food.html",
+    "timestamp": 1707491804789,
+    "ranks": {
+      "hundos": 23,
+      "performance": 27,
+      "accessibility": 15,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.76,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 311
+    },
+    "firstContentfulPaint": 1215.2578,
+    "firstMeaningfulPaint": 4197.7265,
+    "speedIndex": 1781.2937378938116,
+    "largestContentfulPaint": 6690.0406,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.07232821437989286,
+    "timeToInteractive": 4958.113000000001,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 4.730000000000004,
+    "weight": {
+      "summary": "22 requests • 831,8 KiB",
+      "total": 851729,
+      "image": 191737,
+      "imageCount": 7,
+      "script": 456278,
+      "scriptCount": 5,
+      "document": 16374,
+      "font": 105068,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 284672,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 14,
+      "-weight.document": 13,
+      "+weight.document": 36,
+      "-weight.script": 9,
+      "+weight.script": 14,
+      "-weight.image": 38,
+      "+weight.image": 8,
+      "-weight.font": 10,
+      "+weight.font": 18,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1362,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.danone.com/configuration/results/2020.html",
+    "requestedUrl": "https://www.danone.com/configuration/results/2020.html",
+    "timestamp": 1707491670717,
+    "ranks": {
+      "hundos": 25,
+      "performance": 10,
+      "accessibility": 12,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.84,
+      "accessibility": 0.81,
+      "bestPractices": 0.74,
+      "seo": 0.71,
+      "total": 310
+    },
+    "firstContentfulPaint": 1063.2033999999999,
+    "firstMeaningfulPaint": 3889.59964,
+    "speedIndex": 1703.0618845853187,
+    "largestContentfulPaint": 4563.54304,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.030319317366628858,
+    "timeToInteractive": 4650.54304,
+    "maxPotentialFirstInputDelay": 87,
+    "timeToFirstByte": 6.187000000000005,
+    "weight": {
+      "summary": "17 requests • 621,4 KiB",
+      "total": 636307,
+      "image": 13838,
+      "imageCount": 3,
+      "script": 456562,
+      "scriptCount": 5,
+      "document": 14451,
+      "font": 69167,
+      "fontCount": 2,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 252757,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 48,
+      "-weight.document": 1,
+      "+weight.document": 48,
+      "-weight.script": 13,
+      "+weight.script": 10,
+      "-weight.image": 3,
+      "+weight.image": 43,
+      "-weight.font": 4,
+      "+weight.font": 24,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 1204,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/media/press-releases-list/2023-Q1-results-danone.html",
+    "requestedUrl": "https://www.danone.com/media/press-releases-list/2023-Q1-results-danone.html",
+    "timestamp": 1707492028966,
+    "ranks": {
+      "hundos": 26,
+      "performance": 29,
+      "accessibility": 29,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 310
+    },
+    "firstContentfulPaint": 1209.6948399999999,
+    "firstMeaningfulPaint": 4032.384359999999,
+    "speedIndex": 1826.6379993372386,
+    "largestContentfulPaint": 4528.870919999999,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.18534603074215544,
+    "timeToInteractive": 4711.306739999999,
+    "maxPotentialFirstInputDelay": 107,
+    "timeToFirstByte": 5.498000000000001,
+    "weight": {
+      "summary": "18 requests • 627,1 KiB",
+      "total": 642132,
+      "image": 17985,
+      "imageCount": 4,
+      "script": 456274,
+      "scriptCount": 5,
+      "document": 16377,
+      "font": 69167,
+      "fontCount": 2,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 256658,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 47,
+      "-weight.document": 14,
+      "+weight.document": 35,
+      "-weight.script": 5,
+      "+weight.script": 18,
+      "-weight.image": 4,
+      "+weight.image": 42,
+      "-weight.font": 4,
+      "+weight.font": 24,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 1325,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.danone.com/media/press-releases-list/continued-good-momentum-across-categories-and-geographies-h1-20221.html",
+    "requestedUrl": "https://www.danone.com/media/press-releases-list/continued-good-momentum-across-categories-and-geographies-h1-20221.html",
+    "timestamp": 1707491624108,
+    "ranks": {
+      "hundos": 27,
+      "performance": 31,
+      "accessibility": 30,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 309
+    },
+    "firstContentfulPaint": 1215.975,
+    "firstMeaningfulPaint": 4056.4079999999994,
+    "speedIndex": 1901.2792456928928,
+    "largestContentfulPaint": 4711.250499999999,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0.1870230758060283,
+    "timeToInteractive": 4740.266249999999,
+    "maxPotentialFirstInputDelay": 105,
+    "timeToFirstByte": 10.489000000000004,
+    "weight": {
+      "summary": "18 requests • 627,4 KiB",
+      "total": 642412,
+      "image": 17991,
+      "imageCount": 4,
+      "script": 456299,
+      "scriptCount": 5,
+      "document": 16527,
+      "font": 69176,
+      "fontCount": 2,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 256778,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 45,
+      "-weight.document": 16,
+      "+weight.document": 33,
+      "-weight.script": 11,
+      "+weight.script": 12,
+      "-weight.image": 6,
+      "+weight.image": 40,
+      "-weight.font": 5,
+      "+weight.font": 23,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 1322,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.danone.com/investor-relations/danone-stock/investor-price-look-up.html",
+    "requestedUrl": "https://www.danone.com/investor-relations/danone-stock/investor-price-look-up.html",
+    "timestamp": 1707491569060,
+    "ranks": {
+      "hundos": 28,
+      "performance": 35,
+      "accessibility": 3,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.82,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 309
+    },
+    "firstContentfulPaint": 1728.1097,
+    "firstMeaningfulPaint": 4159.9835,
+    "speedIndex": 6655.047566191844,
+    "largestContentfulPaint": 5118.6912,
+    "totalBlockingTime": 182.5,
+    "cumulativeLayoutShift": 0.0498593504577785,
+    "timeToInteractive": 15246.309400000002,
+    "maxPotentialFirstInputDelay": 301,
+    "timeToFirstByte": 1453.5610000000001,
+    "weight": {
+      "summary": "45 requests • 2,2 MiB",
+      "total": 2341156,
+      "image": 173436,
+      "imageCount": 7,
+      "script": 1816608,
+      "scriptCount": 21,
+      "document": 23424,
+      "font": 92530,
+      "fontCount": 3,
+      "stylesheet": 141118,
+      "stylesheetCount": 4,
+      "thirdParty": 1799605,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 2,
+      "-weight.document": 43,
+      "+weight.document": 6,
+      "-weight.script": 22,
+      "+weight.script": 1,
+      "-weight.image": 35,
+      "+weight.image": 11,
+      "-weight.font": 7,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 1674,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.danone.com/id-cards/malaysia/news.html",
+    "requestedUrl": "https://www.danone.com/id-cards/malaysia/news.html",
+    "timestamp": 1707492091344,
+    "ranks": {
+      "hundos": 29,
+      "performance": 19,
+      "accessibility": 18,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.79,
+      "total": 308
+    },
+    "firstContentfulPaint": 1206.06524,
+    "firstMeaningfulPaint": 4154.134,
+    "speedIndex": 1779.3326932123637,
+    "largestContentfulPaint": 4664.62216,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.0941048355564598,
+    "timeToInteractive": 4981.180219999999,
+    "maxPotentialFirstInputDelay": 91,
+    "timeToFirstByte": 5.8870000000000005,
+    "weight": {
+      "summary": "19 requests • 798,8 KiB",
+      "total": 817936,
+      "image": 159529,
+      "imageCount": 4,
+      "script": 456275,
+      "scriptCount": 5,
+      "document": 14776,
+      "font": 105077,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 252460,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 22,
+      "-weight.document": 2,
+      "+weight.document": 47,
+      "-weight.script": 6,
+      "+weight.script": 17,
+      "-weight.image": 31,
+      "+weight.image": 15,
+      "-weight.font": 13,
+      "+weight.font": 15,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 1215,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.danone.com/media/press-releases-list/partner-for-growth.html",
+    "requestedUrl": "https://www.danone.com/media/press-releases-list/partner-for-growth.html",
+    "timestamp": 1707491647575,
+    "ranks": {
+      "hundos": 31,
+      "performance": 33,
+      "accessibility": 35,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 308
+    },
+    "firstContentfulPaint": 1213.30668,
+    "firstMeaningfulPaint": 4047.217719999999,
+    "speedIndex": 1834.6110849506404,
+    "largestContentfulPaint": 4907.516879999999,
+    "totalBlockingTime": 40.5,
+    "cumulativeLayoutShift": 0.19529569427911134,
+    "timeToInteractive": 4729.945479999999,
+    "maxPotentialFirstInputDelay": 103,
+    "timeToFirstByte": 5.412999999999997,
+    "weight": {
+      "summary": "18 requests • 633,8 KiB",
+      "total": 649045,
+      "image": 24843,
+      "imageCount": 4,
+      "script": 456276,
+      "scriptCount": 5,
+      "document": 16454,
+      "font": 69157,
+      "fontCount": 2,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 263510,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 44,
+      "-weight.document": 15,
+      "+weight.document": 34,
+      "-weight.script": 7,
+      "+weight.script": 16,
+      "-weight.image": 8,
+      "+weight.image": 38,
+      "-weight.font": 1,
+      "+weight.font": 27,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 1317,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/investor-relations/danone-stock.html",
+    "requestedUrl": "https://www.danone.com/investor-relations/danone-stock.html",
+    "timestamp": 1707491941647,
+    "ranks": {
+      "hundos": 30,
+      "performance": 25,
+      "accessibility": 46,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.75,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 308
+    },
+    "firstContentfulPaint": 1270.6076400000002,
+    "firstMeaningfulPaint": 3869.8946800000003,
+    "speedIndex": 1783.5505970005324,
+    "largestContentfulPaint": 5033.038199999999,
+    "totalBlockingTime": 36.5,
+    "cumulativeLayoutShift": 0.12011013080441169,
+    "timeToInteractive": 4575.350410000001,
+    "maxPotentialFirstInputDelay": 91,
+    "timeToFirstByte": 6.963000000000008,
+    "weight": {
+      "summary": "18 requests • 763,0 KiB",
+      "total": 781261,
+      "image": 157281,
+      "imageCount": 4,
+      "script": 456278,
+      "scriptCount": 5,
+      "document": 16238,
+      "font": 69167,
+      "fontCount": 2,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 252476,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 26,
+      "-weight.document": 11,
+      "+weight.document": 38,
+      "-weight.script": 9,
+      "+weight.script": 14,
+      "-weight.image": 27,
+      "+weight.image": 19,
+      "-weight.font": 4,
+      "+weight.font": 24,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 1339,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.danone.com/media/press-releases-list/danone-announces-an-ambitious-plan-to-reduce-its-methane-emissions.html",
+    "requestedUrl": "https://www.danone.com/media/press-releases-list/danone-announces-an-ambitious-plan-to-reduce-its-methane-emissions.html",
+    "timestamp": 1707491631906,
+    "ranks": {
+      "hundos": 32,
+      "performance": 34,
+      "accessibility": 27,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1212.93128,
+    "firstMeaningfulPaint": 4052.9501200000004,
+    "speedIndex": 1870.8239310055658,
+    "largestContentfulPaint": 5929.864299999999,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.16352396552383863,
+    "timeToInteractive": 4736.204830000001,
+    "maxPotentialFirstInputDelay": 107,
+    "timeToFirstByte": 7.503000000000004,
+    "weight": {
+      "summary": "18 requests • 645,2 KiB",
+      "total": 660649,
+      "image": 35916,
+      "imageCount": 4,
+      "script": 456278,
+      "scriptCount": 5,
+      "document": 16867,
+      "font": 69167,
+      "fontCount": 2,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 274682,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 42,
+      "-weight.document": 26,
+      "+weight.document": 23,
+      "-weight.script": 9,
+      "+weight.script": 14,
+      "-weight.image": 12,
+      "+weight.image": 34,
+      "-weight.font": 4,
+      "+weight.font": 24,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 1343,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.danone.com/investor-relations/contact.html",
+    "requestedUrl": "https://www.danone.com/investor-relations/contact.html",
+    "timestamp": 1707491558810,
+    "ranks": {
+      "hundos": 33,
+      "performance": 38,
+      "accessibility": 13,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 304
+    },
+    "firstContentfulPaint": 1219.45266,
+    "firstMeaningfulPaint": 4045.0761399999997,
+    "speedIndex": 1788.8161664386935,
+    "largestContentfulPaint": 6530.942759999999,
+    "totalBlockingTime": 36,
+    "cumulativeLayoutShift": 0.2067258210692006,
+    "timeToInteractive": 4803.860439999999,
+    "maxPotentialFirstInputDelay": 94,
+    "timeToFirstByte": 20.501000000000005,
+    "weight": {
+      "summary": "21 requests • 799,7 KiB",
+      "total": 818846,
+      "image": 194388,
+      "imageCount": 7,
+      "script": 456276,
+      "scriptCount": 5,
+      "document": 16746,
+      "font": 69157,
+      "fontCount": 2,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 276738,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 20,
+      "-weight.document": 23,
+      "+weight.document": 26,
+      "-weight.script": 7,
+      "+weight.script": 16,
+      "-weight.image": 39,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 27,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 1375,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.danone.com/investor-relations/publications-events/registrations-documents.html",
+    "requestedUrl": "https://www.danone.com/investor-relations/publications-events/registrations-documents.html",
+    "timestamp": 1707491966172,
+    "ranks": {
+      "hundos": 34,
+      "performance": 32,
+      "accessibility": 48,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.74,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 303
+    },
+    "firstContentfulPaint": 1216.12588,
+    "firstMeaningfulPaint": 4044.45052,
+    "speedIndex": 1725.1130089439557,
+    "largestContentfulPaint": 4920.56508,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.1914843494263812,
+    "timeToInteractive": 4728.28168,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 7.143000000000001,
+    "weight": {
+      "summary": "19 requests • 769,6 KiB",
+      "total": 788042,
+      "image": 159523,
+      "imageCount": 4,
+      "script": 456276,
+      "scriptCount": 5,
+      "document": 16552,
+      "font": 69166,
+      "fontCount": 2,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 252534,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 24,
+      "-weight.document": 18,
+      "+weight.document": 31,
+      "-weight.script": 7,
+      "+weight.script": 16,
+      "-weight.image": 28,
+      "+weight.image": 18,
+      "-weight.font": 3,
+      "+weight.font": 25,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 1361,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.danone.com/id-cards/malaysia.html",
+    "requestedUrl": "https://www.danone.com/id-cards/malaysia.html",
+    "timestamp": 1707492068190,
+    "ranks": {
+      "hundos": 35,
+      "performance": 30,
+      "accessibility": 19,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.76,
+      "bestPractices": 0.7,
+      "seo": 0.79,
+      "total": 300
+    },
+    "firstContentfulPaint": 1863.0486799999999,
+    "firstMeaningfulPaint": 3745.38516,
+    "speedIndex": 3024.417035977885,
+    "largestContentfulPaint": 6335.110920000001,
+    "totalBlockingTime": 56.5,
+    "cumulativeLayoutShift": 0.04268712994367782,
+    "timeToInteractive": 6307.8784399999995,
+    "maxPotentialFirstInputDelay": 97,
+    "timeToFirstByte": 6.896000000000001,
+    "weight": {
+      "summary": "26 requests • 997,0 KiB",
+      "total": 1016713,
+      "image": 173235,
+      "imageCount": 8,
+      "script": 622475,
+      "scriptCount": 6,
+      "document": 17627,
+      "font": 109244,
+      "fontCount": 4,
+      "stylesheet": 67317,
+      "stylesheetCount": 2,
+      "thirdParty": 434786,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 7,
+      "-weight.document": 35,
+      "+weight.document": 14,
+      "-weight.script": 17,
+      "+weight.script": 6,
+      "-weight.image": 34,
+      "+weight.image": 12,
+      "-weight.font": 20,
+      "+weight.font": 8,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 1592,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/pocos-de-caldas-danone-brazil.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/pocos-de-caldas-danone-brazil.html",
+    "timestamp": 1707491925649,
+    "ranks": {
+      "hundos": 36,
+      "performance": 43,
+      "accessibility": 21,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.76,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 300
+    },
+    "firstContentfulPaint": 1920.0974999999999,
+    "firstMeaningfulPaint": 4528.4765,
+    "speedIndex": 4899.536003704207,
+    "largestContentfulPaint": 5046.288500000001,
+    "totalBlockingTime": 241,
+    "cumulativeLayoutShift": 0.17421833296311368,
+    "timeToInteractive": 12464.0975,
+    "maxPotentialFirstInputDelay": 151,
+    "timeToFirstByte": 9.602999999999998,
+    "weight": {
+      "summary": "40 requests • 1,7 MiB",
+      "total": 1815843,
+      "image": 70797,
+      "imageCount": 9,
+      "script": 1385135,
+      "scriptCount": 10,
+      "document": 60302,
+      "font": 127263,
+      "fontCount": 5,
+      "stylesheet": 99196,
+      "stylesheetCount": 2,
+      "thirdParty": 1393011,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 6,
+      "-weight.document": 46,
+      "+weight.document": 3,
+      "-weight.script": 18,
+      "+weight.script": 5,
+      "-weight.image": 21,
+      "+weight.image": 25,
+      "-weight.font": 23,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 1470,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/lanjaron-red--the-greenest-of-them-all--.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/lanjaron-red--the-greenest-of-them-all--.html",
+    "timestamp": 1707491438088,
+    "ranks": {
+      "hundos": 37,
+      "performance": 41,
+      "accessibility": 38,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 299
+    },
+    "firstContentfulPaint": 1212.46266,
+    "firstMeaningfulPaint": 4182.5535,
+    "speedIndex": 1749.5715073056158,
+    "largestContentfulPaint": 6231.92782,
+    "totalBlockingTime": 37.5,
+    "cumulativeLayoutShift": 0.26839104247384504,
+    "timeToInteractive": 4940.7353,
+    "maxPotentialFirstInputDelay": 89,
+    "timeToFirstByte": 6.180999999999997,
+    "weight": {
+      "summary": "20 requests • 715,5 KiB",
+      "total": 732622,
+      "image": 73040,
+      "imageCount": 5,
+      "script": 456276,
+      "scriptCount": 5,
+      "document": 15885,
+      "font": 105061,
+      "fontCount": 3,
+      "stylesheet": 51180,
+      "stylesheetCount": 1,
+      "thirdParty": 311744,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 29,
+      "-weight.document": 5,
+      "+weight.document": 44,
+      "-weight.script": 7,
+      "+weight.script": 16,
+      "-weight.image": 22,
+      "+weight.image": 24,
+      "-weight.font": 8,
+      "+weight.font": 20,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 1293,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/media/press-releases-list/danone-board-of-directors.html",
+    "requestedUrl": "https://www.danone.com/media/press-releases-list/danone-board-of-directors.html",
+    "timestamp": 1707491211780,
+    "ranks": {
+      "hundos": 38,
+      "performance": 36,
+      "accessibility": 28,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 298
+    },
+    "firstContentfulPaint": 1214.13,
+    "firstMeaningfulPaint": 4361.910000000001,
+    "speedIndex": 3700.8656830485843,
+    "largestContentfulPaint": 5469.822,
+    "totalBlockingTime": 45,
+    "cumulativeLayoutShift": 0.1833925469197707,
+    "timeToInteractive": 5121.8550000000005,
+    "maxPotentialFirstInputDelay": 108,
+    "timeToFirstByte": 1277.863,
+    "weight": {
+      "summary": "19 requests • 699,5 KiB",
+      "total": 716317,
+      "image": 17989,
+      "imageCount": 4,
+      "script": 455282,
+      "scriptCount": 5,
+      "document": 18358,
+      "font": 142352,
+      "fontCount": 3,
+      "stylesheet": 51179,
+      "stylesheetCount": 1,
+      "thirdParty": 255677,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 32,
+      "-weight.document": 40,
+      "+weight.document": 9,
+      "-weight.script": 2,
+      "+weight.script": 21,
+      "-weight.image": 5,
+      "+weight.image": 41,
+      "-weight.font": 26,
+      "+weight.font": 2,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 1336,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.danone.com/id-cards/egypt/articles-list/el-omda-initiative.html",
+    "requestedUrl": "https://www.danone.com/id-cards/egypt/articles-list/el-omda-initiative.html",
+    "timestamp": 1707491686880,
+    "ranks": {
+      "hundos": 40,
+      "performance": 37,
+      "accessibility": 25,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 297
+    },
+    "firstContentfulPaint": 1215.07786,
+    "firstMeaningfulPaint": 4193.3045,
+    "speedIndex": 1762.6640779534357,
+    "largestContentfulPaint": 6090.63966,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.19613423064098134,
+    "timeToInteractive": 4953.6273,
+    "maxPotentialFirstInputDelay": 89,
+    "timeToFirstByte": 5.200000000000003,
+    "weight": {
+      "summary": "19 requests • 678,9 KiB",
+      "total": 695163,
+      "image": 34423,
+      "imageCount": 4,
+      "script": 456563,
+      "scriptCount": 5,
+      "document": 16788,
+      "font": 105068,
+      "fontCount": 3,
+      "stylesheet": 51170,
+      "stylesheetCount": 1,
+      "thirdParty": 273385,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 37,
+      "-weight.document": 25,
+      "+weight.document": 24,
+      "-weight.script": 14,
+      "+weight.script": 9,
+      "-weight.image": 11,
+      "+weight.image": 35,
+      "-weight.font": 10,
+      "+weight.font": 18,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 1289,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/harnessing-the-strengh-of-the-volcano-for-good.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/harnessing-the-strengh-of-the-volcano-for-good.html",
+    "timestamp": 1707491114032,
+    "ranks": {
+      "hundos": 41,
+      "performance": 26,
+      "accessibility": 41,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.75,
+      "bestPractices": 0.74,
+      "seo": 0.71,
+      "total": 297
+    },
+    "firstContentfulPaint": 1217.7534799999999,
+    "firstMeaningfulPaint": 4963.171399999999,
+    "speedIndex": 2033.5015857090573,
+    "largestContentfulPaint": 5022.355479999999,
+    "totalBlockingTime": 37.5,
+    "cumulativeLayoutShift": 0.12130302337836513,
+    "timeToInteractive": 5724.0918,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 26.473,
+    "weight": {
+      "summary": "22 requests • 886,0 KiB",
+      "total": 907256,
+      "image": 99397,
+      "imageCount": 5,
+      "script": 455304,
+      "scriptCount": 5,
+      "document": 17401,
+      "font": 252506,
+      "fontCount": 5,
+      "stylesheet": 51170,
+      "stylesheetCount": 1,
+      "thirdParty": 337429,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 11,
+      "-weight.document": 33,
+      "+weight.document": 16,
+      "-weight.script": 4,
+      "+weight.script": 19,
+      "-weight.image": 23,
+      "+weight.image": 23,
+      "-weight.font": 27,
+      "+weight.font": 1,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 1359,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.danone.com/impact/health/inspiring-healthier-habits.html",
+    "requestedUrl": "https://www.danone.com/impact/health/inspiring-healthier-habits.html",
+    "timestamp": 1707491398847,
+    "ranks": {
+      "hundos": 39,
+      "performance": 40,
+      "accessibility": 47,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.75,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 297
+    },
+    "firstContentfulPaint": 1212.4953999999998,
+    "firstMeaningfulPaint": 3017.6805,
+    "speedIndex": 1969.4134060715014,
+    "largestContentfulPaint": 6743.7747500000005,
+    "totalBlockingTime": 57.5,
+    "cumulativeLayoutShift": 0.21482617260241532,
+    "timeToInteractive": 4980.501,
+    "maxPotentialFirstInputDelay": 131,
+    "timeToFirstByte": 5.965000000000003,
+    "weight": {
+      "summary": "23 requests • 897,7 KiB",
+      "total": 919222,
+      "image": 257441,
+      "imageCount": 8,
+      "script": 456563,
+      "scriptCount": 5,
+      "document": 17836,
+      "font": 105076,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 352938,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 9,
+      "-weight.document": 36,
+      "+weight.document": 13,
+      "-weight.script": 14,
+      "+weight.script": 9,
+      "-weight.image": 44,
+      "+weight.image": 2,
+      "-weight.font": 12,
+      "+weight.font": 16,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 1547,
+      "violations": 39
+    }
+  },
+  {
+    "url": "https://www.danone.com/impact/suppliers.html",
+    "requestedUrl": "https://www.danone.com/impact/suppliers.html",
+    "timestamp": 1707490974486,
+    "ranks": {
+      "hundos": 43,
+      "performance": 45,
+      "accessibility": 8,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 296
+    },
+    "firstContentfulPaint": 1217.49676,
+    "firstMeaningfulPaint": 4229.362,
+    "speedIndex": 3951.572484718701,
+    "largestContentfulPaint": 6704.39932,
+    "totalBlockingTime": 48,
+    "cumulativeLayoutShift": 0.31496464555658205,
+    "timeToInteractive": 4991.4318,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 1420.7340000000002,
+    "weight": {
+      "summary": "21 requests • 828,9 KiB",
+      "total": 848758,
+      "image": 188873,
+      "imageCount": 6,
+      "script": 455281,
+      "scriptCount": 5,
+      "document": 16992,
+      "font": 105077,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 281076,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 15,
+      "-weight.document": 29,
+      "+weight.document": 20,
+      "-weight.script": 1,
+      "+weight.script": 22,
+      "-weight.image": 37,
+      "+weight.image": 9,
+      "-weight.font": 13,
+      "+weight.font": 15,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 1339,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/watershed-protection.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/watershed-protection.html",
+    "timestamp": 1707491526156,
+    "ranks": {
+      "hundos": 42,
+      "performance": 39,
+      "accessibility": 20,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.76,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 296
+    },
+    "firstContentfulPaint": 1867.5618000000002,
+    "firstMeaningfulPaint": 2995.6045,
+    "speedIndex": 2631.919879695222,
+    "largestContentfulPaint": 7155.05025,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0.18056134339829147,
+    "timeToInteractive": 5878.67405,
+    "maxPotentialFirstInputDelay": 113,
+    "timeToFirstByte": 5.2549999999999955,
+    "weight": {
+      "summary": "23 requests • 892,7 KiB",
+      "total": 909945,
+      "image": 64985,
+      "imageCount": 5,
+      "script": 622475,
+      "scriptCount": 6,
+      "document": 19067,
+      "font": 109238,
+      "fontCount": 4,
+      "stylesheet": 67211,
+      "stylesheetCount": 2,
+      "thirdParty": 481922,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 10,
+      "-weight.document": 41,
+      "+weight.document": 8,
+      "-weight.script": 17,
+      "+weight.script": 6,
+      "-weight.image": 19,
+      "+weight.image": 27,
+      "-weight.font": 19,
+      "+weight.font": 9,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 1595,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.danone.com/integrated-annual-reports.html",
+    "requestedUrl": "https://www.danone.com/integrated-annual-reports.html",
+    "timestamp": 1707490909543,
+    "ranks": {
+      "hundos": 44,
+      "performance": 46,
+      "accessibility": 9,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.81,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 294
+    },
+    "firstContentfulPaint": 1214.54672,
+    "firstMeaningfulPaint": 4190.908,
+    "speedIndex": 1937.303563897869,
+    "largestContentfulPaint": 6833.408160000001,
+    "totalBlockingTime": 37.5,
+    "cumulativeLayoutShift": 0.4358617432523757,
+    "timeToInteractive": 4950.213600000001,
+    "maxPotentialFirstInputDelay": 91,
+    "timeToFirstByte": 5.059000000000005,
+    "weight": {
+      "summary": "21 requests • 839,2 KiB",
+      "total": 859328,
+      "image": 200411,
+      "imageCount": 6,
+      "script": 456299,
+      "scriptCount": 5,
+      "document": 15264,
+      "font": 105079,
+      "fontCount": 3,
+      "stylesheet": 51171,
+      "stylesheetCount": 1,
+      "thirdParty": 305551,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 12,
+      "-weight.document": 3,
+      "+weight.document": 46,
+      "-weight.script": 11,
+      "+weight.script": 12,
+      "-weight.image": 42,
+      "+weight.image": 4,
+      "-weight.font": 15,
+      "+weight.font": 13,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 1271,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.danone.com/stories/articles-list/protected-natural-space.html",
+    "requestedUrl": "https://www.danone.com/stories/articles-list/protected-natural-space.html",
+    "timestamp": 1707491869295,
+    "ranks": {
+      "hundos": 45,
+      "performance": 42,
+      "accessibility": 22,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.76,
+      "bestPractices": 0.74,
+      "seo": 0.79,
+      "total": 293
+    },
+    "firstContentfulPaint": 2205.0284999999994,
+    "firstMeaningfulPaint": 4838.806499999999,
+    "speedIndex": 3208.554368674595,
+    "largestContentfulPaint": 5355.1264999999985,
+    "totalBlockingTime": 522.4999999999995,
+    "cumulativeLayoutShift": 0.04854868825344761,
+    "timeToInteractive": 7823.866499999997,
+    "maxPotentialFirstInputDelay": 157,
+    "timeToFirstByte": 5.747,
+    "weight": {
+      "summary": "58 requests • 1,8 MiB",
+      "total": 1886999,
+      "image": 61289,
+      "imageCount": 12,
+      "script": 1385135,
+      "scriptCount": 15,
+      "document": 99577,
+      "font": 127262,
+      "fontCount": 7,
+      "stylesheet": 99188,
+      "stylesheetCount": 3,
+      "thirdParty": 1464777,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 5,
+      "-weight.document": 47,
+      "+weight.document": 2,
+      "-weight.script": 18,
+      "+weight.script": 5,
+      "-weight.image": 17,
+      "+weight.image": 29,
+      "-weight.font": 22,
+      "+weight.font": 6,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 1503,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.danone.com/about-danone/sustainable-value-creation/danone-impact-journey.html",
+    "requestedUrl": "https://www.danone.com/about-danone/sustainable-value-creation/danone-impact-journey.html",
+    "timestamp": 1707491345363,
+    "ranks": {
+      "hundos": 46,
+      "performance": 44,
+      "accessibility": 2,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.82,
+      "bestPractices": 0.7,
+      "seo": 0.79,
+      "total": 291
+    },
+    "firstContentfulPaint": 1948.4210000000003,
+    "firstMeaningfulPaint": 3077.3385,
+    "speedIndex": 8031.124707095831,
+    "largestContentfulPaint": 11202.677,
+    "totalBlockingTime": 206,
+    "cumulativeLayoutShift": 0.09666678292620182,
+    "timeToInteractive": 15065.421000000002,
+    "maxPotentialFirstInputDelay": 153,
+    "timeToFirstByte": 22.87599999999999,
+    "weight": {
+      "summary": "49 requests • 2,7 MiB",
+      "total": 2803725,
+      "image": 1060118,
+      "imageCount": 18,
+      "script": 1385145,
+      "scriptCount": 10,
+      "document": 58963,
+      "font": 127273,
+      "fontCount": 5,
+      "stylesheet": 99197,
+      "stylesheetCount": 2,
+      "thirdParty": 2050922,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 1,
+      "-weight.document": 44,
+      "+weight.document": 5,
+      "-weight.script": 19,
+      "+weight.script": 4,
+      "-weight.image": 45,
+      "+weight.image": 1,
+      "-weight.font": 25,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 1513,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.danone.com/brands/waters/villa-del-sur.html",
+    "requestedUrl": "https://www.danone.com/brands/waters/villa-del-sur.html",
+    "timestamp": 1707490965062,
+    "ranks": {
+      "hundos": 47,
+      "performance": 47,
+      "accessibility": 23,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.76,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 289
+    },
+    "firstContentfulPaint": 1884.3690000000001,
+    "firstMeaningfulPaint": 4555.856,
+    "speedIndex": 7099.087520036486,
+    "largestContentfulPaint": 11950.368999999999,
+    "totalBlockingTime": 210,
+    "cumulativeLayoutShift": 0.15692617137445158,
+    "timeToInteractive": 12809.385000000002,
+    "maxPotentialFirstInputDelay": 151,
+    "timeToFirstByte": 1428.502,
+    "weight": {
+      "summary": "40 requests • 1,9 MiB",
+      "total": 1940648,
+      "image": 195633,
+      "imageCount": 9,
+      "script": 1385164,
+      "scriptCount": 10,
+      "document": 60238,
+      "font": 127264,
+      "fontCount": 5,
+      "stylesheet": 99187,
+      "stylesheetCount": 2,
+      "thirdParty": 1372787,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 4,
+      "-weight.document": 45,
+      "+weight.document": 4,
+      "-weight.script": 20,
+      "+weight.script": 3,
+      "-weight.image": 41,
+      "+weight.image": 5,
+      "-weight.font": 24,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 1548,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.danone.com/brands/waters/evian.html",
+    "requestedUrl": "https://www.danone.com/brands/waters/evian.html",
+    "timestamp": 1707491372080,
+    "ranks": {
+      "hundos": 48,
+      "performance": 48,
+      "accessibility": 24,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.37,
+      "accessibility": 0.76,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 269
+    },
+    "firstContentfulPaint": 1892.4210000000003,
+    "firstMeaningfulPaint": 4722.094000000001,
+    "speedIndex": 4385.541828034361,
+    "largestContentfulPaint": 12473.421,
+    "totalBlockingTime": 615,
+    "cumulativeLayoutShift": 0.3797208821896321,
+    "timeToInteractive": 13485.663499999999,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 6.6469999999999985,
+    "weight": {
+      "summary": "58 requests • 2,0 MiB",
+      "total": 2067731,
+      "image": 220444,
+      "imageCount": 13,
+      "script": 1405251,
+      "scriptCount": 15,
+      "document": 101080,
+      "font": 127254,
+      "fontCount": 7,
+      "stylesheet": 99188,
+      "stylesheetCount": 3,
+      "thirdParty": 1498361,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 3,
+      "-weight.document": 48,
+      "+weight.document": 1,
+      "-weight.script": 21,
+      "+weight.script": 2,
+      "-weight.image": 43,
+      "+weight.image": 3,
+      "-weight.font": 21,
+      "+weight.font": 7,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 1811,
+      "violations": 25
+    }
+  }
+]

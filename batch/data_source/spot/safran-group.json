@@ -1,0 +1,3352 @@
+[
+  {
+    "url": "https://www.safran-group.com/",
+    "requestedUrl": "https://www.safran-group.com/",
+    "timestamp": 1707581113057,
+    "ranks": {
+      "hundos": 1,
+      "performance": 2,
+      "accessibility": 1,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 357
+    },
+    "firstContentfulPaint": 2331.956,
+    "firstMeaningfulPaint": 4553.155499999999,
+    "speedIndex": 7334.932970629427,
+    "largestContentfulPaint": 4380.389999999999,
+    "totalBlockingTime": 52,
+    "cumulativeLayoutShift": 0.2654327097240193,
+    "timeToInteractive": 7376.478999999999,
+    "maxPotentialFirstInputDelay": 136,
+    "timeToFirstByte": 148.051,
+    "weight": {
+      "summary": "120 requests • 11,8 MiB",
+      "total": 12390832,
+      "image": 4722847,
+      "imageCount": 47,
+      "script": 901971,
+      "scriptCount": 23,
+      "document": 24975,
+      "font": 141345,
+      "fontCount": 5,
+      "stylesheet": 138663,
+      "stylesheetCount": 43,
+      "thirdParty": 152930,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 1,
+      "-weight.document": 50,
+      "+weight.document": 1,
+      "-weight.script": 1,
+      "+weight.script": 50,
+      "-weight.image": 50,
+      "+weight.image": 1,
+      "-weight.font": 44,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/cn/shi-pin/saifengxinrenqudongweilai",
+    "requestedUrl": "https://www.safran-group.com/cn/shi-pin/saifengxinrenqudongweilai",
+    "timestamp": 1707580773545,
+    "ranks": {
+      "hundos": 2,
+      "performance": 3,
+      "accessibility": 29,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 350
+    },
+    "firstContentfulPaint": 2835.1735,
+    "firstMeaningfulPaint": 2835.1735,
+    "speedIndex": 8457.047690552738,
+    "largestContentfulPaint": 4166.4065,
+    "totalBlockingTime": 286.5,
+    "cumulativeLayoutShift": 0.21573710855433617,
+    "timeToInteractive": 12544.6675,
+    "maxPotentialFirstInputDelay": 220,
+    "timeToFirstByte": 360.079,
+    "weight": {
+      "summary": "110 requests • 2,1 MiB",
+      "total": 2227773,
+      "image": 302930,
+      "imageCount": 14,
+      "script": 1595515,
+      "scriptCount": 29,
+      "document": 20084,
+      "font": 125189,
+      "fontCount": 5,
+      "stylesheet": 183789,
+      "stylesheetCount": 45,
+      "thirdParty": 1181741,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 49,
+      "-weight.document": 1,
+      "+weight.document": 50,
+      "-weight.script": 37,
+      "+weight.script": 14,
+      "-weight.image": 2,
+      "+weight.image": 49,
+      "-weight.font": 8,
+      "+weight.font": 37,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/cn/shi-pin/qingsongfeixingsaifengchupin-dishiwubujiashicangzhilu",
+    "requestedUrl": "https://www.safran-group.com/cn/shi-pin/qingsongfeixingsaifengchupin-dishiwubujiashicangzhilu",
+    "timestamp": 1707580526322,
+    "ranks": {
+      "hundos": 3,
+      "performance": 4,
+      "accessibility": 11,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 349
+    },
+    "firstContentfulPaint": 2834.4395000000004,
+    "firstMeaningfulPaint": 2834.4395000000004,
+    "speedIndex": 8597.36766523407,
+    "largestContentfulPaint": 4205.1165,
+    "totalBlockingTime": 289.335250000001,
+    "cumulativeLayoutShift": 0.2186013001067428,
+    "timeToInteractive": 12578.252000000002,
+    "maxPotentialFirstInputDelay": 221,
+    "timeToFirstByte": 431.258,
+    "weight": {
+      "summary": "110 requests • 2,1 MiB",
+      "total": 2185702,
+      "image": 259648,
+      "imageCount": 14,
+      "script": 1595504,
+      "scriptCount": 29,
+      "document": 20495,
+      "font": 125210,
+      "fontCount": 5,
+      "stylesheet": 184139,
+      "stylesheetCount": 45,
+      "thirdParty": 1139282,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 50,
+      "-weight.document": 3,
+      "+weight.document": 48,
+      "-weight.script": 35,
+      "+weight.script": 16,
+      "-weight.image": 1,
+      "+weight.image": 50,
+      "-weight.font": 10,
+      "+weight.font": 35,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/safran-participe-au-meeting-annuel-ausa-2016",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/safran-participe-au-meeting-annuel-ausa-2016",
+    "timestamp": 1707581416537,
+    "ranks": {
+      "hundos": 4,
+      "performance": 6,
+      "accessibility": 28,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 348
+    },
+    "firstContentfulPaint": 2833.1000000000004,
+    "firstMeaningfulPaint": 3448.4400000000005,
+    "speedIndex": 9598.380779619198,
+    "largestContentfulPaint": 3854.9450000000006,
+    "totalBlockingTime": 280.9999999999991,
+    "cumulativeLayoutShift": 0.2614486717231049,
+    "timeToInteractive": 12592.705000000002,
+    "maxPotentialFirstInputDelay": 201,
+    "timeToFirstByte": 402.894,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6110922,
+      "image": 4182183,
+      "imageCount": 27,
+      "script": 1595637,
+      "scriptCount": 29,
+      "document": 24199,
+      "font": 125190,
+      "fontCount": 5,
+      "stylesheet": 183685,
+      "stylesheetCount": 45,
+      "thirdParty": 1218875,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 11,
+      "-weight.document": 32,
+      "+weight.document": 19,
+      "-weight.script": 39,
+      "+weight.script": 12,
+      "-weight.image": 40,
+      "+weight.image": 11,
+      "-weight.font": 9,
+      "+weight.font": 36,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/es/videos/safran-landing-systems-training-center-spanish-version",
+    "requestedUrl": "https://www.safran-group.com/es/videos/safran-landing-systems-training-center-spanish-version",
+    "timestamp": 1707580371662,
+    "ranks": {
+      "hundos": 5,
+      "performance": 5,
+      "accessibility": 47,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 348
+    },
+    "firstContentfulPaint": 2829.1569999999997,
+    "firstMeaningfulPaint": 3290.5779999999995,
+    "speedIndex": 9353.625955450203,
+    "largestContentfulPaint": 3543.191999999999,
+    "totalBlockingTime": 282.5,
+    "cumulativeLayoutShift": 0.3019199778352504,
+    "timeToInteractive": 12891.708499999997,
+    "maxPotentialFirstInputDelay": 202,
+    "timeToFirstByte": 710.082,
+    "weight": {
+      "summary": "113 requests • 2,3 MiB",
+      "total": 2363885,
+      "image": 438880,
+      "imageCount": 17,
+      "script": 1595467,
+      "scriptCount": 29,
+      "document": 20117,
+      "font": 125456,
+      "fontCount": 5,
+      "stylesheet": 183889,
+      "stylesheetCount": 45,
+      "thirdParty": 1242845,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 48,
+      "-weight.document": 2,
+      "+weight.document": 49,
+      "-weight.script": 34,
+      "+weight.script": 17,
+      "-weight.image": 3,
+      "+weight.image": 48,
+      "-weight.font": 39,
+      "+weight.font": 6,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/marketing-defense-division-safran-electronics-defense",
+    "requestedUrl": "https://www.safran-group.com/marketing-defense-division-safran-electronics-defense",
+    "timestamp": 1707581080642,
+    "ranks": {
+      "hundos": 6,
+      "performance": 15,
+      "accessibility": 4,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 346
+    },
+    "firstContentfulPaint": 2340.9595,
+    "firstMeaningfulPaint": 2947.6234999999997,
+    "speedIndex": 8792.372086828764,
+    "largestContentfulPaint": 22123.372499999994,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.2528756335547422,
+    "timeToInteractive": 12723.247499999996,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 276.8,
+    "weight": {
+      "summary": "95 requests • 4,7 MiB",
+      "total": 4951258,
+      "image": 3766573,
+      "imageCount": 24,
+      "script": 903238,
+      "scriptCount": 24,
+      "document": 21188,
+      "font": 122140,
+      "fontCount": 5,
+      "stylesheet": 138119,
+      "stylesheetCount": 41,
+      "thirdParty": 152925,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 45,
+      "-weight.document": 6,
+      "+weight.document": 45,
+      "-weight.script": 6,
+      "+weight.script": 45,
+      "-weight.image": 4,
+      "+weight.image": 47,
+      "-weight.font": 5,
+      "+weight.font": 40,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/combes-virginie-press-contact",
+    "requestedUrl": "https://www.safran-group.com/combes-virginie-press-contact",
+    "timestamp": 1707581100641,
+    "ranks": {
+      "hundos": 7,
+      "performance": 16,
+      "accessibility": 6,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 346
+    },
+    "firstContentfulPaint": 2331.7609999999995,
+    "firstMeaningfulPaint": 2934.9209999999994,
+    "speedIndex": 8843.861964201085,
+    "largestContentfulPaint": 21997.856000000018,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.25461334152236215,
+    "timeToInteractive": 12647.481000000009,
+    "maxPotentialFirstInputDelay": 119,
+    "timeToFirstByte": 360.525,
+    "weight": {
+      "summary": "95 requests • 4,7 MiB",
+      "total": 4951266,
+      "image": 3766980,
+      "imageCount": 24,
+      "script": 902769,
+      "scriptCount": 24,
+      "document": 21401,
+      "font": 122048,
+      "fontCount": 5,
+      "stylesheet": 138068,
+      "stylesheetCount": 41,
+      "thirdParty": 152931,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 44,
+      "-weight.document": 7,
+      "+weight.document": 44,
+      "-weight.script": 3,
+      "+weight.script": 48,
+      "-weight.image": 6,
+      "+weight.image": 45,
+      "-weight.font": 2,
+      "+weight.font": 43,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/discover-safran-aircraft-engines-suzhou",
+    "requestedUrl": "https://www.safran-group.com/videos/discover-safran-aircraft-engines-suzhou",
+    "timestamp": 1707580553884,
+    "ranks": {
+      "hundos": 8,
+      "performance": 7,
+      "accessibility": 13,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 346
+    },
+    "firstContentfulPaint": 2837.473,
+    "firstMeaningfulPaint": 3454.9529999999995,
+    "speedIndex": 9733.248911010453,
+    "largestContentfulPaint": 4327.173,
+    "totalBlockingTime": 246,
+    "cumulativeLayoutShift": 0.25550040667305884,
+    "timeToInteractive": 12786.152999999998,
+    "maxPotentialFirstInputDelay": 251,
+    "timeToFirstByte": 275.345,
+    "weight": {
+      "summary": "123 requests • 6,1 MiB",
+      "total": 6352438,
+      "image": 4428842,
+      "imageCount": 27,
+      "script": 1590236,
+      "scriptCount": 29,
+      "document": 23881,
+      "font": 125247,
+      "fontCount": 5,
+      "stylesheet": 183793,
+      "stylesheetCount": 45,
+      "thirdParty": 1345589,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 3,
+      "-weight.document": 19,
+      "+weight.document": 32,
+      "-weight.script": 11,
+      "+weight.script": 40,
+      "-weight.image": 48,
+      "+weight.image": 3,
+      "-weight.font": 23,
+      "+weight.font": 22,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/service-desk-spares-galleys-safran-cabin",
+    "requestedUrl": "https://www.safran-group.com/service-desk-spares-galleys-safran-cabin",
+    "timestamp": 1707581070665,
+    "ranks": {
+      "hundos": 9,
+      "performance": 17,
+      "accessibility": 3,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 346
+    },
+    "firstContentfulPaint": 2327.9184999999998,
+    "firstMeaningfulPaint": 2929.5305,
+    "speedIndex": 9254.585016554674,
+    "largestContentfulPaint": 21942.51000000001,
+    "totalBlockingTime": 43.5,
+    "cumulativeLayoutShift": 0.25285496413116815,
+    "timeToInteractive": 12618.322500000002,
+    "maxPotentialFirstInputDelay": 121,
+    "timeToFirstByte": 652.225,
+    "weight": {
+      "summary": "95 requests • 4,7 MiB",
+      "total": 4951048,
+      "image": 3766641,
+      "imageCount": 24,
+      "script": 902783,
+      "scriptCount": 24,
+      "document": 21120,
+      "font": 122222,
+      "fontCount": 5,
+      "stylesheet": 138282,
+      "stylesheetCount": 41,
+      "thirdParty": 152919,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 46,
+      "-weight.document": 5,
+      "+weight.document": 46,
+      "-weight.script": 4,
+      "+weight.script": 47,
+      "-weight.image": 5,
+      "+weight.image": 46,
+      "-weight.font": 6,
+      "+weight.font": 39,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/marketing-safran-helicopter-engines",
+    "requestedUrl": "https://www.safran-group.com/fr/marketing-safran-helicopter-engines",
+    "timestamp": 1707580395753,
+    "ranks": {
+      "hundos": 10,
+      "performance": 20,
+      "accessibility": 2,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 346
+    },
+    "firstContentfulPaint": 2326.0255,
+    "firstMeaningfulPaint": 2928.1295,
+    "speedIndex": 10779.23070103784,
+    "largestContentfulPaint": 18500.30749999999,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.2407854971513105,
+    "timeToInteractive": 12705.056499999995,
+    "maxPotentialFirstInputDelay": 123,
+    "timeToFirstByte": 727.18,
+    "weight": {
+      "summary": "95 requests • 4,7 MiB",
+      "total": 4957021,
+      "image": 3767044,
+      "imageCount": 24,
+      "script": 908040,
+      "scriptCount": 24,
+      "document": 21637,
+      "font": 122075,
+      "fontCount": 5,
+      "stylesheet": 138225,
+      "stylesheetCount": 41,
+      "thirdParty": 152925,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 43,
+      "-weight.document": 8,
+      "+weight.document": 43,
+      "-weight.script": 7,
+      "+weight.script": 44,
+      "-weight.image": 8,
+      "+weight.image": 43,
+      "-weight.font": 3,
+      "+weight.font": 42,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/jetlife-mobile-application-manage-service-bulletins",
+    "requestedUrl": "https://www.safran-group.com/videos/jetlife-mobile-application-manage-service-bulletins",
+    "timestamp": 1707579969063,
+    "ranks": {
+      "hundos": 11,
+      "performance": 8,
+      "accessibility": 19,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 345
+    },
+    "firstContentfulPaint": 2840.423,
+    "firstMeaningfulPaint": 4878.018,
+    "speedIndex": 9197.665390699909,
+    "largestContentfulPaint": 4328.573,
+    "totalBlockingTime": 298,
+    "cumulativeLayoutShift": 0.24952227154220144,
+    "timeToInteractive": 11930.8505,
+    "maxPotentialFirstInputDelay": 187,
+    "timeToFirstByte": 345.587,
+    "weight": {
+      "summary": "123 requests • 5,7 MiB",
+      "total": 6019800,
+      "image": 4095049,
+      "imageCount": 27,
+      "script": 1590936,
+      "scriptCount": 29,
+      "document": 24164,
+      "font": 125216,
+      "fontCount": 5,
+      "stylesheet": 183918,
+      "stylesheetCount": 45,
+      "thirdParty": 1012745,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 18,
+      "-weight.document": 31,
+      "+weight.document": 20,
+      "-weight.script": 25,
+      "+weight.script": 26,
+      "-weight.image": 33,
+      "+weight.image": 18,
+      "-weight.font": 12,
+      "+weight.font": 33,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/pommier-melanie-commercial",
+    "requestedUrl": "https://www.safran-group.com/pommier-melanie-commercial",
+    "timestamp": 1707580426901,
+    "ranks": {
+      "hundos": 12,
+      "performance": 26,
+      "accessibility": 5,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 345
+    },
+    "firstContentfulPaint": 2333.4700000000003,
+    "firstMeaningfulPaint": 2936.4100000000003,
+    "speedIndex": 10721.09300107284,
+    "largestContentfulPaint": 18376.38000000001,
+    "totalBlockingTime": 43,
+    "cumulativeLayoutShift": 0.2546059595853714,
+    "timeToInteractive": 12648.450000000004,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 732.737,
+    "weight": {
+      "summary": "95 requests • 4,7 MiB",
+      "total": 4951013,
+      "image": 3766992,
+      "imageCount": 24,
+      "script": 902870,
+      "scriptCount": 24,
+      "document": 21029,
+      "font": 122097,
+      "fontCount": 5,
+      "stylesheet": 138025,
+      "stylesheetCount": 41,
+      "thirdParty": 152927,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 47,
+      "-weight.document": 4,
+      "+weight.document": 47,
+      "-weight.script": 5,
+      "+weight.script": 46,
+      "-weight.image": 7,
+      "+weight.image": 44,
+      "-weight.font": 4,
+      "+weight.font": 41,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/safran-human-and-industrial-story-gennevilliers",
+    "requestedUrl": "https://www.safran-group.com/videos/safran-human-and-industrial-story-gennevilliers",
+    "timestamp": 1707581472101,
+    "ranks": {
+      "hundos": 13,
+      "performance": 9,
+      "accessibility": 32,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 345
+    },
+    "firstContentfulPaint": 2839.4339999999997,
+    "firstMeaningfulPaint": 3456.802,
+    "speedIndex": 10311.03980380596,
+    "largestContentfulPaint": 4326.854,
+    "totalBlockingTime": 285,
+    "cumulativeLayoutShift": 0.2516082911450856,
+    "timeToInteractive": 12471.638000000003,
+    "maxPotentialFirstInputDelay": 220,
+    "timeToFirstByte": 1009.86,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6050273,
+      "image": 4126465,
+      "imageCount": 27,
+      "script": 1590269,
+      "scriptCount": 29,
+      "document": 24067,
+      "font": 125218,
+      "fontCount": 5,
+      "stylesheet": 183841,
+      "stylesheetCount": 45,
+      "thirdParty": 1185807,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 16,
+      "-weight.document": 25,
+      "+weight.document": 26,
+      "-weight.script": 12,
+      "+weight.script": 39,
+      "-weight.image": 35,
+      "+weight.image": 16,
+      "-weight.font": 14,
+      "+weight.font": 31,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/rajemisa-non-destructive-testing-technician",
+    "requestedUrl": "https://www.safran-group.com/videos/rajemisa-non-destructive-testing-technician",
+    "timestamp": 1707580065305,
+    "ranks": {
+      "hundos": 14,
+      "performance": 11,
+      "accessibility": 26,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 344
+    },
+    "firstContentfulPaint": 2851.466,
+    "firstMeaningfulPaint": 3471.79,
+    "speedIndex": 9227.443916734883,
+    "largestContentfulPaint": 4347.276000000001,
+    "totalBlockingTime": 298.18425000000025,
+    "cumulativeLayoutShift": 0.27168569585863084,
+    "timeToInteractive": 12223.326000000001,
+    "maxPotentialFirstInputDelay": 206,
+    "timeToFirstByte": 303.964,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5897825,
+      "image": 3974335,
+      "imageCount": 27,
+      "script": 1590369,
+      "scriptCount": 29,
+      "document": 23854,
+      "font": 125241,
+      "fontCount": 5,
+      "stylesheet": 183883,
+      "stylesheetCount": 45,
+      "thirdParty": 1025853,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 28,
+      "-weight.document": 18,
+      "+weight.document": 33,
+      "-weight.script": 14,
+      "+weight.script": 37,
+      "-weight.image": 23,
+      "+weight.image": 28,
+      "-weight.font": 22,
+      "+weight.font": 23,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/focus-patrollertm-systeme-drone-tactique-longue-endurance",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/focus-patrollertm-systeme-drone-tactique-longue-endurance",
+    "timestamp": 1707581664657,
+    "ranks": {
+      "hundos": 15,
+      "performance": 10,
+      "accessibility": 46,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 344
+    },
+    "firstContentfulPaint": 2833.7250000000004,
+    "firstMeaningfulPaint": 3450.3010000000004,
+    "speedIndex": 9161.859613490225,
+    "largestContentfulPaint": 4474.309000000001,
+    "totalBlockingTime": 274.125500000001,
+    "cumulativeLayoutShift": 0.25565831763799746,
+    "timeToInteractive": 12148.365000000002,
+    "maxPotentialFirstInputDelay": 188,
+    "timeToFirstByte": 341.37699999999995,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5909198,
+      "image": 3979602,
+      "imageCount": 27,
+      "script": 1595845,
+      "scriptCount": 29,
+      "document": 24313,
+      "font": 125408,
+      "fontCount": 5,
+      "stylesheet": 183791,
+      "stylesheetCount": 45,
+      "thirdParty": 1052324,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 27,
+      "-weight.document": 43,
+      "+weight.document": 8,
+      "-weight.script": 43,
+      "+weight.script": 8,
+      "-weight.image": 24,
+      "+weight.image": 27,
+      "-weight.font": 34,
+      "+weight.font": 11,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/nouvelles-generations-safran-pas17",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/nouvelles-generations-safran-pas17",
+    "timestamp": 1707580037487,
+    "ranks": {
+      "hundos": 16,
+      "performance": 13,
+      "accessibility": 24,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 344
+    },
+    "firstContentfulPaint": 2842.3779999999997,
+    "firstMeaningfulPaint": 3460.134,
+    "speedIndex": 10368.191083645304,
+    "largestContentfulPaint": 4381.767999999999,
+    "totalBlockingTime": 262.5,
+    "cumulativeLayoutShift": 0.27644839444805525,
+    "timeToInteractive": 12713.2545,
+    "maxPotentialFirstInputDelay": 197,
+    "timeToFirstByte": 761.6039999999999,
+    "weight": {
+      "summary": "123 requests • 5,9 MiB",
+      "total": 6186892,
+      "image": 4257401,
+      "imageCount": 27,
+      "script": 1595939,
+      "scriptCount": 29,
+      "document": 24267,
+      "font": 125438,
+      "fontCount": 5,
+      "stylesheet": 183477,
+      "stylesheetCount": 45,
+      "thirdParty": 1285953,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 6,
+      "-weight.document": 38,
+      "+weight.document": 13,
+      "-weight.script": 47,
+      "+weight.script": 4,
+      "-weight.image": 45,
+      "+weight.image": 6,
+      "-weight.font": 35,
+      "+weight.font": 10,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/safran-mexico",
+    "requestedUrl": "https://www.safran-group.com/videos/safran-mexico",
+    "timestamp": 1707580161141,
+    "ranks": {
+      "hundos": 17,
+      "performance": 12,
+      "accessibility": 33,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 344
+    },
+    "firstContentfulPaint": 2844.2690000000002,
+    "firstMeaningfulPaint": 3463.009,
+    "speedIndex": 9999.103869401111,
+    "largestContentfulPaint": 4335.118999999999,
+    "totalBlockingTime": 279.23449999999957,
+    "cumulativeLayoutShift": 0.2669918633392362,
+    "timeToInteractive": 12191.368999999999,
+    "maxPotentialFirstInputDelay": 199,
+    "timeToFirstByte": 785.201,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5916018,
+      "image": 3991896,
+      "imageCount": 27,
+      "script": 1590961,
+      "scriptCount": 29,
+      "document": 23840,
+      "font": 125402,
+      "fontCount": 5,
+      "stylesheet": 183800,
+      "stylesheetCount": 45,
+      "thirdParty": 1057847,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 26,
+      "-weight.document": 17,
+      "+weight.document": 34,
+      "-weight.script": 26,
+      "+weight.script": 25,
+      "-weight.image": 25,
+      "+weight.image": 26,
+      "-weight.font": 32,
+      "+weight.font": 13,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/how-does-airplane-engine-work",
+    "requestedUrl": "https://www.safran-group.com/videos/how-does-airplane-engine-work",
+    "timestamp": 1707580747221,
+    "ranks": {
+      "hundos": 18,
+      "performance": 14,
+      "accessibility": 27,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 344
+    },
+    "firstContentfulPaint": 2839.8540000000003,
+    "firstMeaningfulPaint": 3456.6620000000003,
+    "speedIndex": 10958.330125948774,
+    "largestContentfulPaint": 4325.874,
+    "totalBlockingTime": 303,
+    "cumulativeLayoutShift": 0.25350461299661387,
+    "timeToInteractive": 12236.104921531678,
+    "maxPotentialFirstInputDelay": 244,
+    "timeToFirstByte": 752.1700000000001,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6118113,
+      "image": 4193917,
+      "imageCount": 27,
+      "script": 1591040,
+      "scriptCount": 29,
+      "document": 24160,
+      "font": 125212,
+      "fontCount": 5,
+      "stylesheet": 183462,
+      "stylesheetCount": 45,
+      "thirdParty": 1111057,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 10,
+      "-weight.document": 30,
+      "+weight.document": 21,
+      "-weight.script": 28,
+      "+weight.script": 23,
+      "-weight.image": 41,
+      "+weight.image": 10,
+      "-weight.font": 11,
+      "+weight.font": 34,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/podcasts/radar-podcast-paris-air-show-hr-recruiter-s-crazy-day-2023-06-24",
+    "requestedUrl": "https://www.safran-group.com/podcasts/radar-podcast-paris-air-show-hr-recruiter-s-crazy-day-2023-06-24",
+    "timestamp": 1707579788461,
+    "ranks": {
+      "hundos": 19,
+      "performance": 1,
+      "accessibility": 50,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.87,
+      "bestPractices": 1,
+      "seo": 0.92,
+      "total": 344
+    },
+    "firstContentfulPaint": 2330.6235,
+    "firstMeaningfulPaint": 4392.1355,
+    "speedIndex": 7589.014543944033,
+    "largestContentfulPaint": 3927.8555,
+    "totalBlockingTime": 41,
+    "cumulativeLayoutShift": 0.25289039742872377,
+    "timeToInteractive": 7054.0955,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 939.238,
+    "weight": {
+      "summary": "97 requests • 4,8 MiB",
+      "total": 4990407,
+      "image": 3799183,
+      "imageCount": 28,
+      "script": 901988,
+      "scriptCount": 22,
+      "document": 21939,
+      "font": 121096,
+      "fontCount": 4,
+      "stylesheet": 138036,
+      "stylesheetCount": 41,
+      "thirdParty": 152932,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 42,
+      "-weight.document": 9,
+      "+weight.document": 42,
+      "-weight.script": 2,
+      "+weight.script": 49,
+      "-weight.image": 9,
+      "+weight.image": 42,
+      "-weight.font": 1,
+      "+weight.font": 44,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/simplyfly-epilogue-making",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/simplyfly-epilogue-making",
+    "timestamp": 1707581527937,
+    "ranks": {
+      "hundos": 20,
+      "performance": 18,
+      "accessibility": 36,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 343
+    },
+    "firstContentfulPaint": 2839.907,
+    "firstMeaningfulPaint": 3457.0150000000003,
+    "speedIndex": 9370.405345297731,
+    "largestContentfulPaint": 4324.677000000001,
+    "totalBlockingTime": 366,
+    "cumulativeLayoutShift": 0.24609543551615004,
+    "timeToInteractive": 12158.527000000002,
+    "maxPotentialFirstInputDelay": 211,
+    "timeToFirstByte": 453.665,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5889177,
+      "image": 3959781,
+      "imageCount": 27,
+      "script": 1595656,
+      "scriptCount": 29,
+      "document": 24287,
+      "font": 125281,
+      "fontCount": 5,
+      "stylesheet": 183856,
+      "stylesheetCount": 45,
+      "thirdParty": 1032415,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 29,
+      "-weight.document": 41,
+      "+weight.document": 10,
+      "-weight.script": 40,
+      "+weight.script": 11,
+      "-weight.image": 22,
+      "+weight.image": 29,
+      "-weight.font": 27,
+      "+weight.font": 18,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/safran-au-royaume-uni-fiers",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/safran-au-royaume-uni-fiers",
+    "timestamp": 1707581500135,
+    "ranks": {
+      "hundos": 21,
+      "performance": 19,
+      "accessibility": 34,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 343
+    },
+    "firstContentfulPaint": 2847.432,
+    "firstMeaningfulPaint": 4583.59,
+    "speedIndex": 9927.413167056875,
+    "largestContentfulPaint": 3876.578,
+    "totalBlockingTime": 353,
+    "cumulativeLayoutShift": 0.3015803349926949,
+    "timeToInteractive": 12283.580921531677,
+    "maxPotentialFirstInputDelay": 227,
+    "timeToFirstByte": 720.981,
+    "weight": {
+      "summary": "123 requests • 5,7 MiB",
+      "total": 5966935,
+      "image": 4038097,
+      "imageCount": 27,
+      "script": 1595820,
+      "scriptCount": 29,
+      "document": 24088,
+      "font": 125241,
+      "fontCount": 5,
+      "stylesheet": 183757,
+      "stylesheetCount": 45,
+      "thirdParty": 1070286,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 21,
+      "-weight.document": 28,
+      "+weight.document": 23,
+      "-weight.script": 42,
+      "+weight.script": 9,
+      "-weight.image": 30,
+      "+weight.image": 21,
+      "-weight.font": 22,
+      "+weight.font": 23,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/evacuation-systems-and-protection-equipment",
+    "requestedUrl": "https://www.safran-group.com/videos/evacuation-systems-and-protection-equipment",
+    "timestamp": 1707581310131,
+    "ranks": {
+      "hundos": 22,
+      "performance": 24,
+      "accessibility": 20,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 342
+    },
+    "firstContentfulPaint": 2850.2259999999997,
+    "firstMeaningfulPaint": 3159.844,
+    "speedIndex": 10324.827560476282,
+    "largestContentfulPaint": 4494.125,
+    "totalBlockingTime": 304.24024999999983,
+    "cumulativeLayoutShift": 0.28032965498998075,
+    "timeToInteractive": 12744.597500000002,
+    "maxPotentialFirstInputDelay": 231,
+    "timeToFirstByte": 141.88299999999998,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6129781,
+      "image": 4206226,
+      "imageCount": 27,
+      "script": 1590623,
+      "scriptCount": 29,
+      "document": 23961,
+      "font": 125468,
+      "fontCount": 5,
+      "stylesheet": 183577,
+      "stylesheetCount": 45,
+      "thirdParty": 1122632,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 9,
+      "-weight.document": 22,
+      "+weight.document": 29,
+      "-weight.script": 20,
+      "+weight.script": 31,
+      "-weight.image": 42,
+      "+weight.image": 9,
+      "-weight.font": 40,
+      "+weight.font": 5,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/frederique-supplier-performance-manager",
+    "requestedUrl": "https://www.safran-group.com/videos/frederique-supplier-performance-manager",
+    "timestamp": 1707581164021,
+    "ranks": {
+      "hundos": 23,
+      "performance": 21,
+      "accessibility": 9,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 342
+    },
+    "firstContentfulPaint": 2844.3019999999997,
+    "firstMeaningfulPaint": 3462.9259999999995,
+    "speedIndex": 9643.571236558528,
+    "largestContentfulPaint": 4336.861999999999,
+    "totalBlockingTime": 365.5,
+    "cumulativeLayoutShift": 0.25283426077666404,
+    "timeToInteractive": 11958.678,
+    "maxPotentialFirstInputDelay": 212,
+    "timeToFirstByte": 683.79,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5878504,
+      "image": 3954556,
+      "imageCount": 27,
+      "script": 1590555,
+      "scriptCount": 29,
+      "document": 24064,
+      "font": 125251,
+      "fontCount": 5,
+      "stylesheet": 183790,
+      "stylesheetCount": 45,
+      "thirdParty": 991984,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 31,
+      "-weight.document": 24,
+      "+weight.document": 27,
+      "-weight.script": 19,
+      "+weight.script": 32,
+      "-weight.image": 21,
+      "+weight.image": 30,
+      "-weight.font": 24,
+      "+weight.font": 21,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/safran-helicopter-engines-responsive-and-mission-focused",
+    "requestedUrl": "https://www.safran-group.com/videos/safran-helicopter-engines-responsive-and-mission-focused",
+    "timestamp": 1707579844954,
+    "ranks": {
+      "hundos": 24,
+      "performance": 25,
+      "accessibility": 10,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 342
+    },
+    "firstContentfulPaint": 2835.3740000000003,
+    "firstMeaningfulPaint": 3451.95,
+    "speedIndex": 10464.547290438979,
+    "largestContentfulPaint": 4938.39,
+    "totalBlockingTime": 269.5,
+    "cumulativeLayoutShift": 0.26204865600943356,
+    "timeToInteractive": 12921.734000000002,
+    "maxPotentialFirstInputDelay": 200,
+    "timeToFirstByte": 790.26,
+    "weight": {
+      "summary": "123 requests • 6,0 MiB",
+      "total": 6266201,
+      "image": 4342725,
+      "imageCount": 27,
+      "script": 1589941,
+      "scriptCount": 29,
+      "document": 24078,
+      "font": 125443,
+      "fontCount": 5,
+      "stylesheet": 183763,
+      "stylesheetCount": 45,
+      "thirdParty": 1256133,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 4,
+      "-weight.document": 27,
+      "+weight.document": 24,
+      "-weight.script": 8,
+      "+weight.script": 43,
+      "-weight.image": 47,
+      "+weight.image": 4,
+      "-weight.font": 36,
+      "+weight.font": 9,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/find-out-samc-new-center-excellence-safran-dedicated-additive-manufacturing",
+    "requestedUrl": "https://www.safran-group.com/videos/find-out-samc-new-center-excellence-safran-dedicated-additive-manufacturing",
+    "timestamp": 1707580273545,
+    "ranks": {
+      "hundos": 25,
+      "performance": 22,
+      "accessibility": 41,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 342
+    },
+    "firstContentfulPaint": 2830.746,
+    "firstMeaningfulPaint": 3446.102,
+    "speedIndex": 9737.544385126417,
+    "largestContentfulPaint": 4365.1359999999995,
+    "totalBlockingTime": 369,
+    "cumulativeLayoutShift": 0.2545317156868971,
+    "timeToInteractive": 12051.166499999998,
+    "maxPotentialFirstInputDelay": 197,
+    "timeToFirstByte": 761.468,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6052437,
+      "image": 4128572,
+      "imageCount": 27,
+      "script": 1590273,
+      "scriptCount": 29,
+      "document": 24077,
+      "font": 125455,
+      "fontCount": 5,
+      "stylesheet": 183662,
+      "stylesheetCount": 45,
+      "thirdParty": 1039000,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 15,
+      "-weight.document": 26,
+      "+weight.document": 25,
+      "-weight.script": 13,
+      "+weight.script": 38,
+      "-weight.image": 36,
+      "+weight.image": 15,
+      "-weight.font": 38,
+      "+weight.font": 7,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/discover-our-floats-rafts",
+    "requestedUrl": "https://www.safran-group.com/videos/discover-our-floats-rafts",
+    "timestamp": 1707581203044,
+    "ranks": {
+      "hundos": 26,
+      "performance": 27,
+      "accessibility": 12,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 341
+    },
+    "firstContentfulPaint": 2836.742,
+    "firstMeaningfulPaint": 3453.826000000001,
+    "speedIndex": 9314.922305764067,
+    "largestContentfulPaint": 4941.535999999999,
+    "totalBlockingTime": 285.5,
+    "cumulativeLayoutShift": 0.26808622054834685,
+    "timeToInteractive": 12625.814999999999,
+    "maxPotentialFirstInputDelay": 214,
+    "timeToFirstByte": 149.08300000000003,
+    "weight": {
+      "summary": "123 requests • 5,9 MiB",
+      "total": 6131645,
+      "image": 4208071,
+      "imageCount": 27,
+      "script": 1590657,
+      "scriptCount": 29,
+      "document": 23795,
+      "font": 125217,
+      "fontCount": 5,
+      "stylesheet": 183763,
+      "stylesheetCount": 45,
+      "thirdParty": 1124990,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 8,
+      "-weight.document": 14,
+      "+weight.document": 37,
+      "-weight.script": 21,
+      "+weight.script": 30,
+      "-weight.image": 43,
+      "+weight.image": 8,
+      "-weight.font": 13,
+      "+weight.font": 32,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/nouvelle-famille-moteurs-dhelicopteres-aneto",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/nouvelle-famille-moteurs-dhelicopteres-aneto",
+    "timestamp": 1707580023559,
+    "ranks": {
+      "hundos": 27,
+      "performance": 28,
+      "accessibility": 23,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 341
+    },
+    "firstContentfulPaint": 2833.922,
+    "firstMeaningfulPaint": 3450.0220000000004,
+    "speedIndex": 9641.608549449593,
+    "largestContentfulPaint": 4473.197,
+    "totalBlockingTime": 393.6970000000001,
+    "cumulativeLayoutShift": 0.24900635040715396,
+    "timeToInteractive": 12144.422000000002,
+    "maxPotentialFirstInputDelay": 194,
+    "timeToFirstByte": 734.5889999999999,
+    "weight": {
+      "summary": "124 requests • 5,7 MiB",
+      "total": 5938910,
+      "image": 4006966,
+      "imageCount": 28,
+      "script": 1598118,
+      "scriptCount": 29,
+      "document": 24318,
+      "font": 125239,
+      "fontCount": 5,
+      "stylesheet": 184035,
+      "stylesheetCount": 45,
+      "thirdParty": 1046541,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 23,
+      "-weight.document": 44,
+      "+weight.document": 7,
+      "-weight.script": 50,
+      "+weight.script": 1,
+      "-weight.image": 26,
+      "+weight.image": 25,
+      "-weight.font": 21,
+      "+weight.font": 24,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/moteur-leap-1a-cfm-obtient-double-certification-aesa-faa",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/moteur-leap-1a-cfm-obtient-double-certification-aesa-faa",
+    "timestamp": 1707581443506,
+    "ranks": {
+      "hundos": 28,
+      "performance": 29,
+      "accessibility": 30,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 341
+    },
+    "firstContentfulPaint": 2840.0719999999997,
+    "firstMeaningfulPaint": 3456.9439999999995,
+    "speedIndex": 10229.41182806054,
+    "largestContentfulPaint": 4327.251999999999,
+    "totalBlockingTime": 421.5,
+    "cumulativeLayoutShift": 0.23638433183757251,
+    "timeToInteractive": 11929.824999999997,
+    "maxPotentialFirstInputDelay": 250,
+    "timeToFirstByte": 707.429,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5856724,
+      "image": 3927094,
+      "imageCount": 27,
+      "script": 1595971,
+      "scriptCount": 29,
+      "document": 24297,
+      "font": 125228,
+      "fontCount": 5,
+      "stylesheet": 183726,
+      "stylesheetCount": 45,
+      "thirdParty": 964584,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 35,
+      "-weight.document": 42,
+      "+weight.document": 9,
+      "-weight.script": 48,
+      "+weight.script": 3,
+      "-weight.image": 17,
+      "+weight.image": 34,
+      "-weight.font": 16,
+      "+weight.font": 29,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/cfm-rise-program-open-fanthe-most-ambitious-architecture",
+    "requestedUrl": "https://www.safran-group.com/videos/cfm-rise-program-open-fanthe-most-ambitious-architecture",
+    "timestamp": 1707580472573,
+    "ranks": {
+      "hundos": 29,
+      "performance": 30,
+      "accessibility": 7,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.48,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 340
+    },
+    "firstContentfulPaint": 2864.179,
+    "firstMeaningfulPaint": 3487.3230000000003,
+    "speedIndex": 9021.455380183525,
+    "largestContentfulPaint": 4522.825000000001,
+    "totalBlockingTime": 382,
+    "cumulativeLayoutShift": 0.26695323711876723,
+    "timeToInteractive": 12278.339000000002,
+    "maxPotentialFirstInputDelay": 207,
+    "timeToFirstByte": 69.594,
+    "weight": {
+      "summary": "123 requests • 5,7 MiB",
+      "total": 5938440,
+      "image": 4014157,
+      "imageCount": 27,
+      "script": 1591338,
+      "scriptCount": 29,
+      "document": 23952,
+      "font": 125184,
+      "fontCount": 5,
+      "stylesheet": 183524,
+      "stylesheetCount": 45,
+      "thirdParty": 1054265,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 24,
+      "-weight.document": 21,
+      "+weight.document": 30,
+      "-weight.script": 30,
+      "+weight.script": 21,
+      "-weight.image": 28,
+      "+weight.image": 23,
+      "-weight.font": 7,
+      "+weight.font": 38,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/florian-monteur-aeronautique",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/florian-monteur-aeronautique",
+    "timestamp": 1707581457792,
+    "ranks": {
+      "hundos": 30,
+      "performance": 31,
+      "accessibility": 31,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.47,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 339
+    },
+    "firstContentfulPaint": 2836.6479999999997,
+    "firstMeaningfulPaint": 3453.6719999999996,
+    "speedIndex": 9818.374785725324,
+    "largestContentfulPaint": 4478.464,
+    "totalBlockingTime": 422.54475,
+    "cumulativeLayoutShift": 0.25805487675205796,
+    "timeToInteractive": 12155.008,
+    "maxPotentialFirstInputDelay": 237,
+    "timeToFirstByte": 726.761,
+    "weight": {
+      "summary": "123 requests • 5,7 MiB",
+      "total": 5951046,
+      "image": 4021727,
+      "imageCount": 27,
+      "script": 1595894,
+      "scriptCount": 29,
+      "document": 24239,
+      "font": 125229,
+      "fontCount": 5,
+      "stylesheet": 183721,
+      "stylesheetCount": 45,
+      "thirdParty": 1032740,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 22,
+      "-weight.document": 34,
+      "+weight.document": 17,
+      "-weight.script": 45,
+      "+weight.script": 6,
+      "-weight.image": 29,
+      "+weight.image": 22,
+      "-weight.font": 17,
+      "+weight.font": 28,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/cote-decale-du-bourget",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/cote-decale-du-bourget",
+    "timestamp": 1707581230090,
+    "ranks": {
+      "hundos": 31,
+      "performance": 33,
+      "accessibility": 14,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.46,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 338
+    },
+    "firstContentfulPaint": 2835.5899999999997,
+    "firstMeaningfulPaint": 4871.481,
+    "speedIndex": 9330.707168063185,
+    "largestContentfulPaint": 7369.692999999999,
+    "totalBlockingTime": 234,
+    "cumulativeLayoutShift": 0.24232985973660354,
+    "timeToInteractive": 12532.2775,
+    "maxPotentialFirstInputDelay": 190,
+    "timeToFirstByte": 152.936,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6030087,
+      "image": 4100502,
+      "imageCount": 27,
+      "script": 1595878,
+      "scriptCount": 29,
+      "document": 24281,
+      "font": 125269,
+      "fontCount": 5,
+      "stylesheet": 183756,
+      "stylesheetCount": 45,
+      "thirdParty": 1137852,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 17,
+      "-weight.document": 40,
+      "+weight.document": 11,
+      "-weight.script": 44,
+      "+weight.script": 7,
+      "-weight.image": 34,
+      "+weight.image": 17,
+      "-weight.font": 26,
+      "+weight.font": 19,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/beriev-be-200-watch-out-downpour",
+    "requestedUrl": "https://www.safran-group.com/videos/beriev-be-200-watch-out-downpour",
+    "timestamp": 1707581243469,
+    "ranks": {
+      "hundos": 32,
+      "performance": 32,
+      "accessibility": 15,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.46,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 338
+    },
+    "firstContentfulPaint": 2845.4159999999997,
+    "firstMeaningfulPaint": 3464.5919999999996,
+    "speedIndex": 9161.457368959687,
+    "largestContentfulPaint": 5006.532,
+    "totalBlockingTime": 362.5,
+    "cumulativeLayoutShift": 0.2712926791032071,
+    "timeToInteractive": 12355.849999999999,
+    "maxPotentialFirstInputDelay": 225,
+    "timeToFirstByte": 134.15200000000002,
+    "weight": {
+      "summary": "123 requests • 5,7 MiB",
+      "total": 5972356,
+      "image": 4049029,
+      "imageCount": 27,
+      "script": 1590483,
+      "scriptCount": 29,
+      "document": 23785,
+      "font": 125251,
+      "fontCount": 5,
+      "stylesheet": 183641,
+      "stylesheetCount": 45,
+      "thirdParty": 965620,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 20,
+      "-weight.document": 13,
+      "+weight.document": 38,
+      "-weight.script": 16,
+      "+weight.script": 35,
+      "-weight.image": 31,
+      "+weight.image": 20,
+      "-weight.font": 24,
+      "+weight.font": 21,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/safran-helicopter-engines-celebrates-80th-anniversary",
+    "requestedUrl": "https://www.safran-group.com/videos/safran-helicopter-engines-celebrates-80th-anniversary",
+    "timestamp": 1707580622716,
+    "ranks": {
+      "hundos": 33,
+      "performance": 35,
+      "accessibility": 18,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.46,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 338
+    },
+    "firstContentfulPaint": 2837.6049999999996,
+    "firstMeaningfulPaint": 3454.9570000000003,
+    "speedIndex": 9753.557966962395,
+    "largestContentfulPaint": 4994.3369999999995,
+    "totalBlockingTime": 368,
+    "cumulativeLayoutShift": 0.2686188290379694,
+    "timeToInteractive": 12471.561,
+    "maxPotentialFirstInputDelay": 221,
+    "timeToFirstByte": 679.2860000000001,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6075386,
+      "image": 4151350,
+      "imageCount": 27,
+      "script": 1590667,
+      "scriptCount": 29,
+      "document": 24096,
+      "font": 125227,
+      "fontCount": 5,
+      "stylesheet": 183955,
+      "stylesheetCount": 45,
+      "thirdParty": 1068481,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 14,
+      "-weight.document": 29,
+      "+weight.document": 22,
+      "-weight.script": 22,
+      "+weight.script": 29,
+      "-weight.image": 37,
+      "+weight.image": 14,
+      "-weight.font": 15,
+      "+weight.font": 30,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/safran-apprentissage-nos-alternants",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/safran-apprentissage-nos-alternants",
+    "timestamp": 1707580358577,
+    "ranks": {
+      "hundos": 34,
+      "performance": 23,
+      "accessibility": 49,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 338
+    },
+    "firstContentfulPaint": 2855.567,
+    "firstMeaningfulPaint": 3476.071000000001,
+    "speedIndex": 9796.987448056601,
+    "largestContentfulPaint": 4347.827000000001,
+    "totalBlockingTime": 385.5,
+    "cumulativeLayoutShift": 0.24703344583061893,
+    "timeToInteractive": 11996.46792153168,
+    "maxPotentialFirstInputDelay": 208,
+    "timeToFirstByte": 746.961,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5883844,
+      "image": 3954459,
+      "imageCount": 27,
+      "script": 1595685,
+      "scriptCount": 29,
+      "document": 24202,
+      "font": 125391,
+      "fontCount": 5,
+      "stylesheet": 183837,
+      "stylesheetCount": 45,
+      "thirdParty": 965387,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 30,
+      "-weight.document": 33,
+      "+weight.document": 18,
+      "-weight.script": 41,
+      "+weight.script": 10,
+      "-weight.image": 20,
+      "+weight.image": 31,
+      "-weight.font": 31,
+      "+weight.font": 14,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/ghislain-work-package-manager",
+    "requestedUrl": "https://www.safran-group.com/videos/ghislain-work-package-manager",
+    "timestamp": 1707580189403,
+    "ranks": {
+      "hundos": 35,
+      "performance": 34,
+      "accessibility": 35,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.46,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 338
+    },
+    "firstContentfulPaint": 2848.447,
+    "firstMeaningfulPaint": 3468.647000000001,
+    "speedIndex": 9632.201913847035,
+    "largestContentfulPaint": 4344.947000000001,
+    "totalBlockingTime": 518,
+    "cumulativeLayoutShift": 0.25697028649956816,
+    "timeToInteractive": 11907.347000000002,
+    "maxPotentialFirstInputDelay": 235,
+    "timeToFirstByte": 791.5279999999999,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5817547,
+      "image": 3893462,
+      "imageCount": 27,
+      "script": 1590533,
+      "scriptCount": 29,
+      "document": 23970,
+      "font": 125507,
+      "fontCount": 5,
+      "stylesheet": 183730,
+      "stylesheetCount": 45,
+      "thirdParty": 943552,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 40,
+      "-weight.document": 23,
+      "+weight.document": 28,
+      "-weight.script": 18,
+      "+weight.script": 33,
+      "-weight.image": 12,
+      "+weight.image": 39,
+      "-weight.font": 43,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/changer-durablement-aerien-nouveau-film-institutionnel-safran",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/changer-durablement-aerien-nouveau-film-institutionnel-safran",
+    "timestamp": 1707580994823,
+    "ranks": {
+      "hundos": 36,
+      "performance": 38,
+      "accessibility": 45,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.45,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 337
+    },
+    "firstContentfulPaint": 2837.152,
+    "firstMeaningfulPaint": 4874.526,
+    "speedIndex": 9693.527806553178,
+    "largestContentfulPaint": 7066.197999999999,
+    "totalBlockingTime": 300,
+    "cumulativeLayoutShift": 0.23930491082856625,
+    "timeToInteractive": 12466.628,
+    "maxPotentialFirstInputDelay": 257,
+    "timeToFirstByte": 414.14,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6081702,
+      "image": 4151714,
+      "imageCount": 27,
+      "script": 1595298,
+      "scriptCount": 29,
+      "document": 24694,
+      "font": 125261,
+      "fontCount": 5,
+      "stylesheet": 183702,
+      "stylesheetCount": 45,
+      "thirdParty": 1189074,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 13,
+      "-weight.document": 49,
+      "+weight.document": 2,
+      "-weight.script": 31,
+      "+weight.script": 20,
+      "-weight.image": 38,
+      "+weight.image": 13,
+      "-weight.font": 25,
+      "+weight.font": 20,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/fast-genius-moustapha-houndjo",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/fast-genius-moustapha-houndjo",
+    "timestamp": 1707581623012,
+    "ranks": {
+      "hundos": 37,
+      "performance": 36,
+      "accessibility": 43,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.45,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 337
+    },
+    "firstContentfulPaint": 2839.581,
+    "firstMeaningfulPaint": 3457.501,
+    "speedIndex": 8985.324789547123,
+    "largestContentfulPaint": 4483.861,
+    "totalBlockingTime": 504.5,
+    "cumulativeLayoutShift": 0.2594794308471395,
+    "timeToInteractive": 11940.661,
+    "maxPotentialFirstInputDelay": 225,
+    "timeToFirstByte": 298.00600000000003,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5839271,
+      "image": 3910223,
+      "imageCount": 27,
+      "script": 1595634,
+      "scriptCount": 29,
+      "document": 24271,
+      "font": 125189,
+      "fontCount": 5,
+      "stylesheet": 183848,
+      "stylesheetCount": 45,
+      "thirdParty": 947075,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 37,
+      "-weight.document": 39,
+      "+weight.document": 12,
+      "-weight.script": 38,
+      "+weight.script": 13,
+      "-weight.image": 15,
+      "+weight.image": 36,
+      "-weight.font": 8,
+      "+weight.font": 37,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/guessmysafranjob-can-you-guess-vincent-s-job",
+    "requestedUrl": "https://www.safran-group.com/videos/guessmysafranjob-can-you-guess-vincent-s-job",
+    "timestamp": 1707581705882,
+    "ranks": {
+      "hundos": 38,
+      "performance": 37,
+      "accessibility": 48,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.45,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 337
+    },
+    "firstContentfulPaint": 2845.866,
+    "firstMeaningfulPaint": 3465.4979999999996,
+    "speedIndex": 9432.42038166122,
+    "largestContentfulPaint": 4495.853999999999,
+    "totalBlockingTime": 485.5,
+    "cumulativeLayoutShift": 0.26737223158460066,
+    "timeToInteractive": 11976.983999999997,
+    "maxPotentialFirstInputDelay": 220,
+    "timeToFirstByte": 686.237,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5817689,
+      "image": 3893633,
+      "imageCount": 27,
+      "script": 1590806,
+      "scriptCount": 29,
+      "document": 23834,
+      "font": 125217,
+      "fontCount": 5,
+      "stylesheet": 184079,
+      "stylesheetCount": 45,
+      "thirdParty": 936317,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 39,
+      "-weight.document": 15,
+      "+weight.document": 36,
+      "-weight.script": 24,
+      "+weight.script": 27,
+      "-weight.image": 13,
+      "+weight.image": 38,
+      "-weight.font": 13,
+      "+weight.font": 32,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/safran-showcases-innovations-aircraft-interiors-expo-hamburg",
+    "requestedUrl": "https://www.safran-group.com/videos/safran-showcases-innovations-aircraft-interiors-expo-hamburg",
+    "timestamp": 1707581269830,
+    "ranks": {
+      "hundos": 39,
+      "performance": 40,
+      "accessibility": 17,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 336
+    },
+    "firstContentfulPaint": 2847.334,
+    "firstMeaningfulPaint": 4893.7029999999995,
+    "speedIndex": 9219.40158828688,
+    "largestContentfulPaint": 7094.985000000001,
+    "totalBlockingTime": 290,
+    "cumulativeLayoutShift": 0.25003124355558687,
+    "timeToInteractive": 12362.027,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 135.066,
+    "weight": {
+      "summary": "123 requests • 5,9 MiB",
+      "total": 6164922,
+      "image": 4239907,
+      "imageCount": 27,
+      "script": 1591006,
+      "scriptCount": 29,
+      "document": 24262,
+      "font": 125484,
+      "fontCount": 5,
+      "stylesheet": 183621,
+      "stylesheetCount": 45,
+      "thirdParty": 1157499,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 7,
+      "-weight.document": 37,
+      "+weight.document": 14,
+      "-weight.script": 27,
+      "+weight.script": 24,
+      "-weight.image": 44,
+      "+weight.image": 7,
+      "-weight.font": 41,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/ergoforce-digitalization-enhanced-workstation-ergonomics",
+    "requestedUrl": "https://www.safran-group.com/videos/ergoforce-digitalization-enhanced-workstation-ergonomics",
+    "timestamp": 1707581150015,
+    "ranks": {
+      "hundos": 40,
+      "performance": 41,
+      "accessibility": 8,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 336
+    },
+    "firstContentfulPaint": 2837.168,
+    "firstMeaningfulPaint": 4871.908999999999,
+    "speedIndex": 9298.832094571002,
+    "largestContentfulPaint": 7060.7069999999985,
+    "totalBlockingTime": 299,
+    "cumulativeLayoutShift": 0.25474261635011325,
+    "timeToInteractive": 12375.673499999999,
+    "maxPotentialFirstInputDelay": 254,
+    "timeToFirstByte": 294.12600000000003,
+    "weight": {
+      "summary": "123 requests • 5,8 MiB",
+      "total": 6085553,
+      "image": 4160669,
+      "imageCount": 27,
+      "script": 1590760,
+      "scriptCount": 29,
+      "document": 24260,
+      "font": 125230,
+      "fontCount": 5,
+      "stylesheet": 183674,
+      "stylesheetCount": 45,
+      "thirdParty": 1164182,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 12,
+      "-weight.document": 36,
+      "+weight.document": 15,
+      "-weight.script": 23,
+      "+weight.script": 28,
+      "-weight.image": 39,
+      "+weight.image": 12,
+      "-weight.font": 18,
+      "+weight.font": 27,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/its-fashion-week-safran-too",
+    "requestedUrl": "https://www.safran-group.com/videos/its-fashion-week-safran-too",
+    "timestamp": 1707580009493,
+    "ranks": {
+      "hundos": 41,
+      "performance": 42,
+      "accessibility": 22,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 336
+    },
+    "firstContentfulPaint": 2836.4790000000003,
+    "firstMeaningfulPaint": 4870.961000000001,
+    "speedIndex": 9405.016150055644,
+    "largestContentfulPaint": 7213.671,
+    "totalBlockingTime": 287,
+    "cumulativeLayoutShift": 0.2530279538110447,
+    "timeToInteractive": 12299.432999999999,
+    "maxPotentialFirstInputDelay": 205,
+    "timeToFirstByte": 430.551,
+    "weight": {
+      "summary": "123 requests • 5,7 MiB",
+      "total": 5990789,
+      "image": 4067057,
+      "imageCount": 27,
+      "script": 1590432,
+      "scriptCount": 29,
+      "document": 23883,
+      "font": 125236,
+      "fontCount": 5,
+      "stylesheet": 183732,
+      "stylesheetCount": 45,
+      "thirdParty": 1118896,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 19,
+      "-weight.document": 20,
+      "+weight.document": 31,
+      "-weight.script": 15,
+      "+weight.script": 36,
+      "-weight.image": 32,
+      "+weight.image": 19,
+      "-weight.font": 20,
+      "+weight.font": 25,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/focus-demarche-bas-carbone-safran",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/focus-demarche-bas-carbone-safran",
+    "timestamp": 1707580897058,
+    "ranks": {
+      "hundos": 42,
+      "performance": 39,
+      "accessibility": 38,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 336
+    },
+    "firstContentfulPaint": 2991.5989999999993,
+    "firstMeaningfulPaint": 5030.261,
+    "speedIndex": 8951.716209771579,
+    "largestContentfulPaint": 4680.313,
+    "totalBlockingTime": 496.5,
+    "cumulativeLayoutShift": 0.2512010245748696,
+    "timeToInteractive": 11996.104,
+    "maxPotentialFirstInputDelay": 208,
+    "timeToFirstByte": 306.44100000000003,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5865328,
+      "image": 3882346,
+      "imageCount": 27,
+      "script": 1595512,
+      "scriptCount": 29,
+      "document": 24322,
+      "font": 125299,
+      "fontCount": 5,
+      "stylesheet": 237563,
+      "stylesheetCount": 45,
+      "thirdParty": 960244,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 34,
+      "-weight.document": 45,
+      "+weight.document": 6,
+      "-weight.script": 36,
+      "+weight.script": 15,
+      "-weight.image": 11,
+      "+weight.image": 40,
+      "-weight.font": 29,
+      "+weight.font": 16,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/tech-days-safran-engineering-services-grande-bretagne",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/tech-days-safran-engineering-services-grande-bretagne",
+    "timestamp": 1707580259241,
+    "ranks": {
+      "hundos": 43,
+      "performance": 43,
+      "accessibility": 40,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 336
+    },
+    "firstContentfulPaint": 2864.588,
+    "firstMeaningfulPaint": 3488.6640000000007,
+    "speedIndex": 9636.306666971564,
+    "largestContentfulPaint": 4575.7970000000005,
+    "totalBlockingTime": 519,
+    "cumulativeLayoutShift": 0.26092380917208396,
+    "timeToInteractive": 12058.699500000002,
+    "maxPotentialFirstInputDelay": 215,
+    "timeToFirstByte": 737.073,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5832631,
+      "image": 3902498,
+      "imageCount": 27,
+      "script": 1596480,
+      "scriptCount": 29,
+      "document": 24240,
+      "font": 125406,
+      "fontCount": 5,
+      "stylesheet": 183877,
+      "stylesheetCount": 45,
+      "thirdParty": 940205,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 38,
+      "-weight.document": 35,
+      "+weight.document": 16,
+      "-weight.script": 49,
+      "+weight.script": 2,
+      "-weight.image": 14,
+      "+weight.image": 37,
+      "-weight.font": 33,
+      "+weight.font": 12,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 47,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/interconnection-systems-eurasia-services-bref-0",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/interconnection-systems-eurasia-services-bref-0",
+    "timestamp": 1707580217570,
+    "ranks": {
+      "hundos": 44,
+      "performance": 44,
+      "accessibility": 37,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 336
+    },
+    "firstContentfulPaint": 2838.255,
+    "firstMeaningfulPaint": 3455.491000000001,
+    "speedIndex": 10379.985460535001,
+    "largestContentfulPaint": 4481.654,
+    "totalBlockingTime": 565,
+    "cumulativeLayoutShift": 0.2448905528937501,
+    "timeToInteractive": 11933.3315,
+    "maxPotentialFirstInputDelay": 259,
+    "timeToFirstByte": 690.855,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5839704,
+      "image": 3910372,
+      "imageCount": 27,
+      "script": 1595452,
+      "scriptCount": 29,
+      "document": 24330,
+      "font": 125493,
+      "fontCount": 5,
+      "stylesheet": 183787,
+      "stylesheetCount": 45,
+      "thirdParty": 947121,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 36,
+      "-weight.document": 47,
+      "+weight.document": 4,
+      "-weight.script": 33,
+      "+weight.script": 18,
+      "-weight.image": 16,
+      "+weight.image": 35,
+      "-weight.font": 42,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 48,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/safrans-stand-2019-paris-air-show-all-new-angle",
+    "requestedUrl": "https://www.safran-group.com/videos/safrans-stand-2019-paris-air-show-all-new-angle",
+    "timestamp": 1707579927033,
+    "ranks": {
+      "hundos": 45,
+      "performance": 45,
+      "accessibility": 16,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.43,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 335
+    },
+    "firstContentfulPaint": 2835.4770000000003,
+    "firstMeaningfulPaint": 4872.459999999999,
+    "speedIndex": 10687.17988953123,
+    "largestContentfulPaint": 7834.588999999999,
+    "totalBlockingTime": 269.5,
+    "cumulativeLayoutShift": 0.26420655946343036,
+    "timeToInteractive": 13309.399421531678,
+    "maxPotentialFirstInputDelay": 202,
+    "timeToFirstByte": 738.504,
+    "weight": {
+      "summary": "123 requests • 6,1 MiB",
+      "total": 6356105,
+      "image": 4433051,
+      "imageCount": 27,
+      "script": 1590165,
+      "scriptCount": 29,
+      "document": 23715,
+      "font": 125232,
+      "fontCount": 5,
+      "stylesheet": 183737,
+      "stylesheetCount": 45,
+      "thirdParty": 1349547,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 2,
+      "-weight.document": 10,
+      "+weight.document": 41,
+      "-weight.script": 9,
+      "+weight.script": 42,
+      "-weight.image": 49,
+      "+weight.image": 2,
+      "-weight.font": 19,
+      "+weight.font": 26,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/fast-genius-meeting-imane-rhouas-software-project-coordinator-safran-engineering-services",
+    "requestedUrl": "https://www.safran-group.com/videos/fast-genius-meeting-imane-rhouas-software-project-coordinator-safran-engineering-services",
+    "timestamp": 1707580315829,
+    "ranks": {
+      "hundos": 46,
+      "performance": 46,
+      "accessibility": 44,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.42,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 334
+    },
+    "firstContentfulPaint": 2899.2760000000003,
+    "firstMeaningfulPaint": 5042.301,
+    "speedIndex": 10383.859249560837,
+    "largestContentfulPaint": 7399.169999999999,
+    "totalBlockingTime": 298.5,
+    "cumulativeLayoutShift": 0.26887937378736465,
+    "timeToInteractive": 12759.752,
+    "maxPotentialFirstInputDelay": 226,
+    "timeToFirstByte": 732.869,
+    "weight": {
+      "summary": "123 requests • 5,9 MiB",
+      "total": 6208170,
+      "image": 4284720,
+      "imageCount": 27,
+      "script": 1590514,
+      "scriptCount": 29,
+      "document": 23784,
+      "font": 125283,
+      "fontCount": 5,
+      "stylesheet": 183725,
+      "stylesheetCount": 45,
+      "thirdParty": 1282935,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 5,
+      "-weight.document": 12,
+      "+weight.document": 39,
+      "-weight.script": 17,
+      "+weight.script": 34,
+      "-weight.image": 46,
+      "+weight.image": 5,
+      "-weight.font": 28,
+      "+weight.font": 17,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/we-are-one-safran",
+    "requestedUrl": "https://www.safran-group.com/videos/we-are-one-safran",
+    "timestamp": 1707581323264,
+    "ranks": {
+      "hundos": 47,
+      "performance": 47,
+      "accessibility": 21,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.41,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 333
+    },
+    "firstContentfulPaint": 2838.008,
+    "firstMeaningfulPaint": 4877.895,
+    "speedIndex": 8870.250089710878,
+    "largestContentfulPaint": 7226.38,
+    "totalBlockingTime": 377.95700000000033,
+    "cumulativeLayoutShift": 0.2657265646802022,
+    "timeToInteractive": 12163.948,
+    "maxPotentialFirstInputDelay": 195,
+    "timeToFirstByte": 65.027,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5874193,
+      "image": 3950142,
+      "imageCount": 27,
+      "script": 1591102,
+      "scriptCount": 29,
+      "document": 23742,
+      "font": 125269,
+      "fontCount": 5,
+      "stylesheet": 183826,
+      "stylesheetCount": 45,
+      "thirdParty": 1021992,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 32,
+      "-weight.document": 11,
+      "+weight.document": 40,
+      "-weight.script": 29,
+      "+weight.script": 22,
+      "-weight.image": 19,
+      "+weight.image": 32,
+      "-weight.font": 26,
+      "+weight.font": 19,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/videos/xatis-identify-use-cases",
+    "requestedUrl": "https://www.safran-group.com/videos/xatis-identify-use-cases",
+    "timestamp": 1707580952996,
+    "ranks": {
+      "hundos": 48,
+      "performance": 48,
+      "accessibility": 42,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.41,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 333
+    },
+    "firstContentfulPaint": 2849.9399999999996,
+    "firstMeaningfulPaint": 3467.0639999999994,
+    "speedIndex": 12179.331524379066,
+    "largestContentfulPaint": 4491.030999999999,
+    "totalBlockingTime": 511,
+    "cumulativeLayoutShift": 0.31604653807616706,
+    "timeToInteractive": 12405.251421531677,
+    "maxPotentialFirstInputDelay": 234,
+    "timeToFirstByte": 1714.056,
+    "weight": {
+      "summary": "123 requests • 5,7 MiB",
+      "total": 5937325,
+      "image": 4014003,
+      "imageCount": 27,
+      "script": 1590173,
+      "scriptCount": 29,
+      "document": 23838,
+      "font": 125212,
+      "fontCount": 5,
+      "stylesheet": 184201,
+      "stylesheetCount": 45,
+      "thirdParty": 927252,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 25,
+      "-weight.document": 16,
+      "+weight.document": 35,
+      "-weight.script": 10,
+      "+weight.script": 41,
+      "-weight.image": 27,
+      "+weight.image": 24,
+      "-weight.font": 11,
+      "+weight.font": 34,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/lenvol-majestueux-la350-1000-pas17",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/lenvol-majestueux-la350-1000-pas17",
+    "timestamp": 1707581376454,
+    "ranks": {
+      "hundos": 49,
+      "performance": 49,
+      "accessibility": 25,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.4,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 332
+    },
+    "firstContentfulPaint": 2834.5550000000003,
+    "firstMeaningfulPaint": 4869.7699999999995,
+    "speedIndex": 8791.002470521846,
+    "largestContentfulPaint": 7367.15,
+    "totalBlockingTime": 403.8630000000003,
+    "cumulativeLayoutShift": 0.26373380082304154,
+    "timeToInteractive": 12065.8275,
+    "maxPotentialFirstInputDelay": 200,
+    "timeToFirstByte": 58.783,
+    "weight": {
+      "summary": "123 requests • 5,6 MiB",
+      "total": 5872201,
+      "image": 3942600,
+      "imageCount": 27,
+      "script": 1595898,
+      "scriptCount": 29,
+      "document": 24327,
+      "font": 125454,
+      "fontCount": 5,
+      "stylesheet": 183633,
+      "stylesheetCount": 45,
+      "thirdParty": 979642,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 33,
+      "-weight.document": 46,
+      "+weight.document": 5,
+      "-weight.script": 46,
+      "+weight.script": 5,
+      "-weight.image": 18,
+      "+weight.image": 33,
+      "-weight.font": 37,
+      "+weight.font": 8,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr/videos/modelisation-3d-fournit-safran-bord-avions-ligne",
+    "requestedUrl": "https://www.safran-group.com/fr/videos/modelisation-3d-fournit-safran-bord-avions-ligne",
+    "timestamp": 1707581568630,
+    "ranks": {
+      "hundos": 50,
+      "performance": 50,
+      "accessibility": 39,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.39,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 331
+    },
+    "firstContentfulPaint": 2837.5160000000005,
+    "firstMeaningfulPaint": 4873.602,
+    "speedIndex": 8922.97088727942,
+    "largestContentfulPaint": 7217.932,
+    "totalBlockingTime": 499,
+    "cumulativeLayoutShift": 0.23937879570868506,
+    "timeToInteractive": 11764.530999999999,
+    "maxPotentialFirstInputDelay": 201,
+    "timeToFirstByte": 320.498,
+    "weight": {
+      "summary": "123 requests • 5,5 MiB",
+      "total": 5805256,
+      "image": 3875724,
+      "imageCount": 27,
+      "script": 1595370,
+      "scriptCount": 29,
+      "document": 24412,
+      "font": 125383,
+      "fontCount": 5,
+      "stylesheet": 183808,
+      "stylesheetCount": 45,
+      "thirdParty": 912646,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 41,
+      "-weight.document": 48,
+      "+weight.document": 3,
+      "-weight.script": 32,
+      "+weight.script": 19,
+      "-weight.image": 10,
+      "+weight.image": 41,
+      "-weight.font": 30,
+      "+weight.font": 15,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  }
+]

@@ -1,0 +1,3352 @@
+[
+  {
+    "url": "https://www.kering.com/fr/actualites/descriptif-du-programme-de-rachat-d-actions-autorise-par-l-assemblee-generale-mixte-des-actionnaires-du-27-avril-2023-et-mise-en-oeuvre-de-la-delegation-du-conseil-d-administration-reuni-le-27-avril-2023/",
+    "requestedUrl": "https://www.kering.com/fr/news/descriptif-du-programme-de-rachat-d-actions-autorise-par-l-assemblee-generale-mixte-des-actionnaires-du-27-avril-2023-et-mise-en-oeuvre-de-la-delegation-du-conseil-d-administration-reuni-le-27-avril-2023/",
+    "timestamp": 1707495752807,
+    "ranks": {
+      "hundos": 1,
+      "performance": 4,
+      "accessibility": 21,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.97,
+      "accessibility": 0.81,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 359
+    },
+    "firstContentfulPaint": 1154.707,
+    "firstMeaningfulPaint": 1154.707,
+    "speedIndex": 3514.6128608097624,
+    "largestContentfulPaint": 2217.571,
+    "totalBlockingTime": 66,
+    "cumulativeLayoutShift": 0.04957342809678743,
+    "timeToInteractive": 6123.18,
+    "maxPotentialFirstInputDelay": 148,
+    "timeToFirstByte": 226.45000000000002,
+    "weight": {
+      "summary": "64 requests • 675,9 KiB",
+      "total": 692091,
+      "image": 36318,
+      "imageCount": 21,
+      "script": 438521,
+      "scriptCount": 18,
+      "document": 32384,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 54218,
+      "stylesheetCount": 7,
+      "thirdParty": 366781,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 16,
+      "-weight.document": 34,
+      "+weight.document": 17,
+      "-weight.script": 27,
+      "+weight.script": 15,
+      "-weight.image": 6,
+      "+weight.image": 39,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 887,
+      "violations": 73
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/transfert-effectif-d-ysl-beaute-a-l-oreal/",
+    "requestedUrl": "https://www.kering.com/fr/news/transfert-effectif-d-ysl-beaute-a-l-oreal/",
+    "timestamp": 1707495215147,
+    "ranks": {
+      "hundos": 2,
+      "performance": 3,
+      "accessibility": 8,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.82,
+      "bestPractices": 0.96,
+      "seo": 0.8,
+      "total": 356
+    },
+    "firstContentfulPaint": 1039.0895,
+    "firstMeaningfulPaint": 1039.0895,
+    "speedIndex": 3587.837601358478,
+    "largestContentfulPaint": 1553.4337002716065,
+    "totalBlockingTime": 67,
+    "cumulativeLayoutShift": 0.04957342809678743,
+    "timeToInteractive": 4604.567700271606,
+    "maxPotentialFirstInputDelay": 168,
+    "timeToFirstByte": 209.905,
+    "weight": {
+      "summary": "53 requests • 578,1 KiB",
+      "total": 592004,
+      "image": 36316,
+      "imageCount": 19,
+      "script": 405573,
+      "scriptCount": 14,
+      "document": 28059,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 12046,
+      "stylesheetCount": 4,
+      "thirdParty": 302567,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 49,
+      "-weight.document": 4,
+      "+weight.document": 47,
+      "-weight.script": 7,
+      "+weight.script": 35,
+      "-weight.image": 5,
+      "+weight.image": 40,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 691,
+      "violations": 34
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/puma-sells-trademark-rights-tretorn/",
+    "requestedUrl": "https://www.kering.com/fr/news/puma-sells-trademark-rights-tretorn/",
+    "timestamp": 1707495668476,
+    "ranks": {
+      "hundos": 3,
+      "performance": 2,
+      "accessibility": 13,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.8,
+      "total": 355
+    },
+    "firstContentfulPaint": 1036.5345,
+    "firstMeaningfulPaint": 1036.5345,
+    "speedIndex": 3407.2001273540745,
+    "largestContentfulPaint": 1792.9572002716063,
+    "totalBlockingTime": 56,
+    "cumulativeLayoutShift": 0.04963922408954809,
+    "timeToInteractive": 5165.752200271605,
+    "maxPotentialFirstInputDelay": 162,
+    "timeToFirstByte": 129.934,
+    "weight": {
+      "summary": "57 requests • 579,4 KiB",
+      "total": 593258,
+      "image": 36310,
+      "imageCount": 19,
+      "script": 405534,
+      "scriptCount": 14,
+      "document": 28048,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 12045,
+      "stylesheetCount": 4,
+      "thirdParty": 303866,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 47,
+      "-weight.document": 3,
+      "+weight.document": 48,
+      "-weight.script": 2,
+      "+weight.script": 40,
+      "-weight.image": 4,
+      "+weight.image": 41,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 598,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/finalisation-cession-onestopplus-division-grandes-tailles-redcats-aux-etats-unis/",
+    "requestedUrl": "https://www.kering.com/fr/news/finalisation-cession-onestopplus-division-grandes-tailles-redcats-aux-etats-unis/",
+    "timestamp": 1707495686929,
+    "ranks": {
+      "hundos": 4,
+      "performance": 1,
+      "accessibility": 16,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.8,
+      "total": 355
+    },
+    "firstContentfulPaint": 1035.5645,
+    "firstMeaningfulPaint": 1035.5645,
+    "speedIndex": 3236.161687364917,
+    "largestContentfulPaint": 2117.6735,
+    "totalBlockingTime": 56.5,
+    "cumulativeLayoutShift": 0.04957342809678743,
+    "timeToInteractive": 4386.0807002716065,
+    "maxPotentialFirstInputDelay": 163,
+    "timeToFirstByte": 180.493,
+    "weight": {
+      "summary": "53 requests • 578,1 KiB",
+      "total": 591978,
+      "image": 36308,
+      "imageCount": 19,
+      "script": 405508,
+      "scriptCount": 14,
+      "document": 28025,
+      "font": 67306,
+      "fontCount": 3,
+      "stylesheet": 12041,
+      "stylesheetCount": 4,
+      "thirdParty": 302529,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 50,
+      "-weight.document": 2,
+      "+weight.document": 49,
+      "-weight.script": 1,
+      "+weight.script": 41,
+      "-weight.image": 3,
+      "+weight.image": 42,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 619,
+      "violations": 36
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/puma-unep-announce-strategic-partnership-support-2010-international-year-biodiversity/",
+    "requestedUrl": "https://www.kering.com/fr/news/puma-unep-announce-strategic-partnership-support-2010-international-year-biodiversity/",
+    "timestamp": 1707495205648,
+    "ranks": {
+      "hundos": 5,
+      "performance": 5,
+      "accessibility": 12,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.97,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.8,
+      "total": 354
+    },
+    "firstContentfulPaint": 1135.0545,
+    "firstMeaningfulPaint": 1135.0545,
+    "speedIndex": 3740.527152535622,
+    "largestContentfulPaint": 2186.6545,
+    "totalBlockingTime": 74.50000000000045,
+    "cumulativeLayoutShift": 0.04957342809678743,
+    "timeToInteractive": 4662.468700271607,
+    "maxPotentialFirstInputDelay": 155.00000000000045,
+    "timeToFirstByte": 247.87699999999998,
+    "weight": {
+      "summary": "65 requests • 585,8 KiB",
+      "total": 599817,
+      "image": 44207,
+      "imageCount": 27,
+      "script": 405550,
+      "scriptCount": 14,
+      "document": 26582,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 12045,
+      "stylesheetCount": 4,
+      "thirdParty": 303877,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 42,
+      "-weight.document": 1,
+      "+weight.document": 50,
+      "-weight.script": 4,
+      "+weight.script": 38,
+      "-weight.image": 12,
+      "+weight.image": 33,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 563,
+      "violations": 31
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/bottega-veneta-tomas-maier-mettent-fin-leur-collaboration/",
+    "requestedUrl": "https://www.kering.com/fr/news/bottega-veneta-tomas-maier-mettent-fin-leur-collaboration/",
+    "timestamp": 1707495159682,
+    "ranks": {
+      "hundos": 7,
+      "performance": 6,
+      "accessibility": 17,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.97,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.8,
+      "total": 354
+    },
+    "firstContentfulPaint": 1040.0720000000001,
+    "firstMeaningfulPaint": 1040.0720000000001,
+    "speedIndex": 4299.064559966548,
+    "largestContentfulPaint": 1558.5682002716067,
+    "totalBlockingTime": 73.5,
+    "cumulativeLayoutShift": 0.04957342809678743,
+    "timeToInteractive": 4581.862200271606,
+    "maxPotentialFirstInputDelay": 164,
+    "timeToFirstByte": 649.386,
+    "weight": {
+      "summary": "53 requests • 578,9 KiB",
+      "total": 592822,
+      "image": 35937,
+      "imageCount": 19,
+      "script": 405552,
+      "scriptCount": 14,
+      "document": 29245,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 12046,
+      "stylesheetCount": 4,
+      "thirdParty": 302552,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 48,
+      "-weight.document": 8,
+      "+weight.document": 43,
+      "-weight.script": 5,
+      "+weight.script": 37,
+      "-weight.image": 1,
+      "+weight.image": 44,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 716,
+      "violations": 41
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/international-business-declaration/",
+    "requestedUrl": "https://www.kering.com/fr/news/international-business-declaration/",
+    "timestamp": 1707494733116,
+    "ranks": {
+      "hundos": 6,
+      "performance": 7,
+      "accessibility": 19,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.96,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 354
+    },
+    "firstContentfulPaint": 1155.7889999999998,
+    "firstMeaningfulPaint": 1155.7889999999998,
+    "speedIndex": 4384.339010404441,
+    "largestContentfulPaint": 2209.7934999999998,
+    "totalBlockingTime": 77.5,
+    "cumulativeLayoutShift": 0.01884771919719443,
+    "timeToInteractive": 5359.345200271606,
+    "maxPotentialFirstInputDelay": 191,
+    "timeToFirstByte": 448.583,
+    "weight": {
+      "summary": "66 requests • 620,6 KiB",
+      "total": 635488,
+      "image": 47358,
+      "imageCount": 23,
+      "script": 412471,
+      "scriptCount": 16,
+      "document": 30011,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 14386,
+      "stylesheetCount": 5,
+      "thirdParty": 303868,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 18,
+      "-weight.document": 10,
+      "+weight.document": 41,
+      "-weight.script": 24,
+      "+weight.script": 18,
+      "-weight.image": 19,
+      "+weight.image": 26,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 785,
+      "violations": 69
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/groupe-ppr-sa-fondation-dignite-droits-femmes-franchit-une-nouvelle-etape-dans-sensibilisation-collaborateurs-question-violences-conjugales/",
+    "requestedUrl": "https://www.kering.com/fr/news/groupe-ppr-sa-fondation-dignite-droits-femmes-franchit-une-nouvelle-etape-dans-sensibilisation-collaborateurs-question-violences-conjugales/",
+    "timestamp": 1707494705511,
+    "ranks": {
+      "hundos": 8,
+      "performance": 8,
+      "accessibility": 15,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.94,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 352
+    },
+    "firstContentfulPaint": 1128.1584999999998,
+    "firstMeaningfulPaint": 1128.1584999999998,
+    "speedIndex": 3276.8502230333524,
+    "largestContentfulPaint": 2136.1775,
+    "totalBlockingTime": 161.5,
+    "cumulativeLayoutShift": 0.09057613843049728,
+    "timeToInteractive": 5502.130700271607,
+    "maxPotentialFirstInputDelay": 162,
+    "timeToFirstByte": 157.511,
+    "weight": {
+      "summary": "53 requests • 581,9 KiB",
+      "total": 595916,
+      "image": 36282,
+      "imageCount": 19,
+      "script": 405564,
+      "scriptCount": 14,
+      "document": 31803,
+      "font": 67307,
+      "fontCount": 3,
+      "stylesheet": 12041,
+      "stylesheetCount": 4,
+      "thirdParty": 302586,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 45,
+      "-weight.document": 25,
+      "+weight.document": 26,
+      "-weight.script": 6,
+      "+weight.script": 36,
+      "-weight.image": 2,
+      "+weight.image": 43,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 669,
+      "violations": 36
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/kering-recrutement/?page=5",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/kering-recrutement/?page=5",
+    "timestamp": 1707494626159,
+    "ranks": {
+      "hundos": 9,
+      "performance": 19,
+      "accessibility": 1,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 0.84,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 348
+    },
+    "firstContentfulPaint": 1204.912,
+    "firstMeaningfulPaint": 1204.912,
+    "speedIndex": 4437.272195725554,
+    "largestContentfulPaint": 2638.1620000000003,
+    "totalBlockingTime": 350,
+    "cumulativeLayoutShift": 0.10817866013314117,
+    "timeToInteractive": 7514.287,
+    "maxPotentialFirstInputDelay": 262,
+    "timeToFirstByte": 641.399,
+    "weight": {
+      "summary": "71 requests • 1,1 MiB",
+      "total": 1105030,
+      "image": 47963,
+      "imageCount": 19,
+      "script": 742286,
+      "scriptCount": 25,
+      "document": 91040,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 80120,
+      "stylesheetCount": 7,
+      "thirdParty": 631259,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 7,
+      "-weight.document": 48,
+      "+weight.document": 3,
+      "-weight.script": 36,
+      "+weight.script": 6,
+      "-weight.image": 20,
+      "+weight.image": 25,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 1538,
+      "violations": 79
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/saint-laurent-chargee-de-production-lifestyle-hf-cdd/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/saint-laurent-chargee-de-production-lifestyle-hf-cdd/",
+    "timestamp": 1707495422792,
+    "ranks": {
+      "hundos": 10,
+      "performance": 10,
+      "accessibility": 46,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.78,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 344
+    },
+    "firstContentfulPaint": 1030.1654999999998,
+    "firstMeaningfulPaint": 1030.1654999999998,
+    "speedIndex": 2861.3013723487957,
+    "largestContentfulPaint": 4214.455499999999,
+    "totalBlockingTime": 77.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5465.6385,
+    "maxPotentialFirstInputDelay": 123,
+    "timeToFirstByte": 118.61399999999999,
+    "weight": {
+      "summary": "47 requests • 612,4 KiB",
+      "total": 627112,
+      "image": 63007,
+      "imageCount": 18,
+      "script": 406183,
+      "scriptCount": 12,
+      "document": 31464,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 302553,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 22,
+      "-weight.document": 19,
+      "+weight.document": 32,
+      "-weight.script": 18,
+      "+weight.script": 24,
+      "-weight.image": 32,
+      "+weight.image": 13,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 1061,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-global-outlet-visual-merchandising-manager/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-global-outlet-visual-merchandising-manager/",
+    "timestamp": 1707495349375,
+    "ranks": {
+      "hundos": 11,
+      "performance": 9,
+      "accessibility": 37,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 341
+    },
+    "firstContentfulPaint": 1026.5475000000001,
+    "firstMeaningfulPaint": 1026.5475000000001,
+    "speedIndex": 3221.2727340818324,
+    "largestContentfulPaint": 4107.011,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5044.11125,
+    "maxPotentialFirstInputDelay": 121,
+    "timeToFirstByte": 143.596,
+    "weight": {
+      "summary": "51 requests • 611,2 KiB",
+      "total": 625863,
+      "image": 58533,
+      "imageCount": 18,
+      "script": 406185,
+      "scriptCount": 12,
+      "document": 31474,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 303873,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 24,
+      "-weight.document": 20,
+      "+weight.document": 31,
+      "-weight.script": 20,
+      "+weight.script": 22,
+      "-weight.image": 25,
+      "+weight.image": 20,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 1036,
+      "violations": 60
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/central_america/saint-laurent-store-director-cancun/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/central_america/saint-laurent-store-director-cancun/",
+    "timestamp": 1707494949057,
+    "ranks": {
+      "hundos": 12,
+      "performance": 21,
+      "accessibility": 41,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.78,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 341
+    },
+    "firstContentfulPaint": 1079.653,
+    "firstMeaningfulPaint": 1094.653,
+    "speedIndex": 3129.4756812400788,
+    "largestContentfulPaint": 4595.4215,
+    "totalBlockingTime": 120,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 6014.136499999999,
+    "maxPotentialFirstInputDelay": 127,
+    "timeToFirstByte": 186.019,
+    "weight": {
+      "summary": "51 requests • 616,7 KiB",
+      "total": 631460,
+      "image": 63002,
+      "imageCount": 18,
+      "script": 406180,
+      "scriptCount": 12,
+      "document": 32215,
+      "font": 67306,
+      "fontCount": 3,
+      "stylesheet": 11184,
+      "stylesheetCount": 2,
+      "thirdParty": 303881,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 20,
+      "-weight.document": 32,
+      "+weight.document": 19,
+      "-weight.script": 15,
+      "+weight.script": 27,
+      "-weight.image": 31,
+      "+weight.image": 14,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 1466,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/asia/visual-merchandising-coordinator/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/asia/visual-merchandising-coordinator/",
+    "timestamp": 1707495431848,
+    "ranks": {
+      "hundos": 13,
+      "performance": 11,
+      "accessibility": 50,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 340
+    },
+    "firstContentfulPaint": 1018.8225000000001,
+    "firstMeaningfulPaint": 1018.8225000000001,
+    "speedIndex": 3172.6225436485465,
+    "largestContentfulPaint": 4220.5835,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5112.788500000001,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 118.659,
+    "weight": {
+      "summary": "51 requests • 604,4 KiB",
+      "total": 618944,
+      "image": 58540,
+      "imageCount": 18,
+      "script": 406201,
+      "scriptCount": 12,
+      "document": 28808,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 303953,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 29,
+      "-weight.document": 5,
+      "+weight.document": 46,
+      "-weight.script": 22,
+      "+weight.script": 20,
+      "-weight.image": 28,
+      "+weight.image": 17,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 963,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/asia/balenciaga-leathergoods-manager/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/asia/balenciaga-leathergoods-manager/",
+    "timestamp": 1707495358292,
+    "ranks": {
+      "hundos": 14,
+      "performance": 12,
+      "accessibility": 47,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 340
+    },
+    "firstContentfulPaint": 1086.7075,
+    "firstMeaningfulPaint": 1086.7075,
+    "speedIndex": 3295.4678658495714,
+    "largestContentfulPaint": 4249.0625,
+    "totalBlockingTime": 64.73500000000058,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5881.82,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 113.52499999999999,
+    "weight": {
+      "summary": "51 requests • 596,0 KiB",
+      "total": 610277,
+      "image": 47087,
+      "imageCount": 18,
+      "script": 406180,
+      "scriptCount": 12,
+      "document": 31790,
+      "font": 67306,
+      "fontCount": 3,
+      "stylesheet": 11185,
+      "stylesheetCount": 2,
+      "thirdParty": 303884,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 37,
+      "-weight.document": 23,
+      "+weight.document": 28,
+      "-weight.script": 15,
+      "+weight.script": 27,
+      "-weight.image": 17,
+      "+weight.image": 28,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 1044,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-in-store-visual-merchandiser-new-bond-street/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-in-store-visual-merchandiser-new-bond-street/",
+    "timestamp": 1707494994435,
+    "ranks": {
+      "hundos": 15,
+      "performance": 13,
+      "accessibility": 28,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.84,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 339
+    },
+    "firstContentfulPaint": 1023.9265,
+    "firstMeaningfulPaint": 1023.9265,
+    "speedIndex": 2885.9679525342985,
+    "largestContentfulPaint": 4230.4265,
+    "totalBlockingTime": 128.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5515.933999999999,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 109.91399999999999,
+    "weight": {
+      "summary": "47 requests • 605,1 KiB",
+      "total": 619576,
+      "image": 58558,
+      "imageCount": 18,
+      "script": 406180,
+      "scriptCount": 12,
+      "document": 31451,
+      "font": 67307,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 302628,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 28,
+      "-weight.document": 18,
+      "+weight.document": 33,
+      "-weight.script": 15,
+      "+weight.script": 27,
+      "-weight.image": 30,
+      "+weight.image": 15,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 762,
+      "violations": 36
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/kering-eyewear-junior-trade-marketing-manager/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/kering-eyewear-junior-trade-marketing-manager/",
+    "timestamp": 1707494781091,
+    "ranks": {
+      "hundos": 17,
+      "performance": 14,
+      "accessibility": 34,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.84,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 339
+    },
+    "firstContentfulPaint": 1022.778,
+    "firstMeaningfulPaint": 1022.778,
+    "speedIndex": 3472.298625912045,
+    "largestContentfulPaint": 4341.134,
+    "totalBlockingTime": 81.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 6362.054,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 272.822,
+    "weight": {
+      "summary": "46 requests • 600,7 KiB",
+      "total": 615076,
+      "image": 48641,
+      "imageCount": 17,
+      "script": 406179,
+      "scriptCount": 12,
+      "document": 31114,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 302551,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 34,
+      "-weight.document": 14,
+      "+weight.document": 37,
+      "-weight.script": 14,
+      "+weight.script": 28,
+      "-weight.image": 21,
+      "+weight.image": 24,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 1016,
+      "violations": 59
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/balenciaga-lg-product-development-fixed-term/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/balenciaga-lg-product-development-fixed-term/",
+    "timestamp": 1707495283707,
+    "ranks": {
+      "hundos": 18,
+      "performance": 15,
+      "accessibility": 40,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.84,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 339
+    },
+    "firstContentfulPaint": 1014.455,
+    "firstMeaningfulPaint": 1014.455,
+    "speedIndex": 3542.284517052317,
+    "largestContentfulPaint": 4237.455,
+    "totalBlockingTime": 73.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5633.174999999999,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 377.408,
+    "weight": {
+      "summary": "47 requests • 596,8 KiB",
+      "total": 611139,
+      "image": 47086,
+      "imageCount": 18,
+      "script": 406182,
+      "scriptCount": 12,
+      "document": 31794,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 302549,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 36,
+      "-weight.document": 24,
+      "+weight.document": 27,
+      "-weight.script": 17,
+      "+weight.script": 25,
+      "-weight.image": 16,
+      "+weight.image": 29,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 953,
+      "violations": 60
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/kering-cesse-entierement-l-utilisation-de-la-fourrure/",
+    "requestedUrl": "https://www.kering.com/fr/news/kering-cesse-entierement-l-utilisation-de-la-fourrure/",
+    "timestamp": 1707495743639,
+    "ranks": {
+      "hundos": 16,
+      "performance": 34,
+      "accessibility": 20,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.81,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 339
+    },
+    "firstContentfulPaint": 1162.475,
+    "firstMeaningfulPaint": 1162.475,
+    "speedIndex": 3416.1593725929297,
+    "largestContentfulPaint": 6213.834499999999,
+    "totalBlockingTime": 47.5,
+    "cumulativeLayoutShift": 0.019092584609396702,
+    "timeToInteractive": 5981.009499999998,
+    "maxPotentialFirstInputDelay": 142,
+    "timeToFirstByte": 316.937,
+    "weight": {
+      "summary": "64 requests • 679,5 KiB",
+      "total": 695820,
+      "image": 40759,
+      "imageCount": 21,
+      "script": 438441,
+      "scriptCount": 18,
+      "document": 32122,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 54218,
+      "stylesheetCount": 7,
+      "thirdParty": 366677,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 15,
+      "-weight.document": 31,
+      "+weight.document": 20,
+      "-weight.script": 26,
+      "+weight.script": 16,
+      "-weight.image": 11,
+      "+weight.image": 34,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 841,
+      "violations": 71
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/",
+    "requestedUrl": "https://www.kering.com/fr/",
+    "timestamp": 1707495505815,
+    "ranks": {
+      "hundos": 22,
+      "performance": 38,
+      "accessibility": 10,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.89,
+      "total": 338
+    },
+    "firstContentfulPaint": 1144.1194999999998,
+    "firstMeaningfulPaint": 1144.1194999999998,
+    "speedIndex": 5317.852500667599,
+    "largestContentfulPaint": 5957.9675,
+    "totalBlockingTime": 156.5,
+    "cumulativeLayoutShift": 0.03580904845083459,
+    "timeToInteractive": 5805.987871932983,
+    "maxPotentialFirstInputDelay": 152,
+    "timeToFirstByte": 1323.177,
+    "weight": {
+      "summary": "91 requests • 48,6 MiB",
+      "total": 51000623,
+      "image": 449009,
+      "imageCount": 44,
+      "script": 441650,
+      "scriptCount": 15,
+      "document": 33494,
+      "font": 67304,
+      "fontCount": 3,
+      "stylesheet": 16657,
+      "stylesheetCount": 2,
+      "thirdParty": 302604,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 1,
+      "-weight.document": 39,
+      "+weight.document": 12,
+      "-weight.script": 28,
+      "+weight.script": 14,
+      "-weight.image": 44,
+      "+weight.image": 1,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 1271,
+      "violations": 21
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/balenciaga-comptable-auxiliaire-fh/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/balenciaga-comptable-auxiliaire-fh/",
+    "timestamp": 1707494799634,
+    "ranks": {
+      "hundos": 21,
+      "performance": 18,
+      "accessibility": 31,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 338
+    },
+    "firstContentfulPaint": 1027.0725000000002,
+    "firstMeaningfulPaint": 1027.0725000000002,
+    "speedIndex": 4038.9359441081356,
+    "largestContentfulPaint": 4163.3395,
+    "totalBlockingTime": 137,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5926.298750000001,
+    "maxPotentialFirstInputDelay": 127,
+    "timeToFirstByte": 656.514,
+    "weight": {
+      "summary": "51 requests • 601,4 KiB",
+      "total": 615801,
+      "image": 47089,
+      "imageCount": 18,
+      "script": 406174,
+      "scriptCount": 12,
+      "document": 31926,
+      "font": 67306,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 303873,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 33,
+      "-weight.document": 27,
+      "+weight.document": 24,
+      "-weight.script": 11,
+      "+weight.script": 31,
+      "-weight.image": 18,
+      "+weight.image": 27,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 1028,
+      "violations": 58
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/bottega-veneta-sales-operations-project-intern/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/bottega-veneta-sales-operations-project-intern/",
+    "timestamp": 1707495377401,
+    "ranks": {
+      "hundos": 19,
+      "performance": 16,
+      "accessibility": 36,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 338
+    },
+    "firstContentfulPaint": 1055.432,
+    "firstMeaningfulPaint": 1055.432,
+    "speedIndex": 3143.5470680342432,
+    "largestContentfulPaint": 4547.891,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 4344.5445,
+    "maxPotentialFirstInputDelay": 127,
+    "timeToFirstByte": 125.97,
+    "weight": {
+      "summary": "47 requests • 597,5 KiB",
+      "total": 611825,
+      "image": 46436,
+      "imageCount": 18,
+      "script": 406180,
+      "scriptCount": 12,
+      "document": 30978,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 302549,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 35,
+      "-weight.document": 13,
+      "+weight.document": 38,
+      "-weight.script": 15,
+      "+weight.script": 27,
+      "-weight.image": 14,
+      "+weight.image": 31,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 1048,
+      "violations": 60
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/northern_america/kering-eyewear-district-manager-central-north/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/northern_america/kering-eyewear-district-manager-central-north/",
+    "timestamp": 1707495386838,
+    "ranks": {
+      "hundos": 20,
+      "performance": 17,
+      "accessibility": 35,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 338
+    },
+    "firstContentfulPaint": 1077.2150000000001,
+    "firstMeaningfulPaint": 1077.2150000000001,
+    "speedIndex": 3262.490980030555,
+    "largestContentfulPaint": 4530.437,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 4060.2149999999997,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 426.31,
+    "weight": {
+      "summary": "46 requests • 603,4 KiB",
+      "total": 617929,
+      "image": 48645,
+      "imageCount": 17,
+      "script": 406178,
+      "scriptCount": 12,
+      "document": 33412,
+      "font": 67306,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 302560,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 30,
+      "-weight.document": 38,
+      "+weight.document": 13,
+      "-weight.script": 13,
+      "+weight.script": 29,
+      "-weight.image": 22,
+      "+weight.image": 23,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 1096,
+      "violations": 60
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/kering-finance-accounting-intern/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/kering-finance-accounting-intern/",
+    "timestamp": 1707495321918,
+    "ranks": {
+      "hundos": 23,
+      "performance": 20,
+      "accessibility": 29,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 337
+    },
+    "firstContentfulPaint": 1037.192,
+    "firstMeaningfulPaint": 1037.192,
+    "speedIndex": 2968.6581086479673,
+    "largestContentfulPaint": 4712.76,
+    "totalBlockingTime": 63,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5843.258,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 162.467,
+    "weight": {
+      "summary": "50 requests • 590,1 KiB",
+      "total": 604243,
+      "image": 37572,
+      "imageCount": 17,
+      "script": 406182,
+      "scriptCount": 12,
+      "document": 30656,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 303869,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 41,
+      "-weight.document": 12,
+      "+weight.document": 39,
+      "-weight.script": 17,
+      "+weight.script": 25,
+      "-weight.image": 7,
+      "+weight.image": 38,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 1027,
+      "violations": 57
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/saint-laurent-stage-product-training-assistant-hf/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/saint-laurent-stage-product-training-assistant-hf/",
+    "timestamp": 1707494772018,
+    "ranks": {
+      "hundos": 24,
+      "performance": 31,
+      "accessibility": 33,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.78,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 337
+    },
+    "firstContentfulPaint": 1038.534,
+    "firstMeaningfulPaint": 1038.534,
+    "speedIndex": 3073.9710764761767,
+    "largestContentfulPaint": 5401.0305,
+    "totalBlockingTime": 112.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5590.790499999999,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 117.406,
+    "weight": {
+      "summary": "47 requests • 617,9 KiB",
+      "total": 632694,
+      "image": 63016,
+      "imageCount": 18,
+      "script": 406179,
+      "scriptCount": 12,
+      "document": 32000,
+      "font": 67307,
+      "fontCount": 3,
+      "stylesheet": 11185,
+      "stylesheetCount": 2,
+      "thirdParty": 302710,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 19,
+      "-weight.document": 30,
+      "+weight.document": 21,
+      "-weight.script": 14,
+      "+weight.script": 28,
+      "-weight.image": 33,
+      "+weight.image": 12,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 1050,
+      "violations": 59
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/saint-laurent-tecnico-controllo-qualita-rtw/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/saint-laurent-tecnico-controllo-qualita-rtw/",
+    "timestamp": 1707495395879,
+    "ranks": {
+      "hundos": 27,
+      "performance": 32,
+      "accessibility": 39,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.78,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 337
+    },
+    "firstContentfulPaint": 1104.6105,
+    "firstMeaningfulPaint": 1104.6105,
+    "speedIndex": 3238.5764669568316,
+    "largestContentfulPaint": 5844.902999999998,
+    "totalBlockingTime": 62.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5287.102999999999,
+    "maxPotentialFirstInputDelay": 123,
+    "timeToFirstByte": 214.743,
+    "weight": {
+      "summary": "51 requests • 613,1 KiB",
+      "total": 627773,
+      "image": 63007,
+      "imageCount": 18,
+      "script": 406186,
+      "scriptCount": 12,
+      "document": 31171,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 303882,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 21,
+      "-weight.document": 16,
+      "+weight.document": 35,
+      "-weight.script": 21,
+      "+weight.script": 21,
+      "-weight.image": 32,
+      "+weight.image": 13,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 1024,
+      "violations": 60
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/asia/bottega-veneta-client-advisor-10/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/asia/bottega-veneta-client-advisor-10/",
+    "timestamp": 1707495450595,
+    "ranks": {
+      "hundos": 25,
+      "performance": 22,
+      "accessibility": 43,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 337
+    },
+    "firstContentfulPaint": 1105.4105,
+    "firstMeaningfulPaint": 1105.4105,
+    "speedIndex": 3238.3821735548527,
+    "largestContentfulPaint": 4631.388,
+    "totalBlockingTime": 84.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 6331.465999999999,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 158.24699999999999,
+    "weight": {
+      "summary": "47 requests • 596,0 KiB",
+      "total": 610270,
+      "image": 46470,
+      "imageCount": 18,
+      "script": 406153,
+      "scriptCount": 12,
+      "document": 31936,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 302585,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 38,
+      "-weight.document": 28,
+      "+weight.document": 23,
+      "-weight.script": 9,
+      "+weight.script": 33,
+      "-weight.image": 15,
+      "+weight.image": 30,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1083,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/asia/bottega-veneta-sales-associate-4/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/asia/bottega-veneta-sales-associate-4/",
+    "timestamp": 1707495976352,
+    "ranks": {
+      "hundos": 26,
+      "performance": 23,
+      "accessibility": 48,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 337
+    },
+    "firstContentfulPaint": 1068.6405,
+    "firstMeaningfulPaint": 1068.6405,
+    "speedIndex": 3364.946163480355,
+    "largestContentfulPaint": 4711.6985,
+    "totalBlockingTime": 84.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 6781.4035,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 160.629,
+    "weight": {
+      "summary": "51 requests • 593,1 KiB",
+      "total": 607365,
+      "image": 46434,
+      "imageCount": 18,
+      "script": 406179,
+      "scriptCount": 12,
+      "document": 31965,
+      "font": 67307,
+      "fontCount": 3,
+      "stylesheet": 11185,
+      "stylesheetCount": 2,
+      "thirdParty": 303874,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 40,
+      "-weight.document": 29,
+      "+weight.document": 22,
+      "-weight.script": 14,
+      "+weight.script": 28,
+      "-weight.image": 13,
+      "+weight.image": 32,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 1025,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/devient-partenaire-officiel-festival-international-film-cannes-invite-decouvrir-cinema-sous-prisme-feminin/",
+    "requestedUrl": "https://www.kering.com/fr/news/devient-partenaire-officiel-festival-international-film-cannes-invite-decouvrir-cinema-sous-prisme-feminin/",
+    "timestamp": 1707494688159,
+    "ranks": {
+      "hundos": 28,
+      "performance": 28,
+      "accessibility": 14,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.8,
+      "total": 336
+    },
+    "firstContentfulPaint": 1124.4940000000001,
+    "firstMeaningfulPaint": 1124.4940000000001,
+    "speedIndex": 3246.2387674040474,
+    "largestContentfulPaint": 5316.223450271606,
+    "totalBlockingTime": 63,
+    "cumulativeLayoutShift": 0.01884771919719443,
+    "timeToInteractive": 4475.883200271606,
+    "maxPotentialFirstInputDelay": 165,
+    "timeToFirstByte": 192.126,
+    "weight": {
+      "summary": "52 requests • 585,2 KiB",
+      "total": 599264,
+      "image": 39984,
+      "imageCount": 18,
+      "script": 405541,
+      "scriptCount": 14,
+      "document": 31924,
+      "font": 67305,
+      "fontCount": 3,
+      "stylesheet": 12041,
+      "stylesheetCount": 4,
+      "thirdParty": 302559,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 43,
+      "-weight.document": 26,
+      "+weight.document": 25,
+      "-weight.script": 3,
+      "+weight.script": 39,
+      "-weight.image": 10,
+      "+weight.image": 35,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 686,
+      "violations": 35
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/cdi-balenciaga-junior-retail-controller-fh-1/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/cdi-balenciaga-junior-retail-controller-fh-1/",
+    "timestamp": 1707495864165,
+    "ranks": {
+      "hundos": 30,
+      "performance": 25,
+      "accessibility": 30,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.8,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 335
+    },
+    "firstContentfulPaint": 1114.8025,
+    "firstMeaningfulPaint": 1114.8025,
+    "speedIndex": 3066.758292649334,
+    "largestContentfulPaint": 5245.442499999999,
+    "totalBlockingTime": 39.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5947.972999999999,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 155.31,
+    "weight": {
+      "summary": "51 requests • 602,5 KiB",
+      "total": 616924,
+      "image": 47089,
+      "imageCount": 18,
+      "script": 406185,
+      "scriptCount": 12,
+      "document": 33037,
+      "font": 67304,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 303876,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 31,
+      "-weight.document": 37,
+      "+weight.document": 14,
+      "-weight.script": 20,
+      "+weight.script": 22,
+      "-weight.image": 18,
+      "+weight.image": 27,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1075,
+      "violations": 58
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/bottega-veneta-client-advisor-18/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/bottega-veneta-client-advisor-18/",
+    "timestamp": 1707495958500,
+    "ranks": {
+      "hundos": 29,
+      "performance": 24,
+      "accessibility": 44,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.8,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 335
+    },
+    "firstContentfulPaint": 1079.9205,
+    "firstMeaningfulPaint": 1079.9205,
+    "speedIndex": 2972.1788028313113,
+    "largestContentfulPaint": 5332.0115000000005,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 4565.547500000001,
+    "maxPotentialFirstInputDelay": 126,
+    "timeToFirstByte": 128.423,
+    "weight": {
+      "summary": "47 requests • 595,6 KiB",
+      "total": 609855,
+      "image": 46434,
+      "imageCount": 18,
+      "script": 406177,
+      "scriptCount": 12,
+      "document": 31331,
+      "font": 67307,
+      "fontCount": 3,
+      "stylesheet": 11184,
+      "stylesheetCount": 2,
+      "thirdParty": 302557,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 39,
+      "-weight.document": 17,
+      "+weight.document": 34,
+      "-weight.script": 12,
+      "+weight.script": 30,
+      "-weight.image": 13,
+      "+weight.image": 32,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 1083,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/actualites/modern-films-et-la-fondation-kering-annoncent-les-trois-laureates-de-la-competition-16-days-16-films/",
+    "requestedUrl": "https://www.kering.com/fr/news/modern-films-et-la-fondation-kering-annoncent-les-trois-laureates-de-la-competition-16-days-16-films/",
+    "timestamp": 1707495234211,
+    "ranks": {
+      "hundos": 31,
+      "performance": 35,
+      "accessibility": 9,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.76,
+      "accessibility": 0.82,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 335
+    },
+    "firstContentfulPaint": 1177.361,
+    "firstMeaningfulPaint": 1177.361,
+    "speedIndex": 3606.4781395016644,
+    "largestContentfulPaint": 5841.89575,
+    "totalBlockingTime": 123,
+    "cumulativeLayoutShift": 0.0488535499330057,
+    "timeToInteractive": 5652.333871932982,
+    "maxPotentialFirstInputDelay": 211,
+    "timeToFirstByte": 184.73,
+    "weight": {
+      "summary": "72 requests • 638,6 KiB",
+      "total": 653914,
+      "image": 50081,
+      "imageCount": 27,
+      "script": 413434,
+      "scriptCount": 17,
+      "document": 39478,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 15077,
+      "stylesheetCount": 6,
+      "thirdParty": 303843,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 17,
+      "-weight.document": 43,
+      "+weight.document": 8,
+      "-weight.script": 25,
+      "+weight.script": 17,
+      "-weight.image": 23,
+      "+weight.image": 22,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 992,
+      "violations": 78
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-team-manager-bond-street/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-team-manager-bond-street/",
+    "timestamp": 1707495340375,
+    "ranks": {
+      "hundos": 34,
+      "performance": 27,
+      "accessibility": 32,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 334
+    },
+    "firstContentfulPaint": 1057.3395,
+    "firstMeaningfulPaint": 1057.3395,
+    "speedIndex": 3237.889320089531,
+    "largestContentfulPaint": 5319.7855,
+    "totalBlockingTime": 80.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5875.076499999999,
+    "maxPotentialFirstInputDelay": 123,
+    "timeToFirstByte": 160.075,
+    "weight": {
+      "summary": "51 requests • 612,1 KiB",
+      "total": 626821,
+      "image": 58542,
+      "imageCount": 18,
+      "script": 406181,
+      "scriptCount": 12,
+      "document": 32333,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 303878,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 23,
+      "-weight.document": 33,
+      "+weight.document": 18,
+      "-weight.script": 16,
+      "+weight.script": 26,
+      "-weight.image": 29,
+      "+weight.image": 16,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 1080,
+      "violations": 59
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-graphic-designer/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-graphic-designer/",
+    "timestamp": 1707495826681,
+    "ranks": {
+      "hundos": 33,
+      "performance": 26,
+      "accessibility": 38,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 334
+    },
+    "firstContentfulPaint": 1083.9935,
+    "firstMeaningfulPaint": 1095.4935,
+    "speedIndex": 2937.730007583151,
+    "largestContentfulPaint": 5360.022500000001,
+    "totalBlockingTime": 72.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5520.1939999999995,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 191.62899999999996,
+    "weight": {
+      "summary": "47 requests • 610,3 KiB",
+      "total": 624909,
+      "image": 58534,
+      "imageCount": 18,
+      "script": 406174,
+      "scriptCount": 12,
+      "document": 31116,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 302549,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 25,
+      "-weight.document": 15,
+      "+weight.document": 36,
+      "-weight.script": 11,
+      "+weight.script": 31,
+      "-weight.image": 26,
+      "+weight.image": 19,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 1028,
+      "violations": 60
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/asia/team-manager/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/asia/team-manager/",
+    "timestamp": 1707494976855,
+    "ranks": {
+      "hundos": 32,
+      "performance": 29,
+      "accessibility": 49,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 334
+    },
+    "firstContentfulPaint": 1030.701,
+    "firstMeaningfulPaint": 1030.701,
+    "speedIndex": 3291.8725111709446,
+    "largestContentfulPaint": 5340.232,
+    "totalBlockingTime": 58.5,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5369.318499999999,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 157.561,
+    "weight": {
+      "summary": "51 requests • 602,1 KiB",
+      "total": 616597,
+      "image": 58534,
+      "imageCount": 18,
+      "script": 406173,
+      "scriptCount": 12,
+      "document": 29083,
+      "font": 67306,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 303888,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 32,
+      "-weight.document": 7,
+      "+weight.document": 44,
+      "-weight.script": 10,
+      "+weight.script": 32,
+      "-weight.image": 26,
+      "+weight.image": 19,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 977,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/oceania/gucci-team-manager-3/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/oceania/gucci-team-manager-3/",
+    "timestamp": 1707495313063,
+    "ranks": {
+      "hundos": 35,
+      "performance": 30,
+      "accessibility": 45,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 333
+    },
+    "firstContentfulPaint": 1082.6595,
+    "firstMeaningfulPaint": 1082.6595,
+    "speedIndex": 3072.7092999464385,
+    "largestContentfulPaint": 5604.6125,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 4664.139499999999,
+    "maxPotentialFirstInputDelay": 123,
+    "timeToFirstByte": 144.37,
+    "weight": {
+      "summary": "51 requests • 609,1 KiB",
+      "total": 623729,
+      "image": 58534,
+      "imageCount": 18,
+      "script": 406210,
+      "scriptCount": 12,
+      "document": 32916,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 303948,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 26,
+      "-weight.document": 36,
+      "+weight.document": 15,
+      "-weight.script": 23,
+      "+weight.script": 19,
+      "-weight.image": 26,
+      "+weight.image": 19,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 1070,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-milan-galleria-cashier/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/gucci-milan-galleria-cashier/",
+    "timestamp": 1707495799196,
+    "ranks": {
+      "hundos": 36,
+      "performance": 33,
+      "accessibility": 42,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 333
+    },
+    "firstContentfulPaint": 1053.9625,
+    "firstMeaningfulPaint": 1053.9625,
+    "speedIndex": 4002.7677659770097,
+    "largestContentfulPaint": 5324.821,
+    "totalBlockingTime": 82.6552500000007,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 5562.415000000001,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 814.643,
+    "weight": {
+      "summary": "47 requests • 606,3 KiB",
+      "total": 620883,
+      "image": 58539,
+      "imageCount": 18,
+      "script": 406184,
+      "scriptCount": 12,
+      "document": 30098,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 11187,
+      "stylesheetCount": 2,
+      "thirdParty": 302547,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 27,
+      "-weight.document": 11,
+      "+weight.document": 40,
+      "-weight.script": 19,
+      "+weight.script": 23,
+      "-weight.image": 27,
+      "+weight.image": 18,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 1125,
+      "violations": 61
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/exprimez-votre-talent/les-programmes-kering-keys/",
+    "requestedUrl": "https://www.kering.com/fr/talent/exprimez-votre-talent/les-programmes-kering-keys/",
+    "timestamp": 1707494548865,
+    "ranks": {
+      "hundos": 37,
+      "performance": 39,
+      "accessibility": 11,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.81,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 332
+    },
+    "firstContentfulPaint": 1120.9920000000002,
+    "firstMeaningfulPaint": 1120.9920000000002,
+    "speedIndex": 4535.84939318016,
+    "largestContentfulPaint": 6300.327500000001,
+    "totalBlockingTime": 137.5,
+    "cumulativeLayoutShift": 0.10646388689861275,
+    "timeToInteractive": 6186.74425,
+    "maxPotentialFirstInputDelay": 142,
+    "timeToFirstByte": 1155.98,
+    "weight": {
+      "summary": "59 requests • 736,9 KiB",
+      "total": 754586,
+      "image": 55506,
+      "imageCount": 18,
+      "script": 465622,
+      "scriptCount": 19,
+      "document": 41138,
+      "font": 67303,
+      "fontCount": 3,
+      "stylesheet": 54875,
+      "stylesheetCount": 6,
+      "thirdParty": 366662,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 12,
+      "-weight.document": 44,
+      "+weight.document": 7,
+      "-weight.script": 31,
+      "+weight.script": 11,
+      "-weight.image": 24,
+      "+weight.image": 21,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 640,
+      "violations": 31
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/?page=66",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/?page=66",
+    "timestamp": 1707495605106,
+    "ranks": {
+      "hundos": 38,
+      "performance": 42,
+      "accessibility": 3,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.84,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 331
+    },
+    "firstContentfulPaint": 1201.946,
+    "firstMeaningfulPaint": 1201.946,
+    "speedIndex": 4567.124659797357,
+    "largestContentfulPaint": 8686.5435,
+    "totalBlockingTime": 297.49999999999955,
+    "cumulativeLayoutShift": 0.018911318526180658,
+    "timeToInteractive": 7443.769,
+    "maxPotentialFirstInputDelay": 268.99999999999955,
+    "timeToFirstByte": 740.8789999999999,
+    "weight": {
+      "summary": "75 requests • 1,1 MiB",
+      "total": 1174105,
+      "image": 123196,
+      "imageCount": 23,
+      "script": 742291,
+      "scriptCount": 25,
+      "document": 89015,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 80118,
+      "stylesheetCount": 7,
+      "thirdParty": 630704,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 2,
+      "-weight.document": 47,
+      "+weight.document": 4,
+      "-weight.script": 37,
+      "+weight.script": 5,
+      "-weight.image": 43,
+      "+weight.image": 2,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 1598,
+      "violations": 89
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/asia/kering-logistics-assistant/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/asia/kering-logistics-assistant/",
+    "timestamp": 1707494910539,
+    "ranks": {
+      "hundos": 39,
+      "performance": 36,
+      "accessibility": 26,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 330
+    },
+    "firstContentfulPaint": 1111.9189999999996,
+    "firstMeaningfulPaint": 1111.9189999999996,
+    "speedIndex": 4686.158660863138,
+    "largestContentfulPaint": 5631.156999999999,
+    "totalBlockingTime": 111,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 6481.252999999999,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 1314.691,
+    "weight": {
+      "summary": "50 requests • 580,8 KiB",
+      "total": 594752,
+      "image": 37593,
+      "imageCount": 17,
+      "script": 406148,
+      "scriptCount": 12,
+      "document": 29930,
+      "font": 67304,
+      "fontCount": 3,
+      "stylesheet": 11183,
+      "stylesheetCount": 2,
+      "thirdParty": 303888,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 46,
+      "-weight.document": 9,
+      "+weight.document": 42,
+      "-weight.script": 8,
+      "+weight.script": 34,
+      "-weight.image": 8,
+      "+weight.image": 37,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 672,
+      "violations": 30
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/europe/kering-corporate-legal-counsel-fixed-term/",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/europe/kering-corporate-legal-counsel-fixed-term/",
+    "timestamp": 1707494919802,
+    "ranks": {
+      "hundos": 40,
+      "performance": 37,
+      "accessibility": 27,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.78,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 329
+    },
+    "firstContentfulPaint": 1043.133,
+    "firstMeaningfulPaint": 1043.133,
+    "speedIndex": 3217.096157180038,
+    "largestContentfulPaint": 6353.504499999999,
+    "totalBlockingTime": 172.61275000000023,
+    "cumulativeLayoutShift": 0.018853231013618642,
+    "timeToInteractive": 6966.0295,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 188.388,
+    "weight": {
+      "summary": "50 requests • 585,1 KiB",
+      "total": 599136,
+      "image": 37572,
+      "imageCount": 17,
+      "script": 406184,
+      "scriptCount": 12,
+      "document": 31649,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 11186,
+      "stylesheetCount": 2,
+      "thirdParty": 304039,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 44,
+      "-weight.document": 21,
+      "+weight.document": 30,
+      "-weight.script": 19,
+      "+weight.script": 23,
+      "-weight.image": 7,
+      "+weight.image": 38,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 1001,
+      "violations": 34
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/presse/dossiers-thematiques/developpement-durable/",
+    "requestedUrl": "https://www.kering.com/fr/presse/dossiers-thematiques/developpement-durable/",
+    "timestamp": 1707494636418,
+    "ranks": {
+      "hundos": 41,
+      "performance": 41,
+      "accessibility": 24,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.81,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 329
+    },
+    "firstContentfulPaint": 1135.1275,
+    "firstMeaningfulPaint": 1135.1275,
+    "speedIndex": 3682.294993934539,
+    "largestContentfulPaint": 5653.7735,
+    "totalBlockingTime": 148,
+    "cumulativeLayoutShift": 0.1976340906278541,
+    "timeToInteractive": 6110.0345,
+    "maxPotentialFirstInputDelay": 156,
+    "timeToFirstByte": 325.071,
+    "weight": {
+      "summary": "65 requests • 690,3 KiB",
+      "total": 706879,
+      "image": 38834,
+      "imageCount": 19,
+      "script": 466037,
+      "scriptCount": 22,
+      "document": 34564,
+      "font": 67307,
+      "fontCount": 3,
+      "stylesheet": 57046,
+      "stylesheetCount": 9,
+      "thirdParty": 366649,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 14,
+      "-weight.document": 40,
+      "+weight.document": 11,
+      "-weight.script": 32,
+      "+weight.script": 10,
+      "-weight.image": 9,
+      "+weight.image": 36,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 942,
+      "violations": 84
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/asia/?page=43",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/asia/?page=43",
+    "timestamp": 1707495018803,
+    "ranks": {
+      "hundos": 42,
+      "performance": 43,
+      "accessibility": 2,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.84,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 328
+    },
+    "firstContentfulPaint": 1347.58,
+    "firstMeaningfulPaint": 1347.58,
+    "speedIndex": 4493.394267327953,
+    "largestContentfulPaint": 8798.442000000001,
+    "totalBlockingTime": 386.1662997283943,
+    "cumulativeLayoutShift": 0.018723229638428283,
+    "timeToInteractive": 8085.996000000002,
+    "maxPotentialFirstInputDelay": 263.99999999999955,
+    "timeToFirstByte": 701.4950000000001,
+    "weight": {
+      "summary": "81 requests • 1,1 MiB",
+      "total": 1172366,
+      "image": 113878,
+      "imageCount": 25,
+      "script": 742319,
+      "scriptCount": 25,
+      "document": 93264,
+      "font": 67307,
+      "fontCount": 3,
+      "stylesheet": 80120,
+      "stylesheetCount": 7,
+      "thirdParty": 632329,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 3,
+      "-weight.document": 49,
+      "+weight.document": 2,
+      "-weight.script": 38,
+      "+weight.script": 4,
+      "-weight.image": 42,
+      "+weight.image": 3,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 1601,
+      "violations": 89
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/?page=154",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/?page=154",
+    "timestamp": 1707495593248,
+    "ranks": {
+      "hundos": 43,
+      "performance": 45,
+      "accessibility": 4,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.84,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 327
+    },
+    "firstContentfulPaint": 1327.9249999999997,
+    "firstMeaningfulPaint": 1327.9249999999997,
+    "speedIndex": 4910.989086297337,
+    "largestContentfulPaint": 8908.257999999998,
+    "totalBlockingTime": 311.99999999999955,
+    "cumulativeLayoutShift": 0.09446219745543342,
+    "timeToInteractive": 7788.267499999999,
+    "maxPotentialFirstInputDelay": 281.99999999999955,
+    "timeToFirstByte": 1185.476,
+    "weight": {
+      "summary": "77 requests • 1,1 MiB",
+      "total": 1132737,
+      "image": 66337,
+      "imageCount": 21,
+      "script": 744709,
+      "scriptCount": 27,
+      "document": 96884,
+      "font": 67303,
+      "fontCount": 3,
+      "stylesheet": 82211,
+      "stylesheetCount": 9,
+      "thirdParty": 630794,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 5,
+      "-weight.document": 50,
+      "+weight.document": 1,
+      "-weight.script": 41,
+      "+weight.script": 1,
+      "-weight.image": 34,
+      "+weight.image": 11,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "passes": 1632,
+      "violations": 95
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/?page=79",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/?page=79",
+    "timestamp": 1707495580276,
+    "ranks": {
+      "hundos": 44,
+      "performance": 47,
+      "accessibility": 6,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.84,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 322
+    },
+    "firstContentfulPaint": 1228.284,
+    "firstMeaningfulPaint": 1228.284,
+    "speedIndex": 5210.153561177478,
+    "largestContentfulPaint": 8905.438999999998,
+    "totalBlockingTime": 453.15979972839386,
+    "cumulativeLayoutShift": 0.09446219745543342,
+    "timeToInteractive": 8108.022999999999,
+    "maxPotentialFirstInputDelay": 284,
+    "timeToFirstByte": 1019.4019999999999,
+    "weight": {
+      "summary": "77 requests • 1,1 MiB",
+      "total": 1151734,
+      "image": 101562,
+      "imageCount": 21,
+      "script": 744665,
+      "scriptCount": 27,
+      "document": 86387,
+      "font": 67300,
+      "fontCount": 3,
+      "stylesheet": 82206,
+      "stylesheetCount": 9,
+      "thirdParty": 632050,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 4,
+      "-weight.document": 45,
+      "+weight.document": 6,
+      "-weight.script": 39,
+      "+weight.script": 3,
+      "-weight.image": 40,
+      "+weight.image": 5,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 1644,
+      "violations": 99
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/suivez-notre-actualite/",
+    "requestedUrl": "https://www.kering.com/fr/talent/suivez-notre-actualite/",
+    "timestamp": 1707494558428,
+    "ranks": {
+      "hundos": 45,
+      "performance": 46,
+      "accessibility": 18,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.81,
+      "bestPractices": 1,
+      "seo": 0.81,
+      "total": 319
+    },
+    "firstContentfulPaint": 1032.156,
+    "firstMeaningfulPaint": 1032.156,
+    "speedIndex": 3457.771134880605,
+    "largestContentfulPaint": 6114.441999999999,
+    "totalBlockingTime": 76,
+    "cumulativeLayoutShift": 0.451437870170993,
+    "timeToInteractive": 5934.660200271606,
+    "maxPotentialFirstInputDelay": 128,
+    "timeToFirstByte": 251.42899999999997,
+    "weight": {
+      "summary": "76 requests • 723,2 KiB",
+      "total": 740598,
+      "image": 85098,
+      "imageCount": 34,
+      "script": 462500,
+      "scriptCount": 18,
+      "document": 29049,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 53166,
+      "stylesheetCount": 5,
+      "thirdParty": 367989,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 13,
+      "-weight.document": 6,
+      "+weight.document": 45,
+      "-weight.script": 30,
+      "+weight.script": 12,
+      "-weight.image": 38,
+      "+weight.image": 7,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 703,
+      "violations": 48
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/talent/offres-d-emploi/?page=4",
+    "requestedUrl": "https://www.kering.com/fr/talent/offres-d-emploi/?page=4",
+    "timestamp": 1707495567465,
+    "ranks": {
+      "hundos": 46,
+      "performance": 48,
+      "accessibility": 5,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.84,
+      "bestPractices": 0.96,
+      "seo": 0.81,
+      "total": 318
+    },
+    "firstContentfulPaint": 1226.1119999999996,
+    "firstMeaningfulPaint": 1226.1119999999996,
+    "speedIndex": 5647.586614258797,
+    "largestContentfulPaint": 8734.65625,
+    "totalBlockingTime": 458.5,
+    "cumulativeLayoutShift": 0.09446219745543342,
+    "timeToInteractive": 8294.1295,
+    "maxPotentialFirstInputDelay": 522.0000000000005,
+    "timeToFirstByte": 1054.711,
+    "weight": {
+      "summary": "81 requests • 1,1 MiB",
+      "total": 1130125,
+      "image": 75721,
+      "imageCount": 21,
+      "script": 744698,
+      "scriptCount": 27,
+      "document": 87424,
+      "font": 67303,
+      "fontCount": 3,
+      "stylesheet": 82210,
+      "stylesheetCount": 9,
+      "thirdParty": 632036,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 6,
+      "-weight.document": 46,
+      "+weight.document": 5,
+      "-weight.script": 40,
+      "+weight.script": 2,
+      "-weight.image": 35,
+      "+weight.image": 10,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 1623,
+      "violations": 95
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/groupe/nos-actualites/?page=18",
+    "requestedUrl": "https://www.kering.com/fr/groupe/nos-actualites/?page=18",
+    "timestamp": 1707494538432,
+    "ranks": {
+      "hundos": 47,
+      "performance": 49,
+      "accessibility": 25,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.81,
+      "bestPractices": 0.93,
+      "seo": 0.81,
+      "total": 306
+    },
+    "firstContentfulPaint": 1205.282,
+    "firstMeaningfulPaint": 1205.282,
+    "speedIndex": 3662.7840700039133,
+    "largestContentfulPaint": 6234.678499999998,
+    "totalBlockingTime": 173,
+    "cumulativeLayoutShift": 0.6804424695764217,
+    "timeToInteractive": 6171.114249999999,
+    "maxPotentialFirstInputDelay": 301,
+    "timeToFirstByte": 303.062,
+    "weight": {
+      "summary": "69 requests • 747,0 KiB",
+      "total": 764937,
+      "image": 109376,
+      "imageCount": 33,
+      "script": 461168,
+      "scriptCount": 17,
+      "document": 31750,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 52142,
+      "stylesheetCount": 4,
+      "thirdParty": 366740,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 10,
+      "-weight.document": 22,
+      "+weight.document": 29,
+      "-weight.script": 29,
+      "+weight.script": 13,
+      "-weight.image": 41,
+      "+weight.image": 4,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 981,
+      "violations": 96
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/developpement-durable/actualites-et-ressources/actualites/?page=22",
+    "requestedUrl": "https://www.kering.com/fr/developpement-durable/actualites-et-ressources/actualites/?page=22",
+    "timestamp": 1707495555448,
+    "ranks": {
+      "hundos": 48,
+      "performance": 50,
+      "accessibility": 7,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.46,
+      "accessibility": 0.83,
+      "bestPractices": 0.96,
+      "seo": 0.8,
+      "total": 305
+    },
+    "firstContentfulPaint": 1105.1719999999998,
+    "firstMeaningfulPaint": 1105.1719999999998,
+    "speedIndex": 4321.337014875806,
+    "largestContentfulPaint": 6591.370999999999,
+    "totalBlockingTime": 234.06029972839406,
+    "cumulativeLayoutShift": 0.839628128402186,
+    "timeToInteractive": 6073.6235,
+    "maxPotentialFirstInputDelay": 338,
+    "timeToFirstByte": 971.9620000000001,
+    "weight": {
+      "summary": "72 requests • 737,7 KiB",
+      "total": 755453,
+      "image": 94279,
+      "imageCount": 32,
+      "script": 466061,
+      "scriptCount": 19,
+      "document": 32752,
+      "font": 67309,
+      "fontCount": 3,
+      "stylesheet": 53797,
+      "stylesheetCount": 6,
+      "thirdParty": 366619,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 11,
+      "-weight.document": 35,
+      "+weight.document": 16,
+      "-weight.script": 33,
+      "+weight.script": 9,
+      "-weight.image": 39,
+      "+weight.image": 6,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 576,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/groupe/?page=6",
+    "requestedUrl": "https://www.kering.com/fr/groupe/?page=6",
+    "timestamp": 1707494648405,
+    "ranks": {
+      "hundos": 49,
+      "performance": 40,
+      "accessibility": 23,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.81,
+      "bestPractices": 0.74,
+      "seo": 0.82,
+      "total": 305
+    },
+    "firstContentfulPaint": 1212.3695,
+    "firstMeaningfulPaint": 1212.3695,
+    "speedIndex": 5913.567765216285,
+    "largestContentfulPaint": 8173.835700271606,
+    "totalBlockingTime": 167.5,
+    "cumulativeLayoutShift": 0.018723229638428283,
+    "timeToInteractive": 7105.400950271606,
+    "maxPotentialFirstInputDelay": 161,
+    "timeToFirstByte": 1473.794,
+    "weight": {
+      "summary": "81 requests • 849,8 KiB",
+      "total": 870149,
+      "image": 78856,
+      "imageCount": 22,
+      "script": 579852,
+      "scriptCount": 26,
+      "document": 34791,
+      "font": 67304,
+      "fontCount": 3,
+      "stylesheet": 60428,
+      "stylesheetCount": 10,
+      "thirdParty": 457935,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 8,
+      "-weight.document": 42,
+      "+weight.document": 9,
+      "-weight.script": 35,
+      "+weight.script": 7,
+      "-weight.image": 36,
+      "+weight.image": 9,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 982,
+      "violations": 83
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/groupe/?page=81",
+    "requestedUrl": "https://www.kering.com/fr/groupe/?page=81",
+    "timestamp": 1707494660015,
+    "ranks": {
+      "hundos": 50,
+      "performance": 44,
+      "accessibility": 22,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.81,
+      "bestPractices": 0.74,
+      "seo": 0.82,
+      "total": 300
+    },
+    "firstContentfulPaint": 1289.4850000000001,
+    "firstMeaningfulPaint": 1289.4850000000001,
+    "speedIndex": 4939.537444981826,
+    "largestContentfulPaint": 7932.374200271604,
+    "totalBlockingTime": 384.7635497283932,
+    "cumulativeLayoutShift": 0.018723229638428283,
+    "timeToInteractive": 6749.392700271605,
+    "maxPotentialFirstInputDelay": 302,
+    "timeToFirstByte": 601.145,
+    "weight": {
+      "summary": "77 requests • 848,0 KiB",
+      "total": 868342,
+      "image": 78857,
+      "imageCount": 22,
+      "script": 579840,
+      "scriptCount": 26,
+      "document": 34679,
+      "font": 67308,
+      "fontCount": 3,
+      "stylesheet": 60446,
+      "stylesheetCount": 10,
+      "thirdParty": 456531,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 9,
+      "-weight.document": 41,
+      "+weight.document": 10,
+      "-weight.script": 34,
+      "+weight.script": 8,
+      "-weight.image": 37,
+      "+weight.image": 8,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 983,
+      "violations": 82
+    }
+  }
+]

@@ -1,0 +1,3285 @@
+[
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers",
+    "timestamp": 1707582414845,
+    "ranks": {
+      "hundos": 1,
+      "performance": 6,
+      "accessibility": 1,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.83,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 315
+    },
+    "firstContentfulPaint": 2030.12,
+    "firstMeaningfulPaint": 2970.2700000000004,
+    "speedIndex": 2879.677594667019,
+    "largestContentfulPaint": 12720.930000000006,
+    "totalBlockingTime": 84.5,
+    "cumulativeLayoutShift": 0.008116798067772976,
+    "timeToInteractive": 8095.0250000000015,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 9.518999999999998,
+    "weight": {
+      "summary": "61 requests • 2,0 MiB",
+      "total": 2096392,
+      "image": 1328123,
+      "imageCount": 32,
+      "script": 465441,
+      "scriptCount": 18,
+      "document": 20296,
+      "font": 169108,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93524,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 11,
+      "-weight.document": 10,
+      "+weight.document": 40,
+      "-weight.script": 9,
+      "+weight.script": 36,
+      "-weight.image": 40,
+      "+weight.image": 10,
+      "-weight.font": 21,
+      "+weight.font": 24,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 905,
+      "violations": 32
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/notre-groupe/gouvernance",
+    "requestedUrl": "https://www.credit-agricole.com/notre-groupe/gouvernance",
+    "timestamp": 1707582978685,
+    "ranks": {
+      "hundos": 2,
+      "performance": 8,
+      "accessibility": 4,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.83,
+      "bestPractices": 0.67,
+      "seo": 0.9,
+      "total": 312
+    },
+    "firstContentfulPaint": 2237.5795,
+    "firstMeaningfulPaint": 2908.1609999999996,
+    "speedIndex": 2259.314592070058,
+    "largestContentfulPaint": 10497.543999999994,
+    "totalBlockingTime": 93.50000000000023,
+    "cumulativeLayoutShift": 0.020700728720452165,
+    "timeToInteractive": 9093.248499999996,
+    "maxPotentialFirstInputDelay": 137,
+    "timeToFirstByte": 9.528999999999996,
+    "weight": {
+      "summary": "129 requests • 1,9 MiB",
+      "total": 1988743,
+      "image": 1265359,
+      "imageCount": 102,
+      "script": 462710,
+      "scriptCount": 17,
+      "document": 31449,
+      "font": 115607,
+      "fontCount": 5,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93281,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 17,
+      "-weight.document": 47,
+      "+weight.document": 3,
+      "-weight.script": 4,
+      "+weight.script": 41,
+      "-weight.image": 36,
+      "+weight.image": 14,
+      "-weight.font": 4,
+      "+weight.font": 41,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 1078,
+      "violations": 98
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/dette-et-notations/credit-agricole-s.a.-emissions-clientele/credit-agricole-s.a.-emissions-clientele2",
+    "requestedUrl": "https://www.credit-agricole.com/finance/dette-et-notations/credit-agricole-s.a.-emissions-clientele/credit-agricole-s.a.-emissions-clientele2",
+    "timestamp": 1707582335478,
+    "ranks": {
+      "hundos": 3,
+      "performance": 5,
+      "accessibility": 14,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 311
+    },
+    "firstContentfulPaint": 2233.7709999999997,
+    "firstMeaningfulPaint": 3817.4819999999995,
+    "speedIndex": 2789.6655474219783,
+    "largestContentfulPaint": 7626.028999999999,
+    "totalBlockingTime": 80,
+    "cumulativeLayoutShift": 0.011745536117617448,
+    "timeToInteractive": 6587.804,
+    "maxPotentialFirstInputDelay": 102,
+    "timeToFirstByte": 9.589000000000006,
+    "weight": {
+      "summary": "49 requests • 1,1 MiB",
+      "total": 1175505,
+      "image": 404861,
+      "imageCount": 20,
+      "script": 465004,
+      "scriptCount": 18,
+      "document": 23110,
+      "font": 169108,
+      "fontCount": 6,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93533,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 48,
+      "-weight.document": 30,
+      "+weight.document": 20,
+      "-weight.script": 7,
+      "+weight.script": 38,
+      "-weight.image": 1,
+      "+weight.image": 49,
+      "-weight.font": 21,
+      "+weight.font": 24,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 682,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une",
+    "timestamp": 1707582997263,
+    "ranks": {
+      "hundos": 4,
+      "performance": 10,
+      "accessibility": 2,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.83,
+      "bestPractices": 0.67,
+      "seo": 0.89,
+      "total": 311
+    },
+    "firstContentfulPaint": 2208.844,
+    "firstMeaningfulPaint": 3957.477,
+    "speedIndex": 2645.454639795972,
+    "largestContentfulPaint": 9074.509000000002,
+    "totalBlockingTime": 70.5,
+    "cumulativeLayoutShift": 0.03392227597243869,
+    "timeToInteractive": 6773.688,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 9.869999999999997,
+    "weight": {
+      "summary": "61 requests • 1,5 MiB",
+      "total": 1606409,
+      "image": 837756,
+      "imageCount": 32,
+      "script": 465444,
+      "scriptCount": 18,
+      "document": 20785,
+      "font": 169002,
+      "fontCount": 6,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93525,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 26,
+      "-weight.document": 14,
+      "+weight.document": 36,
+      "-weight.script": 10,
+      "+weight.script": 35,
+      "-weight.image": 29,
+      "+weight.image": 21,
+      "-weight.font": 13,
+      "+weight.font": 32,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 899,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/dette-et-notations/emissions-marche/ca-financement-de-l-habitat-sfh-covered-bonds2",
+    "requestedUrl": "https://www.credit-agricole.com/finance/dette-et-notations/emissions-marche/ca-financement-de-l-habitat-sfh-covered-bonds2",
+    "timestamp": 1707582785683,
+    "ranks": {
+      "hundos": 5,
+      "performance": 11,
+      "accessibility": 13,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 310
+    },
+    "firstContentfulPaint": 2050.007,
+    "firstMeaningfulPaint": 3000.841,
+    "speedIndex": 2823.4623378531846,
+    "largestContentfulPaint": 9549.153499999999,
+    "totalBlockingTime": 84.99999999999977,
+    "cumulativeLayoutShift": 0.0699662704696275,
+    "timeToInteractive": 7577.658,
+    "maxPotentialFirstInputDelay": 130,
+    "timeToFirstByte": 9.283000000000001,
+    "weight": {
+      "summary": "49 requests • 1,1 MiB",
+      "total": 1175558,
+      "image": 404867,
+      "imageCount": 20,
+      "script": 464750,
+      "scriptCount": 18,
+      "document": 23313,
+      "font": 169204,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93282,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 47,
+      "-weight.document": 31,
+      "+weight.document": 19,
+      "-weight.script": 6,
+      "+weight.script": 39,
+      "-weight.image": 2,
+      "+weight.image": 48,
+      "-weight.font": 28,
+      "+weight.font": 17,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 682,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/actionnaires-individuels/club-des-actionnaires",
+    "requestedUrl": "https://www.credit-agricole.com/finance/actionnaires-individuels/club-des-actionnaires",
+    "timestamp": 1707582570771,
+    "ranks": {
+      "hundos": 7,
+      "performance": 28,
+      "accessibility": 10,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 309
+    },
+    "firstContentfulPaint": 2040.2320000000002,
+    "firstMeaningfulPaint": 3921.6360000000004,
+    "speedIndex": 4122.586091053205,
+    "largestContentfulPaint": 9695.830500000004,
+    "totalBlockingTime": 81,
+    "cumulativeLayoutShift": 0.021027834532291297,
+    "timeToInteractive": 7425.540999999999,
+    "maxPotentialFirstInputDelay": 102,
+    "timeToFirstByte": 9.415999999999997,
+    "weight": {
+      "summary": "52 requests • 1,1 MiB",
+      "total": 1198068,
+      "image": 428175,
+      "imageCount": 22,
+      "script": 467102,
+      "scriptCount": 19,
+      "document": 20197,
+      "font": 169171,
+      "fontCount": 6,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93231,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 42,
+      "-weight.document": 9,
+      "+weight.document": 41,
+      "-weight.script": 13,
+      "+weight.script": 32,
+      "-weight.image": 10,
+      "+weight.image": 40,
+      "-weight.font": 27,
+      "+weight.font": 18,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 622,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance",
+    "requestedUrl": "https://www.credit-agricole.com/finance",
+    "timestamp": 1707582885375,
+    "ranks": {
+      "hundos": 6,
+      "performance": 17,
+      "accessibility": 29,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.77,
+      "bestPractices": 0.7,
+      "seo": 0.9,
+      "total": 309
+    },
+    "firstContentfulPaint": 2085.082,
+    "firstMeaningfulPaint": 3199.5560000000005,
+    "speedIndex": 3491.03905849228,
+    "largestContentfulPaint": 9867.242000000002,
+    "totalBlockingTime": 85.5,
+    "cumulativeLayoutShift": 0.014044271296533455,
+    "timeToInteractive": 8391.551,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 8.959000000000003,
+    "weight": {
+      "summary": "61 requests • 2,1 MiB",
+      "total": 2214360,
+      "image": 1421189,
+      "imageCount": 30,
+      "script": 467105,
+      "scriptCount": 19,
+      "document": 23101,
+      "font": 189542,
+      "fontCount": 7,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93231,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 9,
+      "-weight.document": 29,
+      "+weight.document": 21,
+      "-weight.script": 15,
+      "+weight.script": 30,
+      "-weight.image": 42,
+      "+weight.image": 8,
+      "-weight.font": 32,
+      "+weight.font": 13,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 993,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/talents",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/talents",
+    "timestamp": 1707582627130,
+    "ranks": {
+      "hundos": 8,
+      "performance": 31,
+      "accessibility": 3,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.83,
+      "bestPractices": 0.67,
+      "seo": 0.89,
+      "total": 309
+    },
+    "firstContentfulPaint": 2050.4519999999998,
+    "firstMeaningfulPaint": 3627.9182499999997,
+    "speedIndex": 4514.92803570741,
+    "largestContentfulPaint": 12081.944999999992,
+    "totalBlockingTime": 80,
+    "cumulativeLayoutShift": 0.01611930870037817,
+    "timeToInteractive": 7969.848499999998,
+    "maxPotentialFirstInputDelay": 126,
+    "timeToFirstByte": 9.707999999999998,
+    "weight": {
+      "summary": "60 requests • 1,7 MiB",
+      "total": 1820764,
+      "image": 1052152,
+      "imageCount": 31,
+      "script": 465197,
+      "scriptCount": 18,
+      "document": 20841,
+      "font": 169150,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93281,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 21,
+      "-weight.document": 16,
+      "+weight.document": 34,
+      "-weight.script": 8,
+      "+weight.script": 37,
+      "-weight.image": 33,
+      "+weight.image": 17,
+      "-weight.font": 25,
+      "+weight.font": 20,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 895,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/notre-groupe/decouvrir-le-groupe-credit-agricole",
+    "requestedUrl": "https://www.credit-agricole.com/notre-groupe/decouvrir-le-groupe-credit-agricole",
+    "timestamp": 1707582988001,
+    "ranks": {
+      "hundos": 13,
+      "performance": 30,
+      "accessibility": 6,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 308
+    },
+    "firstContentfulPaint": 2062.8709999999996,
+    "firstMeaningfulPaint": 3014.627,
+    "speedIndex": 4505.561096456083,
+    "largestContentfulPaint": 17326.025500000003,
+    "totalBlockingTime": 111,
+    "cumulativeLayoutShift": 0.000042625310924677626,
+    "timeToInteractive": 12835.21,
+    "maxPotentialFirstInputDelay": 122.99999999999909,
+    "timeToFirstByte": 8.802999999999997,
+    "weight": {
+      "summary": "59 requests • 3,3 MiB",
+      "total": 3464068,
+      "image": 2691501,
+      "imageCount": 28,
+      "script": 468705,
+      "scriptCount": 20,
+      "document": 21467,
+      "font": 168971,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93261,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 6,
+      "-weight.document": 19,
+      "+weight.document": 31,
+      "-weight.script": 25,
+      "+weight.script": 20,
+      "-weight.image": 44,
+      "+weight.image": 6,
+      "-weight.font": 9,
+      "+weight.font": 36,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 711,
+      "violations": 21
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/entre-la-chine-et-les-etats-unis-la-coree-a-toujours-besoin-de-la-mondialisation-heureuse",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/entre-la-chine-et-les-etats-unis-la-coree-a-toujours-besoin-de-la-mondialisation-heureuse",
+    "timestamp": 1707583090422,
+    "ranks": {
+      "hundos": 10,
+      "performance": 3,
+      "accessibility": 16,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 308
+    },
+    "firstContentfulPaint": 2207.842,
+    "firstMeaningfulPaint": 3996.0195000000003,
+    "speedIndex": 2791.8371329131073,
+    "largestContentfulPaint": 4964.012999999999,
+    "totalBlockingTime": 56,
+    "cumulativeLayoutShift": 0.004972236248300667,
+    "timeToInteractive": 7357.683999999999,
+    "maxPotentialFirstInputDelay": 87,
+    "timeToFirstByte": 9.704,
+    "weight": {
+      "summary": "56 requests • 1,3 MiB",
+      "total": 1384627,
+      "image": 562784,
+      "imageCount": 22,
+      "script": 470155,
+      "scriptCount": 21,
+      "document": 22597,
+      "font": 215669,
+      "fontCount": 8,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93283,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 33,
+      "-weight.document": 28,
+      "+weight.document": 22,
+      "-weight.script": 29,
+      "+weight.script": 16,
+      "-weight.image": 15,
+      "+weight.image": 35,
+      "-weight.font": 43,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 579,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole/annuaire-des-caisses-regionales-du-credit-agricole",
+    "requestedUrl": "https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole/annuaire-des-caisses-regionales-du-credit-agricole",
+    "timestamp": 1707582953225,
+    "ranks": {
+      "hundos": 12,
+      "performance": 7,
+      "accessibility": 9,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.79,
+      "bestPractices": 0.67,
+      "seo": 0.9,
+      "total": 308
+    },
+    "firstContentfulPaint": 2214.68,
+    "firstMeaningfulPaint": 3329.3600000000006,
+    "speedIndex": 2214.68,
+    "largestContentfulPaint": 8204.36,
+    "totalBlockingTime": 125.01999999999953,
+    "cumulativeLayoutShift": 0.028388128516928582,
+    "timeToInteractive": 6482.410000000002,
+    "maxPotentialFirstInputDelay": 137,
+    "timeToFirstByte": 10.194000000000003,
+    "weight": {
+      "summary": "95 requests • 1,3 MiB",
+      "total": 1319535,
+      "image": 542845,
+      "imageCount": 64,
+      "script": 468675,
+      "scriptCount": 20,
+      "document": 25481,
+      "font": 169111,
+      "fontCount": 6,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93230,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 37,
+      "-weight.document": 40,
+      "+weight.document": 10,
+      "-weight.script": 24,
+      "+weight.script": 21,
+      "-weight.image": 13,
+      "+weight.image": 37,
+      "-weight.font": 23,
+      "+weight.font": 22,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 1611,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/fluctuat-nec-mergitur",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/fluctuat-nec-mergitur",
+    "timestamp": 1707583312843,
+    "ranks": {
+      "hundos": 9,
+      "performance": 2,
+      "accessibility": 19,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 308
+    },
+    "firstContentfulPaint": 2209.674,
+    "firstMeaningfulPaint": 3321.348,
+    "speedIndex": 2209.674,
+    "largestContentfulPaint": 5041.011,
+    "totalBlockingTime": 74.99999999999955,
+    "cumulativeLayoutShift": 0.004972236248300667,
+    "timeToInteractive": 7282.353499999997,
+    "maxPotentialFirstInputDelay": 128,
+    "timeToFirstByte": 10.866,
+    "weight": {
+      "summary": "55 requests • 1,3 MiB",
+      "total": 1348525,
+      "image": 552316,
+      "imageCount": 22,
+      "script": 470396,
+      "scriptCount": 21,
+      "document": 23442,
+      "font": 188948,
+      "fontCount": 7,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93524,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 36,
+      "-weight.document": 32,
+      "+weight.document": 18,
+      "-weight.script": 32,
+      "+weight.script": 13,
+      "-weight.image": 14,
+      "+weight.image": 36,
+      "-weight.font": 30,
+      "+weight.font": 15,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 587,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/notre-groupe/ethique-et-conformite/protection-de-la-clientele",
+    "requestedUrl": "https://www.credit-agricole.com/notre-groupe/ethique-et-conformite/protection-de-la-clientele",
+    "timestamp": 1707582055415,
+    "ranks": {
+      "hundos": 11,
+      "performance": 12,
+      "accessibility": 28,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.77,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 308
+    },
+    "firstContentfulPaint": 2394.587,
+    "firstMeaningfulPaint": 3026.4579999999996,
+    "speedIndex": 3020.383417265582,
+    "largestContentfulPaint": 7472.814000000002,
+    "totalBlockingTime": 71.5,
+    "cumulativeLayoutShift": 0.01974492387284308,
+    "timeToInteractive": 6426.345000000002,
+    "maxPotentialFirstInputDelay": 101,
+    "timeToFirstByte": 8.698999999999998,
+    "weight": {
+      "summary": "56 requests • 1,1 MiB",
+      "total": 1192685,
+      "image": 419924,
+      "imageCount": 25,
+      "script": 468728,
+      "scriptCount": 20,
+      "document": 21485,
+      "font": 169126,
+      "fontCount": 6,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93281,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 44,
+      "-weight.document": 20,
+      "+weight.document": 30,
+      "-weight.script": 26,
+      "+weight.script": 19,
+      "-weight.image": 8,
+      "+weight.image": 42,
+      "-weight.font": 24,
+      "+weight.font": 21,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 678,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/resultats-financiers",
+    "requestedUrl": "https://www.credit-agricole.com/finance/resultats-financiers",
+    "timestamp": 1707582553017,
+    "ranks": {
+      "hundos": 15,
+      "performance": 24,
+      "accessibility": 27,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.77,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 307
+    },
+    "firstContentfulPaint": 2219.9230000000002,
+    "firstMeaningfulPaint": 3842.4660000000003,
+    "speedIndex": 3673.796958998849,
+    "largestContentfulPaint": 8473.829500000002,
+    "totalBlockingTime": 109,
+    "cumulativeLayoutShift": 0.006919182711497833,
+    "timeToInteractive": 7066.929499999999,
+    "maxPotentialFirstInputDelay": 100,
+    "timeToFirstByte": 8.855000000000004,
+    "weight": {
+      "summary": "63 requests • 1,4 MiB",
+      "total": 1505199,
+      "image": 735583,
+      "imageCount": 33,
+      "script": 467102,
+      "scriptCount": 19,
+      "document": 20103,
+      "font": 168989,
+      "fontCount": 6,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93228,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 28,
+      "-weight.document": 8,
+      "+weight.document": 42,
+      "-weight.script": 13,
+      "+weight.script": 32,
+      "-weight.image": 26,
+      "+weight.image": 24,
+      "-weight.font": 12,
+      "+weight.font": 33,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 772,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/dette-et-notations",
+    "requestedUrl": "https://www.credit-agricole.com/finance/dette-et-notations",
+    "timestamp": 1707582914530,
+    "ranks": {
+      "hundos": 14,
+      "performance": 19,
+      "accessibility": 33,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.76,
+      "bestPractices": 0.7,
+      "seo": 0.9,
+      "total": 307
+    },
+    "firstContentfulPaint": 2220.6295,
+    "firstMeaningfulPaint": 3187.0010000000007,
+    "speedIndex": 2233.012308716608,
+    "largestContentfulPaint": 8033.264999999999,
+    "totalBlockingTime": 174,
+    "cumulativeLayoutShift": 0.0013155301534423756,
+    "timeToInteractive": 6891.159499999999,
+    "maxPotentialFirstInputDelay": 132,
+    "timeToFirstByte": 9.308999999999997,
+    "weight": {
+      "summary": "54 requests • 1,2 MiB",
+      "total": 1259791,
+      "image": 483660,
+      "imageCount": 24,
+      "script": 467442,
+      "scriptCount": 19,
+      "document": 26115,
+      "font": 169151,
+      "fontCount": 6,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93569,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 40,
+      "-weight.document": 44,
+      "+weight.document": 6,
+      "-weight.script": 21,
+      "+weight.script": 24,
+      "-weight.image": 12,
+      "+weight.image": 38,
+      "-weight.font": 26,
+      "+weight.font": 19,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 1367,
+      "violations": 49
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/en/footer/protection-of-personal-data",
+    "requestedUrl": "https://www.credit-agricole.com/en/footer/protection-of-personal-data",
+    "timestamp": 1707583183739,
+    "ranks": {
+      "hundos": 16,
+      "performance": 25,
+      "accessibility": 25,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.77,
+      "bestPractices": 0.7,
+      "seo": 0.88,
+      "total": 306
+    },
+    "firstContentfulPaint": 2025.3400000000001,
+    "firstMeaningfulPaint": 3886.5200000000004,
+    "speedIndex": 3768.650739951956,
+    "largestContentfulPaint": 10883.88499999999,
+    "totalBlockingTime": 69.5,
+    "cumulativeLayoutShift": 0.03292258947362733,
+    "timeToInteractive": 7866.194999999998,
+    "maxPotentialFirstInputDelay": 86,
+    "timeToFirstByte": 9.205999999999996,
+    "weight": {
+      "summary": "57 requests • 1,4 MiB",
+      "total": 1427977,
+      "image": 656458,
+      "imageCount": 26,
+      "script": 468970,
+      "scriptCount": 20,
+      "document": 20058,
+      "font": 169068,
+      "fontCount": 6,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93526,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 32,
+      "-weight.document": 7,
+      "+weight.document": 43,
+      "-weight.script": 28,
+      "+weight.script": 17,
+      "-weight.image": 22,
+      "+weight.image": 28,
+      "-weight.font": 16,
+      "+weight.font": 29,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 617,
+      "violations": 21
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/footer/politique-de-protection-des-donnees-a-caractere-personnel",
+    "requestedUrl": "https://www.credit-agricole.com/footer/politique-de-protection-des-donnees-a-caractere-personnel",
+    "timestamp": 1707582443096,
+    "ranks": {
+      "hundos": 17,
+      "performance": 38,
+      "accessibility": 26,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.77,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 304
+    },
+    "firstContentfulPaint": 2222.7825000000003,
+    "firstMeaningfulPaint": 3842.511,
+    "speedIndex": 2982.6251185765495,
+    "largestContentfulPaint": 8029.72575,
+    "totalBlockingTime": 230,
+    "cumulativeLayoutShift": 0.026623091928752066,
+    "timeToInteractive": 6848.96875,
+    "maxPotentialFirstInputDelay": 160,
+    "timeToFirstByte": 9.614999999999995,
+    "weight": {
+      "summary": "56 requests • 1,1 MiB",
+      "total": 1192762,
+      "image": 419927,
+      "imageCount": 25,
+      "script": 468671,
+      "scriptCount": 20,
+      "document": 21672,
+      "font": 169069,
+      "fontCount": 6,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93228,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 43,
+      "-weight.document": 21,
+      "+weight.document": 29,
+      "-weight.script": 23,
+      "+weight.script": 22,
+      "-weight.image": 9,
+      "+weight.image": 41,
+      "-weight.font": 17,
+      "+weight.font": 28,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 626,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/responsable-et-engage/notre-strategie-rse-etre-acteur-d-une-societe-durable/kiosque",
+    "requestedUrl": "https://www.credit-agricole.com/responsable-et-engage/notre-strategie-rse-etre-acteur-d-une-societe-durable/kiosque",
+    "timestamp": 1707582874794,
+    "ranks": {
+      "hundos": 19,
+      "performance": 27,
+      "accessibility": 7,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.83,
+      "total": 303
+    },
+    "firstContentfulPaint": 2222.088,
+    "firstMeaningfulPaint": 3972.364,
+    "speedIndex": 3893.6112971413413,
+    "largestContentfulPaint": 14784.970500000005,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0.01529788187000145,
+    "timeToInteractive": 8996.567000000003,
+    "maxPotentialFirstInputDelay": 92,
+    "timeToFirstByte": 9.709999999999994,
+    "weight": {
+      "summary": "65 requests • 4,2 MiB",
+      "total": 4451519,
+      "image": 3658990,
+      "imageCount": 34,
+      "script": 467395,
+      "scriptCount": 19,
+      "document": 22167,
+      "font": 189545,
+      "fontCount": 7,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93523,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 3,
+      "-weight.document": 26,
+      "+weight.document": 24,
+      "-weight.script": 17,
+      "+weight.script": 28,
+      "-weight.image": 47,
+      "+weight.image": 3,
+      "-weight.font": 34,
+      "+weight.font": 11,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 981,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2022/travaux-de-renovation-energetique-quelles-aides",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2022/travaux-de-renovation-energetique-quelles-aides",
+    "timestamp": 1707583129527,
+    "ranks": {
+      "hundos": 18,
+      "performance": 4,
+      "accessibility": 35,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.76,
+      "accessibility": 0.75,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 303
+    },
+    "firstContentfulPaint": 2209.186,
+    "firstMeaningfulPaint": 3396.3719999999994,
+    "speedIndex": 2438.16246096994,
+    "largestContentfulPaint": 5791.0289999999995,
+    "totalBlockingTime": 39,
+    "cumulativeLayoutShift": 0.01691236524184437,
+    "timeToInteractive": 6263.357499999999,
+    "maxPotentialFirstInputDelay": 90,
+    "timeToFirstByte": 10.509,
+    "weight": {
+      "summary": "56 requests • 1,6 MiB",
+      "total": 1650472,
+      "image": 846984,
+      "imageCount": 23,
+      "script": 470438,
+      "scriptCount": 21,
+      "document": 24347,
+      "font": 195280,
+      "fontCount": 7,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93568,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 23,
+      "-weight.document": 35,
+      "+weight.document": 15,
+      "-weight.script": 36,
+      "+weight.script": 9,
+      "-weight.image": 30,
+      "+weight.image": 20,
+      "-weight.font": 41,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 902,
+      "violations": 35
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/notre-groupe/nos-engagements/sport-comme-ecole-de-la-vie",
+    "requestedUrl": "https://www.credit-agricole.com/notre-groupe/nos-engagements/sport-comme-ecole-de-la-vie",
+    "timestamp": 1707583081676,
+    "ranks": {
+      "hundos": 20,
+      "performance": 41,
+      "accessibility": 31,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.77,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 303
+    },
+    "firstContentfulPaint": 2036.471,
+    "firstMeaningfulPaint": 3987.7167500000005,
+    "speedIndex": 4263.4153554623945,
+    "largestContentfulPaint": 13956.186500000003,
+    "totalBlockingTime": 213.0000000000009,
+    "cumulativeLayoutShift": 0.054311105760839265,
+    "timeToInteractive": 8778.785500000004,
+    "maxPotentialFirstInputDelay": 170.0000000000009,
+    "timeToFirstByte": 9.417000000000002,
+    "weight": {
+      "summary": "68 requests • 2,5 MiB",
+      "total": 2620819,
+      "image": 1361678,
+      "imageCount": 34,
+      "script": 468969,
+      "scriptCount": 20,
+      "document": 24034,
+      "font": 169069,
+      "fontCount": 6,
+      "stylesheet": 112826,
+      "stylesheetCount": 3,
+      "thirdParty": 93526,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 7,
+      "-weight.document": 33,
+      "+weight.document": 17,
+      "-weight.script": 27,
+      "+weight.script": 18,
+      "-weight.image": 41,
+      "+weight.image": 9,
+      "-weight.font": 17,
+      "+weight.font": 28,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 841,
+      "violations": 54
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/notre-groupe/notre-projet-de-groupe/pmt-2025/notre-projet-de-groupe-notre-vision",
+    "requestedUrl": "https://www.credit-agricole.com/notre-groupe/notre-projet-de-groupe/pmt-2025/notre-projet-de-groupe-notre-vision",
+    "timestamp": 1707582451964,
+    "ranks": {
+      "hundos": 21,
+      "performance": 18,
+      "accessibility": 15,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 302
+    },
+    "firstContentfulPaint": 2223.5910000000003,
+    "firstMeaningfulPaint": 4071.509,
+    "speedIndex": 3662.214806459407,
+    "largestContentfulPaint": 8707.969000000001,
+    "totalBlockingTime": 51,
+    "cumulativeLayoutShift": 0.003500131090300483,
+    "timeToInteractive": 8145.710000000001,
+    "maxPotentialFirstInputDelay": 94,
+    "timeToFirstByte": 9.704,
+    "weight": {
+      "summary": "57 requests • 2,1 MiB",
+      "total": 2234964,
+      "image": 1434825,
+      "imageCount": 24,
+      "script": 470406,
+      "scriptCount": 21,
+      "document": 21203,
+      "font": 195106,
+      "fontCount": 7,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93533,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 8,
+      "-weight.document": 18,
+      "+weight.document": 32,
+      "-weight.script": 34,
+      "+weight.script": 11,
+      "-weight.image": 43,
+      "+weight.image": 7,
+      "-weight.font": 37,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 655,
+      "violations": 20
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/responsable-et-engage/notre-strategie-rse-etre-acteur-d-une-societe-durable/nos-politiques-sectorielles",
+    "requestedUrl": "https://www.credit-agricole.com/responsable-et-engage/notre-strategie-rse-etre-acteur-d-une-societe-durable/nos-politiques-sectorielles",
+    "timestamp": 1707582561892,
+    "ranks": {
+      "hundos": 23,
+      "performance": 34,
+      "accessibility": 37,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.74,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 302
+    },
+    "firstContentfulPaint": 2024.252,
+    "firstMeaningfulPaint": 3977.2875000000004,
+    "speedIndex": 4267.8415497878805,
+    "largestContentfulPaint": 9623.575000000003,
+    "totalBlockingTime": 155.5,
+    "cumulativeLayoutShift": 0.027784215745594202,
+    "timeToInteractive": 7594.571000000002,
+    "maxPotentialFirstInputDelay": 139,
+    "timeToFirstByte": 9.371000000000002,
+    "weight": {
+      "summary": "51 requests • 1,1 MiB",
+      "total": 1184680,
+      "image": 413966,
+      "imageCount": 21,
+      "script": 467401,
+      "scriptCount": 19,
+      "document": 20791,
+      "font": 169098,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93526,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 45,
+      "-weight.document": 15,
+      "+weight.document": 35,
+      "-weight.script": 20,
+      "+weight.script": 25,
+      "-weight.image": 6,
+      "+weight.image": 44,
+      "-weight.font": 20,
+      "+weight.font": 25,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 775,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/en/all-press-releases",
+    "requestedUrl": "https://www.credit-agricole.com/en/all-press-releases",
+    "timestamp": 1707582756631,
+    "ranks": {
+      "hundos": 22,
+      "performance": 21,
+      "accessibility": 45,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.71,
+      "bestPractices": 0.7,
+      "seo": 0.9,
+      "total": 302
+    },
+    "firstContentfulPaint": 2209.444,
+    "firstMeaningfulPaint": 3826.9019999999996,
+    "speedIndex": 2985.1353575009603,
+    "largestContentfulPaint": 8576.874,
+    "totalBlockingTime": 104.99999999999955,
+    "cumulativeLayoutShift": 0.07802684577020817,
+    "timeToInteractive": 7267.72,
+    "maxPotentialFirstInputDelay": 103.99999999999909,
+    "timeToFirstByte": 9.581000000000003,
+    "weight": {
+      "summary": "52 requests • 1,4 MiB",
+      "total": 1484163,
+      "image": 714891,
+      "imageCount": 23,
+      "script": 465887,
+      "scriptCount": 18,
+      "document": 20853,
+      "font": 169109,
+      "fontCount": 6,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93526,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 30,
+      "-weight.document": 17,
+      "+weight.document": 33,
+      "-weight.script": 11,
+      "+weight.script": 34,
+      "-weight.image": 24,
+      "+weight.image": 26,
+      "-weight.font": 22,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 903,
+      "violations": 37
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/en/responsible-and-committed/our-csr-strategy-be-an-actor-of-a-sustainable-society/kiosk",
+    "requestedUrl": "https://www.credit-agricole.com/en/responsible-and-committed/our-csr-strategy-be-an-actor-of-a-sustainable-society/kiosk",
+    "timestamp": 1707583120062,
+    "ranks": {
+      "hundos": 25,
+      "performance": 37,
+      "accessibility": 5,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.83,
+      "total": 301
+    },
+    "firstContentfulPaint": 2053.343,
+    "firstMeaningfulPaint": 3834.8900000000003,
+    "speedIndex": 5558.7585356521395,
+    "largestContentfulPaint": 21924.394500000013,
+    "totalBlockingTime": 53,
+    "cumulativeLayoutShift": 0.025136015055826008,
+    "timeToInteractive": 9398.479499999998,
+    "maxPotentialFirstInputDelay": 86,
+    "timeToFirstByte": 9.648000000000003,
+    "weight": {
+      "summary": "64 requests • 4,5 MiB",
+      "total": 4703327,
+      "image": 3912731,
+      "imageCount": 33,
+      "script": 467100,
+      "scriptCount": 19,
+      "document": 20437,
+      "font": 189635,
+      "fontCount": 7,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93230,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 2,
+      "-weight.document": 12,
+      "+weight.document": 38,
+      "-weight.script": 12,
+      "+weight.script": 33,
+      "-weight.image": 48,
+      "+weight.image": 2,
+      "-weight.font": 35,
+      "+weight.font": 10,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 917,
+      "violations": 21
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/actionnaires-individuels/percevoir-un-dividende",
+    "requestedUrl": "https://www.credit-agricole.com/finance/actionnaires-individuels/percevoir-un-dividende",
+    "timestamp": 1707582100805,
+    "ranks": {
+      "hundos": 26,
+      "performance": 22,
+      "accessibility": 17,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 301
+    },
+    "firstContentfulPaint": 2210.04,
+    "firstMeaningfulPaint": 3822.08,
+    "speedIndex": 3567.599595820746,
+    "largestContentfulPaint": 7898.715000000002,
+    "totalBlockingTime": 145,
+    "cumulativeLayoutShift": 0.013420963471208662,
+    "timeToInteractive": 6963.890000000002,
+    "maxPotentialFirstInputDelay": 111,
+    "timeToFirstByte": 9.902000000000001,
+    "weight": {
+      "summary": "51 requests • 1,1 MiB",
+      "total": 1184536,
+      "image": 413969,
+      "imageCount": 21,
+      "script": 467397,
+      "scriptCount": 19,
+      "document": 20758,
+      "font": 168988,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93524,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 46,
+      "-weight.document": 13,
+      "+weight.document": 37,
+      "-weight.script": 19,
+      "+weight.script": 26,
+      "-weight.image": 7,
+      "+weight.image": 43,
+      "-weight.font": 11,
+      "+weight.font": 34,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 734,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/au-dela-du-discours-politique-les-dessous-de-la-smicardisation",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/au-dela-du-discours-politique-les-dessous-de-la-smicardisation",
+    "timestamp": 1707583295240,
+    "ranks": {
+      "hundos": 24,
+      "performance": 13,
+      "accessibility": 21,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 301
+    },
+    "firstContentfulPaint": 2213.629,
+    "firstMeaningfulPaint": 3978.9879999999994,
+    "speedIndex": 3044.8758758041804,
+    "largestContentfulPaint": 9553.359,
+    "totalBlockingTime": 57,
+    "cumulativeLayoutShift": 0.02127531576163809,
+    "timeToInteractive": 7328.051,
+    "maxPotentialFirstInputDelay": 98,
+    "timeToFirstByte": 9.518999999999998,
+    "weight": {
+      "summary": "55 requests • 2,0 MiB",
+      "total": 2096069,
+      "image": 1298868,
+      "imageCount": 22,
+      "script": 470392,
+      "scriptCount": 21,
+      "document": 24456,
+      "font": 188930,
+      "fontCount": 7,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93523,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 12,
+      "-weight.document": 36,
+      "+weight.document": 14,
+      "-weight.script": 31,
+      "+weight.script": 14,
+      "-weight.image": 38,
+      "+weight.image": 12,
+      "-weight.font": 29,
+      "+weight.font": 16,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 643,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/dette-et-notations/credit-agricole-s.a.-emissions-clientele/emissions-caisses-regionales-radian",
+    "requestedUrl": "https://www.credit-agricole.com/finance/dette-et-notations/credit-agricole-s.a.-emissions-clientele/emissions-caisses-regionales-radian",
+    "timestamp": 1707582207296,
+    "ranks": {
+      "hundos": 30,
+      "performance": 29,
+      "accessibility": 18,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 300
+    },
+    "firstContentfulPaint": 2056.123,
+    "firstMeaningfulPaint": 2534.563,
+    "speedIndex": 4200.343585566345,
+    "largestContentfulPaint": 9026.594999999996,
+    "totalBlockingTime": 48,
+    "cumulativeLayoutShift": 0.06388032411992584,
+    "timeToInteractive": 7387.766499999998,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 592.85,
+    "weight": {
+      "summary": "43 requests • 1,1 MiB",
+      "total": 1101791,
+      "image": 411652,
+      "imageCount": 17,
+      "script": 462657,
+      "scriptCount": 17,
+      "document": 18887,
+      "font": 95171,
+      "fontCount": 4,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93230,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 49,
+      "-weight.document": 3,
+      "+weight.document": 47,
+      "-weight.script": 3,
+      "+weight.script": 42,
+      "-weight.image": 4,
+      "+weight.image": 46,
+      "-weight.font": 1,
+      "+weight.font": 44,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 587,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/candidat",
+    "requestedUrl": "https://www.credit-agricole.com/candidat",
+    "timestamp": 1707582046508,
+    "ranks": {
+      "hundos": 28,
+      "performance": 35,
+      "accessibility": 11,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 300
+    },
+    "firstContentfulPaint": 2073.8269999999998,
+    "firstMeaningfulPaint": 3899.8494999999994,
+    "speedIndex": 5177.209611094045,
+    "largestContentfulPaint": 13710.58875000001,
+    "totalBlockingTime": 60.5,
+    "cumulativeLayoutShift": 0.017426330813092264,
+    "timeToInteractive": 9244.994000000002,
+    "maxPotentialFirstInputDelay": 88,
+    "timeToFirstByte": 9.395000000000003,
+    "weight": {
+      "summary": "56 requests • 1,9 MiB",
+      "total": 1970201,
+      "image": 1198614,
+      "imageCount": 26,
+      "script": 467105,
+      "scriptCount": 19,
+      "document": 21972,
+      "font": 169086,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93230,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 20,
+      "-weight.document": 25,
+      "+weight.document": 25,
+      "-weight.script": 15,
+      "+weight.script": 30,
+      "-weight.image": 35,
+      "+weight.image": 15,
+      "-weight.font": 19,
+      "+weight.font": 26,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 687,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/information-reglementee",
+    "requestedUrl": "https://www.credit-agricole.com/finance/information-reglementee",
+    "timestamp": 1707582461578,
+    "ranks": {
+      "hundos": 29,
+      "performance": 40,
+      "accessibility": 38,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.74,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 300
+    },
+    "firstContentfulPaint": 2039.6200000000001,
+    "firstMeaningfulPaint": 3908.5200000000004,
+    "speedIndex": 3527.429998317337,
+    "largestContentfulPaint": 9856.520000000004,
+    "totalBlockingTime": 265.5000000000002,
+    "cumulativeLayoutShift": 0.02882454136410699,
+    "timeToInteractive": 8988.828000000005,
+    "maxPotentialFirstInputDelay": 141.00000000000023,
+    "timeToFirstByte": 9.026000000000003,
+    "weight": {
+      "summary": "52 requests • 1,2 MiB",
+      "total": 1258683,
+      "image": 478334,
+      "imageCount": 22,
+      "script": 467783,
+      "scriptCount": 19,
+      "document": 30155,
+      "font": 168987,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93578,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 41,
+      "-weight.document": 46,
+      "+weight.document": 4,
+      "-weight.script": 22,
+      "+weight.script": 23,
+      "-weight.image": 11,
+      "+weight.image": 39,
+      "-weight.font": 10,
+      "+weight.font": 35,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 657,
+      "violations": 35
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/en/finance/debt-and-ratings",
+    "requestedUrl": "https://www.credit-agricole.com/en/finance/debt-and-ratings",
+    "timestamp": 1707582235394,
+    "ranks": {
+      "hundos": 27,
+      "performance": 9,
+      "accessibility": 32,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.76,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 300
+    },
+    "firstContentfulPaint": 2228.982,
+    "firstMeaningfulPaint": 3201.524,
+    "speedIndex": 2312.049848803401,
+    "largestContentfulPaint": 8668.779999999999,
+    "totalBlockingTime": 123.63000000000011,
+    "cumulativeLayoutShift": 0.03479059534812979,
+    "timeToInteractive": 6683.205999999998,
+    "maxPotentialFirstInputDelay": 127,
+    "timeToFirstByte": 9.678000000000004,
+    "weight": {
+      "summary": "55 requests • 1,4 MiB",
+      "total": 1493993,
+      "image": 720181,
+      "imageCount": 25,
+      "script": 467103,
+      "scriptCount": 19,
+      "document": 24299,
+      "font": 168988,
+      "fontCount": 6,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93232,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 29,
+      "-weight.document": 34,
+      "+weight.document": 16,
+      "-weight.script": 14,
+      "+weight.script": 31,
+      "-weight.image": 25,
+      "+weight.image": 25,
+      "-weight.font": 11,
+      "+weight.font": 34,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1372,
+      "violations": 48
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2023/loi-de-finances-pour-2023",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2023/loi-de-finances-pour-2023",
+    "timestamp": 1707582353040,
+    "ranks": {
+      "hundos": 32,
+      "performance": 32,
+      "accessibility": 22,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 299
+    },
+    "firstContentfulPaint": 2027.5720000000001,
+    "firstMeaningfulPaint": 4325.002,
+    "speedIndex": 4844.03754323178,
+    "largestContentfulPaint": 10250.681,
+    "totalBlockingTime": 52.5,
+    "cumulativeLayoutShift": 0.0034805653738104667,
+    "timeToInteractive": 8720.8775,
+    "maxPotentialFirstInputDelay": 88,
+    "timeToFirstByte": 9.674,
+    "weight": {
+      "summary": "55 requests • 1,6 MiB",
+      "total": 1667943,
+      "image": 866690,
+      "imageCount": 22,
+      "script": 470402,
+      "scriptCount": 21,
+      "document": 22360,
+      "font": 195066,
+      "fontCount": 7,
+      "stylesheet": 112826,
+      "stylesheetCount": 3,
+      "thirdParty": 93533,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 22,
+      "-weight.document": 27,
+      "+weight.document": 23,
+      "-weight.script": 33,
+      "+weight.script": 12,
+      "-weight.image": 31,
+      "+weight.image": 19,
+      "-weight.font": 36,
+      "+weight.font": 9,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 682,
+      "violations": 36
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2022/le-vehicule-a-hydrogene-ou-en-est-on",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2022/le-vehicule-a-hydrogene-ou-en-est-on",
+    "timestamp": 1707583322751,
+    "ranks": {
+      "hundos": 31,
+      "performance": 14,
+      "accessibility": 36,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.75,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 299
+    },
+    "firstContentfulPaint": 2035.1480000000001,
+    "firstMeaningfulPaint": 3692.444,
+    "speedIndex": 3047.3899459400063,
+    "largestContentfulPaint": 7906.800500000001,
+    "totalBlockingTime": 122,
+    "cumulativeLayoutShift": 0.0034805653738104667,
+    "timeToInteractive": 9314.522500000003,
+    "maxPotentialFirstInputDelay": 120,
+    "timeToFirstByte": 9.632000000000005,
+    "weight": {
+      "summary": "61 requests • 4,2 MiB",
+      "total": 4360234,
+      "image": 3548099,
+      "imageCount": 27,
+      "script": 470396,
+      "scriptCount": 21,
+      "document": 32449,
+      "font": 195134,
+      "fontCount": 7,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93527,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 5,
+      "-weight.document": 48,
+      "+weight.document": 2,
+      "-weight.script": 32,
+      "+weight.script": 13,
+      "-weight.image": 45,
+      "+weight.image": 5,
+      "-weight.font": 38,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 834,
+      "violations": 78
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2022/quand-le-rechauffement-climatique-devient-une-menace-pour-certaines-activites",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2022/quand-le-rechauffement-climatique-devient-une-menace-pour-certaines-activites",
+    "timestamp": 1707582326878,
+    "ranks": {
+      "hundos": 33,
+      "performance": 36,
+      "accessibility": 20,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 298
+    },
+    "firstContentfulPaint": 2215.0785000000005,
+    "firstMeaningfulPaint": 3180.4030000000007,
+    "speedIndex": 5359.000789882401,
+    "largestContentfulPaint": 8736.545000000002,
+    "totalBlockingTime": 50,
+    "cumulativeLayoutShift": 0.003088649021964301,
+    "timeToInteractive": 7529.56775,
+    "maxPotentialFirstInputDelay": 99,
+    "timeToFirstByte": 1720.855,
+    "weight": {
+      "summary": "56 requests • 1,9 MiB",
+      "total": 2015988,
+      "image": 1191106,
+      "imageCount": 22,
+      "script": 470937,
+      "scriptCount": 21,
+      "document": 24962,
+      "font": 215559,
+      "fontCount": 8,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 94070,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 14,
+      "-weight.document": 39,
+      "+weight.document": 11,
+      "-weight.script": 37,
+      "+weight.script": 8,
+      "-weight.image": 34,
+      "+weight.image": 16,
+      "-weight.font": 42,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 681,
+      "violations": 28
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/en/group/list-of-our-locations",
+    "requestedUrl": "https://www.credit-agricole.com/en/group/list-of-our-locations",
+    "timestamp": 1707583202253,
+    "ranks": {
+      "hundos": 34,
+      "performance": 42,
+      "accessibility": 12,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 298
+    },
+    "firstContentfulPaint": 2031.161,
+    "firstMeaningfulPaint": 3883.1130000000003,
+    "speedIndex": 4267.155624973663,
+    "largestContentfulPaint": 10723.943999999996,
+    "totalBlockingTime": 217.00000000000023,
+    "cumulativeLayoutShift": 0.000042625310924677626,
+    "timeToInteractive": 9693.108999999997,
+    "maxPotentialFirstInputDelay": 139.00000000000023,
+    "timeToFirstByte": 10.109000000000002,
+    "weight": {
+      "summary": "54 requests • 1,4 MiB",
+      "total": 1439009,
+      "image": 656291,
+      "imageCount": 24,
+      "script": 467396,
+      "scriptCount": 19,
+      "document": 32828,
+      "font": 169070,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93525,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 31,
+      "-weight.document": 49,
+      "+weight.document": 1,
+      "-weight.script": 18,
+      "+weight.script": 27,
+      "-weight.image": 21,
+      "+weight.image": 29,
+      "-weight.font": 18,
+      "+weight.font": 27,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 718,
+      "violations": 30
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/france-scenario-2024-2025-l-economie-redemarre-grace-a-la-dissipation-des-chocs",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/tendances-eco/france-scenario-2024-2025-l-economie-redemarre-grace-a-la-dissipation-des-chocs",
+    "timestamp": 1707582678569,
+    "ranks": {
+      "hundos": 36,
+      "performance": 20,
+      "accessibility": 34,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.75,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 297
+    },
+    "firstContentfulPaint": 2216.049,
+    "firstMeaningfulPaint": 4085.9165000000003,
+    "speedIndex": 2906.5132188289963,
+    "largestContentfulPaint": 11743.346000000001,
+    "totalBlockingTime": 141.49999999999977,
+    "cumulativeLayoutShift": 0.02127531576163809,
+    "timeToInteractive": 7381.171,
+    "maxPotentialFirstInputDelay": 155.99999999999977,
+    "timeToFirstByte": 9.859000000000002,
+    "weight": {
+      "summary": "56 requests • 2,0 MiB",
+      "total": 2148571,
+      "image": 1327078,
+      "imageCount": 22,
+      "script": 470390,
+      "scriptCount": 21,
+      "document": 21935,
+      "font": 215760,
+      "fontCount": 8,
+      "stylesheet": 112826,
+      "stylesheetCount": 3,
+      "thirdParty": 93523,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 10,
+      "-weight.document": 24,
+      "+weight.document": 26,
+      "-weight.script": 30,
+      "+weight.script": 15,
+      "-weight.image": 39,
+      "+weight.image": 11,
+      "-weight.font": 44,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 599,
+      "violations": 27
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2023/declaration-des-revenus-2022-en-2023",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/dossiers/2023/declaration-des-revenus-2022-en-2023",
+    "timestamp": 1707582794838,
+    "ranks": {
+      "hundos": 35,
+      "performance": 39,
+      "accessibility": 30,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.77,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 297
+    },
+    "firstContentfulPaint": 3143.9220000000005,
+    "firstMeaningfulPaint": 4079.09,
+    "speedIndex": 4051.3302348686975,
+    "largestContentfulPaint": 7084.764999999999,
+    "totalBlockingTime": 65.49999999999955,
+    "cumulativeLayoutShift": 0.02127531576163809,
+    "timeToInteractive": 7876.2865,
+    "maxPotentialFirstInputDelay": 89,
+    "timeToFirstByte": 9.253999999999998,
+    "weight": {
+      "summary": "55 requests • 1,3 MiB",
+      "total": 1383006,
+      "image": 579221,
+      "imageCount": 22,
+      "script": 470420,
+      "scriptCount": 21,
+      "document": 24782,
+      "font": 195160,
+      "fontCount": 7,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93549,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 35,
+      "-weight.document": 38,
+      "+weight.document": 12,
+      "-weight.script": 35,
+      "+weight.script": 10,
+      "-weight.image": 16,
+      "+weight.image": 34,
+      "-weight.font": 39,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 954,
+      "violations": 40
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/contact/quels-besoins",
+    "requestedUrl": "https://www.credit-agricole.com/contact/quels-besoins",
+    "timestamp": 1707582964261,
+    "ranks": {
+      "hundos": 40,
+      "performance": 45,
+      "accessibility": 8,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.79,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 296
+    },
+    "firstContentfulPaint": 2056.3140000000003,
+    "firstMeaningfulPaint": 3951.1220000000003,
+    "speedIndex": 7932.76159175904,
+    "largestContentfulPaint": 23514.836499999976,
+    "totalBlockingTime": 70.5,
+    "cumulativeLayoutShift": 0.016010206034501998,
+    "timeToInteractive": 15093.284999999985,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 10.217999999999996,
+    "weight": {
+      "summary": "58 requests • 9,6 MiB",
+      "total": 10033991,
+      "image": 9264753,
+      "imageCount": 28,
+      "script": 467105,
+      "scriptCount": 19,
+      "document": 19681,
+      "font": 169028,
+      "fontCount": 6,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93233,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 1,
+      "-weight.document": 5,
+      "+weight.document": 45,
+      "-weight.script": 15,
+      "+weight.script": 30,
+      "-weight.image": 49,
+      "+weight.image": 1,
+      "-weight.font": 14,
+      "+weight.font": 31,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 670,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/dette-et-notations/dette-contacts/contact",
+    "requestedUrl": "https://www.credit-agricole.com/finance/dette-et-notations/dette-contacts/contact",
+    "timestamp": 1707582179535,
+    "ranks": {
+      "hundos": 38,
+      "performance": 15,
+      "accessibility": 43,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.73,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 296
+    },
+    "firstContentfulPaint": 2040.5149999999999,
+    "firstMeaningfulPaint": 2509.7450000000003,
+    "speedIndex": 3234.3636973748594,
+    "largestContentfulPaint": 10611.0225,
+    "totalBlockingTime": 66,
+    "cumulativeLayoutShift": 0.003896007170483914,
+    "timeToInteractive": 8589.4715,
+    "maxPotentialFirstInputDelay": 103,
+    "timeToFirstByte": 9.766000000000005,
+    "weight": {
+      "summary": "46 requests • 1,2 MiB",
+      "total": 1305995,
+      "image": 411655,
+      "imageCount": 17,
+      "script": 668331,
+      "scriptCount": 20,
+      "document": 17364,
+      "font": 95221,
+      "fontCount": 4,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 295974,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 38,
+      "-weight.document": 1,
+      "+weight.document": 49,
+      "-weight.script": 40,
+      "+weight.script": 5,
+      "-weight.image": 5,
+      "+weight.image": 45,
+      "-weight.font": 3,
+      "+weight.font": 42,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 560,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/dette-et-notations/dette-contacts/contact2",
+    "requestedUrl": "https://www.credit-agricole.com/finance/dette-et-notations/dette-contacts/contact2",
+    "timestamp": 1707583099022,
+    "ranks": {
+      "hundos": 37,
+      "performance": 16,
+      "accessibility": 44,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.73,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 296
+    },
+    "firstContentfulPaint": 2223.2540000000004,
+    "firstMeaningfulPaint": 3379.8745000000004,
+    "speedIndex": 3439.9473909327003,
+    "largestContentfulPaint": 8631.04,
+    "totalBlockingTime": 29.5,
+    "cumulativeLayoutShift": 0.003896007170483914,
+    "timeToInteractive": 7891.978500000001,
+    "maxPotentialFirstInputDelay": 79,
+    "timeToFirstByte": 8.772000000000006,
+    "weight": {
+      "summary": "46 requests • 1,2 MiB",
+      "total": 1305750,
+      "image": 411651,
+      "imageCount": 17,
+      "script": 668092,
+      "scriptCount": 20,
+      "document": 17372,
+      "font": 95212,
+      "fontCount": 4,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 295734,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 39,
+      "-weight.document": 2,
+      "+weight.document": 48,
+      "-weight.script": 39,
+      "+weight.script": 6,
+      "-weight.image": 3,
+      "+weight.image": 47,
+      "-weight.font": 2,
+      "+weight.font": 43,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 560,
+      "violations": 25
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques",
+    "requestedUrl": "https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques",
+    "timestamp": 1707582111308,
+    "ranks": {
+      "hundos": 39,
+      "performance": 33,
+      "accessibility": 24,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.78,
+      "bestPractices": 0.67,
+      "seo": 0.82,
+      "total": 296
+    },
+    "firstContentfulPaint": 2232.2870000000003,
+    "firstMeaningfulPaint": 3549.3475000000003,
+    "speedIndex": 2560.291422790304,
+    "largestContentfulPaint": 8360.797499999997,
+    "totalBlockingTime": 118.5,
+    "cumulativeLayoutShift": 0.10370027378977192,
+    "timeToInteractive": 7432.145499999997,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 9.752000000000002,
+    "weight": {
+      "summary": "91 requests • 1,3 MiB",
+      "total": 1384127,
+      "image": 663064,
+      "imageCount": 63,
+      "script": 464354,
+      "scriptCount": 18,
+      "document": 27484,
+      "font": 115607,
+      "fontCount": 5,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 93230,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 34,
+      "-weight.document": 45,
+      "+weight.document": 5,
+      "-weight.script": 5,
+      "+weight.script": 40,
+      "-weight.image": 23,
+      "+weight.image": 27,
+      "-weight.font": 4,
+      "+weight.font": 41,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 779,
+      "violations": 62
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/resultats-du-2e-trimestre-et-du-1er-semestre-2023",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/resultats-du-2e-trimestre-et-du-1er-semestre-2023",
+    "timestamp": 1707582217304,
+    "ranks": {
+      "hundos": 41,
+      "performance": 1,
+      "accessibility": 48,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.8,
+      "accessibility": 0.66,
+      "bestPractices": 0.67,
+      "seo": 0.82,
+      "total": 295
+    },
+    "firstContentfulPaint": 2026.42,
+    "firstMeaningfulPaint": 4119.1675,
+    "speedIndex": 3814.7148211671615,
+    "largestContentfulPaint": 4558.852499999999,
+    "totalBlockingTime": 76.5,
+    "cumulativeLayoutShift": 0.0035146799564084435,
+    "timeToInteractive": 7863.389999999997,
+    "maxPotentialFirstInputDelay": 92,
+    "timeToFirstByte": 10.252000000000002,
+    "weight": {
+      "summary": "71 requests • 2,0 MiB",
+      "total": 2078089,
+      "image": 1277309,
+      "imageCount": 38,
+      "script": 470396,
+      "scriptCount": 21,
+      "document": 21695,
+      "font": 195265,
+      "fontCount": 7,
+      "stylesheet": 112825,
+      "stylesheetCount": 3,
+      "thirdParty": 93527,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 13,
+      "-weight.document": 22,
+      "+weight.document": 28,
+      "-weight.script": 32,
+      "+weight.script": 13,
+      "-weight.image": 37,
+      "+weight.image": 13,
+      "-weight.font": 40,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 746,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/interview-de-philippe-brassac-les-tres-bons-resultats-du-modele-de-banque-universelle-du-groupe",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/interview-de-philippe-brassac-les-tres-bons-resultats-du-modele-de-banque-universelle-du-groupe",
+    "timestamp": 1707581944336,
+    "ranks": {
+      "hundos": 42,
+      "performance": 44,
+      "accessibility": 39,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.73,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 290
+    },
+    "firstContentfulPaint": 2058.482,
+    "firstMeaningfulPaint": 3892.5375,
+    "speedIndex": 6765.32009812139,
+    "largestContentfulPaint": 3823.5525000000002,
+    "totalBlockingTime": 571,
+    "cumulativeLayoutShift": 0.02127531576163809,
+    "timeToInteractive": 14437.260499999997,
+    "maxPotentialFirstInputDelay": 335,
+    "timeToFirstByte": 10.128,
+    "weight": {
+      "summary": "104 requests • 1,9 MiB",
+      "total": 2003168,
+      "image": 604871,
+      "imageCount": 26,
+      "script": 1062900,
+      "scriptCount": 39,
+      "document": 25763,
+      "font": 168456,
+      "fontCount": 6,
+      "stylesheet": 134392,
+      "stylesheetCount": 11,
+      "thirdParty": 780867,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 15,
+      "-weight.document": 42,
+      "+weight.document": 8,
+      "-weight.script": 41,
+      "+weight.script": 4,
+      "-weight.image": 20,
+      "+weight.image": 30,
+      "-weight.font": 7,
+      "+weight.font": 38,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 851,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/en/news-channels/the-channels/newsflash/philippe-brassac-discusses-the-results-for-the-full-year-and-fourth-quarter-of-2023-as-well-as-the-universal-banking-model",
+    "requestedUrl": "https://www.credit-agricole.com/en/news-channels/the-channels/newsflash/philippe-brassac-discusses-the-results-for-the-full-year-and-fourth-quarter-of-2023-as-well-as-the-universal-banking-model",
+    "timestamp": 1707583240959,
+    "ranks": {
+      "hundos": 43,
+      "performance": 46,
+      "accessibility": 42,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.73,
+      "bestPractices": 0.7,
+      "seo": 0.82,
+      "total": 284
+    },
+    "firstContentfulPaint": 2060.027,
+    "firstMeaningfulPaint": 3883.6815000000006,
+    "speedIndex": 5362.581708959171,
+    "largestContentfulPaint": 8160.592749999999,
+    "totalBlockingTime": 419.4999999999991,
+    "cumulativeLayoutShift": 0.02172654561885838,
+    "timeToInteractive": 13956.60550021362,
+    "maxPotentialFirstInputDelay": 188,
+    "timeToFirstByte": 9.68,
+    "weight": {
+      "summary": "104 requests • 1,9 MiB",
+      "total": 1983097,
+      "image": 585313,
+      "imageCount": 26,
+      "script": 1063382,
+      "scriptCount": 39,
+      "document": 24716,
+      "font": 168416,
+      "fontCount": 6,
+      "stylesheet": 134424,
+      "stylesheetCount": 11,
+      "thirdParty": 759530,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 18,
+      "-weight.document": 37,
+      "+weight.document": 13,
+      "-weight.script": 43,
+      "+weight.script": 2,
+      "-weight.image": 18,
+      "+weight.image": 32,
+      "-weight.font": 6,
+      "+weight.font": 39,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 841,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/",
+    "requestedUrl": "https://www.credit-agricole.com/",
+    "timestamp": 1707582862274,
+    "ranks": {
+      "hundos": 44,
+      "performance": 49,
+      "accessibility": 23,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.46,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 283
+    },
+    "firstContentfulPaint": 2031.3460000000002,
+    "firstMeaningfulPaint": 3984.26825,
+    "speedIndex": 3951.708830414207,
+    "largestContentfulPaint": 11633.020499999997,
+    "totalBlockingTime": 127,
+    "cumulativeLayoutShift": 0.894687401987765,
+    "timeToInteractive": 8457.478749999998,
+    "maxPotentialFirstInputDelay": 102,
+    "timeToFirstByte": 8.396999999999991,
+    "weight": {
+      "summary": "52 requests • 1,5 MiB",
+      "total": 1622277,
+      "image": 827792,
+      "imageCount": 21,
+      "script": 471600,
+      "scriptCount": 19,
+      "document": 19916,
+      "font": 189544,
+      "fontCount": 7,
+      "stylesheet": 112826,
+      "stylesheetCount": 3,
+      "thirdParty": 93525,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 24,
+      "-weight.document": 6,
+      "+weight.document": 44,
+      "-weight.script": 38,
+      "+weight.script": 7,
+      "-weight.image": 28,
+      "+weight.image": 22,
+      "-weight.font": 33,
+      "+weight.font": 12,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 774,
+      "violations": 42
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/interview-video-de-jerome-grivet-resultats-du-3e-trimestre-et-des-9-premiers-mois-de-l-annee-2023",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/interview-video-de-jerome-grivet-resultats-du-3e-trimestre-et-des-9-premiers-mois-de-l-annee-2023",
+    "timestamp": 1707582669663,
+    "ranks": {
+      "hundos": 46,
+      "performance": 47,
+      "accessibility": 40,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.73,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 279
+    },
+    "firstContentfulPaint": 2037.8059999999998,
+    "firstMeaningfulPaint": 3933.118,
+    "speedIndex": 5728.966745519358,
+    "largestContentfulPaint": 8359.314000000002,
+    "totalBlockingTime": 539,
+    "cumulativeLayoutShift": 0.0024651906911280453,
+    "timeToInteractive": 14613.36118045044,
+    "maxPotentialFirstInputDelay": 171,
+    "timeToFirstByte": 8.518999999999998,
+    "weight": {
+      "summary": "104 requests • 1,9 MiB",
+      "total": 1983086,
+      "image": 582080,
+      "imageCount": 26,
+      "script": 1063322,
+      "scriptCount": 39,
+      "document": 25852,
+      "font": 168512,
+      "fontCount": 6,
+      "stylesheet": 134531,
+      "stylesheetCount": 11,
+      "thirdParty": 767914,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 19,
+      "-weight.document": 43,
+      "+weight.document": 7,
+      "-weight.script": 42,
+      "+weight.script": 3,
+      "-weight.image": 17,
+      "+weight.image": 33,
+      "-weight.font": 8,
+      "+weight.font": 37,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 851,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/hashtags?page=3",
+    "requestedUrl": "https://www.credit-agricole.com/hashtags?page=3",
+    "timestamp": 1707582746881,
+    "ranks": {
+      "hundos": 45,
+      "performance": 26,
+      "accessibility": 46,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.68,
+      "bestPractices": 0.67,
+      "seo": 0.73,
+      "total": 279
+    },
+    "firstContentfulPaint": 2253.0005,
+    "firstMeaningfulPaint": 3272.0829999999996,
+    "speedIndex": 3807.3424522545433,
+    "largestContentfulPaint": 9042.251,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.04571367461327644,
+    "timeToInteractive": 7144.593,
+    "maxPotentialFirstInputDelay": 96,
+    "timeToFirstByte": 381.45399999999995,
+    "weight": {
+      "summary": "46 requests • 1,5 MiB",
+      "total": 1532127,
+      "image": 791202,
+      "imageCount": 20,
+      "script": 439503,
+      "scriptCount": 16,
+      "document": 19566,
+      "font": 169030,
+      "fontCount": 6,
+      "stylesheet": 112826,
+      "stylesheetCount": 3,
+      "thirdParty": 71395,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 27,
+      "-weight.document": 4,
+      "+weight.document": 46,
+      "-weight.script": 1,
+      "+weight.script": 44,
+      "-weight.image": 27,
+      "+weight.image": 23,
+      "-weight.font": 15,
+      "+weight.font": 30,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 1745,
+      "violations": 148
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/interview-video-de-jerome-grivet-resultats-du-2e-trimestre-et-du-1er-semestre-2023",
+    "requestedUrl": "https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/interview-video-de-jerome-grivet-resultats-du-2e-trimestre-et-du-1er-semestre-2023",
+    "timestamp": 1707582297942,
+    "ranks": {
+      "hundos": 47,
+      "performance": 48,
+      "accessibility": 41,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.73,
+      "bestPractices": 0.7,
+      "seo": 0.81,
+      "total": 277
+    },
+    "firstContentfulPaint": 2050.535,
+    "firstMeaningfulPaint": 3956.1549999999997,
+    "speedIndex": 6583.964168462251,
+    "largestContentfulPaint": 8420.891250000002,
+    "totalBlockingTime": 574,
+    "cumulativeLayoutShift": 0.0034805653738104667,
+    "timeToInteractive": 14205.942685272219,
+    "maxPotentialFirstInputDelay": 170,
+    "timeToFirstByte": 9.647999999999996,
+    "weight": {
+      "summary": "104 requests • 1,9 MiB",
+      "total": 1994735,
+      "image": 595466,
+      "imageCount": 26,
+      "script": 1063566,
+      "scriptCount": 39,
+      "document": 25721,
+      "font": 168335,
+      "fontCount": 6,
+      "stylesheet": 134524,
+      "stylesheetCount": 11,
+      "thirdParty": 767111,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 16,
+      "-weight.document": 41,
+      "+weight.document": 9,
+      "-weight.script": 44,
+      "+weight.script": 1,
+      "-weight.image": 19,
+      "+weight.image": 31,
+      "-weight.font": 5,
+      "+weight.font": 40,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 47,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 851,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/hashtags?page=2",
+    "requestedUrl": "https://www.credit-agricole.com/hashtags?page=2",
+    "timestamp": 1707582737409,
+    "ranks": {
+      "hundos": 48,
+      "performance": 43,
+      "accessibility": 47,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.68,
+      "bestPractices": 0.67,
+      "seo": 0.73,
+      "total": 275
+    },
+    "firstContentfulPaint": 2209.272,
+    "firstMeaningfulPaint": 2721.9454999999994,
+    "speedIndex": 6626.362121005583,
+    "largestContentfulPaint": 8757.739499999998,
+    "totalBlockingTime": 61.5,
+    "cumulativeLayoutShift": 0.024731862964244462,
+    "timeToInteractive": 6991.1402499999995,
+    "maxPotentialFirstInputDelay": 107,
+    "timeToFirstByte": 443.108,
+    "weight": {
+      "summary": "51 requests • 1,5 MiB",
+      "total": 1611927,
+      "image": 869793,
+      "imageCount": 25,
+      "script": 439799,
+      "scriptCount": 16,
+      "document": 20402,
+      "font": 169109,
+      "fontCount": 6,
+      "stylesheet": 112824,
+      "stylesheetCount": 3,
+      "thirdParty": 71692,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 25,
+      "-weight.document": 11,
+      "+weight.document": 39,
+      "-weight.script": 2,
+      "+weight.script": 43,
+      "-weight.image": 32,
+      "+weight.image": 18,
+      "-weight.font": 22,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1865,
+      "violations": 149
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/finance/blocs-finance/chiffres-cles-credit-agricole-s.a",
+    "requestedUrl": "https://www.credit-agricole.com/finance/blocs-finance/chiffres-cles-credit-agricole-s.a",
+    "timestamp": 1707582543981,
+    "ranks": {
+      "hundos": 49,
+      "performance": 23,
+      "accessibility": 49,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": null,
+      "bestPractices": 0.67,
+      "seo": 0.89,
+      "total": 227
+    },
+    "firstContentfulPaint": 2211.1440000000002,
+    "firstMeaningfulPaint": 4121.2880000000005,
+    "speedIndex": 3663.154999540138,
+    "largestContentfulPaint": 10486.431999999999,
+    "totalBlockingTime": 79,
+    "cumulativeLayoutShift": 0.000042625310924677626,
+    "timeToInteractive": 8161.254000000001,
+    "maxPotentialFirstInputDelay": 94,
+    "timeToFirstByte": 9.623000000000005,
+    "weight": {
+      "summary": "58 requests • 4,2 MiB",
+      "total": 4397488,
+      "image": 3605710,
+      "imageCount": 27,
+      "script": 467107,
+      "scriptCount": 19,
+      "document": 21744,
+      "font": 189505,
+      "fontCount": 7,
+      "stylesheet": 112823,
+      "stylesheetCount": 3,
+      "thirdParty": 93232,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 4,
+      "-weight.document": 23,
+      "+weight.document": 27,
+      "-weight.script": 16,
+      "+weight.script": 29,
+      "-weight.image": 46,
+      "+weight.image": 4,
+      "-weight.font": 31,
+      "+weight.font": 14,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 922,
+      "violations": 22
+    }
+  }
+]

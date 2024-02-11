@@ -1,0 +1,3206 @@
+[
+  {
+    "url": "https://www.airbus.com/en/newsroom/stories/2020-01-aconcagua-paying-tribute-to-the-mountain-gods-in-the-h145",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/stories/2020-01-aconcagua-paying-tribute-to-the-mountain-gods-in-the-h145",
+    "timestamp": 1707647723649,
+    "ranks": {
+      "hundos": 1,
+      "performance": 1,
+      "accessibility": 8,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.93,
+      "accessibility": 0.89,
+      "bestPractices": 0.78,
+      "seo": 0.89,
+      "total": 354
+    },
+    "firstContentfulPaint": 2103.46,
+    "firstMeaningfulPaint": 2178.46,
+    "speedIndex": 3163.4330552839897,
+    "largestContentfulPaint": 2254.4845,
+    "totalBlockingTime": 191.5,
+    "cumulativeLayoutShift": 0.004817535830422739,
+    "timeToInteractive": 6584.527499999999,
+    "maxPotentialFirstInputDelay": 214,
+    "timeToFirstByte": 16.426,
+    "weight": {
+      "summary": "43 requests • 479,6 KiB",
+      "total": 491093,
+      "image": 21269,
+      "imageCount": 16,
+      "script": 379441,
+      "scriptCount": 13,
+      "document": 46194,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 10637,
+      "stylesheetCount": 3,
+      "thirdParty": 395862,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 3,
+      "-weight.document": 45,
+      "+weight.document": 5,
+      "-weight.script": 17,
+      "+weight.script": 33,
+      "-weight.image": 21,
+      "+weight.image": 3,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1173,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/who-we-are/our-history/commercial-aircraft-history/the-family-grows-1988-1991",
+    "requestedUrl": "https://www.airbus.com/en/who-we-are/our-history/commercial-aircraft-history/the-family-grows-1988-1991",
+    "timestamp": 1707648048644,
+    "ranks": {
+      "hundos": 5,
+      "performance": 13,
+      "accessibility": 3,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.86,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 341
+    },
+    "firstContentfulPaint": 2303.9545,
+    "firstMeaningfulPaint": 2303.9545,
+    "speedIndex": 3217.3831582720663,
+    "largestContentfulPaint": 3282.522,
+    "totalBlockingTime": 216,
+    "cumulativeLayoutShift": 0.015011785381498551,
+    "timeToInteractive": 6492.4985,
+    "maxPotentialFirstInputDelay": 220,
+    "timeToFirstByte": 12.724,
+    "weight": {
+      "summary": "34 requests • 455,5 KiB",
+      "total": 466424,
+      "image": 9623,
+      "imageCount": 7,
+      "script": 379445,
+      "scriptCount": 13,
+      "document": 43551,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 395937,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 24,
+      "-weight.document": 38,
+      "+weight.document": 12,
+      "-weight.script": 18,
+      "+weight.script": 32,
+      "-weight.image": 11,
+      "+weight.image": 13,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 1085,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/who-we-are/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom/airbus-uk-pension-schedule-5",
+    "requestedUrl": "https://www.airbus.com/en/who-we-are/our-worldwide-presence/airbus-in-europe/airbus-in-the-united-kingdom/airbus-uk-pension-schedule-5",
+    "timestamp": 1707647154168,
+    "ranks": {
+      "hundos": 8,
+      "performance": 14,
+      "accessibility": 6,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.86,
+      "accessibility": 0.89,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 339
+    },
+    "firstContentfulPaint": 2248.6375,
+    "firstMeaningfulPaint": 2248.6375,
+    "speedIndex": 3246.053111529108,
+    "largestContentfulPaint": 3240.3020000000006,
+    "totalBlockingTime": 213.5,
+    "cumulativeLayoutShift": 0.007777902562835516,
+    "timeToInteractive": 6349.424,
+    "maxPotentialFirstInputDelay": 228,
+    "timeToFirstByte": 50.333,
+    "weight": {
+      "summary": "35 requests • 452,6 KiB",
+      "total": 463415,
+      "image": 9689,
+      "imageCount": 7,
+      "script": 379206,
+      "scriptCount": 13,
+      "document": 40749,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 4,
+      "thirdParty": 395860,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 47,
+      "-weight.document": 11,
+      "+weight.document": 39,
+      "-weight.script": 10,
+      "+weight.script": 40,
+      "-weight.image": 16,
+      "+weight.image": 8,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 922,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/stories/2020-11-discovery-space-learning-guides-for-kids",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/stories/2020-11-discovery-space-learning-guides-for-kids",
+    "timestamp": 1707648150292,
+    "ranks": {
+      "hundos": 7,
+      "performance": 20,
+      "accessibility": 5,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.84,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 339
+    },
+    "firstContentfulPaint": 2310.218,
+    "firstMeaningfulPaint": 2310.218,
+    "speedIndex": 3212.5827758150654,
+    "largestContentfulPaint": 3373.9665,
+    "totalBlockingTime": 225,
+    "cumulativeLayoutShift": 0.004845463574367218,
+    "timeToInteractive": 6453.959000000001,
+    "maxPotentialFirstInputDelay": 229,
+    "timeToFirstByte": 13.823,
+    "weight": {
+      "summary": "35 requests • 454,5 KiB",
+      "total": 465381,
+      "image": 9623,
+      "imageCount": 7,
+      "script": 379563,
+      "scriptCount": 13,
+      "document": 42186,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 396134,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 32,
+      "-weight.document": 26,
+      "+weight.document": 24,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 11,
+      "+weight.image": 13,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 1022,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/careers/airbus-faces/meet-shereen-lee",
+    "requestedUrl": "https://www.airbus.com/en/careers/airbus-faces/meet-shereen-lee",
+    "timestamp": 1707647221398,
+    "ranks": {
+      "hundos": 11,
+      "performance": 24,
+      "accessibility": 4,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.83,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 338
+    },
+    "firstContentfulPaint": 2245.4085000000005,
+    "firstMeaningfulPaint": 2245.4085000000005,
+    "speedIndex": 3333.7988870355034,
+    "largestContentfulPaint": 3232.9645,
+    "totalBlockingTime": 296.5,
+    "cumulativeLayoutShift": 0.008827294984389389,
+    "timeToInteractive": 7016.1225,
+    "maxPotentialFirstInputDelay": 201,
+    "timeToFirstByte": 28.599,
+    "weight": {
+      "summary": "36 requests • 452,9 KiB",
+      "total": 463729,
+      "image": 9636,
+      "imageCount": 7,
+      "script": 378986,
+      "scriptCount": 13,
+      "document": 40926,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396281,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 46,
+      "-weight.document": 12,
+      "+weight.document": 38,
+      "-weight.script": 6,
+      "+weight.script": 44,
+      "-weight.image": 14,
+      "+weight.image": 10,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 880,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/who-we-are/company-history/commercial-aircraft-history/previous-generation-aircraft/a300-600/a300-600f",
+    "requestedUrl": "https://www.airbus.com/en/who-we-are/company-history/commercial-aircraft-history/previous-generation-aircraft/a300-600/a300-600f",
+    "timestamp": 1707647640889,
+    "ranks": {
+      "hundos": 9,
+      "performance": 5,
+      "accessibility": 9,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.89,
+      "accessibility": 0.85,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 338
+    },
+    "firstContentfulPaint": 1758.45,
+    "firstMeaningfulPaint": 1758.45,
+    "speedIndex": 2592.0261126784594,
+    "largestContentfulPaint": 3004.1394999999998,
+    "totalBlockingTime": 226,
+    "cumulativeLayoutShift": 0.008280137463219605,
+    "timeToInteractive": 5853.0875,
+    "maxPotentialFirstInputDelay": 243,
+    "timeToFirstByte": 12.767000000000001,
+    "weight": {
+      "summary": "34 requests • 456,3 KiB",
+      "total": 467296,
+      "image": 9599,
+      "imageCount": 7,
+      "script": 379233,
+      "scriptCount": 13,
+      "document": 44710,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 395873,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 21,
+      "-weight.document": 42,
+      "+weight.document": 8,
+      "-weight.script": 12,
+      "+weight.script": 38,
+      "-weight.image": 7,
+      "+weight.image": 17,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 1506,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/our-worldwide-presence/airbus-in-americas/airbus-in-brazil",
+    "requestedUrl": "https://www.airbus.com/en/our-worldwide-presence/airbus-in-americas/airbus-in-brazil",
+    "timestamp": 1707648099480,
+    "ranks": {
+      "hundos": 19,
+      "performance": 32,
+      "accessibility": 2,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.8,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 335
+    },
+    "firstContentfulPaint": 2248.268,
+    "firstMeaningfulPaint": 2248.268,
+    "speedIndex": 2768.482601108253,
+    "largestContentfulPaint": 3285.7122500000005,
+    "totalBlockingTime": 419,
+    "cumulativeLayoutShift": 0.008932432754413055,
+    "timeToInteractive": 6572.789499999999,
+    "maxPotentialFirstInputDelay": 422,
+    "timeToFirstByte": 14.303,
+    "weight": {
+      "summary": "35 requests • 460,3 KiB",
+      "total": 471351,
+      "image": 9595,
+      "imageCount": 7,
+      "script": 379215,
+      "scriptCount": 13,
+      "document": 48521,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396140,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 16,
+      "-weight.document": 47,
+      "+weight.document": 3,
+      "-weight.script": 11,
+      "+weight.script": 39,
+      "-weight.image": 6,
+      "+weight.image": 18,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 1156,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/products-services/helicopters/civil-helicopters",
+    "requestedUrl": "https://www.airbus.com/en/products-services/helicopters/civil-helicopters",
+    "timestamp": 1707647585750,
+    "ranks": {
+      "hundos": 31,
+      "performance": 38,
+      "accessibility": 1,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.76,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 331
+    },
+    "firstContentfulPaint": 2229.1,
+    "firstMeaningfulPaint": 2229.1,
+    "speedIndex": 3145.686282933947,
+    "largestContentfulPaint": 3278.3525,
+    "totalBlockingTime": 537,
+    "cumulativeLayoutShift": 0.006089411835894249,
+    "timeToInteractive": 7187.815,
+    "maxPotentialFirstInputDelay": 409,
+    "timeToFirstByte": 12.915000000000001,
+    "weight": {
+      "summary": "35 requests • 456,9 KiB",
+      "total": 467907,
+      "image": 9623,
+      "imageCount": 7,
+      "script": 378788,
+      "scriptCount": 13,
+      "document": 45545,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396065,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 20,
+      "-weight.document": 44,
+      "+weight.document": 6,
+      "-weight.script": 4,
+      "+weight.script": 46,
+      "-weight.image": 11,
+      "+weight.image": 13,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 1264,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/safety/safety-in-operations/helicopters-safety-in-operations",
+    "requestedUrl": "https://www.airbus.com/en/safety/safety-in-operations/helicopters-safety-in-operations",
+    "timestamp": 1707647098764,
+    "ranks": {
+      "hundos": 32,
+      "performance": 37,
+      "accessibility": 7,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.77,
+      "accessibility": 0.89,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 330
+    },
+    "firstContentfulPaint": 1771.7650000000003,
+    "firstMeaningfulPaint": 1771.7650000000003,
+    "speedIndex": 3272.61418552866,
+    "largestContentfulPaint": 3451.8660000000004,
+    "totalBlockingTime": 477.5,
+    "cumulativeLayoutShift": 0.002448617337681879,
+    "timeToInteractive": 7145.367,
+    "maxPotentialFirstInputDelay": 419,
+    "timeToFirstByte": 23.249,
+    "weight": {
+      "summary": "43 requests • 544,6 KiB",
+      "total": 557654,
+      "image": 92271,
+      "imageCount": 15,
+      "script": 379758,
+      "scriptCount": 13,
+      "document": 51697,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396049,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 2,
+      "-weight.document": 49,
+      "+weight.document": 1,
+      "-weight.script": 29,
+      "+weight.script": 21,
+      "-weight.image": 22,
+      "+weight.image": 2,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 1716,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/products-services/helicopters/helicopters-employee-profiles/employee-profiles-paris-le-bourget",
+    "requestedUrl": "https://www.airbus.com/en/products-services/helicopters/helicopters-employee-profiles/employee-profiles-paris-le-bourget",
+    "timestamp": 1707647204898,
+    "ranks": {
+      "hundos": 35,
+      "performance": 36,
+      "accessibility": 10,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.79,
+      "accessibility": 0.85,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 328
+    },
+    "firstContentfulPaint": 2261.8235000000004,
+    "firstMeaningfulPaint": 2261.8235000000004,
+    "speedIndex": 3228.3002530615495,
+    "largestContentfulPaint": 3243.24425,
+    "totalBlockingTime": 415,
+    "cumulativeLayoutShift": 0.008767833741386562,
+    "timeToInteractive": 6586.8414999999995,
+    "maxPotentialFirstInputDelay": 428,
+    "timeToFirstByte": 35.550999999999995,
+    "weight": {
+      "summary": "35 requests • 453,0 KiB",
+      "total": 463912,
+      "image": 8855,
+      "imageCount": 7,
+      "script": 379142,
+      "scriptCount": 13,
+      "document": 41888,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 396142,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 45,
+      "-weight.document": 20,
+      "+weight.document": 30,
+      "-weight.script": 9,
+      "+weight.script": 41,
+      "-weight.image": 3,
+      "+weight.image": 21,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1010,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2019-05-students-explore-new-horizons-in-the-moon-camp-challenge",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2019-05-students-explore-new-horizons-in-the-moon-camp-challenge",
+    "timestamp": 1707648285238,
+    "ranks": {
+      "hundos": 2,
+      "performance": 4,
+      "accessibility": 16,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.9,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 345
+    },
+    "firstContentfulPaint": 1690.3424999999997,
+    "firstMeaningfulPaint": 1690.3424999999997,
+    "speedIndex": 3032.8825849346395,
+    "largestContentfulPaint": 2954.8064999999997,
+    "totalBlockingTime": 217.5,
+    "cumulativeLayoutShift": 0.010030809660259477,
+    "timeToInteractive": 5882.869,
+    "maxPotentialFirstInputDelay": 232,
+    "timeToFirstByte": 105.789,
+    "weight": {
+      "summary": "34 requests • 452,5 KiB",
+      "total": 463380,
+      "image": 8891,
+      "imageCount": 7,
+      "script": 378943,
+      "scriptCount": 13,
+      "document": 41668,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 396023,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 48,
+      "-weight.document": 16,
+      "+weight.document": 34,
+      "-weight.script": 5,
+      "+weight.script": 45,
+      "-weight.image": 4,
+      "+weight.image": 20,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 959,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2016-11-fencer-and-engineer-astrid-guyart",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2016-11-fencer-and-engineer-astrid-guyart",
+    "timestamp": 1707647355704,
+    "ranks": {
+      "hundos": 3,
+      "performance": 7,
+      "accessibility": 14,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.88,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 343
+    },
+    "firstContentfulPaint": 1720.0159999999996,
+    "firstMeaningfulPaint": 1720.0159999999996,
+    "speedIndex": 3020.6758430976424,
+    "largestContentfulPaint": 2984.1929999999993,
+    "totalBlockingTime": 264.5,
+    "cumulativeLayoutShift": 0.012725930749524066,
+    "timeToInteractive": 6528.996499999999,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 50.974,
+    "weight": {
+      "summary": "36 requests • 455,1 KiB",
+      "total": 466048,
+      "image": 9635,
+      "imageCount": 7,
+      "script": 379484,
+      "scriptCount": 13,
+      "document": 42742,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 396285,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 30,
+      "-weight.document": 33,
+      "+weight.document": 17,
+      "-weight.script": 20,
+      "+weight.script": 30,
+      "-weight.image": 13,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 997,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2020-05-digital-transformation-becomes-mainstream-airbus-digital-teams-join",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2020-05-digital-transformation-becomes-mainstream-airbus-digital-teams-join",
+    "timestamp": 1707647873014,
+    "ranks": {
+      "hundos": 4,
+      "performance": 9,
+      "accessibility": 18,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.87,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 342
+    },
+    "firstContentfulPaint": 2205.6949999999997,
+    "firstMeaningfulPaint": 2205.6949999999997,
+    "speedIndex": 2986.433138699963,
+    "largestContentfulPaint": 3193.4105,
+    "totalBlockingTime": 200.99999999999977,
+    "cumulativeLayoutShift": 0.010030809660259477,
+    "timeToInteractive": 6304.949999999999,
+    "maxPotentialFirstInputDelay": 214.99999999999977,
+    "timeToFirstByte": 13.136,
+    "weight": {
+      "summary": "34 requests • 452,2 KiB",
+      "total": 463069,
+      "image": 9599,
+      "imageCount": 7,
+      "script": 378466,
+      "scriptCount": 13,
+      "document": 41251,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 395884,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 49,
+      "-weight.document": 14,
+      "+weight.document": 36,
+      "-weight.script": 1,
+      "+weight.script": 49,
+      "-weight.image": 7,
+      "+weight.image": 17,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 940,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-01-the-french-defence-procurement-agency-orders-six-additional-nh90s",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-01-the-french-defence-procurement-agency-orders-six-additional-nh90s",
+    "timestamp": 1707648302364,
+    "ranks": {
+      "hundos": 6,
+      "performance": 11,
+      "accessibility": 42,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.87,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 340
+    },
+    "firstContentfulPaint": 1720.2835000000002,
+    "firstMeaningfulPaint": 1720.2835000000002,
+    "speedIndex": 3138.837998281583,
+    "largestContentfulPaint": 3074.453,
+    "totalBlockingTime": 266.5,
+    "cumulativeLayoutShift": 0.013446638108734114,
+    "timeToInteractive": 6663.718999999999,
+    "maxPotentialFirstInputDelay": 220,
+    "timeToFirstByte": 52.044000000000004,
+    "weight": {
+      "summary": "35 requests • 474,5 KiB",
+      "total": 485931,
+      "image": 9689,
+      "imageCount": 7,
+      "script": 399962,
+      "scriptCount": 13,
+      "document": 42191,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 309,
+      "stylesheetCount": 3,
+      "thirdParty": 396102,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 4,
+      "-weight.document": 27,
+      "+weight.document": 23,
+      "-weight.script": 40,
+      "+weight.script": 10,
+      "-weight.image": 16,
+      "+weight.image": 8,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 959,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-12-firstukmftsarriveinbritain",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-12-firstukmftsarriveinbritain",
+    "timestamp": 1707647500426,
+    "ranks": {
+      "hundos": 18,
+      "performance": 12,
+      "accessibility": 35,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.86,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 335
+    },
+    "firstContentfulPaint": 2216.2119999999995,
+    "firstMeaningfulPaint": 2216.2119999999995,
+    "speedIndex": 3080.184760008943,
+    "largestContentfulPaint": 3262.567,
+    "totalBlockingTime": 224.5,
+    "cumulativeLayoutShift": 0.010661138926192382,
+    "timeToInteractive": 6379.482499999998,
+    "maxPotentialFirstInputDelay": 224,
+    "timeToFirstByte": 49.098,
+    "weight": {
+      "summary": "34 requests • 455,2 KiB",
+      "total": 466123,
+      "image": 8967,
+      "imageCount": 7,
+      "script": 379560,
+      "scriptCount": 13,
+      "document": 43805,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 395930,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 29,
+      "-weight.document": 40,
+      "+weight.document": 10,
+      "-weight.script": 23,
+      "+weight.script": 27,
+      "-weight.image": 5,
+      "+weight.image": 19,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 1160,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2017-02-airbus-awarded-contract-to-retrofit-26-bundeswehr-ch-53-helicopters",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2017-02-airbus-awarded-contract-to-retrofit-26-bundeswehr-ch-53-helicopters",
+    "timestamp": 1707648369658,
+    "ranks": {
+      "hundos": 10,
+      "performance": 19,
+      "accessibility": 28,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.85,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 338
+    },
+    "firstContentfulPaint": 2310.2975,
+    "firstMeaningfulPaint": 2310.2975,
+    "speedIndex": 3350.628211543501,
+    "largestContentfulPaint": 3293.9955,
+    "totalBlockingTime": 221,
+    "cumulativeLayoutShift": 0.010709804053341614,
+    "timeToInteractive": 6424.5785000000005,
+    "maxPotentialFirstInputDelay": 231,
+    "timeToFirstByte": 53.822,
+    "weight": {
+      "summary": "34 requests • 473,0 KiB",
+      "total": 484376,
+      "image": 9631,
+      "imageCount": 7,
+      "script": 398642,
+      "scriptCount": 13,
+      "document": 42176,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 309,
+      "stylesheetCount": 3,
+      "thirdParty": 395931,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 6,
+      "-weight.document": 25,
+      "+weight.document": 25,
+      "-weight.script": 38,
+      "+weight.script": 12,
+      "-weight.image": 12,
+      "+weight.image": 12,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 1034,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/stories/2021-10-world-food-day-airbus-h125-helps-protect-east-african-crops-from-desert",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/stories/2021-10-world-food-day-airbus-h125-helps-protect-east-african-crops-from-desert",
+    "timestamp": 1707648184431,
+    "ranks": {
+      "hundos": 14,
+      "performance": 21,
+      "accessibility": 22,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.83,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 336
+    },
+    "firstContentfulPaint": 1720.5845000000002,
+    "firstMeaningfulPaint": 1720.5845000000002,
+    "speedIndex": 2329.0120046812526,
+    "largestContentfulPaint": 2937.7205,
+    "totalBlockingTime": 426.5,
+    "cumulativeLayoutShift": 0.009258256433765316,
+    "timeToInteractive": 6040.562,
+    "maxPotentialFirstInputDelay": 445,
+    "timeToFirstByte": 7.151,
+    "weight": {
+      "summary": "34 requests • 459,0 KiB",
+      "total": 470046,
+      "image": 9601,
+      "imageCount": 7,
+      "script": 379354,
+      "scriptCount": 13,
+      "document": 47339,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 395851,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 17,
+      "-weight.document": 46,
+      "+weight.document": 4,
+      "-weight.script": 14,
+      "+weight.script": 36,
+      "-weight.image": 9,
+      "+weight.image": 15,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 1232,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-10-airbus-group-appoints-francois-auque-and-thomas-dhalluin-to-lead",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-10-airbus-group-appoints-francois-auque-and-thomas-dhalluin-to-lead",
+    "timestamp": 1707648353016,
+    "ranks": {
+      "hundos": 15,
+      "performance": 23,
+      "accessibility": 39,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.83,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 336
+    },
+    "firstContentfulPaint": 1722.8909999999998,
+    "firstMeaningfulPaint": 1722.8909999999998,
+    "speedIndex": 2767.1149029943435,
+    "largestContentfulPaint": 2939.339,
+    "totalBlockingTime": 421.5,
+    "cumulativeLayoutShift": 0.01001690533821684,
+    "timeToInteractive": 6040.2025,
+    "maxPotentialFirstInputDelay": 439,
+    "timeToFirstByte": 51.124,
+    "weight": {
+      "summary": "34 requests • 454,4 KiB",
+      "total": 465255,
+      "image": 9690,
+      "imageCount": 7,
+      "script": 379389,
+      "scriptCount": 13,
+      "document": 42346,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 395972,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 34,
+      "-weight.document": 29,
+      "+weight.document": 21,
+      "-weight.script": 15,
+      "+weight.script": 35,
+      "-weight.image": 17,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 1052,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-05-airbus-helicopters-to-retrofit-the-securite-civiles-35-ec145",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-05-airbus-helicopters-to-retrofit-the-securite-civiles-35-ec145",
+    "timestamp": 1707647467048,
+    "ranks": {
+      "hundos": 16,
+      "performance": 22,
+      "accessibility": 41,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.83,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 336
+    },
+    "firstContentfulPaint": 1730.3600000000004,
+    "firstMeaningfulPaint": 1730.3600000000004,
+    "speedIndex": 2746.3637100552933,
+    "largestContentfulPaint": 2953.4160000000006,
+    "totalBlockingTime": 413.5,
+    "cumulativeLayoutShift": 0.009989096694131564,
+    "timeToInteractive": 6048.409500000001,
+    "maxPotentialFirstInputDelay": 432,
+    "timeToFirstByte": 63.873000000000005,
+    "weight": {
+      "summary": "34 requests • 454,1 KiB",
+      "total": 464981,
+      "image": 9690,
+      "imageCount": 7,
+      "script": 379093,
+      "scriptCount": 13,
+      "document": 42435,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 395853,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 40,
+      "-weight.document": 32,
+      "+weight.document": 18,
+      "-weight.script": 8,
+      "+weight.script": 42,
+      "-weight.image": 17,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 971,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en",
+    "requestedUrl": "https://www.airbus.com/en",
+    "timestamp": 1707647088911,
+    "ranks": {
+      "hundos": 13,
+      "performance": 25,
+      "accessibility": 49,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.83,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 336
+    },
+    "firstContentfulPaint": 2633.6245,
+    "firstMeaningfulPaint": 2633.6245,
+    "speedIndex": 3371.1943750453484,
+    "largestContentfulPaint": 3804.9425,
+    "totalBlockingTime": 134,
+    "cumulativeLayoutShift": 0.008909741462458164,
+    "timeToInteractive": 6295.762500000001,
+    "maxPotentialFirstInputDelay": 156,
+    "timeToFirstByte": 13.877,
+    "weight": {
+      "summary": "41 requests • 689,8 KiB",
+      "total": 706323,
+      "image": 108308,
+      "imageCount": 11,
+      "script": 399840,
+      "scriptCount": 14,
+      "document": 48929,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 395864,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 1,
+      "-weight.document": 48,
+      "+weight.document": 2,
+      "-weight.script": 39,
+      "+weight.script": 11,
+      "-weight.image": 23,
+      "+weight.image": 1,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 49,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2017-07-successful-launch-of-german-technology-smallsat",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2017-07-successful-launch-of-german-technology-smallsat",
+    "timestamp": 1707648403846,
+    "ranks": {
+      "hundos": 12,
+      "performance": 2,
+      "accessibility": 17,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.9,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.78,
+      "total": 337
+    },
+    "firstContentfulPaint": 1722.2565,
+    "firstMeaningfulPaint": 1722.2565,
+    "speedIndex": 2848.6381516624097,
+    "largestContentfulPaint": 2940.1365,
+    "totalBlockingTime": 211,
+    "cumulativeLayoutShift": 0.010030809660259477,
+    "timeToInteractive": 5871.21,
+    "maxPotentialFirstInputDelay": 226,
+    "timeToFirstByte": 51.614999999999995,
+    "weight": {
+      "summary": "34 requests • 453,6 KiB",
+      "total": 464536,
+      "image": 9635,
+      "imageCount": 7,
+      "script": 379329,
+      "scriptCount": 13,
+      "document": 41742,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 395943,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 42,
+      "-weight.document": 17,
+      "+weight.document": 33,
+      "-weight.script": 13,
+      "+weight.script": 37,
+      "-weight.image": 13,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 950,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2017-01-the-a380-double-decker-helps-relieve-congestion-at-london-heathrow-airport",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2017-01-the-a380-double-decker-helps-relieve-congestion-at-london-heathrow-airport",
+    "timestamp": 1707648234738,
+    "ranks": {
+      "hundos": 17,
+      "performance": 3,
+      "accessibility": 31,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.9,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.78,
+      "total": 335
+    },
+    "firstContentfulPaint": 1721.194,
+    "firstMeaningfulPaint": 1721.194,
+    "speedIndex": 2877.5424807797,
+    "largestContentfulPaint": 2943.178,
+    "totalBlockingTime": 208.5,
+    "cumulativeLayoutShift": 0.010661138926192382,
+    "timeToInteractive": 5853.522499999999,
+    "maxPotentialFirstInputDelay": 225,
+    "timeToFirstByte": 45.022,
+    "weight": {
+      "summary": "34 requests • 455,3 KiB",
+      "total": 466254,
+      "image": 9690,
+      "imageCount": 7,
+      "script": 379794,
+      "scriptCount": 13,
+      "document": 42945,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 395913,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 27,
+      "-weight.document": 35,
+      "+weight.document": 15,
+      "-weight.script": 31,
+      "+weight.script": 19,
+      "-weight.image": 17,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 1009,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2017-04-airbus-built-satellites-support-disaster-charter-response-to-flooding-in-peru",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2017-04-airbus-built-satellites-support-disaster-charter-response-to-flooding-in-peru",
+    "timestamp": 1707647823031,
+    "ranks": {
+      "hundos": 24,
+      "performance": 28,
+      "accessibility": 40,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.82,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 333
+    },
+    "firstContentfulPaint": 2245.5830000000005,
+    "firstMeaningfulPaint": 2245.5830000000005,
+    "speedIndex": 3332.4742541848955,
+    "largestContentfulPaint": 3236.3295,
+    "totalBlockingTime": 316.5,
+    "cumulativeLayoutShift": 0.012074745000527205,
+    "timeToInteractive": 7041.8355,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 12.722,
+    "weight": {
+      "summary": "37 requests • 455,3 KiB",
+      "total": 466246,
+      "image": 9601,
+      "imageCount": 7,
+      "script": 378784,
+      "scriptCount": 13,
+      "document": 43676,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 396297,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 28,
+      "-weight.document": 39,
+      "+weight.document": 11,
+      "-weight.script": 3,
+      "+weight.script": 47,
+      "-weight.image": 9,
+      "+weight.image": 15,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 1015,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2017-07-a3-reshaping-aerospace",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2017-07-a3-reshaping-aerospace",
+    "timestamp": 1707648251493,
+    "ranks": {
+      "hundos": 21,
+      "performance": 30,
+      "accessibility": 34,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.81,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 334
+    },
+    "firstContentfulPaint": 1720.0434999999998,
+    "firstMeaningfulPaint": 1720.0434999999998,
+    "speedIndex": 2963.792446795049,
+    "largestContentfulPaint": 2938.3634999999995,
+    "totalBlockingTime": 486.5,
+    "cumulativeLayoutShift": 0.02004309268353204,
+    "timeToInteractive": 6733.781499999999,
+    "maxPotentialFirstInputDelay": 440,
+    "timeToFirstByte": 51.753,
+    "weight": {
+      "summary": "35 requests • 453,1 KiB",
+      "total": 463948,
+      "image": 9690,
+      "imageCount": 7,
+      "script": 379635,
+      "scriptCount": 13,
+      "document": 40633,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396102,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 44,
+      "-weight.document": 10,
+      "+weight.document": 40,
+      "-weight.script": 27,
+      "+weight.script": 23,
+      "-weight.image": 17,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 857,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-09-jetblue-becomes-launch-customer-of-airbus-scheduled-maintenance",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-09-jetblue-becomes-launch-customer-of-airbus-scheduled-maintenance",
+    "timestamp": 1707647483666,
+    "ranks": {
+      "hundos": 22,
+      "performance": 6,
+      "accessibility": 30,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.88,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.78,
+      "total": 333
+    },
+    "firstContentfulPaint": 1720.6205,
+    "firstMeaningfulPaint": 1720.6205,
+    "speedIndex": 2999.2653370756425,
+    "largestContentfulPaint": 2986.2255000000005,
+    "totalBlockingTime": 256.5,
+    "cumulativeLayoutShift": 0.012074745000527205,
+    "timeToInteractive": 6509.9755000000005,
+    "maxPotentialFirstInputDelay": 216,
+    "timeToFirstByte": 52.951,
+    "weight": {
+      "summary": "35 requests • 455,0 KiB",
+      "total": 465918,
+      "image": 9690,
+      "imageCount": 7,
+      "script": 379765,
+      "scriptCount": 13,
+      "document": 42410,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 339,
+      "stylesheetCount": 3,
+      "thirdParty": 396040,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 31,
+      "-weight.document": 30,
+      "+weight.document": 20,
+      "-weight.script": 30,
+      "+weight.script": 20,
+      "-weight.image": 17,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 1014,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2018-03-orion-propellant-tank-assembled",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2018-03-orion-propellant-tank-assembled",
+    "timestamp": 1707648268614,
+    "ranks": {
+      "hundos": 23,
+      "performance": 10,
+      "accessibility": 29,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.87,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 333
+    },
+    "firstContentfulPaint": 1726.3220000000001,
+    "firstMeaningfulPaint": 1726.3220000000001,
+    "speedIndex": 3048.5317549974357,
+    "largestContentfulPaint": 2948.2500000000005,
+    "totalBlockingTime": 274,
+    "cumulativeLayoutShift": 0.012074745000527205,
+    "timeToInteractive": 6583.9255,
+    "maxPotentialFirstInputDelay": 228,
+    "timeToFirstByte": 51.296,
+    "weight": {
+      "summary": "35 requests • 454,3 KiB",
+      "total": 465181,
+      "image": 9713,
+      "imageCount": 7,
+      "script": 379573,
+      "scriptCount": 13,
+      "document": 41861,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 396152,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 37,
+      "-weight.document": 18,
+      "+weight.document": 32,
+      "-weight.script": 26,
+      "+weight.script": 24,
+      "-weight.image": 20,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 1017,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2016-06-astronaut-rick-mastracchio-and-the-orion-esm-team",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2016-06-astronaut-rick-mastracchio-and-the-orion-esm-team",
+    "timestamp": 1707647338980,
+    "ranks": {
+      "hundos": 20,
+      "performance": 15,
+      "accessibility": 15,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.86,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 334
+    },
+    "firstContentfulPaint": 2291.6144999999997,
+    "firstMeaningfulPaint": 2291.6144999999997,
+    "speedIndex": 3431.639504443231,
+    "largestContentfulPaint": 3252.517,
+    "totalBlockingTime": 209,
+    "cumulativeLayoutShift": 0.010030809660259477,
+    "timeToInteractive": 6388.550499999999,
+    "maxPotentialFirstInputDelay": 218,
+    "timeToFirstByte": 136.07500000000002,
+    "weight": {
+      "summary": "35 requests • 455,8 KiB",
+      "total": 466749,
+      "image": 9689,
+      "imageCount": 7,
+      "script": 381906,
+      "scriptCount": 14,
+      "document": 41392,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 398191,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 23,
+      "-weight.document": 15,
+      "+weight.document": 35,
+      "-weight.script": 36,
+      "+weight.script": 14,
+      "-weight.image": 16,
+      "+weight.image": 8,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 961,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2017-05-sabena-technics-joins-acj-service-centre-network",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2017-05-sabena-technics-joins-acj-service-centre-network",
+    "timestamp": 1707648386505,
+    "ranks": {
+      "hundos": 26,
+      "performance": 34,
+      "accessibility": 32,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.79,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 332
+    },
+    "firstContentfulPaint": 2253.004999999999,
+    "firstMeaningfulPaint": 2253.004999999999,
+    "speedIndex": 3141.6442493996356,
+    "largestContentfulPaint": 3256.3869999999997,
+    "totalBlockingTime": 416,
+    "cumulativeLayoutShift": 0.01799915734326431,
+    "timeToInteractive": 6578.366999999999,
+    "maxPotentialFirstInputDelay": 428,
+    "timeToFirstByte": 51.095,
+    "weight": {
+      "summary": "35 requests • 455,4 KiB",
+      "total": 466282,
+      "image": 9691,
+      "imageCount": 7,
+      "script": 380452,
+      "scriptCount": 13,
+      "document": 42052,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396215,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 26,
+      "-weight.document": 23,
+      "+weight.document": 27,
+      "-weight.script": 33,
+      "+weight.script": 17,
+      "-weight.image": 18,
+      "+weight.image": 6,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1006,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-07-airbus-demonstrates-aircraft-inspection-by-drone-at-farnborough",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-07-airbus-demonstrates-aircraft-inspection-by-drone-at-farnborough",
+    "timestamp": 1707648336292,
+    "ranks": {
+      "hundos": 27,
+      "performance": 35,
+      "accessibility": 24,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.79,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 332
+    },
+    "firstContentfulPaint": 2255.6155,
+    "firstMeaningfulPaint": 2255.6155,
+    "speedIndex": 3161.470622122195,
+    "largestContentfulPaint": 3258.7899999999995,
+    "totalBlockingTime": 430.5,
+    "cumulativeLayoutShift": 0.010640282443128425,
+    "timeToInteractive": 6593.884,
+    "maxPotentialFirstInputDelay": 442,
+    "timeToFirstByte": 55.246,
+    "weight": {
+      "summary": "34 requests • 454,3 KiB",
+      "total": 465186,
+      "image": 9690,
+      "imageCount": 7,
+      "script": 379550,
+      "scriptCount": 13,
+      "document": 42076,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 395998,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 36,
+      "-weight.document": 24,
+      "+weight.document": 26,
+      "-weight.script": 21,
+      "+weight.script": 29,
+      "-weight.image": 17,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 1081,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/stories/2019-03-promising-signs-for-private-and-business-aviation",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/stories/2019-03-promising-signs-for-private-and-business-aviation",
+    "timestamp": 1707647304890,
+    "ranks": {
+      "hundos": 25,
+      "performance": 8,
+      "accessibility": 38,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.87,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.78,
+      "total": 332
+    },
+    "firstContentfulPaint": 1678.568,
+    "firstMeaningfulPaint": 2024.5839999999998,
+    "speedIndex": 2683.781339736095,
+    "largestContentfulPaint": 3206.744999999999,
+    "totalBlockingTime": 246.49999999999955,
+    "cumulativeLayoutShift": 0.006333779595408447,
+    "timeToInteractive": 5329.236499999999,
+    "maxPotentialFirstInputDelay": 202.99999999999955,
+    "timeToFirstByte": 53.859,
+    "weight": {
+      "summary": "36 requests • 457,5 KiB",
+      "total": 468456,
+      "image": 8967,
+      "imageCount": 7,
+      "script": 381567,
+      "scriptCount": 14,
+      "document": 43966,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 216,
+      "stylesheetCount": 3,
+      "thirdParty": 398373,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 18,
+      "-weight.document": 41,
+      "+weight.document": 9,
+      "-weight.script": 35,
+      "+weight.script": 15,
+      "-weight.image": 5,
+      "+weight.image": 19,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 1091,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2017-12-landing-on-a-beach-mission-impossible-not-for-the-a400m",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2017-12-landing-on-a-beach-mission-impossible-not-for-the-a400m",
+    "timestamp": 1707647839503,
+    "ranks": {
+      "hundos": 28,
+      "performance": 16,
+      "accessibility": 33,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.85,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 331
+    },
+    "firstContentfulPaint": 2314.0779999999995,
+    "firstMeaningfulPaint": 2314.0779999999995,
+    "speedIndex": 3267.6550041219043,
+    "largestContentfulPaint": 3295.4727499999995,
+    "totalBlockingTime": 212,
+    "cumulativeLayoutShift": 0.010030809660259477,
+    "timeToInteractive": 6404.963,
+    "maxPotentialFirstInputDelay": 217,
+    "timeToFirstByte": 12.935,
+    "weight": {
+      "summary": "35 requests • 473,1 KiB",
+      "total": 484411,
+      "image": 9600,
+      "imageCount": 7,
+      "script": 398273,
+      "scriptCount": 13,
+      "document": 42422,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 308,
+      "stylesheetCount": 3,
+      "thirdParty": 396127,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 5,
+      "-weight.document": 31,
+      "+weight.document": 19,
+      "-weight.script": 37,
+      "+weight.script": 13,
+      "-weight.image": 8,
+      "+weight.image": 16,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 994,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2017-06-airbus-launches-skywise-aviations-open-data-platform",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2017-06-airbus-launches-skywise-aviations-open-data-platform",
+    "timestamp": 1707647534415,
+    "ranks": {
+      "hundos": 29,
+      "performance": 17,
+      "accessibility": 21,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.85,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 331
+    },
+    "firstContentfulPaint": 2319.7160000000003,
+    "firstMeaningfulPaint": 2319.7160000000003,
+    "speedIndex": 3309.46465160475,
+    "largestContentfulPaint": 3387.2127500000006,
+    "totalBlockingTime": 205,
+    "cumulativeLayoutShift": 0.018668882188318022,
+    "timeToInteractive": 6467.2345000000005,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 25.044,
+    "weight": {
+      "summary": "34 requests • 457,1 KiB",
+      "total": 468030,
+      "image": 9600,
+      "imageCount": 7,
+      "script": 379479,
+      "scriptCount": 13,
+      "document": 45197,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 395879,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 19,
+      "-weight.document": 43,
+      "+weight.document": 7,
+      "-weight.script": 19,
+      "+weight.script": 31,
+      "-weight.image": 8,
+      "+weight.image": 16,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 1235,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2016-09-airbus-defence-and-space-and-australias-neumann-space-sign-first-payload",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2016-09-airbus-defence-and-space-and-australias-neumann-space-sign-first-payload",
+    "timestamp": 1707648218088,
+    "ranks": {
+      "hundos": 30,
+      "performance": 18,
+      "accessibility": 48,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.85,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 331
+    },
+    "firstContentfulPaint": 2306.542,
+    "firstMeaningfulPaint": 2306.542,
+    "speedIndex": 3329.117260596412,
+    "largestContentfulPaint": 3292.8232500000004,
+    "totalBlockingTime": 219,
+    "cumulativeLayoutShift": 0.010661138926192382,
+    "timeToInteractive": 6421.630999999999,
+    "maxPotentialFirstInputDelay": 225,
+    "timeToFirstByte": 61.586999999999996,
+    "weight": {
+      "summary": "35 requests • 455,4 KiB",
+      "total": 466312,
+      "image": 9689,
+      "imageCount": 7,
+      "script": 379706,
+      "scriptCount": 13,
+      "document": 42892,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 396123,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 25,
+      "-weight.document": 34,
+      "+weight.document": 16,
+      "-weight.script": 28,
+      "+weight.script": 22,
+      "-weight.image": 16,
+      "+weight.image": 8,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 1095,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2017-03-airbus-to-propose-new-board-member-legal-name-change-at-agm",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2017-03-airbus-to-propose-new-board-member-legal-name-change-at-agm",
+    "timestamp": 1707647517350,
+    "ranks": {
+      "hundos": 39,
+      "performance": 39,
+      "accessibility": 43,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.76,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 325
+    },
+    "firstContentfulPaint": 2198.0190000000002,
+    "firstMeaningfulPaint": 2198.0190000000002,
+    "speedIndex": 3359.968940768652,
+    "largestContentfulPaint": 3262.1120000000005,
+    "totalBlockingTime": 532.9999999999998,
+    "cumulativeLayoutShift": 0.020671104562457836,
+    "timeToInteractive": 7221.8575,
+    "maxPotentialFirstInputDelay": 429.9999999999998,
+    "timeToFirstByte": 58.601,
+    "weight": {
+      "summary": "35 requests • 454,1 KiB",
+      "total": 465029,
+      "image": 9637,
+      "imageCount": 7,
+      "script": 379562,
+      "scriptCount": 13,
+      "document": 41902,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396045,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 39,
+      "-weight.document": 21,
+      "+weight.document": 29,
+      "-weight.script": 24,
+      "+weight.script": 26,
+      "-weight.image": 15,
+      "+weight.image": 9,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 909,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2018-09-airbus-careers-bring-people-to-new-heights",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2018-09-airbus-careers-bring-people-to-new-heights",
+    "timestamp": 1707647856177,
+    "ranks": {
+      "hundos": 34,
+      "performance": 27,
+      "accessibility": 23,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.82,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 328
+    },
+    "firstContentfulPaint": 2248.6440000000002,
+    "firstMeaningfulPaint": 2248.6440000000002,
+    "speedIndex": 3326.9854981292383,
+    "largestContentfulPaint": 3238.7195,
+    "totalBlockingTime": 320.5,
+    "cumulativeLayoutShift": 0.022070806314750023,
+    "timeToInteractive": 7046.684500000001,
+    "maxPotentialFirstInputDelay": 216,
+    "timeToFirstByte": 12.982,
+    "weight": {
+      "summary": "35 requests • 454,4 KiB",
+      "total": 465281,
+      "image": 9602,
+      "imageCount": 7,
+      "script": 378618,
+      "scriptCount": 13,
+      "document": 43144,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396017,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 33,
+      "-weight.document": 37,
+      "+weight.document": 13,
+      "-weight.script": 2,
+      "+weight.script": 48,
+      "-weight.image": 10,
+      "+weight.image": 14,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 1110,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-04-air-cote-divoire-orders-two-a320neos-and-two-a320s",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-04-air-cote-divoire-orders-two-a320neos-and-two-a320s",
+    "timestamp": 1707648319608,
+    "ranks": {
+      "hundos": 36,
+      "performance": 40,
+      "accessibility": 25,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.75,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 328
+    },
+    "firstContentfulPaint": 2246.327,
+    "firstMeaningfulPaint": 2246.327,
+    "speedIndex": 3309.797748748015,
+    "largestContentfulPaint": 3290.852,
+    "totalBlockingTime": 548.2624999999994,
+    "cumulativeLayoutShift": 0.012053888517463248,
+    "timeToInteractive": 7232.1695,
+    "maxPotentialFirstInputDelay": 441,
+    "timeToFirstByte": 36.618,
+    "weight": {
+      "summary": "36 requests • 454,0 KiB",
+      "total": 464859,
+      "image": 9635,
+      "imageCount": 7,
+      "script": 379039,
+      "scriptCount": 13,
+      "document": 42196,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 396102,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 41,
+      "-weight.document": 28,
+      "+weight.document": 22,
+      "-weight.script": 7,
+      "+weight.script": 43,
+      "-weight.image": 13,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 1062,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2016-03-exomars-2016-the-heat-is-on",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2016-03-exomars-2016-the-heat-is-on",
+    "timestamp": 1707647772986,
+    "ranks": {
+      "hundos": 33,
+      "performance": 26,
+      "accessibility": 47,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.82,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 328
+    },
+    "firstContentfulPaint": 2254.5209999999997,
+    "firstMeaningfulPaint": 2254.5209999999997,
+    "speedIndex": 3152.9862092333397,
+    "largestContentfulPaint": 3247.9705000000004,
+    "totalBlockingTime": 334.5,
+    "cumulativeLayoutShift": 0.02141498579173895,
+    "timeToInteractive": 7030.34,
+    "maxPotentialFirstInputDelay": 224,
+    "timeToFirstByte": 17.616,
+    "weight": {
+      "summary": "35 requests • 456,2 KiB",
+      "total": 467180,
+      "image": 9601,
+      "imageCount": 7,
+      "script": 380524,
+      "scriptCount": 13,
+      "document": 43126,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 211,
+      "stylesheetCount": 3,
+      "thirdParty": 396020,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 22,
+      "-weight.document": 36,
+      "+weight.document": 14,
+      "-weight.script": 34,
+      "+weight.script": 16,
+      "-weight.image": 9,
+      "+weight.image": 15,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 1110,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/news/2016-04-first-airbus-a321-aircraft-produced-in-the-us-for-american-airlines-takes",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/news/2016-04-first-airbus-a321-aircraft-produced-in-the-us-for-american-airlines-takes",
+    "timestamp": 1707648201247,
+    "ranks": {
+      "hundos": 37,
+      "performance": 29,
+      "accessibility": 26,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.82,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.78,
+      "total": 327
+    },
+    "firstContentfulPaint": 2243.751,
+    "firstMeaningfulPaint": 2243.751,
+    "speedIndex": 3373.271462833478,
+    "largestContentfulPaint": 3283.575,
+    "totalBlockingTime": 326,
+    "cumulativeLayoutShift": 0.012725930749524066,
+    "timeToInteractive": 7065.849,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 25.431,
+    "weight": {
+      "summary": "36 requests • 454,3 KiB",
+      "total": 465208,
+      "image": 9601,
+      "imageCount": 7,
+      "script": 379551,
+      "scriptCount": 13,
+      "document": 41869,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 396308,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 1
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 35,
+      "-weight.document": 19,
+      "+weight.document": 31,
+      "-weight.script": 22,
+      "+weight.script": 28,
+      "-weight.image": 9,
+      "+weight.image": 15,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 1054,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2016-02-philippines-air-force-accepts-c295-fleet",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2016-02-philippines-air-force-accepts-c295-fleet",
+    "timestamp": 1707647450391,
+    "ranks": {
+      "hundos": 40,
+      "performance": 31,
+      "accessibility": 44,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.81,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 323
+    },
+    "firstContentfulPaint": 1725.5679999999998,
+    "firstMeaningfulPaint": 1725.5679999999998,
+    "speedIndex": 12747.116511488108,
+    "largestContentfulPaint": 2948.455999999999,
+    "totalBlockingTime": 199.5,
+    "cumulativeLayoutShift": 0.010030809660259477,
+    "timeToInteractive": 5822.317999999999,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 7063.037,
+    "weight": {
+      "summary": "35 requests • 454,2 KiB",
+      "total": 465113,
+      "image": 9712,
+      "imageCount": 7,
+      "script": 380226,
+      "scriptCount": 13,
+      "document": 41124,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 212,
+      "stylesheetCount": 3,
+      "thirdParty": 396218,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 38,
+      "-weight.document": 13,
+      "+weight.document": 37,
+      "-weight.script": 32,
+      "+weight.script": 18,
+      "-weight.image": 19,
+      "+weight.image": 5,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 978,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2017-09-first-titanium-3d-printed-part-installed-into-serial-production",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/press-releases/2017-09-first-titanium-3d-printed-part-installed-into-serial-production",
+    "timestamp": 1707647991205,
+    "ranks": {
+      "hundos": 38,
+      "performance": 33,
+      "accessibility": 27,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.8,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.79,
+      "total": 326
+    },
+    "firstContentfulPaint": 2205.7614999999996,
+    "firstMeaningfulPaint": 2205.7614999999996,
+    "speedIndex": 3129.3099938299883,
+    "largestContentfulPaint": 3711.9865,
+    "totalBlockingTime": 317.5,
+    "cumulativeLayoutShift": 0.012074745000527205,
+    "timeToInteractive": 6952.874,
+    "maxPotentialFirstInputDelay": 216,
+    "timeToFirstByte": 13.325,
+    "weight": {
+      "summary": "35 requests • 453,3 KiB",
+      "total": 464150,
+      "image": 8855,
+      "imageCount": 7,
+      "script": 379403,
+      "scriptCount": 13,
+      "document": 41975,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 210,
+      "stylesheetCount": 3,
+      "thirdParty": 396022,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 43,
+      "-weight.document": 22,
+      "+weight.document": 28,
+      "-weight.script": 16,
+      "+weight.script": 34,
+      "-weight.image": 3,
+      "+weight.image": 21,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 1035,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/airbus-digital-challenge",
+    "requestedUrl": "https://www.airbus.com/en/airbus-digital-challenge",
+    "timestamp": 1707647228844,
+    "ranks": {
+      "hundos": 44,
+      "performance": 48,
+      "accessibility": 13,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.93,
+      "seo": 0.73,
+      "total": 215
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 19.181999999999995,
+    "weight": {
+      "summary": "15 requests • 469,7 KiB",
+      "total": 480995,
+      "image": 90,
+      "imageCount": 3,
+      "script": 465627,
+      "scriptCount": 5,
+      "document": 10432,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 10,
+      "-weight.document": 4,
+      "+weight.document": 46,
+      "-weight.script": 45,
+      "+weight.script": 5,
+      "-weight.image": 2,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1295,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/careers/opportunities",
+    "requestedUrl": "https://www.airbus.com/en/careers/opportunities",
+    "timestamp": 1707647212318,
+    "ranks": {
+      "hundos": 43,
+      "performance": 49,
+      "accessibility": 12,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.93,
+      "seo": 0.73,
+      "total": 215
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 23.590000000000003,
+    "weight": {
+      "summary": "15 requests • 470,0 KiB",
+      "total": 481238,
+      "image": 36,
+      "imageCount": 3,
+      "script": 465936,
+      "scriptCount": 5,
+      "document": 10427,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 8,
+      "-weight.document": 3,
+      "+weight.document": 47,
+      "-weight.script": 49,
+      "+weight.script": 1,
+      "-weight.image": 1,
+      "+weight.image": 23,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1316,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/products-services/space/earth-observation/earth-observation-portfolio/perusat",
+    "requestedUrl": "https://www.airbus.com/en/products-services/space/earth-observation/earth-observation-portfolio/perusat",
+    "timestamp": 1707647161631,
+    "ranks": {
+      "hundos": 42,
+      "performance": 45,
+      "accessibility": 19,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.93,
+      "seo": 0.73,
+      "total": 215
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 8.692,
+    "weight": {
+      "summary": "15 requests • 470,0 KiB",
+      "total": 481319,
+      "image": 90,
+      "imageCount": 3,
+      "script": 465895,
+      "scriptCount": 5,
+      "document": 10464,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 7,
+      "-weight.document": 9,
+      "+weight.document": 41,
+      "-weight.script": 48,
+      "+weight.script": 2,
+      "-weight.image": 2,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1408,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/innovation/innovation-ecosystem/airbus-upnext",
+    "requestedUrl": "https://www.airbus.com/en/innovation/innovation-ecosystem/airbus-upnext",
+    "timestamp": 1707647106327,
+    "ranks": {
+      "hundos": 41,
+      "performance": 42,
+      "accessibility": 46,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.93,
+      "seo": 0.73,
+      "total": 215
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 4.933,
+    "weight": {
+      "summary": "15 requests • 469,7 KiB",
+      "total": 480986,
+      "image": 36,
+      "imageCount": 3,
+      "script": 465654,
+      "scriptCount": 5,
+      "document": 10436,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 11,
+      "-weight.document": 6,
+      "+weight.document": 44,
+      "-weight.script": 47,
+      "+weight.script": 3,
+      "-weight.image": 1,
+      "+weight.image": 23,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1702,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/careers/airbus-faces",
+    "requestedUrl": "https://www.airbus.com/en/careers/airbus-faces",
+    "timestamp": 1707647144972,
+    "ranks": {
+      "hundos": 46,
+      "performance": 44,
+      "accessibility": 11,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.7,
+      "seo": 0.73,
+      "total": 192
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 7.143999999999998,
+    "weight": {
+      "summary": "15 requests • 469,5 KiB",
+      "total": 480773,
+      "image": 90,
+      "imageCount": 3,
+      "script": 465383,
+      "scriptCount": 5,
+      "document": 10368,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 13,
+      "-weight.document": 2,
+      "+weight.document": 48,
+      "-weight.script": 43,
+      "+weight.script": 7,
+      "-weight.image": 2,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1904,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/products-services/space/liderando-la-tecnologia-espacial-made-in-spain",
+    "requestedUrl": "https://www.airbus.com/en/products-services/space/liderando-la-tecnologia-espacial-made-in-spain",
+    "timestamp": 1707647195676,
+    "ranks": {
+      "hundos": 48,
+      "performance": 46,
+      "accessibility": 20,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.7,
+      "seo": 0.73,
+      "total": 192
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 10.900999999999996,
+    "weight": {
+      "summary": "15 requests • 469,3 KiB",
+      "total": 480588,
+      "image": 90,
+      "imageCount": 3,
+      "script": 465109,
+      "scriptCount": 5,
+      "document": 10435,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 14,
+      "-weight.document": 5,
+      "+weight.document": 45,
+      "-weight.script": 42,
+      "+weight.script": 8,
+      "-weight.image": 2,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1257,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/newsroom/stories/2020-06-solar-orbiter-is-ready-for-its-close-up-with-the-sun",
+    "requestedUrl": "https://www.airbus.com/en/newsroom/stories/2020-06-solar-orbiter-is-ready-for-its-close-up-with-the-sun",
+    "timestamp": 1707647245430,
+    "ranks": {
+      "hundos": 49,
+      "performance": 41,
+      "accessibility": 36,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.7,
+      "seo": 0.73,
+      "total": 192
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 4.561999999999998,
+    "weight": {
+      "summary": "15 requests • 469,7 KiB",
+      "total": 480985,
+      "image": 36,
+      "imageCount": 3,
+      "script": 465650,
+      "scriptCount": 5,
+      "document": 10367,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 12,
+      "-weight.document": 1,
+      "+weight.document": 49,
+      "-weight.script": 46,
+      "+weight.script": 4,
+      "-weight.image": 1,
+      "+weight.image": 23,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1131,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/de/who-we-are/our-worldwide-presence/germany/willkommen-im-airbus-hubberlin/unsere-themen",
+    "requestedUrl": "https://www.airbus.com/de/who-we-are/our-worldwide-presence/germany/willkommen-im-airbus-hubberlin/unsere-themen",
+    "timestamp": 1707647123295,
+    "ranks": {
+      "hundos": 45,
+      "performance": 43,
+      "accessibility": 37,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.7,
+      "seo": 0.73,
+      "total": 192
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 5.014999999999997,
+    "weight": {
+      "summary": "15 requests • 469,1 KiB",
+      "total": 480331,
+      "image": 36,
+      "imageCount": 3,
+      "script": 464912,
+      "scriptCount": 5,
+      "document": 10447,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 15,
+      "-weight.document": 8,
+      "+weight.document": 42,
+      "-weight.script": 41,
+      "+weight.script": 9,
+      "-weight.image": 1,
+      "+weight.image": 23,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1115,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/careers/professionals/single-aisle-ramp-up",
+    "requestedUrl": "https://www.airbus.com/en/careers/professionals/single-aisle-ramp-up",
+    "timestamp": 1707647178743,
+    "ranks": {
+      "hundos": 47,
+      "performance": 47,
+      "accessibility": 45,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": null,
+      "accessibility": 0.49,
+      "bestPractices": 0.7,
+      "seo": 0.73,
+      "total": 192
+    },
+    "cumulativeLayoutShift": 0.0009412528459696352,
+    "timeToFirstByte": 15.030999999999999,
+    "weight": {
+      "summary": "15 requests • 469,7 KiB",
+      "total": 481009,
+      "image": 36,
+      "imageCount": 3,
+      "script": 465562,
+      "scriptCount": 5,
+      "document": 10446,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 9,
+      "-weight.document": 7,
+      "+weight.document": 43,
+      "-weight.script": 44,
+      "+weight.script": 6,
+      "-weight.image": 1,
+      "+weight.image": 23,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1227,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en/space/exploration",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 50,
+      "-weight.document": 50,
+      "+weight.document": 50,
+      "-weight.script": 50,
+      "+weight.script": 50,
+      "-weight.image": 24,
+      "+weight.image": 24,
+      "-weight.font": 1,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 41
+    }
+  }
+]

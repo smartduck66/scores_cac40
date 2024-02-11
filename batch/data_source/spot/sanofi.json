@@ -1,0 +1,3486 @@
+[
+  {
+    "url": "https://www.sanofi.com/fr/notre-entreprise/impact-social/entreprise-responsable/valproate-de-sodium",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/Nos-medicaments-et-produits-de-sante/valproate-de-sodium",
+    "timestamp": 1707503088916,
+    "ranks": {
+      "hundos": 1,
+      "performance": 2,
+      "accessibility": 1,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 386
+    },
+    "firstContentfulPaint": 1754.2599999999998,
+    "firstMeaningfulPaint": 1754.2599999999998,
+    "speedIndex": 2533.310119651794,
+    "largestContentfulPaint": 2179.3039999999996,
+    "totalBlockingTime": 482,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4305.132,
+    "maxPotentialFirstInputDelay": 318,
+    "timeToFirstByte": 454.567,
+    "weight": {
+      "summary": "22 requests • 689,2 KiB",
+      "total": 705704,
+      "image": 0,
+      "imageCount": 0,
+      "script": 591827,
+      "scriptCount": 13,
+      "document": 31899,
+      "font": 57305,
+      "fontCount": 2,
+      "stylesheet": 0,
+      "stylesheetCount": 0,
+      "thirdParty": 222578,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 50,
+      "-weight.document": 3,
+      "+weight.document": 50,
+      "-weight.script": 3,
+      "+weight.script": 43,
+      "-weight.image": 1,
+      "+weight.image": 44,
+      "-weight.font": 17,
+      "+weight.font": 3,
+      "+weight.fontCount": 18,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 466,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/notre-engagement-societal/pour-une-societe-plus-inclusive/favoriser-l-inclusion-des-jeunes-issus-des-quartiers-defavorises",
+    "requestedUrl": "https://www.sanofi.fr/fr/notre-engagement-societal/pour-une-societe-plus-inclusive/favoriser-l-inclusion-des-jeunes-issus-des-quartiers-defavorises",
+    "timestamp": 1707503136856,
+    "ranks": {
+      "hundos": 2,
+      "performance": 1,
+      "accessibility": 18,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.91,
+      "accessibility": 0.86,
+      "bestPractices": 0.93,
+      "seo": 0.93,
+      "total": 363
+    },
+    "firstContentfulPaint": 1703.4134999999997,
+    "firstMeaningfulPaint": 1936.2422499999998,
+    "speedIndex": 2823.8002892524146,
+    "largestContentfulPaint": 3165.8720000000003,
+    "totalBlockingTime": 3.5,
+    "cumulativeLayoutShift": 0.060753341433778855,
+    "timeToInteractive": 2997.0575,
+    "maxPotentialFirstInputDelay": 57,
+    "timeToFirstByte": 605.1959999999999,
+    "weight": {
+      "summary": "30 requests • 519,0 KiB",
+      "total": 531469,
+      "image": 53582,
+      "imageCount": 4,
+      "script": 338969,
+      "scriptCount": 6,
+      "document": 28363,
+      "font": 0,
+      "fontCount": 4,
+      "stylesheet": 37614,
+      "stylesheetCount": 9,
+      "thirdParty": 290162,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 51,
+      "-weight.document": 2,
+      "+weight.document": 51,
+      "-weight.script": 1,
+      "+weight.script": 45,
+      "-weight.image": 18,
+      "+weight.image": 26,
+      "-weight.font": 1,
+      "+weight.font": 20,
+      "+weight.fontCount": 17,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 608,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/resultats-recherche",
+    "requestedUrl": "https://www.sanofi.fr/fr/resultats-recherche",
+    "timestamp": 1707503678567,
+    "ranks": {
+      "hundos": 3,
+      "performance": 3,
+      "accessibility": 52,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.81,
+      "bestPractices": 0.93,
+      "seo": 0.93,
+      "total": 349
+    },
+    "firstContentfulPaint": 1769.962,
+    "firstMeaningfulPaint": 1959.173,
+    "speedIndex": 2642.699665811686,
+    "largestContentfulPaint": 4520.768999999999,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.05710814094775213,
+    "timeToInteractive": 4441.156499999999,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 345.108,
+    "weight": {
+      "summary": "28 requests • 467,6 KiB",
+      "total": 478822,
+      "image": 7147,
+      "imageCount": 2,
+      "script": 339378,
+      "scriptCount": 6,
+      "document": 21716,
+      "font": 0,
+      "fontCount": 4,
+      "stylesheet": 37617,
+      "stylesheetCount": 9,
+      "thirdParty": 290178,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 52,
+      "-weight.document": 1,
+      "+weight.document": 52,
+      "-weight.script": 2,
+      "+weight.script": 44,
+      "-weight.image": 1,
+      "+weight.image": 43,
+      "-weight.font": 1,
+      "+weight.font": 20,
+      "+weight.fontCount": 17,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 51
+    },
+    "axe": {
+      "passes": 331,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/semaine-de-lindustrie",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/semaine-de-lindustrie",
+    "timestamp": 1707502804029,
+    "ranks": {
+      "hundos": 4,
+      "performance": 7,
+      "accessibility": 38,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 316
+    },
+    "firstContentfulPaint": 1737.6165,
+    "firstMeaningfulPaint": 1989.8622500000001,
+    "speedIndex": 5914.045438348443,
+    "largestContentfulPaint": 2471.8940000000002,
+    "totalBlockingTime": 1254.000000000001,
+    "cumulativeLayoutShift": 0.05589307411907655,
+    "timeToInteractive": 13447.2595,
+    "maxPotentialFirstInputDelay": 228,
+    "timeToFirstByte": 463.815,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1891713,
+      "image": 17347,
+      "imageCount": 10,
+      "script": 1340094,
+      "scriptCount": 28,
+      "document": 187891,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85355,
+      "stylesheetCount": 13,
+      "thirdParty": 1698131,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 43,
+      "-weight.document": 12,
+      "+weight.document": 41,
+      "-weight.script": 15,
+      "+weight.script": 31,
+      "-weight.image": 2,
+      "+weight.image": 42,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 523,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/mentions-legales",
+    "requestedUrl": "https://www.sanofi.fr/fr/mentions-legales",
+    "timestamp": 1707502119989,
+    "ranks": {
+      "hundos": 5,
+      "performance": 12,
+      "accessibility": 13,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 315
+    },
+    "firstContentfulPaint": 1730.253,
+    "firstMeaningfulPaint": 1730.253,
+    "speedIndex": 6938.4355708595085,
+    "largestContentfulPaint": 2775.6720000000005,
+    "totalBlockingTime": 1019.9999999999991,
+    "cumulativeLayoutShift": 0.05589307411907655,
+    "timeToInteractive": 13592.298999999999,
+    "maxPotentialFirstInputDelay": 233,
+    "timeToFirstByte": 654.233,
+    "weight": {
+      "summary": "84 requests • 1,7 MiB",
+      "total": 1819036,
+      "image": 19726,
+      "imageCount": 9,
+      "script": 1340066,
+      "scriptCount": 23,
+      "document": 153996,
+      "font": 22187,
+      "fontCount": 10,
+      "stylesheet": 85351,
+      "stylesheetCount": 12,
+      "thirdParty": 1617005,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 47,
+      "-weight.document": 4,
+      "+weight.document": 49,
+      "-weight.script": 6,
+      "+weight.script": 40,
+      "-weight.image": 11,
+      "+weight.image": 33,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 16,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 839,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/paracetamol-mise-en-place-pictogramme-surdosage",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/paracetamol-mise-en-place-pictogramme-surdosage",
+    "timestamp": 1707502745736,
+    "ranks": {
+      "hundos": 6,
+      "performance": 13,
+      "accessibility": 34,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 314
+    },
+    "firstContentfulPaint": 1742.837,
+    "firstMeaningfulPaint": 1924.9950000000001,
+    "speedIndex": 5563.289672579862,
+    "largestContentfulPaint": 2497.964,
+    "totalBlockingTime": 1242.7654954376221,
+    "cumulativeLayoutShift": 0.09513593560145808,
+    "timeToInteractive": 9470.528535018922,
+    "maxPotentialFirstInputDelay": 213,
+    "timeToFirstByte": 521.0649999999999,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1888895,
+      "image": 17349,
+      "imageCount": 10,
+      "script": 1340098,
+      "scriptCount": 28,
+      "document": 184992,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85351,
+      "stylesheetCount": 13,
+      "thirdParty": 1694017,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 46,
+      "-weight.document": 5,
+      "+weight.document": 48,
+      "-weight.script": 17,
+      "+weight.script": 29,
+      "-weight.image": 4,
+      "+weight.image": 40,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 697,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/les-francais-face-a-l-eczema-de-l-exclusion-a-la-depression",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/les-francais-face-a-l-eczema-de-l-exclusion-a-la-depression",
+    "timestamp": 1707502758246,
+    "ranks": {
+      "hundos": 7,
+      "performance": 24,
+      "accessibility": 46,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 310
+    },
+    "firstContentfulPaint": 1734.5375,
+    "firstMeaningfulPaint": 1734.5375,
+    "speedIndex": 7366.673093402507,
+    "largestContentfulPaint": 2465.409,
+    "totalBlockingTime": 1475,
+    "cumulativeLayoutShift": 0.09887507549105612,
+    "timeToInteractive": 14375.023000000001,
+    "maxPotentialFirstInputDelay": 216,
+    "timeToFirstByte": 654.07,
+    "weight": {
+      "summary": "102 requests • 1,8 MiB",
+      "total": 1894525,
+      "image": 17347,
+      "imageCount": 11,
+      "script": 1340119,
+      "scriptCount": 28,
+      "document": 190606,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85354,
+      "stylesheetCount": 13,
+      "thirdParty": 1696028,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 39,
+      "-weight.document": 19,
+      "+weight.document": 34,
+      "-weight.script": 22,
+      "+weight.script": 24,
+      "-weight.image": 2,
+      "+weight.image": 42,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 863,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-et-bioLabs-global-annoncent-un-nouveau-partenariat-strategique-en-france",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-et-bioLabs-global-annoncent-un-nouveau-partenariat-strategique-en-france",
+    "timestamp": 1707502635983,
+    "ranks": {
+      "hundos": 8,
+      "performance": 8,
+      "accessibility": 29,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 309
+    },
+    "firstContentfulPaint": 1697.5935,
+    "firstMeaningfulPaint": 1697.5935,
+    "speedIndex": 6408.347222851614,
+    "largestContentfulPaint": 2009.993,
+    "totalBlockingTime": 1169.316999999999,
+    "cumulativeLayoutShift": 0.08641689622460078,
+    "timeToInteractive": 13844.7745,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 522.501,
+    "weight": {
+      "summary": "91 requests • 1,6 MiB",
+      "total": 1727950,
+      "image": 17349,
+      "imageCount": 10,
+      "script": 1340127,
+      "scriptCount": 28,
+      "document": 188535,
+      "font": 22186,
+      "fontCount": 13,
+      "stylesheet": 85349,
+      "stylesheetCount": 13,
+      "thirdParty": 1533197,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 49,
+      "-weight.document": 13,
+      "+weight.document": 40,
+      "-weight.script": 23,
+      "+weight.script": 23,
+      "-weight.image": 4,
+      "+weight.image": 40,
+      "-weight.font": 2,
+      "+weight.font": 18,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 611,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Journee-internationale-de-la-maladie-de-gaucher",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Journee-internationale-de-la-maladie-de-gaucher",
+    "timestamp": 1707502781005,
+    "ranks": {
+      "hundos": 9,
+      "performance": 4,
+      "accessibility": 44,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 309
+    },
+    "firstContentfulPaint": 1727.3735,
+    "firstMeaningfulPaint": 1906.4742499999998,
+    "speedIndex": 5353.372557803066,
+    "largestContentfulPaint": 2467.588,
+    "totalBlockingTime": 1290,
+    "cumulativeLayoutShift": 0.05589307411907655,
+    "timeToInteractive": 9035.445039581298,
+    "maxPotentialFirstInputDelay": 232,
+    "timeToFirstByte": 473.789,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1911500,
+      "image": 17349,
+      "imageCount": 10,
+      "script": 1360224,
+      "scriptCount": 28,
+      "document": 187228,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85360,
+      "stylesheetCount": 13,
+      "thirdParty": 1717910,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 34,
+      "-weight.document": 10,
+      "+weight.document": 43,
+      "-weight.script": 38,
+      "+weight.script": 8,
+      "-weight.image": 4,
+      "+weight.image": 40,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 552,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/le-campus-Biotech-Digital-s-allie-aux-ecoles-et-organismes-de-formation-en-biotechnologie",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/le-campus-Biotech-Digital-s-allie-aux-ecoles-et-organismes-de-formation-en-biotechnologie",
+    "timestamp": 1707501876033,
+    "ranks": {
+      "hundos": 12,
+      "performance": 11,
+      "accessibility": 25,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 308
+    },
+    "firstContentfulPaint": 1737.9785,
+    "firstMeaningfulPaint": 1926.03775,
+    "speedIndex": 6071.996012177029,
+    "largestContentfulPaint": 2485.262,
+    "totalBlockingTime": 1354.5,
+    "cumulativeLayoutShift": 0.0583232077764277,
+    "timeToInteractive": 9221.670539581299,
+    "maxPotentialFirstInputDelay": 226,
+    "timeToFirstByte": 861.343,
+    "weight": {
+      "summary": "103 requests • 1,8 MiB",
+      "total": 1905516,
+      "image": 25915,
+      "imageCount": 12,
+      "script": 1340068,
+      "scriptCount": 28,
+      "document": 193261,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85361,
+      "stylesheetCount": 13,
+      "thirdParty": 1698753,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 36,
+      "-weight.document": 25,
+      "+weight.document": 28,
+      "-weight.script": 8,
+      "+weight.script": 38,
+      "-weight.image": 13,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 884,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-partenaire-des-relais-de-la-flamme-olympique-et-de-la-flamme-paralympique",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-partenaire-des-relais-de-la-flamme-olympique-et-de-la-flamme-paralympique",
+    "timestamp": 1707502053655,
+    "ranks": {
+      "hundos": 10,
+      "performance": 10,
+      "accessibility": 39,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 308
+    },
+    "firstContentfulPaint": 1731.2945,
+    "firstMeaningfulPaint": 1905.20725,
+    "speedIndex": 5954.809528079254,
+    "largestContentfulPaint": 2467.031,
+    "totalBlockingTime": 1367,
+    "cumulativeLayoutShift": 0.05589307411907655,
+    "timeToInteractive": 10466.6020395813,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 406.56100000000004,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1894141,
+      "image": 17350,
+      "imageCount": 10,
+      "script": 1340337,
+      "scriptCount": 28,
+      "document": 189503,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85352,
+      "stylesheetCount": 13,
+      "thirdParty": 1700434,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 40,
+      "-weight.document": 14,
+      "+weight.document": 39,
+      "-weight.script": 26,
+      "+weight.script": 20,
+      "-weight.image": 5,
+      "+weight.image": 39,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 503,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Bulles-de-l-eczema-atopique",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Bulles-de-l-eczema-atopique",
+    "timestamp": 1707501996831,
+    "ranks": {
+      "hundos": 11,
+      "performance": 9,
+      "accessibility": 36,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 308
+    },
+    "firstContentfulPaint": 1733.4370000000001,
+    "firstMeaningfulPaint": 1986.3580000000002,
+    "speedIndex": 5745.374105539812,
+    "largestContentfulPaint": 2465.2350000000006,
+    "totalBlockingTime": 1331.999999999999,
+    "cumulativeLayoutShift": 0.05710814094775213,
+    "timeToInteractive": 9812.588,
+    "maxPotentialFirstInputDelay": 218,
+    "timeToFirstByte": 534.938,
+    "weight": {
+      "summary": "102 requests • 1,8 MiB",
+      "total": 1894042,
+      "image": 17356,
+      "imageCount": 11,
+      "script": 1340086,
+      "scriptCount": 28,
+      "document": 190416,
+      "font": 22185,
+      "fontCount": 13,
+      "stylesheet": 85357,
+      "stylesheetCount": 13,
+      "thirdParty": 1699635,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 41,
+      "-weight.document": 16,
+      "+weight.document": 37,
+      "-weight.script": 14,
+      "+weight.script": 32,
+      "-weight.image": 6,
+      "+weight.image": 38,
+      "-weight.font": 1,
+      "+weight.font": 19,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 625,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/la-douleur-pendant-le-confinement",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/la-douleur-pendant-le-confinement",
+    "timestamp": 1707501925843,
+    "ranks": {
+      "hundos": 13,
+      "performance": 14,
+      "accessibility": 31,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 307
+    },
+    "firstContentfulPaint": 1740.2439999999997,
+    "firstMeaningfulPaint": 1928.8554999999997,
+    "speedIndex": 6291.647438653694,
+    "largestContentfulPaint": 2495.933,
+    "totalBlockingTime": 1184,
+    "cumulativeLayoutShift": 0.09221218104495747,
+    "timeToInteractive": 12030.073269790651,
+    "maxPotentialFirstInputDelay": 203,
+    "timeToFirstByte": 766.403,
+    "weight": {
+      "summary": "88 requests • 1,7 MiB",
+      "total": 1774101,
+      "image": 17348,
+      "imageCount": 11,
+      "script": 1360214,
+      "scriptCount": 28,
+      "document": 194097,
+      "font": 42962,
+      "fontCount": 13,
+      "stylesheet": 85355,
+      "stylesheetCount": 13,
+      "thirdParty": 1556154,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 48,
+      "-weight.document": 26,
+      "+weight.document": 27,
+      "-weight.script": 36,
+      "+weight.script": 10,
+      "-weight.image": 3,
+      "+weight.image": 41,
+      "-weight.font": 8,
+      "+weight.font": 12,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 817,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-s-unit-a-la-startup-francaise-mis",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-s-unit-a-la-startup-francaise-mis",
+    "timestamp": 1707503382481,
+    "ranks": {
+      "hundos": 14,
+      "performance": 16,
+      "accessibility": 6,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.87,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 307
+    },
+    "firstContentfulPaint": 1773.5035,
+    "firstMeaningfulPaint": 1932.90675,
+    "speedIndex": 5956.044511643864,
+    "largestContentfulPaint": 2467.2870000000003,
+    "totalBlockingTime": 1532.499999999999,
+    "cumulativeLayoutShift": 0.06804374240583232,
+    "timeToInteractive": 9258.510539581299,
+    "maxPotentialFirstInputDelay": 216,
+    "timeToFirstByte": 644.953,
+    "weight": {
+      "summary": "120 requests • 2,0 MiB",
+      "total": 2051605,
+      "image": 73496,
+      "imageCount": 14,
+      "script": 1340102,
+      "scriptCount": 33,
+      "document": 229880,
+      "font": 42961,
+      "fontCount": 15,
+      "stylesheet": 85356,
+      "stylesheetCount": 14,
+      "thirdParty": 1833711,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 25,
+      "-weight.document": 29,
+      "+weight.document": 24,
+      "-weight.script": 18,
+      "+weight.script": 28,
+      "-weight.image": 21,
+      "+weight.image": 23,
+      "-weight.font": 7,
+      "+weight.font": 13,
+      "+weight.fontCount": 14,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 883,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/maladies-rares",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/maladies-rares",
+    "timestamp": 1707503267587,
+    "ranks": {
+      "hundos": 15,
+      "performance": 37,
+      "accessibility": 9,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.87,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 306
+    },
+    "firstContentfulPaint": 1682.83583,
+    "firstMeaningfulPaint": 1682.83583,
+    "speedIndex": 10583.092239881584,
+    "largestContentfulPaint": 2675.374945,
+    "totalBlockingTime": 3762.5,
+    "cumulativeLayoutShift": 0.05886208917675163,
+    "timeToInteractive": 17322.025834581294,
+    "maxPotentialFirstInputDelay": 235,
+    "timeToFirstByte": 590.833,
+    "weight": {
+      "summary": "226 requests • 2,6 MiB",
+      "total": 2734635,
+      "image": 281677,
+      "imageCount": 29,
+      "script": 1340094,
+      "scriptCount": 63,
+      "document": 477418,
+      "font": 22187,
+      "fontCount": 27,
+      "stylesheet": 85353,
+      "stylesheetCount": 20,
+      "thirdParty": 2344783,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 15,
+      "-weight.document": 47,
+      "+weight.document": 6,
+      "-weight.script": 15,
+      "+weight.script": 31,
+      "-weight.image": 27,
+      "+weight.image": 17,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 50,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 790,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-d-Aramon",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-d-Aramon",
+    "timestamp": 1707502236489,
+    "ranks": {
+      "hundos": 25,
+      "performance": 29,
+      "accessibility": 17,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 306
+    },
+    "firstContentfulPaint": 1741.752,
+    "firstMeaningfulPaint": 1741.752,
+    "speedIndex": 8390.054595922378,
+    "largestContentfulPaint": 2777.7739999999994,
+    "totalBlockingTime": 2960.115999999999,
+    "cumulativeLayoutShift": 0.05575415529233209,
+    "timeToInteractive": 15003.122,
+    "maxPotentialFirstInputDelay": 256,
+    "timeToFirstByte": 589.6759999999999,
+    "weight": {
+      "summary": "206 requests • 2,8 MiB",
+      "total": 2904901,
+      "image": 541697,
+      "imageCount": 24,
+      "script": 1340080,
+      "scriptCount": 57,
+      "document": 428519,
+      "font": 22187,
+      "fontCount": 25,
+      "stylesheet": 85354,
+      "stylesheetCount": 19,
+      "thirdParty": 2201672,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 13,
+      "-weight.document": 40,
+      "+weight.document": 13,
+      "-weight.script": 12,
+      "+weight.script": 34,
+      "-weight.image": 31,
+      "+weight.image": 13,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 614,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-de-sisteron",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-de-sisteron",
+    "timestamp": 1707502954034,
+    "ranks": {
+      "hundos": 26,
+      "performance": 33,
+      "accessibility": 21,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 306
+    },
+    "firstContentfulPaint": 1734.6219999999998,
+    "firstMeaningfulPaint": 1734.6219999999998,
+    "speedIndex": 10377.536562845085,
+    "largestContentfulPaint": 2627.1004999999996,
+    "totalBlockingTime": 2932.5,
+    "cumulativeLayoutShift": 0.05577837727308295,
+    "timeToInteractive": 16740.505039581298,
+    "maxPotentialFirstInputDelay": 233,
+    "timeToFirstByte": 625.154,
+    "weight": {
+      "summary": "187 requests • 2,4 MiB",
+      "total": 2568138,
+      "image": 290204,
+      "imageCount": 21,
+      "script": 1340102,
+      "scriptCount": 52,
+      "document": 385034,
+      "font": 22187,
+      "fontCount": 23,
+      "stylesheet": 85358,
+      "stylesheetCount": 18,
+      "thirdParty": 2118308,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 17,
+      "-weight.document": 34,
+      "+weight.document": 19,
+      "-weight.script": 18,
+      "+weight.script": 28,
+      "-weight.image": 28,
+      "+weight.image": 16,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 10,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 541,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-tertiaire-du-campus-sanofi-lyon",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-tertiaire-du-campus-sanofi-lyon",
+    "timestamp": 1707502251034,
+    "ranks": {
+      "hundos": 27,
+      "performance": 31,
+      "accessibility": 22,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 306
+    },
+    "firstContentfulPaint": 1744.338,
+    "firstMeaningfulPaint": 1744.338,
+    "speedIndex": 9106.12164293602,
+    "largestContentfulPaint": 2676.4515,
+    "totalBlockingTime": 3318.5,
+    "cumulativeLayoutShift": 0.05763755741032735,
+    "timeToInteractive": 15768.463039581298,
+    "maxPotentialFirstInputDelay": 260,
+    "timeToFirstByte": 616.25,
+    "weight": {
+      "summary": "186 requests • 2,3 MiB",
+      "total": 2373849,
+      "image": 92022,
+      "imageCount": 21,
+      "script": 1340067,
+      "scriptCount": 52,
+      "document": 389422,
+      "font": 22186,
+      "fontCount": 22,
+      "stylesheet": 85364,
+      "stylesheetCount": 18,
+      "thirdParty": 2122786,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 20,
+      "-weight.document": 36,
+      "+weight.document": 17,
+      "-weight.script": 7,
+      "+weight.script": 39,
+      "-weight.image": 23,
+      "+weight.image": 21,
+      "-weight.font": 2,
+      "+weight.font": 18,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 463,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/oesophagite-eosinophiles",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/oesophagite-eosinophiles",
+    "timestamp": 1707501723375,
+    "ranks": {
+      "hundos": 28,
+      "performance": 30,
+      "accessibility": 20,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 306
+    },
+    "firstContentfulPaint": 1737.3515000000002,
+    "firstMeaningfulPaint": 1737.3515000000002,
+    "speedIndex": 8607.433682057519,
+    "largestContentfulPaint": 2536.234,
+    "totalBlockingTime": 3562.0000000000005,
+    "cumulativeLayoutShift": 0.08333896803272971,
+    "timeToInteractive": 16775.340765228273,
+    "maxPotentialFirstInputDelay": 231,
+    "timeToFirstByte": 435.083,
+    "weight": {
+      "summary": "203 requests • 2,3 MiB",
+      "total": 2435053,
+      "image": 54787,
+      "imageCount": 23,
+      "script": 1360153,
+      "scriptCount": 58,
+      "document": 425062,
+      "font": 22187,
+      "fontCount": 24,
+      "stylesheet": 85418,
+      "stylesheetCount": 19,
+      "thirdParty": 2217803,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 19,
+      "-weight.document": 39,
+      "+weight.document": 14,
+      "-weight.script": 32,
+      "+weight.script": 14,
+      "-weight.image": 19,
+      "+weight.image": 25,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 9,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 48,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 572,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/les-hospices-civils-de-lyon-et-sanofi-signent-un-partenariat-strategique-fort",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/les-hospices-civils-de-lyon-et-sanofi-signent-un-partenariat-strategique-fort",
+    "timestamp": 1707502647416,
+    "ranks": {
+      "hundos": 17,
+      "performance": 21,
+      "accessibility": 28,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1737.6680000000001,
+    "firstMeaningfulPaint": 1988.7535,
+    "speedIndex": 7370.181909338172,
+    "largestContentfulPaint": 2469.1030000000005,
+    "totalBlockingTime": 1309.5000000000018,
+    "cumulativeLayoutShift": 0.07047387606318348,
+    "timeToInteractive": 14122.914,
+    "maxPotentialFirstInputDelay": 245,
+    "timeToFirstByte": 506.74899999999997,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1890816,
+      "image": 17367,
+      "imageCount": 10,
+      "script": 1340116,
+      "scriptCount": 28,
+      "document": 187152,
+      "font": 22186,
+      "fontCount": 13,
+      "stylesheet": 85349,
+      "stylesheetCount": 13,
+      "thirdParty": 1695532,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 45,
+      "-weight.document": 9,
+      "+weight.document": 44,
+      "-weight.script": 20,
+      "+weight.script": 26,
+      "-weight.image": 9,
+      "+weight.image": 35,
+      "-weight.font": 2,
+      "+weight.font": 18,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 620,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-se-mobilise-aux-cotes-de-la-croix-rouge",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-se-mobilise-aux-cotes-de-la-croix-rouge",
+    "timestamp": 1707503369145,
+    "ranks": {
+      "hundos": 22,
+      "performance": 20,
+      "accessibility": 30,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1730.0895,
+    "firstMeaningfulPaint": 1909.5422500000002,
+    "speedIndex": 7338.508830549291,
+    "largestContentfulPaint": 2469.215,
+    "totalBlockingTime": 1359.652250000001,
+    "cumulativeLayoutShift": 0.05710814094775213,
+    "timeToInteractive": 14571.501500000002,
+    "maxPotentialFirstInputDelay": 216,
+    "timeToFirstByte": 738.71,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1937642,
+      "image": 17358,
+      "imageCount": 10,
+      "script": 1360217,
+      "scriptCount": 28,
+      "document": 185753,
+      "font": 49859,
+      "fontCount": 13,
+      "stylesheet": 85358,
+      "stylesheetCount": 13,
+      "thirdParty": 1715934,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 29,
+      "-weight.document": 7,
+      "+weight.document": 46,
+      "-weight.script": 37,
+      "+weight.script": 9,
+      "-weight.image": 7,
+      "+weight.image": 37,
+      "-weight.font": 12,
+      "+weight.font": 8,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 586,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/creation-a-paris-de-Future4care-accelerateur-europeen-de-startups-en-sante-digitale",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/creation-a-paris-de-Future4care-accelerateur-europeen-de-startups-en-sante-digitale",
+    "timestamp": 1707502659884,
+    "ranks": {
+      "hundos": 23,
+      "performance": 17,
+      "accessibility": 24,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1736.4505,
+    "firstMeaningfulPaint": 1992.30675,
+    "speedIndex": 6077.309657193924,
+    "largestContentfulPaint": 2467.549,
+    "totalBlockingTime": 1384.8874954376215,
+    "cumulativeLayoutShift": 0.08611344754991146,
+    "timeToInteractive": 9517.12903501892,
+    "maxPotentialFirstInputDelay": 217,
+    "timeToFirstByte": 793.908,
+    "weight": {
+      "summary": "103 requests • 1,8 MiB",
+      "total": 1900463,
+      "image": 21319,
+      "imageCount": 12,
+      "script": 1340151,
+      "scriptCount": 28,
+      "document": 192621,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85355,
+      "stylesheetCount": 13,
+      "thirdParty": 1697702,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 37,
+      "-weight.document": 23,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 21,
+      "-weight.image": 12,
+      "+weight.image": 32,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 960,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-et-de-recherche-developpement-de-marcy-l-etoile",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-et-de-recherche-developpement-de-marcy-l-etoile",
+    "timestamp": 1707502190215,
+    "ranks": {
+      "hundos": 24,
+      "performance": 27,
+      "accessibility": 4,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.87,
+      "bestPractices": 0.7,
+      "seo": 0.91,
+      "total": 306
+    },
+    "firstContentfulPaint": 1743.6055000000001,
+    "firstMeaningfulPaint": 1743.6055000000001,
+    "speedIndex": 16797.477342153248,
+    "largestContentfulPaint": 2759.3365000000003,
+    "totalBlockingTime": 1424.5,
+    "cumulativeLayoutShift": 0.07701960745578933,
+    "timeToInteractive": 22299.9205,
+    "maxPotentialFirstInputDelay": 220,
+    "timeToFirstByte": 673.419,
+    "weight": {
+      "summary": "195 requests • 6,0 MiB",
+      "total": 6273105,
+      "image": 3996001,
+      "imageCount": 29,
+      "script": 1559800,
+      "scriptCount": 67,
+      "document": 508985,
+      "font": 0,
+      "fontCount": 29,
+      "stylesheet": 133185,
+      "stylesheetCount": 22,
+      "thirdParty": 2132008,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 51,
+      "+weight.total": 2,
+      "-weight.document": 48,
+      "+weight.document": 5,
+      "-weight.script": 44,
+      "+weight.script": 2,
+      "-weight.image": 42,
+      "+weight.image": 2,
+      "-weight.font": 1,
+      "+weight.font": 20,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 754,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/paul-fran%C3%A7ois-cossa-nomme-directeur-general-sante-grand-public-france",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/paul-fran%C3%A7ois-cossa-nomme-directeur-general-sante-grand-public-france",
+    "timestamp": 1707502030710,
+    "ranks": {
+      "hundos": 16,
+      "performance": 23,
+      "accessibility": 40,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1734.8500000000001,
+    "firstMeaningfulPaint": 1985,
+    "speedIndex": 7502.011766386557,
+    "largestContentfulPaint": 2468.3140000000003,
+    "totalBlockingTime": 1335.0000000000018,
+    "cumulativeLayoutShift": 0.05589307411907655,
+    "timeToInteractive": 14543.507500000003,
+    "maxPotentialFirstInputDelay": 237,
+    "timeToFirstByte": 441.879,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1910483,
+      "image": 17347,
+      "imageCount": 10,
+      "script": 1340078,
+      "scriptCount": 28,
+      "document": 185647,
+      "font": 42965,
+      "fontCount": 13,
+      "stylesheet": 85351,
+      "stylesheetCount": 13,
+      "thirdParty": 1697173,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 35,
+      "-weight.document": 6,
+      "+weight.document": 47,
+      "-weight.script": 11,
+      "+weight.script": 35,
+      "-weight.image": 2,
+      "+weight.image": 42,
+      "-weight.font": 9,
+      "+weight.font": 11,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 464,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/audrey-derveloy-nommee-presidente-de-sanofi-france-olivier-bogillot-nomme-directeur-general,-medecine-generale-etats-unis",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/audrey-derveloy-nommee-presidente-de-sanofi-france-olivier-bogillot-nomme-directeur-general,-medecine-generale-etats-unis",
+    "timestamp": 1707503357261,
+    "ranks": {
+      "hundos": 18,
+      "performance": 18,
+      "accessibility": 37,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1768.3725000000002,
+    "firstMeaningfulPaint": 1946.2247500000003,
+    "speedIndex": 6110.00473220034,
+    "largestContentfulPaint": 2514.0980000000004,
+    "totalBlockingTime": 1441.5000000000018,
+    "cumulativeLayoutShift": 0.0850546780072904,
+    "timeToInteractive": 14274.706000000002,
+    "maxPotentialFirstInputDelay": 219,
+    "timeToFirstByte": 494.53499999999997,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1890919,
+      "image": 17358,
+      "imageCount": 10,
+      "script": 1340139,
+      "scriptCount": 28,
+      "document": 186998,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85353,
+      "stylesheetCount": 13,
+      "thirdParty": 1697512,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 44,
+      "-weight.document": 8,
+      "+weight.document": 45,
+      "-weight.script": 24,
+      "+weight.script": 22,
+      "-weight.image": 7,
+      "+weight.image": 37,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 525,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/pour-sensibiliser-les-francais-au-bon-usage-des-antibiotiques-sanofi-et-cyclamed-lancent-la-campagne",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/pour-sensibiliser-les-francais-au-bon-usage-des-antibiotiques-sanofi-et-cyclamed-lancent-la-campagne",
+    "timestamp": 1707503526847,
+    "ranks": {
+      "hundos": 20,
+      "performance": 19,
+      "accessibility": 32,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1729.7995,
+    "firstMeaningfulPaint": 1908.0992500000002,
+    "speedIndex": 6926.927844571817,
+    "largestContentfulPaint": 2467.424,
+    "totalBlockingTime": 1453.4999999999964,
+    "cumulativeLayoutShift": 0.06682867557715674,
+    "timeToInteractive": 13990.189999999999,
+    "maxPotentialFirstInputDelay": 249,
+    "timeToFirstByte": 536.382,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1895244,
+      "image": 17370,
+      "imageCount": 10,
+      "script": 1340076,
+      "scriptCount": 28,
+      "document": 191099,
+      "font": 22185,
+      "fontCount": 13,
+      "stylesheet": 85357,
+      "stylesheetCount": 13,
+      "thirdParty": 1699672,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 38,
+      "-weight.document": 20,
+      "+weight.document": 33,
+      "-weight.script": 10,
+      "+weight.script": 36,
+      "-weight.image": 10,
+      "+weight.image": 34,
+      "-weight.font": 1,
+      "+weight.font": 19,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 713,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Destination-ETI-sante",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Destination-ETI-sante",
+    "timestamp": 1707502815464,
+    "ranks": {
+      "hundos": 19,
+      "performance": 22,
+      "accessibility": 43,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1737.0960000000002,
+    "firstMeaningfulPaint": 1988.2445000000002,
+    "speedIndex": 7464.678627461038,
+    "largestContentfulPaint": 2468.5950000000003,
+    "totalBlockingTime": 1345.5000000000018,
+    "cumulativeLayoutShift": 0.05710814094775213,
+    "timeToInteractive": 14487.145,
+    "maxPotentialFirstInputDelay": 236,
+    "timeToFirstByte": 588.763,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1915064,
+      "image": 17356,
+      "imageCount": 10,
+      "script": 1360212,
+      "scriptCount": 28,
+      "document": 190538,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85354,
+      "stylesheetCount": 13,
+      "thirdParty": 1720099,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 33,
+      "-weight.document": 17,
+      "+weight.document": 36,
+      "-weight.script": 35,
+      "+weight.script": 11,
+      "-weight.image": 6,
+      "+weight.image": 38,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 591,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/un-projet-d-une-ampleur-unique-en-Europe-dans-le-domaine-de-l-e-sante",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/un-projet-d-une-ampleur-unique-en-Europe-dans-le-domaine-de-l-e-sante",
+    "timestamp": 1707502684639,
+    "ranks": {
+      "hundos": 21,
+      "performance": 15,
+      "accessibility": 42,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 306
+    },
+    "firstContentfulPaint": 1738.126,
+    "firstMeaningfulPaint": 1916.0839999999998,
+    "speedIndex": 5680.264114127023,
+    "largestContentfulPaint": 2778.652,
+    "totalBlockingTime": 1377.84825,
+    "cumulativeLayoutShift": 0.0583232077764277,
+    "timeToInteractive": 8897.531780456542,
+    "maxPotentialFirstInputDelay": 222,
+    "timeToFirstByte": 663.53,
+    "weight": {
+      "summary": "102 requests • 1,9 MiB",
+      "total": 1948876,
+      "image": 47175,
+      "imageCount": 11,
+      "script": 1340139,
+      "scriptCount": 28,
+      "document": 192877,
+      "font": 44418,
+      "fontCount": 13,
+      "stylesheet": 85352,
+      "stylesheetCount": 13,
+      "thirdParty": 1698792,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 28,
+      "-weight.document": 24,
+      "+weight.document": 29,
+      "-weight.script": 24,
+      "+weight.script": 22,
+      "-weight.image": 17,
+      "+weight.image": 27,
+      "-weight.font": 10,
+      "+weight.font": 10,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 781,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre",
+    "timestamp": 1707502939653,
+    "ranks": {
+      "hundos": 31,
+      "performance": 32,
+      "accessibility": 2,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.88,
+      "bestPractices": 0.7,
+      "seo": 0.9,
+      "total": 305
+    },
+    "firstContentfulPaint": 1760.1185,
+    "firstMeaningfulPaint": 1760.1185,
+    "speedIndex": 9941.059368142973,
+    "largestContentfulPaint": 2959.4215000000004,
+    "totalBlockingTime": 1677.500000000001,
+    "cumulativeLayoutShift": 0.05528831161870871,
+    "timeToInteractive": 19791.090000000004,
+    "maxPotentialFirstInputDelay": 260,
+    "timeToFirstByte": 1527.821,
+    "weight": {
+      "summary": "168 requests • 5,6 MiB",
+      "total": 5845342,
+      "image": 3781783,
+      "imageCount": 43,
+      "script": 1353774,
+      "scriptCount": 42,
+      "document": 274000,
+      "font": 22186,
+      "fontCount": 21,
+      "stylesheet": 133088,
+      "stylesheetCount": 17,
+      "thirdParty": 1868280,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 3,
+      "-weight.document": 31,
+      "+weight.document": 22,
+      "-weight.script": 31,
+      "+weight.script": 15,
+      "-weight.image": 41,
+      "+weight.image": 3,
+      "-weight.font": 2,
+      "+weight.font": 18,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 1100,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-de-ploermel",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-de-ploermel",
+    "timestamp": 1707503003308,
+    "ranks": {
+      "hundos": 33,
+      "performance": 38,
+      "accessibility": 23,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 305
+    },
+    "firstContentfulPaint": 1733.084,
+    "firstMeaningfulPaint": 1733.084,
+    "speedIndex": 11551.477095968887,
+    "largestContentfulPaint": 2623.4525,
+    "totalBlockingTime": 3222,
+    "cumulativeLayoutShift": 0.061168019952501325,
+    "timeToInteractive": 19390.91074,
+    "maxPotentialFirstInputDelay": 239,
+    "timeToFirstByte": 727.0880000000001,
+    "weight": {
+      "summary": "185 requests • 2,2 MiB",
+      "total": 2350822,
+      "image": 70249,
+      "imageCount": 20,
+      "script": 1340116,
+      "scriptCount": 52,
+      "document": 386820,
+      "font": 22187,
+      "fontCount": 22,
+      "stylesheet": 85358,
+      "stylesheetCount": 18,
+      "thirdParty": 2123207,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 21,
+      "-weight.document": 35,
+      "+weight.document": 18,
+      "-weight.script": 20,
+      "+weight.script": 26,
+      "-weight.image": 20,
+      "+weight.image": 24,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 422,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/maladiescardiovasculaires",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/maladiescardiovasculaires",
+    "timestamp": 1707501575356,
+    "ranks": {
+      "hundos": 34,
+      "performance": 36,
+      "accessibility": 19,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 305
+    },
+    "firstContentfulPaint": 1737.8190000000002,
+    "firstMeaningfulPaint": 1737.8190000000002,
+    "speedIndex": 10166.171988531529,
+    "largestContentfulPaint": 2777.6870000000004,
+    "totalBlockingTime": 3752.5,
+    "cumulativeLayoutShift": 0.05786755771567436,
+    "timeToInteractive": 16600.66153501892,
+    "maxPotentialFirstInputDelay": 242,
+    "timeToFirstByte": 583.376,
+    "weight": {
+      "summary": "223 requests • 3,2 MiB",
+      "total": 3406253,
+      "image": 914287,
+      "imageCount": 27,
+      "script": 1340102,
+      "scriptCount": 63,
+      "document": 475005,
+      "font": 63542,
+      "fontCount": 27,
+      "stylesheet": 85354,
+      "stylesheetCount": 20,
+      "thirdParty": 2290152,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 10,
+      "-weight.document": 46,
+      "+weight.document": 7,
+      "-weight.script": 18,
+      "+weight.script": 28,
+      "-weight.image": 35,
+      "+weight.image": 9,
+      "-weight.font": 18,
+      "+weight.font": 2,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 49,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 573,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-du-trait",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-du-trait",
+    "timestamp": 1707502266549,
+    "ranks": {
+      "hundos": 32,
+      "performance": 39,
+      "accessibility": 27,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 305
+    },
+    "firstContentfulPaint": 1702.9215,
+    "firstMeaningfulPaint": 1702.9215,
+    "speedIndex": 15803.524838152749,
+    "largestContentfulPaint": 2790.184,
+    "totalBlockingTime": 2505.5,
+    "cumulativeLayoutShift": 0.05558698667067289,
+    "timeToInteractive": 24695.477499999997,
+    "maxPotentialFirstInputDelay": 235,
+    "timeToFirstByte": 625.126,
+    "weight": {
+      "summary": "208 requests • 4,6 MiB",
+      "total": 4841922,
+      "image": 2478529,
+      "imageCount": 27,
+      "script": 1340069,
+      "scriptCount": 57,
+      "document": 429014,
+      "font": 22187,
+      "fontCount": 25,
+      "stylesheet": 85357,
+      "stylesheetCount": 19,
+      "thirdParty": 2258898,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 5,
+      "-weight.document": 41,
+      "+weight.document": 12,
+      "-weight.script": 9,
+      "+weight.script": 37,
+      "-weight.image": 39,
+      "+weight.image": 5,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 634,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-inaugure-avec-edf-enr-son-premier-parc-photovolta%C3%AFque-en-autoconsommation-sur-son-site-de-montpellier",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-inaugure-avec-edf-enr-son-premier-parc-photovolta%C3%AFque-en-autoconsommation-sur-son-site-de-montpellier",
+    "timestamp": 1707502838654,
+    "ranks": {
+      "hundos": 30,
+      "performance": 6,
+      "accessibility": 50,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.82,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 305
+    },
+    "firstContentfulPaint": 1776.4419999999998,
+    "firstMeaningfulPaint": 1961.4685,
+    "speedIndex": 5427.6944328786585,
+    "largestContentfulPaint": 2542.63,
+    "totalBlockingTime": 1305.000000000001,
+    "cumulativeLayoutShift": 0.05589307411907655,
+    "timeToInteractive": 8633.1785,
+    "maxPotentialFirstInputDelay": 217.00000000000045,
+    "timeToFirstByte": 591.943,
+    "weight": {
+      "summary": "102 requests • 1,8 MiB",
+      "total": 1936026,
+      "image": 17359,
+      "imageCount": 11,
+      "script": 1360233,
+      "scriptCount": 28,
+      "document": 189886,
+      "font": 44419,
+      "fontCount": 13,
+      "stylesheet": 85352,
+      "stylesheetCount": 13,
+      "thirdParty": 1718314,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 30,
+      "-weight.document": 15,
+      "+weight.document": 38,
+      "-weight.script": 39,
+      "+weight.script": 7,
+      "-weight.image": 8,
+      "+weight.image": 36,
+      "-weight.font": 11,
+      "+weight.font": 9,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 541,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/faire-de-la-france-un-leader-mondial-des-therapies-geniques-basees-su--l-IA",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/faire-de-la-france-un-leader-mondial-des-therapies-geniques-basees-su--l-IA",
+    "timestamp": 1707502065482,
+    "ranks": {
+      "hundos": 29,
+      "performance": 5,
+      "accessibility": 51,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.82,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 305
+    },
+    "firstContentfulPaint": 1729.721,
+    "firstMeaningfulPaint": 1908.282,
+    "speedIndex": 5405.126214378295,
+    "largestContentfulPaint": 2469.036,
+    "totalBlockingTime": 1400.0007302093518,
+    "cumulativeLayoutShift": 0.05589307411907655,
+    "timeToInteractive": 9781.747500000001,
+    "maxPotentialFirstInputDelay": 217,
+    "timeToFirstByte": 486.39900000000006,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1915177,
+      "image": 17356,
+      "imageCount": 10,
+      "script": 1340069,
+      "scriptCount": 28,
+      "document": 190584,
+      "font": 42960,
+      "fontCount": 13,
+      "stylesheet": 85349,
+      "stylesheetCount": 13,
+      "thirdParty": 1696353,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 32,
+      "-weight.document": 18,
+      "+weight.document": 35,
+      "-weight.script": 9,
+      "+weight.script": 37,
+      "-weight.image": 6,
+      "+weight.image": 38,
+      "-weight.font": 6,
+      "+weight.font": 14,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 636,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/science-et-innovation/notre-recherche-et-developpement",
+    "requestedUrl": "https://www.sanofi.fr/fr/science-et-innovation",
+    "timestamp": 1707502306085,
+    "ranks": {
+      "hundos": 35,
+      "performance": 35,
+      "accessibility": 3,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.87,
+      "bestPractices": 0.7,
+      "seo": 0.91,
+      "total": 304
+    },
+    "firstContentfulPaint": 1957.377,
+    "firstMeaningfulPaint": 1957.377,
+    "speedIndex": 9475.587084741295,
+    "largestContentfulPaint": 3112.641,
+    "totalBlockingTime": 1590,
+    "cumulativeLayoutShift": 0.06451089786757629,
+    "timeToInteractive": 16596.1975,
+    "maxPotentialFirstInputDelay": 224,
+    "timeToFirstByte": 1581.388,
+    "weight": {
+      "summary": "158 requests • 4,5 MiB",
+      "total": 4721785,
+      "image": 2490414,
+      "imageCount": 28,
+      "script": 1390990,
+      "scriptCount": 45,
+      "document": 403966,
+      "font": 22187,
+      "fontCount": 23,
+      "stylesheet": 133089,
+      "stylesheetCount": 18,
+      "thirdParty": 2084397,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 6,
+      "-weight.document": 38,
+      "+weight.document": 15,
+      "-weight.script": 43,
+      "+weight.script": 3,
+      "-weight.image": 40,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 10,
+      "-timeToFirstByte": 51,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 1439,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/prurigo-nodulaire",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/prurigo-nodulaire",
+    "timestamp": 1707503302802,
+    "ranks": {
+      "hundos": 37,
+      "performance": 40,
+      "accessibility": 26,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 304
+    },
+    "firstContentfulPaint": 1734.906,
+    "firstMeaningfulPaint": 1734.906,
+    "speedIndex": 10869.322854404558,
+    "largestContentfulPaint": 2622.513,
+    "totalBlockingTime": 2956.500000000002,
+    "cumulativeLayoutShift": 0.09461488843234275,
+    "timeToInteractive": 17417.6095395813,
+    "maxPotentialFirstInputDelay": 232,
+    "timeToFirstByte": 699.2439999999999,
+    "weight": {
+      "summary": "201 requests • 2,3 MiB",
+      "total": 2440283,
+      "image": 349261,
+      "imageCount": 29,
+      "script": 1360212,
+      "scriptCount": 68,
+      "document": 513777,
+      "font": 56202,
+      "fontCount": 28,
+      "stylesheet": 85364,
+      "stylesheetCount": 21,
+      "thirdParty": 1897345,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 18,
+      "-weight.document": 49,
+      "+weight.document": 4,
+      "-weight.script": 35,
+      "+weight.script": 11,
+      "-weight.image": 29,
+      "+weight.image": 15,
+      "-weight.font": 16,
+      "+weight.font": 4,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 689,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/la-meningite-a-meningocoques",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/la-meningite-a-meningocoques",
+    "timestamp": 1707503286262,
+    "ranks": {
+      "hundos": 39,
+      "performance": 34,
+      "accessibility": 5,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.87,
+      "bestPractices": 0.7,
+      "seo": 0.91,
+      "total": 304
+    },
+    "firstContentfulPaint": 1776.717,
+    "firstMeaningfulPaint": 1776.717,
+    "speedIndex": 9437.65483011128,
+    "largestContentfulPaint": 2697.9000000000005,
+    "totalBlockingTime": 3784.586000000001,
+    "cumulativeLayoutShift": 0.05513476464170293,
+    "timeToInteractive": 16365.705520000003,
+    "maxPotentialFirstInputDelay": 280,
+    "timeToFirstByte": 844.402,
+    "weight": {
+      "summary": "263 requests • 4,6 MiB",
+      "total": 4875345,
+      "image": 2230366,
+      "imageCount": 37,
+      "script": 1360182,
+      "scriptCount": 73,
+      "document": 565985,
+      "font": 22187,
+      "fontCount": 31,
+      "stylesheet": 85354,
+      "stylesheetCount": 22,
+      "thirdParty": 2568385,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 4,
+      "-weight.document": 50,
+      "+weight.document": 3,
+      "-weight.script": 33,
+      "+weight.script": 13,
+      "-weight.image": 38,
+      "+weight.image": 6,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 51,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 922,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/nos-actualites/la-normandie-un-territoire-d-avenir-pour-sanofi",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/nos-actualites/la-normandie-un-territoire-d-avenir-pour-sanofi",
+    "timestamp": 1707502108413,
+    "ranks": {
+      "hundos": 38,
+      "performance": 42,
+      "accessibility": 8,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.87,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 304
+    },
+    "firstContentfulPaint": 1761.359,
+    "firstMeaningfulPaint": 1761.359,
+    "speedIndex": 8660.6136893069,
+    "largestContentfulPaint": 3148.692,
+    "totalBlockingTime": 3354.57575,
+    "cumulativeLayoutShift": 0.05632306019054399,
+    "timeToInteractive": 15652.804,
+    "maxPotentialFirstInputDelay": 270,
+    "timeToFirstByte": 800.263,
+    "weight": {
+      "summary": "204 requests • 2,5 MiB",
+      "total": 2584452,
+      "image": 215661,
+      "imageCount": 22,
+      "script": 1340105,
+      "scriptCount": 56,
+      "document": 403007,
+      "font": 53111,
+      "fontCount": 25,
+      "stylesheet": 85352,
+      "stylesheetCount": 19,
+      "thirdParty": 2229221,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 16,
+      "-weight.document": 37,
+      "+weight.document": 16,
+      "-weight.script": 19,
+      "+weight.script": 27,
+      "-weight.image": 26,
+      "+weight.image": 18,
+      "-weight.font": 14,
+      "+weight.font": 6,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 844,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/Nos-medicaments-et-produits-de-sante/nos-medicaments-et-dispositifs-medicaux-SanofiWinthropIndustrie",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/Nos-medicaments-et-produits-de-sante/nos-medicaments-et-dispositifs-medicaux-SanofiWinthropIndustrie",
+    "timestamp": 1707501443745,
+    "ranks": {
+      "hundos": 36,
+      "performance": 25,
+      "accessibility": 47,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.83,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 304
+    },
+    "firstContentfulPaint": 1738.6879999999996,
+    "firstMeaningfulPaint": 1738.6879999999996,
+    "speedIndex": 8069.216757895814,
+    "largestContentfulPaint": 2487.23,
+    "totalBlockingTime": 2757.5,
+    "cumulativeLayoutShift": 0.08805437424058324,
+    "timeToInteractive": 13686.769039581299,
+    "maxPotentialFirstInputDelay": 287,
+    "timeToFirstByte": 640.393,
+    "weight": {
+      "summary": "168 requests • 2,2 MiB",
+      "total": 2267269,
+      "image": 39108,
+      "imageCount": 18,
+      "script": 1340441,
+      "scriptCount": 47,
+      "document": 357303,
+      "font": 40574,
+      "fontCount": 20,
+      "stylesheet": 85355,
+      "stylesheetCount": 17,
+      "thirdParty": 2037476,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 23,
+      "-weight.document": 32,
+      "+weight.document": 21,
+      "-weight.script": 28,
+      "+weight.script": 18,
+      "-weight.image": 16,
+      "+weight.image": 28,
+      "-weight.font": 4,
+      "+weight.font": 16,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 2416,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques",
+    "timestamp": 1707502395326,
+    "ranks": {
+      "hundos": 40,
+      "performance": 43,
+      "accessibility": 14,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 301
+    },
+    "firstContentfulPaint": 1759.0015000000003,
+    "firstMeaningfulPaint": 1759.0015000000003,
+    "speedIndex": 10638.110880318807,
+    "largestContentfulPaint": 3218.2080000000005,
+    "totalBlockingTime": 3495.5,
+    "cumulativeLayoutShift": 0.06667533196176467,
+    "timeToInteractive": 17008.931039581297,
+    "maxPotentialFirstInputDelay": 232,
+    "timeToFirstByte": 1026.591,
+    "weight": {
+      "summary": "224 requests • 4,3 MiB",
+      "total": 4522229,
+      "image": 2154754,
+      "imageCount": 43,
+      "script": 1340058,
+      "scriptCount": 58,
+      "document": 433729,
+      "font": 22187,
+      "fontCount": 25,
+      "stylesheet": 85353,
+      "stylesheetCount": 19,
+      "thirdParty": 2207574,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 7,
+      "-weight.document": 43,
+      "+weight.document": 10,
+      "-weight.script": 5,
+      "+weight.script": 41,
+      "-weight.image": 37,
+      "+weight.image": 7,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 685,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-de-neuville-sur-saone",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-production-de-neuville-sur-saone",
+    "timestamp": 1707502174174,
+    "ranks": {
+      "hundos": 42,
+      "performance": 46,
+      "accessibility": 15,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 300
+    },
+    "firstContentfulPaint": 1735.19,
+    "firstMeaningfulPaint": 1735.19,
+    "speedIndex": 11241.828180393768,
+    "largestContentfulPaint": 3351.3415,
+    "totalBlockingTime": 3356.3969999999995,
+    "cumulativeLayoutShift": 0.06300107674509672,
+    "timeToInteractive": 18027.023039581298,
+    "maxPotentialFirstInputDelay": 263,
+    "timeToFirstByte": 662.224,
+    "weight": {
+      "summary": "208 requests • 3,0 MiB",
+      "total": 3131290,
+      "image": 747542,
+      "imageCount": 26,
+      "script": 1360196,
+      "scriptCount": 57,
+      "document": 429724,
+      "font": 22187,
+      "fontCount": 25,
+      "stylesheet": 85350,
+      "stylesheetCount": 19,
+      "thirdParty": 2222941,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 11,
+      "-weight.document": 42,
+      "+weight.document": 11,
+      "-weight.script": 34,
+      "+weight.script": 12,
+      "-weight.image": 34,
+      "+weight.image": 10,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 654,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/nos-actualites/comprendre-l-epilepsie-pour-en-finir-avec-les-prejuges",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/nos-actualites/comprendre-l-epilepsie-pour-en-finir-avec-les-prejuges",
+    "timestamp": 1707502888471,
+    "ranks": {
+      "hundos": 41,
+      "performance": 45,
+      "accessibility": 41,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 300
+    },
+    "firstContentfulPaint": 1746.1407900000002,
+    "firstMeaningfulPaint": 1746.1407900000002,
+    "speedIndex": 9269.704427538218,
+    "largestContentfulPaint": 2967.60399,
+    "totalBlockingTime": 2973.000000000001,
+    "cumulativeLayoutShift": 0.13046337235072855,
+    "timeToInteractive": 14966.227909581296,
+    "maxPotentialFirstInputDelay": 245,
+    "timeToFirstByte": 652.053,
+    "weight": {
+      "summary": "184 requests • 2,2 MiB",
+      "total": 2338703,
+      "image": 77583,
+      "imageCount": 18,
+      "script": 1340117,
+      "scriptCount": 51,
+      "document": 367353,
+      "font": 22187,
+      "fontCount": 22,
+      "stylesheet": 85354,
+      "stylesheetCount": 18,
+      "thirdParty": 2087110,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 22,
+      "-weight.document": 33,
+      "+weight.document": 20,
+      "-weight.script": 21,
+      "+weight.script": 25,
+      "-weight.image": 22,
+      "+weight.image": 22,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 804,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-investit-15-millions-d-euros-sur-son-site-de-bioproduction-de-lyon-gerland",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/sanofi-investit-15-millions-d-euros-sur-son-site-de-bioproduction-de-lyon-gerland",
+    "timestamp": 1707502710159,
+    "ranks": {
+      "hundos": 43,
+      "performance": 28,
+      "accessibility": 35,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 299
+    },
+    "firstContentfulPaint": 1769.8680000000004,
+    "firstMeaningfulPaint": 1960.7270000000003,
+    "speedIndex": 6241.105962330816,
+    "largestContentfulPaint": 3473.516,
+    "totalBlockingTime": 1470.1849999999995,
+    "cumulativeLayoutShift": 0.0692588092345079,
+    "timeToInteractive": 9884.053539581299,
+    "maxPotentialFirstInputDelay": 406,
+    "timeToFirstByte": 510.02099999999996,
+    "weight": {
+      "summary": "102 requests • 1,9 MiB",
+      "total": 1977153,
+      "image": 98277,
+      "imageCount": 11,
+      "script": 1340397,
+      "scriptCount": 28,
+      "document": 192184,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85355,
+      "stylesheetCount": 13,
+      "thirdParty": 1701013,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 27,
+      "-weight.document": 21,
+      "+weight.document": 32,
+      "-weight.script": 27,
+      "+weight.script": 19,
+      "-weight.image": 24,
+      "+weight.image": 20,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "passes": 673,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/dermatite-atopique",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/dermatite-atopique",
+    "timestamp": 1707502430481,
+    "ranks": {
+      "hundos": 44,
+      "performance": 49,
+      "accessibility": 7,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.87,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 299
+    },
+    "firstContentfulPaint": 1738.9279999999999,
+    "firstMeaningfulPaint": 1738.9279999999999,
+    "speedIndex": 10278.03199110008,
+    "largestContentfulPaint": 3054.098,
+    "totalBlockingTime": 3117.6680000000006,
+    "cumulativeLayoutShift": 0.1481458853810657,
+    "timeToInteractive": 16567.60526979065,
+    "maxPotentialFirstInputDelay": 259,
+    "timeToFirstByte": 882.889,
+    "weight": {
+      "summary": "227 requests • 2,7 MiB",
+      "total": 2883177,
+      "image": 399425,
+      "imageCount": 31,
+      "script": 1340084,
+      "scriptCount": 63,
+      "document": 474195,
+      "font": 56202,
+      "fontCount": 27,
+      "stylesheet": 85352,
+      "stylesheetCount": 20,
+      "thirdParty": 2368285,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 14,
+      "-weight.document": 45,
+      "+weight.document": 8,
+      "-weight.script": 13,
+      "+weight.script": 33,
+      "-weight.image": 30,
+      "+weight.image": 14,
+      "-weight.font": 16,
+      "+weight.font": 4,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 995,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Sanofi-consacre-100-millions-d-euros-dans-la-lutte-contre-le-Covid-19",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Sanofi-consacre-100-millions-d-euros-dans-la-lutte-contre-le-Covid-19",
+    "timestamp": 1707502733923,
+    "ranks": {
+      "hundos": 45,
+      "performance": 50,
+      "accessibility": 33,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.91,
+      "total": 291
+    },
+    "firstContentfulPaint": 1760.4994000000002,
+    "firstMeaningfulPaint": 1984.3746500000002,
+    "speedIndex": 7915.007966087033,
+    "largestContentfulPaint": 5703.96285,
+    "totalBlockingTime": 1391.500000000001,
+    "cumulativeLayoutShift": 0.08096523273233425,
+    "timeToInteractive": 15116.33905,
+    "maxPotentialFirstInputDelay": 221,
+    "timeToFirstByte": 739.794,
+    "weight": {
+      "summary": "103 requests • 2,0 MiB",
+      "total": 2081968,
+      "image": 151452,
+      "imageCount": 12,
+      "script": 1340097,
+      "scriptCount": 28,
+      "document": 192215,
+      "font": 73876,
+      "fontCount": 13,
+      "stylesheet": 85357,
+      "stylesheetCount": 13,
+      "thirdParty": 1698835,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 24,
+      "-weight.document": 22,
+      "+weight.document": 31,
+      "-weight.script": 16,
+      "+weight.script": 30,
+      "-weight.image": 25,
+      "+weight.image": 19,
+      "-weight.font": 19,
+      "+weight.font": 1,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 52
+    },
+    "axe": {
+      "passes": 703,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/la-solution-digitale-l-arbre-conseils-mal-de-tete-de-sanofi-est-laureate-du-prix-galien-2023",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/la-solution-digitale-l-arbre-conseils-mal-de-tete-de-sanofi-est-laureate-du-prix-galien-2023",
+    "timestamp": 1707502872890,
+    "ranks": {
+      "hundos": 46,
+      "performance": 44,
+      "accessibility": 49,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.82,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 289
+    },
+    "firstContentfulPaint": 1731.2415,
+    "firstMeaningfulPaint": 1982.7087500000002,
+    "speedIndex": 7520.327665090013,
+    "largestContentfulPaint": 2467.524,
+    "totalBlockingTime": 1372.500000000001,
+    "cumulativeLayoutShift": 0.2533414337788578,
+    "timeToInteractive": 14526.806,
+    "maxPotentialFirstInputDelay": 239,
+    "timeToFirstByte": 429.237,
+    "weight": {
+      "summary": "101 requests • 1,8 MiB",
+      "total": 1891962,
+      "image": 17348,
+      "imageCount": 10,
+      "script": 1340055,
+      "scriptCount": 28,
+      "document": 187813,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85357,
+      "stylesheetCount": 13,
+      "thirdParty": 1698780,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 42,
+      "-weight.document": 11,
+      "+weight.document": 42,
+      "-weight.script": 4,
+      "+weight.script": 42,
+      "-weight.image": 3,
+      "+weight.image": 41,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 485,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/travailler-chez-nous/nos-diversites-notre-force",
+    "requestedUrl": "https://www.sanofi.fr/fr/travailler-chez-nous/nos-diversites-notre-force",
+    "timestamp": 1707503332255,
+    "ranks": {
+      "hundos": 47,
+      "performance": 26,
+      "accessibility": 12,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.86,
+      "bestPractices": 0.52,
+      "seo": 0.91,
+      "total": 287
+    },
+    "firstContentfulPaint": 1766.8498699999998,
+    "firstMeaningfulPaint": 1766.8498699999998,
+    "speedIndex": 10748.305833058042,
+    "largestContentfulPaint": 2925.225765,
+    "totalBlockingTime": 1460.5000000000018,
+    "cumulativeLayoutShift": 0.06223020184924832,
+    "timeToInteractive": 18432.60369,
+    "maxPotentialFirstInputDelay": 377.00000000000364,
+    "timeToFirstByte": 854.133,
+    "weight": {
+      "summary": "125 requests • 3,4 MiB",
+      "total": 3521366,
+      "image": 1541801,
+      "imageCount": 18,
+      "script": 1353485,
+      "scriptCount": 34,
+      "document": 238461,
+      "font": 22187,
+      "fontCount": 15,
+      "stylesheet": 85351,
+      "stylesheetCount": 14,
+      "thirdParty": 1783478,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 9,
+      "-weight.document": 30,
+      "+weight.document": 23,
+      "-weight.script": 29,
+      "+weight.script": 17,
+      "-weight.image": 36,
+      "+weight.image": 8,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 14,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 920,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse/Sanofi-France-et-l-universite-de-Bordeaux-signent-une-convention-de-partenariat-pour-mieux-preparer-les-futurs-diplomes-a-la-vie-active",
+    "timestamp": 1707503456091,
+    "ranks": {
+      "hundos": 48,
+      "performance": 51,
+      "accessibility": 11,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.39,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.92,
+      "total": 287
+    },
+    "firstContentfulPaint": 1722.6842599999998,
+    "firstMeaningfulPaint": 2069.6578,
+    "speedIndex": 7384.2066940108,
+    "largestContentfulPaint": 2676.73929,
+    "totalBlockingTime": 1330.000000000001,
+    "cumulativeLayoutShift": 1.0123431454628098,
+    "timeToInteractive": 13510.38797,
+    "maxPotentialFirstInputDelay": 205.0000000000009,
+    "timeToFirstByte": 1273.306,
+    "weight": {
+      "summary": "113 requests • 1,9 MiB",
+      "total": 1981912,
+      "image": 27346,
+      "imageCount": 12,
+      "script": 1373607,
+      "scriptCount": 35,
+      "document": 200941,
+      "font": 54753,
+      "fontCount": 13,
+      "stylesheet": 85352,
+      "stylesheetCount": 15,
+      "thirdParty": 1718537,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 26,
+      "-weight.document": 27,
+      "+weight.document": 26,
+      "-weight.script": 40,
+      "+weight.script": 6,
+      "-weight.image": 15,
+      "+weight.image": 29,
+      "-weight.font": 15,
+      "+weight.font": 5,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 1444,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-distribution-de-croissy-beaubourg",
+    "requestedUrl": "https://www.sanofi.fr/fr/nous-connaitre/nos-sites-en-france/le-site-de-distribution-de-croissy-beaubourg",
+    "timestamp": 1707503019128,
+    "ranks": {
+      "hundos": 49,
+      "performance": 41,
+      "accessibility": 16,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.86,
+      "bestPractices": 0.52,
+      "seo": 0.93,
+      "total": 286
+    },
+    "firstContentfulPaint": 1740.09,
+    "firstMeaningfulPaint": 1740.09,
+    "speedIndex": 13616.657541594494,
+    "largestContentfulPaint": 2883.514,
+    "totalBlockingTime": 3443.9999999999995,
+    "cumulativeLayoutShift": 0.05598772439242968,
+    "timeToInteractive": 22179.785499999998,
+    "maxPotentialFirstInputDelay": 262,
+    "timeToFirstByte": 604.475,
+    "weight": {
+      "summary": "220 requests • 2,9 MiB",
+      "total": 3010128,
+      "image": 558390,
+      "imageCount": 25,
+      "script": 1373609,
+      "scriptCount": 62,
+      "document": 442190,
+      "font": 22187,
+      "fontCount": 26,
+      "stylesheet": 85354,
+      "stylesheetCount": 20,
+      "thirdParty": 2278111,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 12,
+      "-weight.document": 44,
+      "+weight.document": 9,
+      "-weight.script": 41,
+      "+weight.script": 5,
+      "-weight.image": 32,
+      "+weight.image": 12,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 644,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse",
+    "requestedUrl": "https://www.sanofi.fr/fr/Actualites/communiques-et-dossiers-de-presse",
+    "timestamp": 1707502588711,
+    "ranks": {
+      "hundos": 50,
+      "performance": 52,
+      "accessibility": 11,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.37,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.92,
+      "total": 285
+    },
+    "firstContentfulPaint": 1735.801,
+    "firstMeaningfulPaint": 2008.0404999999998,
+    "speedIndex": 8071.403047569683,
+    "largestContentfulPaint": 2545.0325000000003,
+    "totalBlockingTime": 1643.5,
+    "cumulativeLayoutShift": 1.0123431454628098,
+    "timeToInteractive": 14779.443,
+    "maxPotentialFirstInputDelay": 433,
+    "timeToFirstByte": 1331.903,
+    "weight": {
+      "summary": "109 requests • 1,8 MiB",
+      "total": 1929579,
+      "image": 27336,
+      "imageCount": 12,
+      "script": 1353489,
+      "scriptCount": 32,
+      "document": 202388,
+      "font": 22187,
+      "fontCount": 13,
+      "stylesheet": 85352,
+      "stylesheetCount": 14,
+      "thirdParty": 1699600,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 31,
+      "-weight.document": 28,
+      "+weight.document": 25,
+      "-weight.script": 30,
+      "+weight.script": 16,
+      "-weight.image": 14,
+      "+weight.image": 30,
+      "-weight.font": 3,
+      "+weight.font": 17,
+      "+weight.fontCount": 15,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1444,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/science-et-innovation/notre-activite-industrielle",
+    "requestedUrl": "https://www.sanofi.fr/fr/science-et-innovation/notre-activite-industrielle",
+    "timestamp": 1707501531811,
+    "ranks": {
+      "hundos": 51,
+      "performance": 47,
+      "accessibility": 45,
+      "cumulative": 51
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.86,
+      "bestPractices": 0.52,
+      "seo": 0.91,
+      "total": 280
+    },
+    "firstContentfulPaint": 1996.425,
+    "firstMeaningfulPaint": 1996.425,
+    "speedIndex": 19903.66309012022,
+    "largestContentfulPaint": 3199.5660000000003,
+    "totalBlockingTime": 3517.5,
+    "cumulativeLayoutShift": 0.05710814094775213,
+    "timeToInteractive": 35039.912000000004,
+    "maxPotentialFirstInputDelay": 229,
+    "timeToFirstByte": 1718.4660000000001,
+    "weight": {
+      "summary": "387 requests • 7,0 MiB",
+      "total": 7325556,
+      "image": 4179879,
+      "imageCount": 41,
+      "script": 1390723,
+      "scriptCount": 113,
+      "document": 964553,
+      "font": 40576,
+      "fontCount": 57,
+      "stylesheet": 133095,
+      "stylesheetCount": 35,
+      "thirdParty": 2940819,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 52,
+      "+weight.total": 1,
+      "-weight.document": 52,
+      "+weight.document": 1,
+      "-weight.script": 42,
+      "+weight.script": 4,
+      "-weight.image": 43,
+      "+weight.image": 1,
+      "-weight.font": 5,
+      "+weight.font": 15,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 52,
+      "-totalBlockingTime": 47,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 1520,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/diabete-de-type-1",
+    "requestedUrl": "https://www.sanofi.fr/fr/nos-domaines-therapeutiques/diabete-de-type-1",
+    "timestamp": 1707501655466,
+    "ranks": {
+      "hundos": 52,
+      "performance": 48,
+      "accessibility": 48,
+      "cumulative": 52
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.83,
+      "bestPractices": 0.52,
+      "seo": 0.91,
+      "total": 276
+    },
+    "firstContentfulPaint": 1785.3555,
+    "firstMeaningfulPaint": 1785.3555,
+    "speedIndex": 17442.90507671525,
+    "largestContentfulPaint": 3432.0599999999986,
+    "totalBlockingTime": 6317.499999999999,
+    "cumulativeLayoutShift": 0.0656070407058783,
+    "timeToInteractive": 28154.591919982904,
+    "maxPotentialFirstInputDelay": 309,
+    "timeToFirstByte": 906.443,
+    "weight": {
+      "summary": "456 requests • 3,7 MiB",
+      "total": 3927743,
+      "image": 632587,
+      "imageCount": 60,
+      "script": 1678830,
+      "scriptCount": 120,
+      "document": 748831,
+      "font": 53092,
+      "fontCount": 66,
+      "stylesheet": 134417,
+      "stylesheetCount": 40,
+      "thirdParty": 3313344,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 8,
+      "-weight.document": 51,
+      "+weight.document": 2,
+      "-weight.script": 45,
+      "+weight.script": 1,
+      "-weight.image": 33,
+      "+weight.image": 11,
+      "-weight.font": 13,
+      "+weight.font": 7,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 52,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 2050,
+      "violations": 42
+    }
+  }
+]

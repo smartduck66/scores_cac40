@@ -1,0 +1,3352 @@
+[
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2009/5/Un-contrat-majeur-avec-un-groupe-electrique-japonais-confirme-le-succes-de-la-technologie-eolienne-dAlstom-au-Japon-20090520",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2009/5/Un-contrat-majeur-avec-un-groupe-electrique-japonais-confirme-le-succes-de-la-technologie-eolienne-dAlstom-au-Japon-20090520",
+    "timestamp": 1707572029447,
+    "ranks": {
+      "hundos": 1,
+      "performance": 2,
+      "accessibility": 40,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.92,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 372
+    },
+    "firstContentfulPaint": 2430.497,
+    "firstMeaningfulPaint": 3487.1229999999996,
+    "speedIndex": 2597.272451424741,
+    "largestContentfulPaint": 2934.516,
+    "totalBlockingTime": 1.9999999999995453,
+    "cumulativeLayoutShift": 0.03822994024110582,
+    "timeToInteractive": 4397.057000000001,
+    "maxPotentialFirstInputDelay": 52,
+    "timeToFirstByte": 106.24699999999999,
+    "weight": {
+      "summary": "67 requests • 630,3 KiB",
+      "total": 645414,
+      "image": 41063,
+      "imageCount": 38,
+      "script": 398788,
+      "scriptCount": 13,
+      "document": 52423,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44193,
+      "stylesheetCount": 3,
+      "thirdParty": 294999,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 6,
+      "-weight.document": 44,
+      "+weight.document": 6,
+      "-weight.script": 37,
+      "+weight.script": 12,
+      "-weight.image": 36,
+      "+weight.image": 13,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 1288,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2010/9/Alstom-premier-fournisseur-de-materiel-ferroviaire-aux-Pays-Bas-a-etre-certifie-Niveau-3-dans-lechelle-de-performances-CO2-ProRail-20100923",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2010/9/Alstom-premier-fournisseur-de-materiel-ferroviaire-aux-Pays-Bas-a-etre-certifie-Niveau-3-dans-lechelle-de-performances-CO2-ProRail-20100923",
+    "timestamp": 1707571626722,
+    "ranks": {
+      "hundos": 2,
+      "performance": 5,
+      "accessibility": 39,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.9,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 370
+    },
+    "firstContentfulPaint": 2344.0589999999997,
+    "firstMeaningfulPaint": 3462.699,
+    "speedIndex": 2448.895751494071,
+    "largestContentfulPaint": 3217.4134999999997,
+    "totalBlockingTime": 3,
+    "cumulativeLayoutShift": 0.03256692748065369,
+    "timeToInteractive": 4336.492,
+    "maxPotentialFirstInputDelay": 53,
+    "timeToFirstByte": 55.790000000000006,
+    "weight": {
+      "summary": "67 requests • 630,2 KiB",
+      "total": 645312,
+      "image": 41117,
+      "imageCount": 38,
+      "script": 398875,
+      "scriptCount": 13,
+      "document": 52206,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44159,
+      "stylesheetCount": 3,
+      "thirdParty": 295062,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 7,
+      "-weight.document": 43,
+      "+weight.document": 7,
+      "-weight.script": 46,
+      "+weight.script": 3,
+      "-weight.image": 39,
+      "+weight.image": 10,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 1302,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2007/10/alstom-and-balfour-beatty-create-signalling-joint-venture-company-in-uk",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2007/10/alstom-and-balfour-beatty-create-signalling-joint-venture-company-in-uk",
+    "timestamp": 1707571576311,
+    "ranks": {
+      "hundos": 3,
+      "performance": 1,
+      "accessibility": 15,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.92,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 370
+    },
+    "firstContentfulPaint": 2372.783,
+    "firstMeaningfulPaint": 3425.783,
+    "speedIndex": 2490.760969062598,
+    "largestContentfulPaint": 2906.0370000000003,
+    "totalBlockingTime": 3,
+    "cumulativeLayoutShift": 0.05069295102563558,
+    "timeToInteractive": 4365.144,
+    "maxPotentialFirstInputDelay": 53,
+    "timeToFirstByte": 112.68,
+    "weight": {
+      "summary": "67 requests • 622,7 KiB",
+      "total": 637631,
+      "image": 40677,
+      "imageCount": 38,
+      "script": 393851,
+      "scriptCount": 13,
+      "document": 50012,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44147,
+      "stylesheetCount": 3,
+      "thirdParty": 295009,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 37,
+      "-weight.document": 25,
+      "+weight.document": 25,
+      "-weight.script": 9,
+      "+weight.script": 40,
+      "-weight.image": 14,
+      "+weight.image": 35,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 1310,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/es/press-releases-news/2014/1/alstom-grid-completa-con-exito-las-pruebas-del-prototipo-de-interruptor-de-corriente-continua-de-alta-tension",
+    "requestedUrl": "https://www.alstom.com/es/press-releases-news/2014/1/alstom-grid-completa-con-exito-las-pruebas-del-prototipo-de-interruptor-de-corriente-continua-de-alta-tension",
+    "timestamp": 1707571880206,
+    "ranks": {
+      "hundos": 4,
+      "performance": 4,
+      "accessibility": 23,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.91,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 369
+    },
+    "firstContentfulPaint": 2392.7610000000004,
+    "firstMeaningfulPaint": 3457.182999999999,
+    "speedIndex": 2610.9270111789165,
+    "largestContentfulPaint": 2923.9450000000006,
+    "totalBlockingTime": 4,
+    "cumulativeLayoutShift": 0.06647379791498838,
+    "timeToInteractive": 4382.524000000001,
+    "maxPotentialFirstInputDelay": 54,
+    "timeToFirstByte": 148.26,
+    "weight": {
+      "summary": "67 requests • 625,6 KiB",
+      "total": 640661,
+      "image": 40645,
+      "imageCount": 38,
+      "script": 398653,
+      "scriptCount": 13,
+      "document": 48275,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44153,
+      "stylesheetCount": 3,
+      "thirdParty": 295042,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 22,
+      "-weight.document": 7,
+      "+weight.document": 43,
+      "-weight.script": 29,
+      "+weight.script": 20,
+      "-weight.image": 8,
+      "+weight.image": 41,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 1231,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2005/2/ALSTOM-fournira-et-maintiendra-les-solutions-de-signalisation-pour-les-lignes-de-tramway-de-Madrid-20050221",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2005/2/ALSTOM-fournira-et-maintiendra-les-solutions-de-signalisation-pour-les-lignes-de-tramway-de-Madrid-20050221",
+    "timestamp": 1707571909719,
+    "ranks": {
+      "hundos": 5,
+      "performance": 7,
+      "accessibility": 41,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.89,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 369
+    },
+    "firstContentfulPaint": 2371.3810000000003,
+    "firstMeaningfulPaint": 3424.237,
+    "speedIndex": 2616.3449529562795,
+    "largestContentfulPaint": 3298.283,
+    "totalBlockingTime": 2,
+    "cumulativeLayoutShift": 0.01811129998497668,
+    "timeToInteractive": 4292.735,
+    "maxPotentialFirstInputDelay": 52,
+    "timeToFirstByte": 111.653,
+    "weight": {
+      "summary": "67 requests • 629,7 KiB",
+      "total": 644847,
+      "image": 41070,
+      "imageCount": 38,
+      "script": 398872,
+      "scriptCount": 13,
+      "document": 51706,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295096,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 9,
+      "-weight.document": 40,
+      "+weight.document": 10,
+      "-weight.script": 45,
+      "+weight.script": 4,
+      "-weight.image": 37,
+      "+weight.image": 12,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 1273,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2008/1/ntv-the-first-italian-private-railway-operator-chooses-alstom-for-the-supply-and-maintenance-of-25-agv-trains",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2008/1/ntv-the-first-italian-private-railway-operator-chooses-alstom-for-the-supply-and-maintenance-of-25-agv-trains",
+    "timestamp": 1707572069433,
+    "ranks": {
+      "hundos": 6,
+      "performance": 3,
+      "accessibility": 14,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.92,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.9,
+      "total": 369
+    },
+    "firstContentfulPaint": 2368.462,
+    "firstMeaningfulPaint": 3419.566,
+    "speedIndex": 2610.2431407315685,
+    "largestContentfulPaint": 2904.711,
+    "totalBlockingTime": 24,
+    "cumulativeLayoutShift": 0.028660119524023597,
+    "timeToInteractive": 4945.898,
+    "maxPotentialFirstInputDelay": 73,
+    "timeToFirstByte": 117.715,
+    "weight": {
+      "summary": "67 requests • 626,3 KiB",
+      "total": 641297,
+      "image": 40657,
+      "imageCount": 38,
+      "script": 393864,
+      "scriptCount": 13,
+      "document": 53661,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295022,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 19,
+      "-weight.document": 45,
+      "+weight.document": 5,
+      "-weight.script": 12,
+      "+weight.script": 37,
+      "-weight.image": 11,
+      "+weight.image": 38,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1331,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2008/9/Premiere-marche-dessai-du-tramway-de-Jerusalem-20080929",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2008/9/Premiere-marche-dessai-du-tramway-de-Jerusalem-20080929",
+    "timestamp": 1707572049364,
+    "ranks": {
+      "hundos": 7,
+      "performance": 9,
+      "accessibility": 47,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.89,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 369
+    },
+    "firstContentfulPaint": 2406.329,
+    "firstMeaningfulPaint": 3525.014,
+    "speedIndex": 2660.0400924221776,
+    "largestContentfulPaint": 3204.821,
+    "totalBlockingTime": 4,
+    "cumulativeLayoutShift": 0.058269818857801636,
+    "timeToInteractive": 4446.5380000000005,
+    "maxPotentialFirstInputDelay": 54,
+    "timeToFirstByte": 166.094,
+    "weight": {
+      "summary": "67 requests • 628,9 KiB",
+      "total": 643967,
+      "image": 41125,
+      "imageCount": 38,
+      "script": 398781,
+      "scriptCount": 13,
+      "document": 50899,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44222,
+      "stylesheetCount": 3,
+      "thirdParty": 295006,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 16,
+      "-weight.document": 34,
+      "+weight.document": 16,
+      "-weight.script": 36,
+      "+weight.script": 13,
+      "-weight.image": 41,
+      "+weight.image": 8,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 1225,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2003/8/alstom-remporte-contrat-centrale-gt13e2-algerie",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2003/8/alstom-remporte-contrat-centrale-gt13e2-algerie",
+    "timestamp": 1707571436315,
+    "ranks": {
+      "hundos": 8,
+      "performance": 10,
+      "accessibility": 49,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.88,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 368
+    },
+    "firstContentfulPaint": 2375.884,
+    "firstMeaningfulPaint": 3432.768,
+    "speedIndex": 2434.6045934046465,
+    "largestContentfulPaint": 3504.6450000000004,
+    "totalBlockingTime": 23.5,
+    "cumulativeLayoutShift": 0.016086918324149223,
+    "timeToInteractive": 4963.809,
+    "maxPotentialFirstInputDelay": 97,
+    "timeToFirstByte": 55.571,
+    "weight": {
+      "summary": "67 requests • 629,2 KiB",
+      "total": 644350,
+      "image": 41108,
+      "imageCount": 38,
+      "script": 398809,
+      "scriptCount": 13,
+      "document": 51329,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44175,
+      "stylesheetCount": 3,
+      "thirdParty": 295034,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 15,
+      "-weight.document": 36,
+      "+weight.document": 14,
+      "-weight.script": 42,
+      "+weight.script": 7,
+      "-weight.image": 38,
+      "+weight.image": 11,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 1222,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2013/7/alstom-signe-un-accord-de-cooperation-avec-dongfang-electric-pour-la-fourniture-de-turbines-et-dalternateurs-destines-aux-projets-de-reacteurs-ap1000",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2013/7/alstom-signe-un-accord-de-cooperation-avec-dongfang-electric-pour-la-fourniture-de-turbines-et-dalternateurs-destines-aux-projets-de-reacteurs-ap1000",
+    "timestamp": 1707571736647,
+    "ranks": {
+      "hundos": 9,
+      "performance": 11,
+      "accessibility": 42,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.88,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 368
+    },
+    "firstContentfulPaint": 2391.7380000000003,
+    "firstMeaningfulPaint": 3484.3730000000005,
+    "speedIndex": 2573.8576308942347,
+    "largestContentfulPaint": 3417.171,
+    "totalBlockingTime": 2,
+    "cumulativeLayoutShift": 0.03655925168344357,
+    "timeToInteractive": 4420.411,
+    "maxPotentialFirstInputDelay": 52,
+    "timeToFirstByte": 139.487,
+    "weight": {
+      "summary": "68 requests • 632,4 KiB",
+      "total": 647606,
+      "image": 41232,
+      "imageCount": 39,
+      "script": 401195,
+      "scriptCount": 13,
+      "document": 52045,
+      "font": 71801,
+      "fontCount": 2,
+      "stylesheet": 44193,
+      "stylesheetCount": 3,
+      "thirdParty": 297481,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 5,
+      "-weight.document": 42,
+      "+weight.document": 8,
+      "-weight.script": 48,
+      "+weight.script": 1,
+      "-weight.image": 45,
+      "+weight.image": 4,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 1273,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/es/press-releases-news/2014/10/alstom-seleccionada-nuevamente-por-el-indice-de-sostenibilidad-de-dow-jones",
+    "requestedUrl": "https://www.alstom.com/es/press-releases-news/2014/10/alstom-seleccionada-nuevamente-por-el-indice-de-sostenibilidad-de-dow-jones",
+    "timestamp": 1707570830718,
+    "ranks": {
+      "hundos": 10,
+      "performance": 8,
+      "accessibility": 11,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.89,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 368
+    },
+    "firstContentfulPaint": 2386.156,
+    "firstMeaningfulPaint": 3440.87,
+    "speedIndex": 2621.6808369627734,
+    "largestContentfulPaint": 2981.92,
+    "totalBlockingTime": 2,
+    "cumulativeLayoutShift": 0.10380820942202629,
+    "timeToInteractive": 4433.213000000001,
+    "maxPotentialFirstInputDelay": 52,
+    "timeToFirstByte": 141.49200000000002,
+    "weight": {
+      "summary": "67 requests • 625,2 KiB",
+      "total": 640206,
+      "image": 40708,
+      "imageCount": 38,
+      "script": 398645,
+      "scriptCount": 13,
+      "document": 47771,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44153,
+      "stylesheetCount": 3,
+      "thirdParty": 295023,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 24,
+      "-weight.document": 4,
+      "+weight.document": 46,
+      "-weight.script": 28,
+      "+weight.script": 21,
+      "-weight.image": 21,
+      "+weight.image": 28,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 1233,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2011/6/alstom-presente-premier-train-Regiolis-pour-les-regions-francaises",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2011/6/alstom-presente-premier-train-Regiolis-pour-les-regions-francaises",
+    "timestamp": 1707571271435,
+    "ranks": {
+      "hundos": 12,
+      "performance": 18,
+      "accessibility": 37,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.91,
+      "bestPractices": 0.93,
+      "seo": 0.98,
+      "total": 368
+    },
+    "firstContentfulPaint": 2395.3880000000004,
+    "firstMeaningfulPaint": 3458.5220000000004,
+    "speedIndex": 2570.5280580408958,
+    "largestContentfulPaint": 3696.4220000000005,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0.02537422586235967,
+    "timeToInteractive": 5009.0695,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 175.62199999999999,
+    "weight": {
+      "summary": "73 requests • 633,7 KiB",
+      "total": 648927,
+      "image": 41474,
+      "imageCount": 44,
+      "script": 398868,
+      "scriptCount": 13,
+      "document": 55461,
+      "font": 71806,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295405,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 3,
+      "-weight.document": 46,
+      "+weight.document": 4,
+      "-weight.script": 44,
+      "+weight.script": 5,
+      "-weight.image": 47,
+      "+weight.image": 2,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 1267,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2011/1/press-releases-financial-results-3q1011",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2011/1/press-releases-financial-results-3q1011",
+    "timestamp": 1707572320022,
+    "ranks": {
+      "hundos": 11,
+      "performance": 6,
+      "accessibility": 13,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.89,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 368
+    },
+    "firstContentfulPaint": 2400.174,
+    "firstMeaningfulPaint": 3451.255,
+    "speedIndex": 2552.6980264648982,
+    "largestContentfulPaint": 3402.814,
+    "totalBlockingTime": 9,
+    "cumulativeLayoutShift": 0.0346332102566152,
+    "timeToInteractive": 4404.8679999999995,
+    "maxPotentialFirstInputDelay": 59,
+    "timeToFirstByte": 154.738,
+    "weight": {
+      "summary": "67 requests • 629,5 KiB",
+      "total": 644655,
+      "image": 40655,
+      "imageCount": 38,
+      "script": 393877,
+      "scriptCount": 13,
+      "document": 57013,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44193,
+      "stylesheetCount": 3,
+      "thirdParty": 295037,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 11,
+      "-weight.document": 48,
+      "+weight.document": 2,
+      "-weight.script": 13,
+      "+weight.script": 36,
+      "-weight.image": 10,
+      "+weight.image": 39,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 2596,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2011/3/Alstom-transforms-Kuwaits-gas-powered-unit-Az-zour-into-a-combined-cycle-power-plant",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2011/3/Alstom-transforms-Kuwaits-gas-powered-unit-Az-zour-into-a-combined-cycle-power-plant",
+    "timestamp": 1707572309099,
+    "ranks": {
+      "hundos": 13,
+      "performance": 12,
+      "accessibility": 6,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.88,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 367
+    },
+    "firstContentfulPaint": 2360.261,
+    "firstMeaningfulPaint": 3652.6315000000004,
+    "speedIndex": 2591.541199919604,
+    "largestContentfulPaint": 3509.3410000000003,
+    "totalBlockingTime": 23,
+    "cumulativeLayoutShift": 0.022217938946851586,
+    "timeToInteractive": 4927.155500000001,
+    "maxPotentialFirstInputDelay": 72,
+    "timeToFirstByte": 102.506,
+    "weight": {
+      "summary": "67 requests • 622,7 KiB",
+      "total": 637690,
+      "image": 40655,
+      "imageCount": 38,
+      "script": 393855,
+      "scriptCount": 13,
+      "document": 50077,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295009,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 36,
+      "-weight.document": 26,
+      "+weight.document": 24,
+      "-weight.script": 11,
+      "+weight.script": 38,
+      "-weight.image": 10,
+      "+weight.image": 39,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 1247,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2004/1/alstom-wins-orders-in-china-to-supply-six-steam-turbine-generators",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2004/1/ALSTOM-wins-orders-in-China-to-supply-six-steam-turbine-generators-20040126",
+    "timestamp": 1707571929960,
+    "ranks": {
+      "hundos": 14,
+      "performance": 14,
+      "accessibility": 3,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.87,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 366
+    },
+    "firstContentfulPaint": 2366.861,
+    "firstMeaningfulPaint": 3423.3729999999996,
+    "speedIndex": 2482.82824394397,
+    "largestContentfulPaint": 3453,
+    "totalBlockingTime": 10,
+    "cumulativeLayoutShift": 0.0748859522986112,
+    "timeToInteractive": 4307.210000000001,
+    "maxPotentialFirstInputDelay": 60,
+    "timeToFirstByte": 48.325,
+    "weight": {
+      "summary": "68 requests • 623,8 KiB",
+      "total": 638788,
+      "image": 40767,
+      "imageCount": 38,
+      "script": 393814,
+      "scriptCount": 13,
+      "document": 49976,
+      "font": 71822,
+      "fontCount": 2,
+      "stylesheet": 44164,
+      "stylesheetCount": 3,
+      "thirdParty": 295085,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 27,
+      "-weight.document": 24,
+      "+weight.document": 26,
+      "-weight.script": 2,
+      "+weight.script": 47,
+      "-weight.image": 30,
+      "+weight.image": 19,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 1267,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2007/5/forte-progression-de-sa-performance-commerciale-et-operationnelle-en-2006-07",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2007/5/forte-progression-de-sa-performance-commerciale-et-operationnelle-en-2006-07",
+    "timestamp": 1707571596545,
+    "ranks": {
+      "hundos": 15,
+      "performance": 16,
+      "accessibility": 43,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 366
+    },
+    "firstContentfulPaint": 2368.4559999999997,
+    "firstMeaningfulPaint": 3457.2859999999996,
+    "speedIndex": 2511.249040163193,
+    "largestContentfulPaint": 3810.1015,
+    "totalBlockingTime": 8,
+    "cumulativeLayoutShift": 0.011379589581360604,
+    "timeToInteractive": 4387.956,
+    "maxPotentialFirstInputDelay": 58,
+    "timeToFirstByte": 110.494,
+    "weight": {
+      "summary": "67 requests • 629,5 KiB",
+      "total": 644645,
+      "image": 41018,
+      "imageCount": 38,
+      "script": 398889,
+      "scriptCount": 13,
+      "document": 51632,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 294999,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 12,
+      "-weight.document": 39,
+      "+weight.document": 11,
+      "-weight.script": 47,
+      "+weight.script": 2,
+      "-weight.image": 34,
+      "+weight.image": 15,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1259,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2012/1/Network_Rail_JV_Agreement",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2012/1/Network_Rail_JV_Agreement",
+    "timestamp": 1707571636586,
+    "ranks": {
+      "hundos": 16,
+      "performance": 13,
+      "accessibility": 29,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.87,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 365
+    },
+    "firstContentfulPaint": 2418.4849999999997,
+    "firstMeaningfulPaint": 3474.874,
+    "speedIndex": 2460.783213916319,
+    "largestContentfulPaint": 3646.1539999999995,
+    "totalBlockingTime": 2,
+    "cumulativeLayoutShift": 0.028644509952406288,
+    "timeToInteractive": 4315.5740000000005,
+    "maxPotentialFirstInputDelay": 52,
+    "timeToFirstByte": 58.99699999999999,
+    "weight": {
+      "summary": "67 requests • 622,5 KiB",
+      "total": 637470,
+      "image": 40735,
+      "imageCount": 38,
+      "script": 393847,
+      "scriptCount": 13,
+      "document": 49797,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295039,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 40,
+      "-weight.document": 20,
+      "+weight.document": 30,
+      "-weight.script": 8,
+      "+weight.script": 41,
+      "-weight.image": 25,
+      "+weight.image": 24,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 1226,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/se/press-releases-news/2013/12/alstom-lanserar-lagringslosning-for-batterier-maxsinetm-estorage",
+    "requestedUrl": "https://www.alstom.com/se/press-releases-news/2013/12/alstom-lanserar-lagringslosning-for-batterier-maxsinetm-estorage",
+    "timestamp": 1707571766517,
+    "ranks": {
+      "hundos": 17,
+      "performance": 19,
+      "accessibility": 12,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 365
+    },
+    "firstContentfulPaint": 2392.085,
+    "firstMeaningfulPaint": 3547.4550000000004,
+    "speedIndex": 2719.092787626476,
+    "largestContentfulPaint": 3546.277,
+    "totalBlockingTime": 23,
+    "cumulativeLayoutShift": 0.07497178344171904,
+    "timeToInteractive": 5087.620999999999,
+    "maxPotentialFirstInputDelay": 96,
+    "timeToFirstByte": 140.762,
+    "weight": {
+      "summary": "67 requests • 623,7 KiB",
+      "total": 638644,
+      "image": 40773,
+      "imageCount": 38,
+      "script": 397658,
+      "scriptCount": 13,
+      "document": 47106,
+      "font": 71801,
+      "fontCount": 2,
+      "stylesheet": 44153,
+      "stylesheetCount": 3,
+      "thirdParty": 295000,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 29,
+      "-weight.document": 1,
+      "+weight.document": 49,
+      "-weight.script": 26,
+      "+weight.script": 23,
+      "-weight.image": 32,
+      "+weight.image": 17,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 1226,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2012/5/christian-lacroix-has-designed-the-livery-for-montpelliers-new-citadis-tramways",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2012/5/christian-lacroix-has-designed-the-livery-for-montpelliers-new-citadis-tramways",
+    "timestamp": 1707571657122,
+    "ranks": {
+      "hundos": 18,
+      "performance": 20,
+      "accessibility": 27,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 364
+    },
+    "firstContentfulPaint": 2641.328,
+    "firstMeaningfulPaint": 3878.9580000000005,
+    "speedIndex": 3019.0393076395603,
+    "largestContentfulPaint": 3475.6985000000004,
+    "totalBlockingTime": 5,
+    "cumulativeLayoutShift": 0.04213377425810207,
+    "timeToInteractive": 4693.138,
+    "maxPotentialFirstInputDelay": 55,
+    "timeToFirstByte": 53.178,
+    "weight": {
+      "summary": "67 requests • 622,4 KiB",
+      "total": 637383,
+      "image": 40605,
+      "imageCount": 38,
+      "script": 393931,
+      "scriptCount": 13,
+      "document": 49721,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295034,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 42,
+      "-weight.document": 19,
+      "+weight.document": 31,
+      "-weight.script": 23,
+      "+weight.script": 26,
+      "-weight.image": 2,
+      "+weight.image": 47,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 1227,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2014/3/alstom-signs-two-long-term-service-agreements-for-eesti-energias-narva-power-plants-in-estonia",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2014/3/alstom-signs-two-long-term-service-agreements-for-eesti-energias-narva-power-plants-in-estonia",
+    "timestamp": 1707570881557,
+    "ranks": {
+      "hundos": 19,
+      "performance": 15,
+      "accessibility": 32,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 364
+    },
+    "firstContentfulPaint": 2355.037,
+    "firstMeaningfulPaint": 3406.258,
+    "speedIndex": 2468.5015649815946,
+    "largestContentfulPaint": 3498.88,
+    "totalBlockingTime": 5,
+    "cumulativeLayoutShift": 0.08601174972160422,
+    "timeToInteractive": 4341.240000000001,
+    "maxPotentialFirstInputDelay": 55,
+    "timeToFirstByte": 121.345,
+    "weight": {
+      "summary": "67 requests • 622,6 KiB",
+      "total": 637526,
+      "image": 40634,
+      "imageCount": 38,
+      "script": 393898,
+      "scriptCount": 13,
+      "document": 49828,
+      "font": 71801,
+      "fontCount": 2,
+      "stylesheet": 44154,
+      "stylesheetCount": 3,
+      "thirdParty": 295068,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 38,
+      "-weight.document": 21,
+      "+weight.document": 29,
+      "-weight.script": 17,
+      "+weight.script": 32,
+      "-weight.image": 6,
+      "+weight.image": 43,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 1219,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2010/11/flhrsconsortium",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2010/11/flhrsconsortium",
+    "timestamp": 1707572119432,
+    "ranks": {
+      "hundos": 20,
+      "performance": 17,
+      "accessibility": 18,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 364
+    },
+    "firstContentfulPaint": 2400.6809999999996,
+    "firstMeaningfulPaint": 3536.1009999999997,
+    "speedIndex": 2566.8297599147936,
+    "largestContentfulPaint": 3695.197,
+    "totalBlockingTime": 21,
+    "cumulativeLayoutShift": 0.012669768962716158,
+    "timeToInteractive": 5007.758,
+    "maxPotentialFirstInputDelay": 92,
+    "timeToFirstByte": 138.05599999999998,
+    "weight": {
+      "summary": "67 requests • 622,5 KiB",
+      "total": 637400,
+      "image": 40761,
+      "imageCount": 38,
+      "script": 393833,
+      "scriptCount": 13,
+      "document": 49704,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44178,
+      "stylesheetCount": 3,
+      "thirdParty": 295061,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 41,
+      "-weight.document": 18,
+      "+weight.document": 32,
+      "-weight.script": 6,
+      "+weight.script": 43,
+      "-weight.image": 29,
+      "+weight.image": 20,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1262,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/de/press-releases-news/2014/9/alstom-schliebt-verkauf-seines-geschaftsbereichs-auxiliary-components-an-triton-ab",
+    "requestedUrl": "https://www.alstom.com/de/press-releases-news/2014/9/alstom-schliebt-verkauf-seines-geschaftsbereichs-auxiliary-components-an-triton-ab",
+    "timestamp": 1707572199691,
+    "ranks": {
+      "hundos": 21,
+      "performance": 23,
+      "accessibility": 9,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.84,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 363
+    },
+    "firstContentfulPaint": 2368.109,
+    "firstMeaningfulPaint": 3421.4790000000003,
+    "speedIndex": 2532.1012969499093,
+    "largestContentfulPaint": 3519.9390000000003,
+    "totalBlockingTime": 2,
+    "cumulativeLayoutShift": 0.11890138946258165,
+    "timeToInteractive": 4359.784000000001,
+    "maxPotentialFirstInputDelay": 52,
+    "timeToFirstByte": 118.73400000000001,
+    "weight": {
+      "summary": "67 requests • 626,2 KiB",
+      "total": 641201,
+      "image": 40732,
+      "imageCount": 38,
+      "script": 398720,
+      "scriptCount": 13,
+      "document": 48621,
+      "font": 71801,
+      "fontCount": 2,
+      "stylesheet": 44201,
+      "stylesheetCount": 3,
+      "thirdParty": 295013,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 20,
+      "-weight.document": 8,
+      "+weight.document": 42,
+      "-weight.script": 32,
+      "+weight.script": 17,
+      "-weight.image": 24,
+      "+weight.image": 25,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 1238,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2005/8/ALSTOMs-consolidation-of-shares-effective-3rd-August-2005-20050802",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2005/8/ALSTOMs-consolidation-of-shares-effective-3rd-August-2005-20050802",
+    "timestamp": 1707571899939,
+    "ranks": {
+      "hundos": 22,
+      "performance": 21,
+      "accessibility": 21,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 363
+    },
+    "firstContentfulPaint": 2359.301,
+    "firstMeaningfulPaint": 3444.7309999999998,
+    "speedIndex": 2476.1261818242406,
+    "largestContentfulPaint": 3795.194,
+    "totalBlockingTime": 9,
+    "cumulativeLayoutShift": 0.062210980145355935,
+    "timeToInteractive": 4922.447,
+    "maxPotentialFirstInputDelay": 57,
+    "timeToFirstByte": 115.34,
+    "weight": {
+      "summary": "67 requests • 621,6 KiB",
+      "total": 636495,
+      "image": 40681,
+      "imageCount": 38,
+      "script": 393906,
+      "scriptCount": 13,
+      "document": 48783,
+      "font": 71824,
+      "fontCount": 2,
+      "stylesheet": 44171,
+      "stylesheetCount": 3,
+      "thirdParty": 295047,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 49,
+      "-weight.document": 10,
+      "+weight.document": 40,
+      "-weight.script": 19,
+      "+weight.script": 30,
+      "-weight.image": 15,
+      "+weight.image": 34,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 1243,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2004/6/La-SNTF-dAlgerie-confie-a-ALSTOM-un-contrat-delectrification-des-voies-ferrees-20040605",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2004/6/La-SNTF-dAlgerie-confie-a-ALSTOM-un-contrat-delectrification-des-voies-ferrees-20040605",
+    "timestamp": 1707570911491,
+    "ranks": {
+      "hundos": 23,
+      "performance": 29,
+      "accessibility": 38,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.91,
+      "bestPractices": 0.93,
+      "seo": 0.98,
+      "total": 363
+    },
+    "firstContentfulPaint": 2393.841,
+    "firstMeaningfulPaint": 3484.256,
+    "speedIndex": 3119.7784855195696,
+    "largestContentfulPaint": 4400.3925,
+    "totalBlockingTime": 22.5,
+    "cumulativeLayoutShift": 0.055743285300526614,
+    "timeToInteractive": 5010.0355,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 148.313,
+    "weight": {
+      "summary": "67 requests • 629,6 KiB",
+      "total": 644689,
+      "image": 41153,
+      "imageCount": 38,
+      "script": 398800,
+      "scriptCount": 13,
+      "document": 51543,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295081,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 10,
+      "-weight.document": 37,
+      "+weight.document": 13,
+      "-weight.script": 38,
+      "+weight.script": 11,
+      "-weight.image": 42,
+      "+weight.image": 7,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 1244,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2013/11/alstom-to-supply-the-power-system-of-the-ayacucho-tram-in-colombia",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2013/11/alstom-to-supply-the-power-system-of-the-ayacucho-tram-in-colombia",
+    "timestamp": 1707571251267,
+    "ranks": {
+      "hundos": 24,
+      "performance": 22,
+      "accessibility": 17,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.85,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.9,
+      "total": 362
+    },
+    "firstContentfulPaint": 2355.4359999999997,
+    "firstMeaningfulPaint": 3664.459,
+    "speedIndex": 2629.338028777779,
+    "largestContentfulPaint": 3500.982,
+    "totalBlockingTime": 22,
+    "cumulativeLayoutShift": 0.10814176657377803,
+    "timeToInteractive": 4363.157,
+    "maxPotentialFirstInputDelay": 72,
+    "timeToFirstByte": 109.67600000000002,
+    "weight": {
+      "summary": "67 requests • 623,3 KiB",
+      "total": 638259,
+      "image": 40545,
+      "imageCount": 38,
+      "script": 394024,
+      "scriptCount": 13,
+      "document": 50579,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295038,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 32,
+      "-weight.document": 31,
+      "+weight.document": 19,
+      "-weight.script": 25,
+      "+weight.script": 24,
+      "-weight.image": 1,
+      "+weight.image": 48,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 1266,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2013/5/alstom-soutient-des-projets-de-lepf-zurich",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2013/5/alstom-soutient-des-projets-de-lepf-zurich",
+    "timestamp": 1707572229494,
+    "ranks": {
+      "hundos": 25,
+      "performance": 33,
+      "accessibility": 36,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.91,
+      "bestPractices": 0.93,
+      "seo": 0.98,
+      "total": 361
+    },
+    "firstContentfulPaint": 2365.7169999999996,
+    "firstMeaningfulPaint": 3416.562,
+    "speedIndex": 2504.801734588633,
+    "largestContentfulPaint": 4771.341999999999,
+    "totalBlockingTime": 3,
+    "cumulativeLayoutShift": 0.07271723954773983,
+    "timeToInteractive": 4340.663999999999,
+    "maxPotentialFirstInputDelay": 53,
+    "timeToFirstByte": 111.87100000000001,
+    "weight": {
+      "summary": "67 requests • 633,6 KiB",
+      "total": 648847,
+      "image": 41166,
+      "imageCount": 38,
+      "script": 398774,
+      "scriptCount": 13,
+      "document": 55821,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44147,
+      "stylesheetCount": 3,
+      "thirdParty": 294998,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 4,
+      "-weight.document": 47,
+      "+weight.document": 3,
+      "-weight.script": 35,
+      "+weight.script": 14,
+      "-weight.image": 44,
+      "+weight.image": 5,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 1283,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2010/5/Alstom-realise-dexcellents-resultats-operationnels-sur-lexercice-2009-10-20100504",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2010/5/Alstom-realise-dexcellents-resultats-operationnels-sur-lexercice-2009-10-20100504",
+    "timestamp": 1707570991382,
+    "ranks": {
+      "hundos": 26,
+      "performance": 27,
+      "accessibility": 44,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 361
+    },
+    "firstContentfulPaint": 2326.258,
+    "firstMeaningfulPaint": 3383.518,
+    "speedIndex": 2350.1463271544603,
+    "largestContentfulPaint": 4600.726999999999,
+    "totalBlockingTime": 4,
+    "cumulativeLayoutShift": 0.018323316337486507,
+    "timeToInteractive": 4280.382,
+    "maxPotentialFirstInputDelay": 54,
+    "timeToFirstByte": 58.885000000000005,
+    "weight": {
+      "summary": "67 requests • 629,4 KiB",
+      "total": 644502,
+      "image": 41164,
+      "imageCount": 38,
+      "script": 398805,
+      "scriptCount": 13,
+      "document": 51322,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44175,
+      "stylesheetCount": 3,
+      "thirdParty": 295084,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 13,
+      "-weight.document": 35,
+      "+weight.document": 15,
+      "-weight.script": 39,
+      "+weight.script": 10,
+      "-weight.image": 43,
+      "+weight.image": 6,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 1258,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2014/5/dolwin3-grid-connection-moves-forward",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2014/5/dolwin3-grid-connection-moves-forward",
+    "timestamp": 1707572179713,
+    "ranks": {
+      "hundos": 27,
+      "performance": 24,
+      "accessibility": 2,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.9,
+      "total": 361
+    },
+    "firstContentfulPaint": 2384.083,
+    "firstMeaningfulPaint": 3435.6820000000002,
+    "speedIndex": 2529.7646679386608,
+    "largestContentfulPaint": 3525.407,
+    "totalBlockingTime": 22,
+    "cumulativeLayoutShift": 0.1266552040713547,
+    "timeToInteractive": 4983.2665,
+    "maxPotentialFirstInputDelay": 94,
+    "timeToFirstByte": 151.156,
+    "weight": {
+      "summary": "67 requests • 624,3 KiB",
+      "total": 639253,
+      "image": 40741,
+      "imageCount": 38,
+      "script": 393794,
+      "scriptCount": 13,
+      "document": 51597,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44200,
+      "stylesheetCount": 3,
+      "thirdParty": 295012,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 26,
+      "-weight.document": 38,
+      "+weight.document": 12,
+      "-weight.script": 1,
+      "+weight.script": 48,
+      "-weight.image": 26,
+      "+weight.image": 23,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 1328,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2007/1/ALSTOM-Transport-continues-its-proactive-policy-on-safety-at-work-20070130",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2007/1/ALSTOM-Transport-continues-its-proactive-policy-on-safety-at-work-20070130",
+    "timestamp": 1707571606407,
+    "ranks": {
+      "hundos": 28,
+      "performance": 25,
+      "accessibility": 19,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 360
+    },
+    "firstContentfulPaint": 2375.9550000000004,
+    "firstMeaningfulPaint": 3433.05,
+    "speedIndex": 2492.853440226719,
+    "largestContentfulPaint": 4377.7135,
+    "totalBlockingTime": 23.999999999999545,
+    "cumulativeLayoutShift": 0.025356881893895993,
+    "timeToInteractive": 4941.211000000001,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 118.502,
+    "weight": {
+      "summary": "67 requests • 622,9 KiB",
+      "total": 637824,
+      "image": 40682,
+      "imageCount": 38,
+      "script": 393883,
+      "scriptCount": 13,
+      "document": 50135,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295055,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 33,
+      "-weight.document": 27,
+      "+weight.document": 23,
+      "-weight.script": 15,
+      "+weight.script": 34,
+      "-weight.image": 16,
+      "+weight.image": 33,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 1261,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2009/12/The-Barcelona-metro-is-expanding-20091216",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2009/12/The-Barcelona-metro-is-expanding-20091216",
+    "timestamp": 1707571506417,
+    "ranks": {
+      "hundos": 29,
+      "performance": 26,
+      "accessibility": 28,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.82,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 360
+    },
+    "firstContentfulPaint": 2401.2719999999995,
+    "firstMeaningfulPaint": 3464.7939999999994,
+    "speedIndex": 2591.1548248660056,
+    "largestContentfulPaint": 4046.33,
+    "totalBlockingTime": 26.5,
+    "cumulativeLayoutShift": 0.07897418367494811,
+    "timeToInteractive": 5032.657999999999,
+    "maxPotentialFirstInputDelay": 103,
+    "timeToFirstByte": 134.73399999999998,
+    "weight": {
+      "summary": "67 requests • 621,4 KiB",
+      "total": 636363,
+      "image": 40697,
+      "imageCount": 38,
+      "script": 393820,
+      "scriptCount": 13,
+      "document": 48764,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44147,
+      "stylesheetCount": 3,
+      "thirdParty": 295003,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 50,
+      "-weight.document": 9,
+      "+weight.document": 41,
+      "-weight.script": 4,
+      "+weight.script": 45,
+      "-weight.image": 19,
+      "+weight.image": 30,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 1226,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2014/7/engaging-with-customers-at-the-11th-gt13e2-users-conference",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2014/7/engaging-with-customers-at-the-11th-gt13e2-users-conference",
+    "timestamp": 1707571687268,
+    "ranks": {
+      "hundos": 30,
+      "performance": 30,
+      "accessibility": 4,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.8,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 359
+    },
+    "firstContentfulPaint": 2386.538,
+    "firstMeaningfulPaint": 3447.645,
+    "speedIndex": 2487.078130600894,
+    "largestContentfulPaint": 4685.710999999999,
+    "totalBlockingTime": 3,
+    "cumulativeLayoutShift": 0.025332600338046848,
+    "timeToInteractive": 4357.547,
+    "maxPotentialFirstInputDelay": 53,
+    "timeToFirstByte": 53.428000000000004,
+    "weight": {
+      "summary": "67 requests • 622,6 KiB",
+      "total": 637511,
+      "image": 40633,
+      "imageCount": 38,
+      "script": 393843,
+      "scriptCount": 13,
+      "document": 49920,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295003,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 39,
+      "-weight.document": 23,
+      "+weight.document": 27,
+      "-weight.script": 7,
+      "+weight.script": 42,
+      "-weight.image": 5,
+      "+weight.image": 44,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 1261,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2006/7/ALSTOM-fait-son-retour-au-CAC-40-20060731",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2006/6/alstom-fait-son-retour-au-cac-40",
+    "timestamp": 1707571860222,
+    "ranks": {
+      "hundos": 31,
+      "performance": 42,
+      "accessibility": 48,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 359
+    },
+    "firstContentfulPaint": 2375.6164999999996,
+    "firstMeaningfulPaint": 3671.2209999999995,
+    "speedIndex": 2723.3017702392976,
+    "largestContentfulPaint": 4861.9125,
+    "totalBlockingTime": 25.5,
+    "cumulativeLayoutShift": 0.021025734846026482,
+    "timeToInteractive": 4927.601499999999,
+    "maxPotentialFirstInputDelay": 73,
+    "timeToFirstByte": 54.550000000000004,
+    "weight": {
+      "summary": "68 requests • 629,3 KiB",
+      "total": 644376,
+      "image": 41282,
+      "imageCount": 38,
+      "script": 398741,
+      "scriptCount": 13,
+      "document": 50218,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44166,
+      "stylesheetCount": 3,
+      "thirdParty": 295010,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 14,
+      "-weight.document": 29,
+      "+weight.document": 21,
+      "-weight.script": 33,
+      "+weight.script": 16,
+      "-weight.image": 46,
+      "+weight.image": 3,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 1224,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2012/6/rouen-accroit-la-capacite-de-transport-de-ses-tramways",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2012/6/rouen-accroit-la-capacite-de-transport-de-ses-tramways",
+    "timestamp": 1707571667185,
+    "ranks": {
+      "hundos": 32,
+      "performance": 31,
+      "accessibility": 46,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 359
+    },
+    "firstContentfulPaint": 2363.605,
+    "firstMeaningfulPaint": 3451.075,
+    "speedIndex": 2469.0578262349118,
+    "largestContentfulPaint": 4869.521999999998,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0.042774956404645216,
+    "timeToInteractive": 4983.521999999999,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 110.734,
+    "weight": {
+      "summary": "67 requests • 628,5 KiB",
+      "total": 643535,
+      "image": 41050,
+      "imageCount": 38,
+      "script": 398850,
+      "scriptCount": 13,
+      "document": 50528,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44178,
+      "stylesheetCount": 3,
+      "thirdParty": 295032,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 17,
+      "-weight.document": 30,
+      "+weight.document": 20,
+      "-weight.script": 43,
+      "+weight.script": 6,
+      "-weight.image": 35,
+      "+weight.image": 14,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 1229,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2008/12/The-AGV-has-already-run-up-to-340km-h-on-the-East-French-Eastern-high-speed-line-20081209",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2008/12/The-AGV-has-already-run-up-to-340km-h-on-the-East-French-Eastern-high-speed-line-20081209",
+    "timestamp": 1707572039332,
+    "ranks": {
+      "hundos": 33,
+      "performance": 28,
+      "accessibility": 33,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 359
+    },
+    "firstContentfulPaint": 2402.9120000000003,
+    "firstMeaningfulPaint": 3696.4620000000004,
+    "speedIndex": 2778.8790065263265,
+    "largestContentfulPaint": 4279.842500000001,
+    "totalBlockingTime": 28,
+    "cumulativeLayoutShift": 0.06681756683702506,
+    "timeToInteractive": 4423.1449999999995,
+    "maxPotentialFirstInputDelay": 78,
+    "timeToFirstByte": 138.017,
+    "weight": {
+      "summary": "67 requests • 622,3 KiB",
+      "total": 637243,
+      "image": 40651,
+      "imageCount": 38,
+      "script": 393887,
+      "scriptCount": 13,
+      "document": 49584,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295053,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 44,
+      "-weight.document": 15,
+      "+weight.document": 35,
+      "-weight.script": 16,
+      "+weight.script": 33,
+      "-weight.image": 9,
+      "+weight.image": 40,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 1218,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr/press-releases-news/2013/3/alstom-sengage-pour-lemploi-durable-des-jeunes-en-france",
+    "requestedUrl": "https://www.alstom.com/fr/press-releases-news/2013/3/alstom-sengage-pour-lemploi-durable-des-jeunes-en-france",
+    "timestamp": 1707571210391,
+    "ranks": {
+      "hundos": 34,
+      "performance": 41,
+      "accessibility": 45,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.9,
+      "bestPractices": 0.93,
+      "seo": 0.97,
+      "total": 359
+    },
+    "firstContentfulPaint": 2407.602,
+    "firstMeaningfulPaint": 3471.282,
+    "speedIndex": 2712.4720892619393,
+    "largestContentfulPaint": 4913.6595,
+    "totalBlockingTime": 22.5,
+    "cumulativeLayoutShift": 0.02851663760309681,
+    "timeToInteractive": 5030.659500000001,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 168.411,
+    "weight": {
+      "summary": "67 requests • 629,8 KiB",
+      "total": 644936,
+      "image": 41121,
+      "imageCount": 38,
+      "script": 398807,
+      "scriptCount": 13,
+      "document": 51876,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295017,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 8,
+      "-weight.document": 41,
+      "+weight.document": 9,
+      "-weight.script": 41,
+      "+weight.script": 8,
+      "-weight.image": 40,
+      "+weight.image": 9,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 1243,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2011/4/press-releases-GT13E2",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2011/4/press-releases-GT13E2",
+    "timestamp": 1707571291085,
+    "ranks": {
+      "hundos": 35,
+      "performance": 32,
+      "accessibility": 10,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 358
+    },
+    "firstContentfulPaint": 2365.5749999999994,
+    "firstMeaningfulPaint": 3644.656,
+    "speedIndex": 2483.9159083275426,
+    "largestContentfulPaint": 4957.331999999999,
+    "totalBlockingTime": 5,
+    "cumulativeLayoutShift": 0.012652424994252481,
+    "timeToInteractive": 4358.278,
+    "maxPotentialFirstInputDelay": 55,
+    "timeToFirstByte": 107.32600000000001,
+    "weight": {
+      "summary": "67 requests • 622,8 KiB",
+      "total": 637785,
+      "image": 40691,
+      "imageCount": 38,
+      "script": 393816,
+      "scriptCount": 13,
+      "document": 50190,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295015,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 34,
+      "-weight.document": 28,
+      "+weight.document": 22,
+      "-weight.script": 3,
+      "+weight.script": 46,
+      "-weight.image": 17,
+      "+weight.image": 32,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 1234,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2014/12/alstom-delivers-the-first-regiolis-train-to-the-poitou-charentes-region-of-france",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2014/12/alstom-delivers-the-first-regiolis-train-to-the-poitou-charentes-region-of-france",
+    "timestamp": 1707571345460,
+    "ranks": {
+      "hundos": 36,
+      "performance": 35,
+      "accessibility": 5,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 358
+    },
+    "firstContentfulPaint": 2376.869,
+    "firstMeaningfulPaint": 3434.8990000000003,
+    "speedIndex": 2537.5199779806885,
+    "largestContentfulPaint": 4809.934,
+    "totalBlockingTime": 1,
+    "cumulativeLayoutShift": 0.012676706550101629,
+    "timeToInteractive": 4383.462,
+    "maxPotentialFirstInputDelay": 51,
+    "timeToFirstByte": 124.02199999999999,
+    "weight": {
+      "summary": "67 requests • 623,5 KiB",
+      "total": 638424,
+      "image": 40633,
+      "imageCount": 38,
+      "script": 393966,
+      "scriptCount": 13,
+      "document": 50738,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295069,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 31,
+      "-weight.document": 32,
+      "+weight.document": 18,
+      "-weight.script": 24,
+      "+weight.script": 25,
+      "-weight.image": 5,
+      "+weight.image": 44,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 1253,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2015/3/alstom-participates-at-industry-week",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2015/3/alstom-participates-at-industry-week",
+    "timestamp": 1707571979470,
+    "ranks": {
+      "hundos": 37,
+      "performance": 39,
+      "accessibility": 1,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 358
+    },
+    "firstContentfulPaint": 2380.4399999999996,
+    "firstMeaningfulPaint": 3440.2119999999995,
+    "speedIndex": 2642.324326858046,
+    "largestContentfulPaint": 4865.647500000001,
+    "totalBlockingTime": 21,
+    "cumulativeLayoutShift": 0.03158620467628651,
+    "timeToInteractive": 4979.147499999999,
+    "maxPotentialFirstInputDelay": 92,
+    "timeToFirstByte": 136.865,
+    "weight": {
+      "summary": "67 requests • 623,5 KiB",
+      "total": 638509,
+      "image": 40760,
+      "imageCount": 38,
+      "script": 393854,
+      "scriptCount": 13,
+      "document": 50837,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44130,
+      "stylesheetCount": 3,
+      "thirdParty": 295032,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 30,
+      "-weight.document": 33,
+      "+weight.document": 17,
+      "-weight.script": 10,
+      "+weight.script": 39,
+      "-weight.image": 28,
+      "+weight.image": 21,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 1332,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/de/press-releases-news/2013/2/investitionssicherheit-fur-ambitionierte-eu-klimaziele-den-emissionshandel-reparieren",
+    "requestedUrl": "https://www.alstom.com/de/press-releases-news/2013/2/investitionssicherheit-fur-ambitionierte-eu-klimaziele-den-emissionshandel-reparieren",
+    "timestamp": 1707572209543,
+    "ranks": {
+      "hundos": 38,
+      "performance": 34,
+      "accessibility": 7,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 358
+    },
+    "firstContentfulPaint": 2387.407,
+    "firstMeaningfulPaint": 3438.741,
+    "speedIndex": 2536.678094982563,
+    "largestContentfulPaint": 4856.005000000001,
+    "totalBlockingTime": 25.5,
+    "cumulativeLayoutShift": 0.02222487653423706,
+    "timeToInteractive": 5028.1695,
+    "maxPotentialFirstInputDelay": 101,
+    "timeToFirstByte": 143.393,
+    "weight": {
+      "summary": "67 requests • 625,5 KiB",
+      "total": 640505,
+      "image": 40700,
+      "imageCount": 38,
+      "script": 398771,
+      "scriptCount": 13,
+      "document": 47954,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44154,
+      "stylesheetCount": 3,
+      "thirdParty": 295011,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 23,
+      "-weight.document": 5,
+      "+weight.document": 45,
+      "-weight.script": 34,
+      "+weight.script": 15,
+      "-weight.image": 20,
+      "+weight.image": 29,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 1241,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2007/7/VHST-showing-at-UNIFEs-General-Assembly-in-Madrid-20070702",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2007/7/vhst-showing-at-unifes-general-assembly-in-madrid",
+    "timestamp": 1707571081067,
+    "ranks": {
+      "hundos": 39,
+      "performance": 37,
+      "accessibility": 25,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 357
+    },
+    "firstContentfulPaint": 2407.56,
+    "firstMeaningfulPaint": 3672.416,
+    "speedIndex": 2611.8047663590337,
+    "largestContentfulPaint": 4841.963,
+    "totalBlockingTime": 9,
+    "cumulativeLayoutShift": 0.050686013438250105,
+    "timeToInteractive": 4355.929,
+    "maxPotentialFirstInputDelay": 59,
+    "timeToFirstByte": 59.845000000000006,
+    "weight": {
+      "summary": "68 requests • 622,8 KiB",
+      "total": 637703,
+      "image": 40772,
+      "imageCount": 38,
+      "script": 393919,
+      "scriptCount": 13,
+      "document": 48838,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44130,
+      "stylesheetCount": 3,
+      "thirdParty": 295102,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 35,
+      "-weight.document": 11,
+      "+weight.document": 39,
+      "-weight.script": 22,
+      "+weight.script": 27,
+      "-weight.image": 31,
+      "+weight.image": 18,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 1229,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2002/4/Nanjing-Metro-Selects-ALSTOM-for-Rolling-Stock-Contract-Worth-160-Million-20020416",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2002/4/nanjing-metro-selects-alstom-for-rolling-stock-contract-worth-160-million",
+    "timestamp": 1707570951061,
+    "ranks": {
+      "hundos": 40,
+      "performance": 43,
+      "accessibility": 16,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 357
+    },
+    "firstContentfulPaint": 2371.7955,
+    "firstMeaningfulPaint": 3665.294,
+    "speedIndex": 2725.2093465940557,
+    "largestContentfulPaint": 4810.603,
+    "totalBlockingTime": 29,
+    "cumulativeLayoutShift": 0.06335751679781262,
+    "timeToInteractive": 4384.9835,
+    "maxPotentialFirstInputDelay": 79,
+    "timeToFirstByte": 58.775,
+    "weight": {
+      "summary": "68 requests • 623,8 KiB",
+      "total": 638747,
+      "image": 40783,
+      "imageCount": 38,
+      "script": 393821,
+      "scriptCount": 13,
+      "document": 49889,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44164,
+      "stylesheetCount": 3,
+      "thirdParty": 295081,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 28,
+      "-weight.document": 22,
+      "+weight.document": 28,
+      "-weight.script": 5,
+      "+weight.script": 44,
+      "-weight.image": 33,
+      "+weight.image": 16,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 1294,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2000/11/ALSTOM-to-supply-GT10-gas-turbine-to-Turkey-20001113",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2000/11/ALSTOM-to-supply-GT10-gas-turbine-to-Turkey-20001113",
+    "timestamp": 1707571969687,
+    "ranks": {
+      "hundos": 41,
+      "performance": 40,
+      "accessibility": 20,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 357
+    },
+    "firstContentfulPaint": 2374.499,
+    "firstMeaningfulPaint": 3491.5789999999997,
+    "speedIndex": 2660.190652760647,
+    "largestContentfulPaint": 4798.801000000001,
+    "totalBlockingTime": 7,
+    "cumulativeLayoutShift": 0.05247146748764891,
+    "timeToInteractive": 4350.862000000001,
+    "maxPotentialFirstInputDelay": 57,
+    "timeToFirstByte": 119.832,
+    "weight": {
+      "summary": "67 requests • 622,4 KiB",
+      "total": 637315,
+      "image": 40615,
+      "imageCount": 38,
+      "script": 393878,
+      "scriptCount": 13,
+      "document": 49665,
+      "font": 71822,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295015,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 43,
+      "-weight.document": 17,
+      "+weight.document": 33,
+      "-weight.script": 14,
+      "+weight.script": 35,
+      "-weight.image": 4,
+      "+weight.image": 45,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 1258,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2011/5/UK_Power_Apprentice_Success_BOC_Competition",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2011/5/UK_Power_Apprentice_Success_BOC_Competition",
+    "timestamp": 1707571281241,
+    "ranks": {
+      "hundos": 43,
+      "performance": 36,
+      "accessibility": 34,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 357
+    },
+    "firstContentfulPaint": 2405.6209999999996,
+    "firstMeaningfulPaint": 3466.4429999999993,
+    "speedIndex": 2577.332392496588,
+    "largestContentfulPaint": 4869.839,
+    "totalBlockingTime": 23.5,
+    "cumulativeLayoutShift": 0.028447261729242106,
+    "timeToInteractive": 5023.434,
+    "maxPotentialFirstInputDelay": 97,
+    "timeToFirstByte": 150.864,
+    "weight": {
+      "summary": "67 requests • 621,9 KiB",
+      "total": 636821,
+      "image": 40644,
+      "imageCount": 38,
+      "script": 393847,
+      "scriptCount": 13,
+      "document": 49168,
+      "font": 71823,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295024,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 47,
+      "-weight.document": 13,
+      "+weight.document": 37,
+      "-weight.script": 8,
+      "+weight.script": 41,
+      "-weight.image": 7,
+      "+weight.image": 42,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 1213,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/de/press-releases-news/2010/6/2010-06-18-Alstom-erreicht-Meilenstein-bei-KA24-KA26-Kombikraftwerken",
+    "requestedUrl": "https://www.alstom.com/de/press-releases-news/2010/6/2010-06-18-Alstom-erreicht-Meilenstein-bei-KA24-KA26-Kombikraftwerken",
+    "timestamp": 1707571486599,
+    "ranks": {
+      "hundos": 42,
+      "performance": 38,
+      "accessibility": 35,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 357
+    },
+    "firstContentfulPaint": 2383.492,
+    "firstMeaningfulPaint": 3666.5305,
+    "speedIndex": 2626.840787745567,
+    "largestContentfulPaint": 4867.925500000001,
+    "totalBlockingTime": 23.5,
+    "cumulativeLayoutShift": 0.025339537925432316,
+    "timeToInteractive": 4924.338999999999,
+    "maxPotentialFirstInputDelay": 73,
+    "timeToFirstByte": 109.852,
+    "weight": {
+      "summary": "67 requests • 626,3 KiB",
+      "total": 641366,
+      "image": 40715,
+      "imageCount": 38,
+      "script": 398718,
+      "scriptCount": 13,
+      "document": 48838,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44175,
+      "stylesheetCount": 3,
+      "thirdParty": 295001,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 18,
+      "-weight.document": 11,
+      "+weight.document": 39,
+      "-weight.script": 31,
+      "+weight.script": 18,
+      "-weight.image": 22,
+      "+weight.image": 27,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1232,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fi/press-releases-news/2013/9/allegro-juna-sai-miljoonannen-matkustajansa",
+    "requestedUrl": "https://www.alstom.com/fi/press-releases-news/2013/9/allegro-juna-sai-miljoonannen-matkustajansa",
+    "timestamp": 1707571746459,
+    "ranks": {
+      "hundos": 44,
+      "performance": 44,
+      "accessibility": 24,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 356
+    },
+    "firstContentfulPaint": 2359.946,
+    "firstMeaningfulPaint": 3566.379,
+    "speedIndex": 2563.1523411510425,
+    "largestContentfulPaint": 5011.4839999999995,
+    "totalBlockingTime": 10.999999999999545,
+    "cumulativeLayoutShift": 0.014228834055160155,
+    "timeToInteractive": 4341.103999999999,
+    "maxPotentialFirstInputDelay": 61,
+    "timeToFirstByte": 127.20400000000001,
+    "weight": {
+      "summary": "68 requests • 658,4 KiB",
+      "total": 674159,
+      "image": 40661,
+      "imageCount": 38,
+      "script": 397907,
+      "scriptCount": 13,
+      "document": 47645,
+      "font": 106634,
+      "fontCount": 3,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 329858,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 2,
+      "-weight.document": 3,
+      "+weight.document": 47,
+      "-weight.script": 27,
+      "+weight.script": 22,
+      "-weight.image": 12,
+      "+weight.image": 37,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 1231,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2006/4/ALSTOM-to-supply-Air-Pollution-Control-Systems-to-Power-Plant-in-Iowa-US-20060428",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2006/4/ALSTOM-to-supply-Air-Pollution-Control-Systems-to-Power-Plant-in-Iowa-US-20060428",
+    "timestamp": 1707570860878,
+    "ranks": {
+      "hundos": 45,
+      "performance": 46,
+      "accessibility": 30,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 356
+    },
+    "firstContentfulPaint": 2364.801,
+    "firstMeaningfulPaint": 3655.6670000000004,
+    "speedIndex": 2627.498689447599,
+    "largestContentfulPaint": 5018.470000000001,
+    "totalBlockingTime": 25.5,
+    "cumulativeLayoutShift": 0.025353413100203257,
+    "timeToInteractive": 4867.911,
+    "maxPotentialFirstInputDelay": 73,
+    "timeToFirstByte": 118.267,
+    "weight": {
+      "summary": "67 requests • 621,8 KiB",
+      "total": 636759,
+      "image": 40755,
+      "imageCount": 38,
+      "script": 393903,
+      "scriptCount": 13,
+      "document": 49046,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44141,
+      "stylesheetCount": 3,
+      "thirdParty": 295028,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 48,
+      "-weight.document": 12,
+      "+weight.document": 38,
+      "-weight.script": 18,
+      "+weight.script": 31,
+      "-weight.image": 27,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 1224,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2003/3/ALSTOM-to-supply-pump-storage-plant-in-Norway-20030325",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2003/3/ALSTOM-to-supply-pump-storage-plant-in-Norway-20030325",
+    "timestamp": 1707571446448,
+    "ranks": {
+      "hundos": 46,
+      "performance": 49,
+      "accessibility": 8,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.95,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 356
+    },
+    "firstContentfulPaint": 2387.2569999999996,
+    "firstMeaningfulPaint": 3482.282,
+    "speedIndex": 2601.358609153929,
+    "largestContentfulPaint": 4805.891000000001,
+    "totalBlockingTime": 22,
+    "cumulativeLayoutShift": 0.097209187768053,
+    "timeToInteractive": 4996.075,
+    "maxPotentialFirstInputDelay": 94,
+    "timeToFirstByte": 150.005,
+    "weight": {
+      "summary": "67 requests • 622,0 KiB",
+      "total": 636903,
+      "image": 40694,
+      "imageCount": 38,
+      "script": 393908,
+      "scriptCount": 13,
+      "document": 49229,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44159,
+      "stylesheetCount": 3,
+      "thirdParty": 295033,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 46,
+      "-weight.document": 14,
+      "+weight.document": 36,
+      "-weight.script": 21,
+      "+weight.script": 28,
+      "-weight.image": 18,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 1240,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/de/press-releases-news/2008/5/2008-05-19-Wittke-neuer-Alstom-Deutschlandchef",
+    "requestedUrl": "https://www.alstom.com/de/press-releases-news/2008/5/2008-05-19-Wittke-neuer-Alstom-Deutschlandchef",
+    "timestamp": 1707572059356,
+    "ranks": {
+      "hundos": 47,
+      "performance": 47,
+      "accessibility": 31,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 356
+    },
+    "firstContentfulPaint": 2432.402,
+    "firstMeaningfulPaint": 3540.197,
+    "speedIndex": 2683.3515385690816,
+    "largestContentfulPaint": 4905.872500000001,
+    "totalBlockingTime": 21,
+    "cumulativeLayoutShift": 0.040619287464767194,
+    "timeToInteractive": 5018.8724999999995,
+    "maxPotentialFirstInputDelay": 92,
+    "timeToFirstByte": 146.255,
+    "weight": {
+      "summary": "67 requests • 624,7 KiB",
+      "total": 639741,
+      "image": 40611,
+      "imageCount": 38,
+      "script": 398806,
+      "scriptCount": 13,
+      "document": 47242,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44159,
+      "stylesheetCount": 3,
+      "thirdParty": 295035,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 25,
+      "-weight.document": 2,
+      "+weight.document": 48,
+      "-weight.script": 40,
+      "+weight.script": 9,
+      "-weight.image": 3,
+      "+weight.image": 46,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 1220,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/de/press-releases-news/2009/9/2008-09-24-Veolia",
+    "requestedUrl": "https://www.alstom.com/de/press-releases-news/2009/9/2008-09-24-Veolia",
+    "timestamp": 1707572019678,
+    "ranks": {
+      "hundos": 48,
+      "performance": 45,
+      "accessibility": 26,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 356
+    },
+    "firstContentfulPaint": 2455.26,
+    "firstMeaningfulPaint": 3515.405,
+    "speedIndex": 2622.09029471607,
+    "largestContentfulPaint": 4986.986500000001,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0.04271772130871509,
+    "timeToInteractive": 5100.9865,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 158.507,
+    "weight": {
+      "summary": "67 requests • 625,7 KiB",
+      "total": 640670,
+      "image": 40721,
+      "imageCount": 38,
+      "script": 398708,
+      "scriptCount": 13,
+      "document": 48146,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44176,
+      "stylesheetCount": 3,
+      "thirdParty": 295020,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 21,
+      "-weight.document": 6,
+      "+weight.document": 44,
+      "-weight.script": 30,
+      "+weight.script": 19,
+      "-weight.image": 23,
+      "+weight.image": 26,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 1227,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/press-releases-news/2012/3/Alstom_wins_two_steam_turbine_in_poland",
+    "requestedUrl": "https://www.alstom.com/press-releases-news/2012/3/Alstom_wins_two_steam_turbine_in_poland",
+    "timestamp": 1707571646743,
+    "ranks": {
+      "hundos": 49,
+      "performance": 48,
+      "accessibility": 22,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.94,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 355
+    },
+    "firstContentfulPaint": 2404.698,
+    "firstMeaningfulPaint": 3461.3559999999998,
+    "speedIndex": 2544.236355435516,
+    "largestContentfulPaint": 4724.4490000000005,
+    "totalBlockingTime": 22,
+    "cumulativeLayoutShift": 0.09790718932863748,
+    "timeToInteractive": 5019.735,
+    "maxPotentialFirstInputDelay": 94,
+    "timeToFirstByte": 151.426,
+    "weight": {
+      "summary": "67 requests • 622,3 KiB",
+      "total": 637236,
+      "image": 40665,
+      "imageCount": 38,
+      "script": 393851,
+      "scriptCount": 13,
+      "document": 49605,
+      "font": 71800,
+      "fontCount": 2,
+      "stylesheet": 44199,
+      "stylesheetCount": 3,
+      "thirdParty": 295003,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 45,
+      "-weight.document": 16,
+      "+weight.document": 34,
+      "-weight.script": 9,
+      "+weight.script": 40,
+      "-weight.image": 13,
+      "+weight.image": 36,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 1233,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/",
+    "requestedUrl": "https://www.alstom.com/",
+    "timestamp": 1707571325275,
+    "ranks": {
+      "hundos": 50,
+      "performance": 50,
+      "accessibility": 50,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.85,
+      "bestPractices": 0.93,
+      "seo": 0.91,
+      "total": 334
+    },
+    "firstContentfulPaint": 2401.2889999999998,
+    "firstMeaningfulPaint": 3496.4539999999997,
+    "speedIndex": 7669.391151564047,
+    "largestContentfulPaint": 28370.581000000002,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 13710.574000000002,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 145.92700000000002,
+    "weight": {
+      "summary": "89 requests • 5,0 MiB",
+      "total": 5287242,
+      "image": 4678844,
+      "imageCount": 58,
+      "script": 393907,
+      "scriptCount": 13,
+      "document": 60284,
+      "font": 71799,
+      "fontCount": 2,
+      "stylesheet": 44246,
+      "stylesheetCount": 3,
+      "thirdParty": 295021,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 1,
+      "-weight.document": 49,
+      "+weight.document": 1,
+      "-weight.script": 20,
+      "+weight.script": 29,
+      "-weight.image": 48,
+      "+weight.image": 1,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "passes": 2143,
+      "violations": 13
+    }
+  }
+]

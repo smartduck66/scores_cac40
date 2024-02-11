@@ -1,0 +1,3553 @@
+[
+  {
+    "url": "https://france.arcelormittal.com/neutralite-carbone/dri-hydrogene",
+    "requestedUrl": "https://france.arcelormittal.com/neutralite-carbone/dri-hydrogene",
+    "timestamp": 1707485001178,
+    "ranks": {
+      "hundos": 1,
+      "performance": 1,
+      "accessibility": 5,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1063.478,
+    "firstMeaningfulPaint": 1063.478,
+    "speedIndex": 1063.478,
+    "largestContentfulPaint": 1888.478,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1063.478,
+    "maxPotentialFirstInputDelay": 35,
+    "timeToFirstByte": 18.492999999999995,
+    "weight": {
+      "summary": "29 requests • 326,2 KiB",
+      "total": 334063,
+      "image": 176547,
+      "imageCount": 9,
+      "script": 71717,
+      "scriptCount": 12,
+      "document": 16726,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 14,
+      "-weight.document": 31,
+      "+weight.document": 23,
+      "-weight.script": 46,
+      "+weight.script": 4,
+      "-weight.image": 37,
+      "+weight.image": 14,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 529,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/declaration-sur-la-decision-du-tribunal-de-grande-instance-d-aix",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/declaration-sur-la-decision-du-tribunal-de-grande-instance-d-aix",
+    "timestamp": 1707485333443,
+    "ranks": {
+      "hundos": 10,
+      "performance": 8,
+      "accessibility": 7,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1079.0059999999999,
+    "firstMeaningfulPaint": 1079.0059999999999,
+    "speedIndex": 1079.0059999999999,
+    "largestContentfulPaint": 1529.0059999999999,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1079.0059999999999,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 13.442,
+    "weight": {
+      "summary": "21 requests • 154,1 KiB",
+      "total": 157807,
+      "image": 7033,
+      "imageCount": 1,
+      "script": 71716,
+      "scriptCount": 12,
+      "document": 9985,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 53,
+      "-weight.document": 2,
+      "+weight.document": 52,
+      "-weight.script": 45,
+      "+weight.script": 5,
+      "-weight.image": 1,
+      "+weight.image": 50,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 398,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/annexes/accessibilite",
+    "requestedUrl": "https://france.arcelormittal.com/annexes/accessibilite",
+    "timestamp": 1707484588128,
+    "ranks": {
+      "hundos": 12,
+      "performance": 5,
+      "accessibility": 9,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1070.9545,
+    "firstMeaningfulPaint": 1070.9545,
+    "speedIndex": 1070.9545,
+    "largestContentfulPaint": 1520.9545,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1070.9545,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 149.996,
+    "weight": {
+      "summary": "22 requests • 169,3 KiB",
+      "total": 173357,
+      "image": 7033,
+      "imageCount": 1,
+      "script": 71412,
+      "scriptCount": 12,
+      "document": 9473,
+      "font": 46753,
+      "fontCount": 3,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 52,
+      "-weight.document": 1,
+      "+weight.document": 53,
+      "-weight.script": 5,
+      "+weight.script": 45,
+      "-weight.image": 1,
+      "+weight.image": 50,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 366,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/egalite-femmes-hommes-la-mesure-dont-ils-sont-le-plus-fiers",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/egalite-femmes-hommes-la-mesure-dont-ils-sont-le-plus-fiers",
+    "timestamp": 1707484922031,
+    "ranks": {
+      "hundos": 2,
+      "performance": 3,
+      "accessibility": 11,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1067.234,
+    "firstMeaningfulPaint": 1067.234,
+    "speedIndex": 1067.234,
+    "largestContentfulPaint": 1742.234,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1067.234,
+    "maxPotentialFirstInputDelay": 36,
+    "timeToFirstByte": 15.436999999999998,
+    "weight": {
+      "summary": "28 requests • 259,7 KiB",
+      "total": 265945,
+      "image": 109834,
+      "imageCount": 8,
+      "script": 71579,
+      "scriptCount": 12,
+      "document": 15459,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 28,
+      "-weight.document": 14,
+      "+weight.document": 40,
+      "-weight.script": 29,
+      "+weight.script": 21,
+      "-weight.image": 24,
+      "+weight.image": 27,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 484,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/arcelormittal-fos-sur-mer-un-reservoir-de-biodiversite-exceptionnel-en-france",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/arcelormittal-fos-sur-mer-un-reservoir-de-biodiversite-exceptionnel-en-france",
+    "timestamp": 1707484858671,
+    "ranks": {
+      "hundos": 3,
+      "performance": 11,
+      "accessibility": 28,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1213.43,
+    "firstMeaningfulPaint": 1213.43,
+    "speedIndex": 1213.43,
+    "largestContentfulPaint": 1738.43,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1213.43,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 18.510000000000005,
+    "weight": {
+      "summary": "24 requests • 290,6 KiB",
+      "total": 297616,
+      "image": 141490,
+      "imageCount": 4,
+      "script": 71545,
+      "scriptCount": 12,
+      "document": 15508,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 19,
+      "-weight.document": 15,
+      "+weight.document": 39,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 33,
+      "+weight.image": 18,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 394,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/arcelormittal-participe-a-la-7e-edition-des-sciences-de-l-ingenieur-au-feminin",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/arcelormittal-participe-a-la-7e-edition-des-sciences-de-l-ingenieur-au-feminin",
+    "timestamp": 1707485255686,
+    "ranks": {
+      "hundos": 5,
+      "performance": 10,
+      "accessibility": 13,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1211.914,
+    "firstMeaningfulPaint": 1211.914,
+    "speedIndex": 1211.914,
+    "largestContentfulPaint": 1736.914,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1211.914,
+    "maxPotentialFirstInputDelay": 33,
+    "timeToFirstByte": 17.234999999999992,
+    "weight": {
+      "summary": "26 requests • 260,1 KiB",
+      "total": 266330,
+      "image": 109025,
+      "imageCount": 6,
+      "script": 71671,
+      "scriptCount": 12,
+      "document": 16606,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38547,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 27,
+      "-weight.document": 28,
+      "+weight.document": 26,
+      "-weight.script": 38,
+      "+weight.script": 12,
+      "-weight.image": 23,
+      "+weight.image": 28,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 467,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/temoignages-d-alternantes-marion-et-camille-etudiantes-en-supply-chain-et",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/temoignages-d-alternantes-marion-et-camille-etudiantes-en-supply-chain-et",
+    "timestamp": 1707485319572,
+    "ranks": {
+      "hundos": 9,
+      "performance": 12,
+      "accessibility": 24,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1218.0315,
+    "firstMeaningfulPaint": 1218.0315,
+    "speedIndex": 1218.0315,
+    "largestContentfulPaint": 1743.0315,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1218.0315,
+    "maxPotentialFirstInputDelay": 33,
+    "timeToFirstByte": 17.989999999999995,
+    "weight": {
+      "summary": "23 requests • 188,5 KiB",
+      "total": 193017,
+      "image": 35256,
+      "imageCount": 3,
+      "script": 71472,
+      "scriptCount": 12,
+      "document": 17238,
+      "font": 30365,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 50,
+      "-weight.document": 38,
+      "+weight.document": 16,
+      "-weight.script": 13,
+      "+weight.script": 37,
+      "-weight.image": 3,
+      "+weight.image": 48,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 398,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/arcelormittal-annonce-ses-resultats-pour-le-premier-trimestre-2019",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/arcelormittal-annonce-ses-resultats-pour-le-premier-trimestre-2019",
+    "timestamp": 1707484865962,
+    "ranks": {
+      "hundos": 8,
+      "performance": 4,
+      "accessibility": 34,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1069.525,
+    "firstMeaningfulPaint": 1069.525,
+    "speedIndex": 1069.525,
+    "largestContentfulPaint": 1744.525,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1069.525,
+    "maxPotentialFirstInputDelay": 43,
+    "timeToFirstByte": 18.096000000000004,
+    "weight": {
+      "summary": "23 requests • 205,3 KiB",
+      "total": 210230,
+      "image": 49894,
+      "imageCount": 3,
+      "script": 71598,
+      "scriptCount": 12,
+      "document": 19665,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 49,
+      "-weight.document": 52,
+      "+weight.document": 2,
+      "-weight.script": 32,
+      "+weight.script": 18,
+      "-weight.image": 4,
+      "+weight.image": 47,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 636,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/nous-rejoindre/",
+    "requestedUrl": "https://france.arcelormittal.com/nous-rejoindre/",
+    "timestamp": 1707484247776,
+    "ranks": {
+      "hundos": 11,
+      "performance": 13,
+      "accessibility": 36,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1213.0430000000001,
+    "firstMeaningfulPaint": 1213.0430000000001,
+    "speedIndex": 1331.491914377097,
+    "largestContentfulPaint": 1738.0430000000001,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1213.0430000000001,
+    "maxPotentialFirstInputDelay": 33,
+    "timeToFirstByte": 168.536,
+    "weight": {
+      "summary": "26 requests • 286,0 KiB",
+      "total": 292840,
+      "image": 134283,
+      "imageCount": 6,
+      "script": 71380,
+      "scriptCount": 12,
+      "document": 18081,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 20,
+      "-weight.document": 48,
+      "+weight.document": 6,
+      "-weight.script": 1,
+      "+weight.script": 49,
+      "-weight.image": 31,
+      "+weight.image": 20,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 430,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/filles-tres-steel-au-dela-des-prejuges",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/filles-tres-steel-au-dela-des-prejuges",
+    "timestamp": 1707484490929,
+    "ranks": {
+      "hundos": 13,
+      "performance": 14,
+      "accessibility": 37,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1212.748,
+    "firstMeaningfulPaint": 1212.748,
+    "speedIndex": 1833.8286932053854,
+    "largestContentfulPaint": 1737.748,
+    "totalBlockingTime": 3,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 2101.8455000000004,
+    "maxPotentialFirstInputDelay": 56,
+    "timeToFirstByte": 581.4069999999999,
+    "weight": {
+      "summary": "24 requests • 228,4 KiB",
+      "total": 233843,
+      "image": 76854,
+      "imageCount": 4,
+      "script": 71598,
+      "scriptCount": 12,
+      "document": 16340,
+      "font": 30438,
+      "fontCount": 2,
+      "stylesheet": 38547,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 41,
+      "-weight.document": 24,
+      "+weight.document": 30,
+      "-weight.script": 32,
+      "+weight.script": 18,
+      "-weight.image": 11,
+      "+weight.image": 40,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 416,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/arcelormittal-florange",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/arcelormittal-florange",
+    "timestamp": 1707484823750,
+    "ranks": {
+      "hundos": 6,
+      "performance": 2,
+      "accessibility": 42,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1066.0555,
+    "firstMeaningfulPaint": 1066.0555,
+    "speedIndex": 1066.0555,
+    "largestContentfulPaint": 1816.0555,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1066.0555,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 16.608999999999995,
+    "weight": {
+      "summary": "23 requests • 222,7 KiB",
+      "total": 228058,
+      "image": 73004,
+      "imageCount": 3,
+      "script": 71454,
+      "scriptCount": 12,
+      "document": 14549,
+      "font": 30365,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 43,
+      "-weight.document": 7,
+      "+weight.document": 47,
+      "-weight.script": 11,
+      "+weight.script": 39,
+      "-weight.image": 9,
+      "+weight.image": 42,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 442,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/changement-de-direction-a-la-tete-du-campus-de-recherche-arcelormittal-de",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/changement-de-direction-a-la-tete-du-campus-de-recherche-arcelormittal-de",
+    "timestamp": 1707484788639,
+    "ranks": {
+      "hundos": 7,
+      "performance": 6,
+      "accessibility": 46,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1071.5700000000002,
+    "firstMeaningfulPaint": 1071.5700000000002,
+    "speedIndex": 1071.5700000000002,
+    "largestContentfulPaint": 1746.5700000000002,
+    "totalBlockingTime": 19.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1760.5700000000002,
+    "maxPotentialFirstInputDelay": 89,
+    "timeToFirstByte": 17.619,
+    "weight": {
+      "summary": "24 requests • 239,3 KiB",
+      "total": 245043,
+      "image": 89862,
+      "imageCount": 4,
+      "script": 71639,
+      "scriptCount": 12,
+      "document": 14469,
+      "font": 30387,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 35,
+      "-weight.document": 6,
+      "+weight.document": 48,
+      "-weight.script": 36,
+      "+weight.script": 14,
+      "-weight.image": 19,
+      "+weight.image": 32,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 471,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/inauguration-du-premier-digital-lab-a-dunkerque",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/inauguration-du-premier-digital-lab-a-dunkerque",
+    "timestamp": 1707484929337,
+    "ranks": {
+      "hundos": 4,
+      "performance": 7,
+      "accessibility": 48,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 396
+    },
+    "firstContentfulPaint": 1074.912,
+    "firstMeaningfulPaint": 1074.912,
+    "speedIndex": 1074.912,
+    "largestContentfulPaint": 1749.912,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1074.912,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 18.126999999999995,
+    "weight": {
+      "summary": "26 requests • 235,3 KiB",
+      "total": 240988,
+      "image": 81478,
+      "imageCount": 6,
+      "script": 71519,
+      "scriptCount": 12,
+      "document": 18940,
+      "font": 30365,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 38,
+      "-weight.document": 51,
+      "+weight.document": 3,
+      "-weight.script": 20,
+      "+weight.script": 30,
+      "-weight.image": 13,
+      "+weight.image": 38,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 651,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/bonne-annee",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/bonne-annee",
+    "timestamp": 1707485029765,
+    "ranks": {
+      "hundos": 23,
+      "performance": 30,
+      "accessibility": 8,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1227.204,
+    "firstMeaningfulPaint": 1227.204,
+    "speedIndex": 1227.204,
+    "largestContentfulPaint": 2052.2039999999997,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1227.204,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 17.897999999999996,
+    "weight": {
+      "summary": "24 requests • 246,5 KiB",
+      "total": 252425,
+      "image": 96156,
+      "imageCount": 4,
+      "script": 71458,
+      "scriptCount": 12,
+      "document": 15760,
+      "font": 30365,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 33,
+      "-weight.document": 16,
+      "+weight.document": 38,
+      "-weight.script": 12,
+      "+weight.script": 38,
+      "-weight.image": 20,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 390,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/semaine-de-l-industrie-a-fos-sur-mer-et-st-chely",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/semaine-de-l-industrie-a-fos-sur-mer-et-st-chely",
+    "timestamp": 1707484279071,
+    "ranks": {
+      "hundos": 32,
+      "performance": 37,
+      "accessibility": 6,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1098.7789999999998,
+    "firstMeaningfulPaint": 1298.2529999999997,
+    "speedIndex": 1356.0060091298374,
+    "largestContentfulPaint": 2127.6229999999996,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1298.2529999999997,
+    "maxPotentialFirstInputDelay": 50,
+    "timeToFirstByte": 104.13100000000001,
+    "weight": {
+      "summary": "24 requests • 241,7 KiB",
+      "total": 247544,
+      "image": 88602,
+      "imageCount": 4,
+      "script": 71701,
+      "scriptCount": 12,
+      "document": 18168,
+      "font": 30387,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 34,
+      "-weight.document": 49,
+      "+weight.document": 5,
+      "-weight.script": 42,
+      "+weight.script": 8,
+      "-weight.image": 17,
+      "+weight.image": 34,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 415,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/engagements/egalite-h-f",
+    "requestedUrl": "https://france.arcelormittal.com/engagements/egalite-h-f",
+    "timestamp": 1707484986714,
+    "ranks": {
+      "hundos": 16,
+      "performance": 21,
+      "accessibility": 12,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1213.1585,
+    "firstMeaningfulPaint": 1213.1585,
+    "speedIndex": 1213.1585,
+    "largestContentfulPaint": 1888.1585,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1213.1585,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 18.58,
+    "weight": {
+      "summary": "27 requests • 346,8 KiB",
+      "total": 355167,
+      "image": 197767,
+      "imageCount": 7,
+      "script": 71625,
+      "scriptCount": 12,
+      "document": 16702,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 11,
+      "-weight.document": 30,
+      "+weight.document": 24,
+      "-weight.script": 34,
+      "+weight.script": 16,
+      "-weight.image": 40,
+      "+weight.image": 11,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 476,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/emploi-et-handicap",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/emploi-et-handicap",
+    "timestamp": 1707485213117,
+    "ranks": {
+      "hundos": 17,
+      "performance": 15,
+      "accessibility": 20,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1068.3719999999998,
+    "firstMeaningfulPaint": 1068.3719999999998,
+    "speedIndex": 1068.3719999999998,
+    "largestContentfulPaint": 1818.3719999999998,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1068.3719999999998,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 17.782000000000004,
+    "weight": {
+      "summary": "25 requests • 253,2 KiB",
+      "total": 259240,
+      "image": 86398,
+      "imageCount": 4,
+      "script": 71393,
+      "scriptCount": 12,
+      "document": 16010,
+      "font": 46776,
+      "fontCount": 3,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 31,
+      "-weight.document": 20,
+      "+weight.document": 34,
+      "-weight.script": 2,
+      "+weight.script": 48,
+      "-weight.image": 15,
+      "+weight.image": 36,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 410,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/retour-sur-5-journees-formidables-dediees-aux-anniversaires-des-sites-de",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/retour-sur-5-journees-formidables-dediees-aux-anniversaires-des-sites-de",
+    "timestamp": 1707484718074,
+    "ranks": {
+      "hundos": 20,
+      "performance": 42,
+      "accessibility": 10,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1073.601,
+    "firstMeaningfulPaint": 1073.601,
+    "speedIndex": 1957.6703498997958,
+    "largestContentfulPaint": 2048.601,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1073.601,
+    "maxPotentialFirstInputDelay": 35,
+    "timeToFirstByte": 73.88400000000001,
+    "weight": {
+      "summary": "39 requests • 695,5 KiB",
+      "total": 712181,
+      "image": 554012,
+      "imageCount": 19,
+      "script": 71632,
+      "scriptCount": 12,
+      "document": 17464,
+      "font": 30387,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 51,
+      "+weight.total": 3,
+      "-weight.document": 42,
+      "+weight.document": 12,
+      "-weight.script": 35,
+      "+weight.script": 15,
+      "-weight.image": 48,
+      "+weight.image": 3,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 555,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/responsable-de-la-cellule-fiabilite-a-l-acierie-de-fos-sur-mer",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/responsable-de-la-cellule-fiabilite-a-l-acierie-de-fos-sur-mer",
+    "timestamp": 1707484675090,
+    "ranks": {
+      "hundos": 26,
+      "performance": 27,
+      "accessibility": 19,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1221.863,
+    "firstMeaningfulPaint": 1239.363,
+    "speedIndex": 1221.863,
+    "largestContentfulPaint": 2006.8630000000003,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1239.363,
+    "maxPotentialFirstInputDelay": 35,
+    "timeToFirstByte": 42.306,
+    "weight": {
+      "summary": "24 requests • 252,4 KiB",
+      "total": 258416,
+      "image": 101207,
+      "imageCount": 4,
+      "script": 71681,
+      "scriptCount": 12,
+      "document": 16500,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38552,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 32,
+      "-weight.document": 27,
+      "+weight.document": 27,
+      "-weight.script": 39,
+      "+weight.script": 11,
+      "-weight.image": 21,
+      "+weight.image": 30,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 413,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/une-nouvelle-pince-pour-le-deplacement-des-cylindres",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/une-nouvelle-pince-pour-le-deplacement-des-cylindres",
+    "timestamp": 1707484739232,
+    "ranks": {
+      "hundos": 27,
+      "performance": 32,
+      "accessibility": 23,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1074.4225000000001,
+    "firstMeaningfulPaint": 1187.4225000000001,
+    "speedIndex": 1229.6523894194322,
+    "largestContentfulPaint": 1900.4225000000001,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1187.4225000000001,
+    "maxPotentialFirstInputDelay": 42,
+    "timeToFirstByte": 65.832,
+    "weight": {
+      "summary": "25 requests • 278,7 KiB",
+      "total": 285354,
+      "image": 131243,
+      "imageCount": 5,
+      "script": 71618,
+      "scriptCount": 12,
+      "document": 13420,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 22,
+      "-weight.document": 4,
+      "+weight.document": 50,
+      "-weight.script": 33,
+      "+weight.script": 17,
+      "-weight.image": 30,
+      "+weight.image": 21,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 401,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/les-chantiers-de-l-atlantique-ont-le-vent-en-poupe",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/les-chantiers-de-l-atlantique-ont-le-vent-en-poupe",
+    "timestamp": 1707485262666,
+    "ranks": {
+      "hundos": 28,
+      "performance": 25,
+      "accessibility": 31,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1218.123,
+    "firstMeaningfulPaint": 1333.123,
+    "speedIndex": 1218.123,
+    "largestContentfulPaint": 1823.123,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1333.123,
+    "maxPotentialFirstInputDelay": 46,
+    "timeToFirstByte": 16.290999999999997,
+    "weight": {
+      "summary": "24 requests • 221,2 KiB",
+      "total": 226525,
+      "image": 70083,
+      "imageCount": 4,
+      "script": 71527,
+      "scriptCount": 12,
+      "document": 15842,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 44,
+      "-weight.document": 18,
+      "+weight.document": 36,
+      "-weight.script": 21,
+      "+weight.script": 29,
+      "-weight.image": 8,
+      "+weight.image": 43,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 388,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/une-alternante-arcelormittal-remporte-le-prix-regional-2019-de-la-region-grand",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/une-alternante-arcelormittal-remporte-le-prix-regional-2019-de-la-region-grand",
+    "timestamp": 1707484844732,
+    "ranks": {
+      "hundos": 29,
+      "performance": 22,
+      "accessibility": 29,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1214.679,
+    "firstMeaningfulPaint": 1330.179,
+    "speedIndex": 1214.679,
+    "largestContentfulPaint": 1820.679,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1330.179,
+    "maxPotentialFirstInputDelay": 46,
+    "timeToFirstByte": 17.783,
+    "weight": {
+      "summary": "24 requests • 207,4 KiB",
+      "total": 212391,
+      "image": 55462,
+      "imageCount": 4,
+      "script": 71590,
+      "scriptCount": 12,
+      "document": 16266,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 48,
+      "-weight.document": 22,
+      "+weight.document": 32,
+      "-weight.script": 30,
+      "+weight.script": 20,
+      "-weight.image": 6,
+      "+weight.image": 45,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 393,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/temoignages-d-alternants-julian-megane-et-mohammed-en-preparation-d-un-diplome",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/temoignages-d-alternants-julian-megane-et-mohammed-en-preparation-d-un-diplome",
+    "timestamp": 1707484950545,
+    "ranks": {
+      "hundos": 30,
+      "performance": 31,
+      "accessibility": 25,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1216.0445,
+    "firstMeaningfulPaint": 1329.5445,
+    "speedIndex": 1227.7685290976824,
+    "largestContentfulPaint": 1818.0445,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1329.5445,
+    "maxPotentialFirstInputDelay": 43,
+    "timeToFirstByte": 17.676999999999992,
+    "weight": {
+      "summary": "23 requests • 187,2 KiB",
+      "total": 191693,
+      "image": 35211,
+      "imageCount": 3,
+      "script": 71535,
+      "scriptCount": 12,
+      "document": 15919,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38547,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 51,
+      "-weight.document": 19,
+      "+weight.document": 35,
+      "-weight.script": 22,
+      "+weight.script": 28,
+      "-weight.image": 2,
+      "+weight.image": 49,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 398,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/l-usine-connectee-c-est-deja-une-realite",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/l-usine-connectee-c-est-deja-une-realite",
+    "timestamp": 1707484732207,
+    "ranks": {
+      "hundos": 31,
+      "performance": 33,
+      "accessibility": 26,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1225.513,
+    "firstMeaningfulPaint": 1262.013,
+    "speedIndex": 1235.814541897184,
+    "largestContentfulPaint": 1823.513,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1262.013,
+    "maxPotentialFirstInputDelay": 37,
+    "timeToFirstByte": 68.022,
+    "weight": {
+      "summary": "24 requests • 208,3 KiB",
+      "total": 213289,
+      "image": 56864,
+      "imageCount": 4,
+      "script": 71575,
+      "scriptCount": 12,
+      "document": 15822,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38552,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 46,
+      "-weight.document": 17,
+      "+weight.document": 37,
+      "-weight.script": 27,
+      "+weight.script": 23,
+      "-weight.image": 7,
+      "+weight.image": 44,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 395,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/september-fest-2022-faire-connaitre-nos-metiers",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/september-fest-2022-faire-connaitre-nos-metiers",
+    "timestamp": 1707484323051,
+    "ranks": {
+      "hundos": 33,
+      "performance": 39,
+      "accessibility": 21,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1223.75,
+    "firstMeaningfulPaint": 1337.75,
+    "speedIndex": 1466.8861571628192,
+    "largestContentfulPaint": 1976.75,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1337.75,
+    "maxPotentialFirstInputDelay": 44,
+    "timeToFirstByte": 140.057,
+    "weight": {
+      "summary": "25 requests • 281,9 KiB",
+      "total": 288703,
+      "image": 131202,
+      "imageCount": 5,
+      "script": 71511,
+      "scriptCount": 12,
+      "document": 16917,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 21,
+      "-weight.document": 33,
+      "+weight.document": 21,
+      "-weight.script": 19,
+      "+weight.script": 31,
+      "-weight.image": 29,
+      "+weight.image": 22,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 406,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/une-visite-a-saint-chely-sur-le-theme-de-la-decarbonation",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/une-visite-a-saint-chely-sur-le-theme-de-la-decarbonation",
+    "timestamp": 1707484308491,
+    "ranks": {
+      "hundos": 35,
+      "performance": 35,
+      "accessibility": 18,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1086.363,
+    "firstMeaningfulPaint": 1086.363,
+    "speedIndex": 1336.757407972275,
+    "largestContentfulPaint": 2070.0925,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1086.363,
+    "maxPotentialFirstInputDelay": 33,
+    "timeToFirstByte": 177.638,
+    "weight": {
+      "summary": "24 requests • 276,0 KiB",
+      "total": 282662,
+      "image": 125521,
+      "imageCount": 4,
+      "script": 71686,
+      "scriptCount": 12,
+      "document": 16382,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 24,
+      "-weight.document": 25,
+      "+weight.document": 29,
+      "-weight.script": 40,
+      "+weight.script": 10,
+      "-weight.image": 27,
+      "+weight.image": 24,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 415,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/une-journee-avec-les-etudiants-de-l-eeigm",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/une-journee-avec-les-etudiants-de-l-eeigm",
+    "timestamp": 1707484337698,
+    "ranks": {
+      "hundos": 36,
+      "performance": 41,
+      "accessibility": 15,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1224.8805,
+    "firstMeaningfulPaint": 1264.8805,
+    "speedIndex": 1582.8490960909976,
+    "largestContentfulPaint": 1979.8805000000002,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1264.8805,
+    "maxPotentialFirstInputDelay": 44,
+    "timeToFirstByte": 196.631,
+    "weight": {
+      "summary": "25 requests • 339,7 KiB",
+      "total": 347835,
+      "image": 189976,
+      "imageCount": 5,
+      "script": 71591,
+      "scriptCount": 12,
+      "document": 17172,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 12,
+      "-weight.document": 37,
+      "+weight.document": 17,
+      "-weight.script": 31,
+      "+weight.script": 19,
+      "-weight.image": 39,
+      "+weight.image": 12,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 429,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/challenge-3d",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/challenge-3d",
+    "timestamp": 1707484359465,
+    "ranks": {
+      "hundos": 37,
+      "performance": 36,
+      "accessibility": 22,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1226.675,
+    "firstMeaningfulPaint": 1226.675,
+    "speedIndex": 1340.6783370231885,
+    "largestContentfulPaint": 1901.675,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1226.675,
+    "maxPotentialFirstInputDelay": 32,
+    "timeToFirstByte": 249.703,
+    "weight": {
+      "summary": "24 requests • 238,6 KiB",
+      "total": 244311,
+      "image": 87658,
+      "imageCount": 4,
+      "script": 71419,
+      "scriptCount": 12,
+      "document": 16161,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 37,
+      "-weight.document": 21,
+      "+weight.document": 33,
+      "-weight.script": 6,
+      "+weight.script": 44,
+      "-weight.image": 16,
+      "+weight.image": 35,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 402,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/arcelormittal-a-la-10e-place-du-classement-happy-trainees",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/arcelormittal-a-la-10e-place-du-classement-happy-trainees",
+    "timestamp": 1707484315900,
+    "ranks": {
+      "hundos": 38,
+      "performance": 40,
+      "accessibility": 17,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1221.6875,
+    "firstMeaningfulPaint": 1221.6875,
+    "speedIndex": 1469.2365783346827,
+    "largestContentfulPaint": 2122.3835,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1221.6875,
+    "maxPotentialFirstInputDelay": 35,
+    "timeToFirstByte": 307.846,
+    "weight": {
+      "summary": "25 requests • 278,0 KiB",
+      "total": 284688,
+      "image": 129383,
+      "imageCount": 5,
+      "script": 71535,
+      "scriptCount": 12,
+      "document": 14674,
+      "font": 30438,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 23,
+      "-weight.document": 8,
+      "+weight.document": 46,
+      "-weight.script": 22,
+      "+weight.script": 28,
+      "-weight.image": 28,
+      "+weight.image": 23,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 416,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/feu-vert-pour-l-acquisition-d-ilva",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/feu-vert-pour-l-acquisition-d-ilva",
+    "timestamp": 1707484520327,
+    "ranks": {
+      "hundos": 39,
+      "performance": 38,
+      "accessibility": 33,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1077.8429999999998,
+    "firstMeaningfulPaint": 1077.8429999999998,
+    "speedIndex": 1387.8965902568816,
+    "largestContentfulPaint": 1902.8429999999998,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1077.8429999999998,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 290.976,
+    "weight": {
+      "summary": "24 requests • 216,7 KiB",
+      "total": 221940,
+      "image": 49894,
+      "imageCount": 3,
+      "script": 71425,
+      "scriptCount": 12,
+      "document": 15182,
+      "font": 46776,
+      "fontCount": 3,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 45,
+      "-weight.document": 11,
+      "+weight.document": 43,
+      "-weight.script": 7,
+      "+weight.script": 43,
+      "-weight.image": 4,
+      "+weight.image": 47,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 376,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/magnelis-r-au-coeur-de-la-premiere-centrale-photovoltaique-d-arcelormittal-a",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/magnelis-r-au-coeur-de-la-premiere-centrale-photovoltaique-d-arcelormittal-a",
+    "timestamp": 1707484528249,
+    "ranks": {
+      "hundos": 40,
+      "performance": 43,
+      "accessibility": 14,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1219.205,
+    "firstMeaningfulPaint": 1334.205,
+    "speedIndex": 2400.586754362156,
+    "largestContentfulPaint": 1974.205,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1334.205,
+    "maxPotentialFirstInputDelay": 47,
+    "timeToFirstByte": 827.415,
+    "weight": {
+      "summary": "25 requests • 238,7 KiB",
+      "total": 244384,
+      "image": 86199,
+      "imageCount": 5,
+      "script": 71733,
+      "scriptCount": 12,
+      "document": 17356,
+      "font": 30438,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 36,
+      "-weight.document": 40,
+      "+weight.document": 14,
+      "-weight.script": 47,
+      "+weight.script": 3,
+      "-weight.image": 14,
+      "+weight.image": 37,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 51,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 433,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/les-cables-arcelormittal-dans-le-plus-long-telepherique-urbain-de-france",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/les-cables-arcelormittal-dans-le-plus-long-telepherique-urbain-de-france",
+    "timestamp": 1707484914928,
+    "ranks": {
+      "hundos": 15,
+      "performance": 24,
+      "accessibility": 35,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1217.652,
+    "firstMeaningfulPaint": 1217.652,
+    "speedIndex": 1217.652,
+    "largestContentfulPaint": 2042.652,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1217.652,
+    "maxPotentialFirstInputDelay": 33,
+    "timeToFirstByte": 16.573999999999998,
+    "weight": {
+      "summary": "25 requests • 347,6 KiB",
+      "total": 355921,
+      "image": 198071,
+      "imageCount": 5,
+      "script": 71641,
+      "scriptCount": 12,
+      "document": 17136,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 10,
+      "-weight.document": 36,
+      "+weight.document": 18,
+      "-weight.script": 37,
+      "+weight.script": 13,
+      "-weight.image": 41,
+      "+weight.image": 10,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 431,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/soutien-de-l-etat-au-programme-de-decarbonation",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/soutien-de-l-etat-au-programme-de-decarbonation",
+    "timestamp": 1707485149819,
+    "ranks": {
+      "hundos": 14,
+      "performance": 29,
+      "accessibility": 43,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1227.192,
+    "firstMeaningfulPaint": 1227.192,
+    "speedIndex": 1227.192,
+    "largestContentfulPaint": 2202.192,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1227.192,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 16.783,
+    "weight": {
+      "summary": "24 requests • 383,8 KiB",
+      "total": 392977,
+      "image": 234660,
+      "imageCount": 4,
+      "script": 71437,
+      "scriptCount": 12,
+      "document": 17807,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 9,
+      "-weight.document": 45,
+      "+weight.document": 9,
+      "-weight.script": 9,
+      "+weight.script": 41,
+      "-weight.image": 42,
+      "+weight.image": 9,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 429,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/engagement-dans-responsiblesteel-tm",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/engagement-dans-responsiblesteel-tm",
+    "timestamp": 1707485192101,
+    "ranks": {
+      "hundos": 18,
+      "performance": 18,
+      "accessibility": 44,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1082.983,
+    "firstMeaningfulPaint": 1082.983,
+    "speedIndex": 1082.983,
+    "largestContentfulPaint": 1982.983,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1082.983,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 19.129000000000005,
+    "weight": {
+      "summary": "23 requests • 255,2 KiB",
+      "total": 261363,
+      "image": 106836,
+      "imageCount": 3,
+      "script": 71477,
+      "scriptCount": 12,
+      "document": 13977,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 30,
+      "-weight.document": 5,
+      "+weight.document": 49,
+      "-weight.script": 14,
+      "+weight.script": 36,
+      "-weight.image": 22,
+      "+weight.image": 29,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 423,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/efficacite-energetique-et-reduction-du-c02",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/efficacite-energetique-et-reduction-du-c02",
+    "timestamp": 1707485269800,
+    "ranks": {
+      "hundos": 19,
+      "performance": 23,
+      "accessibility": 41,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1215.1275,
+    "firstMeaningfulPaint": 1215.1275,
+    "speedIndex": 1215.1275,
+    "largestContentfulPaint": 1815.5835000000002,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1215.1275,
+    "maxPotentialFirstInputDelay": 35,
+    "timeToFirstByte": 15.936999999999998,
+    "weight": {
+      "summary": "25 requests • 262,0 KiB",
+      "total": 268254,
+      "image": 110792,
+      "imageCount": 5,
+      "script": 71506,
+      "scriptCount": 12,
+      "document": 16973,
+      "font": 30365,
+      "fontCount": 2,
+      "stylesheet": 38552,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 26,
+      "-weight.document": 34,
+      "+weight.document": 20,
+      "-weight.script": 18,
+      "+weight.script": 32,
+      "-weight.image": 25,
+      "+weight.image": 26,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 452,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/paint-supplier-innovation-awards",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/paint-supplier-innovation-awards",
+    "timestamp": 1707485312524,
+    "ranks": {
+      "hundos": 21,
+      "performance": 26,
+      "accessibility": 40,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1221.7600000000002,
+    "firstMeaningfulPaint": 1221.7600000000002,
+    "speedIndex": 1221.7600000000002,
+    "largestContentfulPaint": 1821.9080000000004,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1221.7600000000002,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 17.619999999999997,
+    "weight": {
+      "summary": "25 requests • 257,5 KiB",
+      "total": 263665,
+      "image": 89080,
+      "imageCount": 4,
+      "script": 71484,
+      "scriptCount": 12,
+      "document": 17662,
+      "font": 46781,
+      "fontCount": 3,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 29,
+      "-weight.document": 43,
+      "+weight.document": 11,
+      "-weight.script": 15,
+      "+weight.script": 35,
+      "-weight.image": 18,
+      "+weight.image": 33,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 466,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/index-egalite-professionnelle",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/index-egalite-professionnelle",
+    "timestamp": 1707484809755,
+    "ranks": {
+      "hundos": 22,
+      "performance": 16,
+      "accessibility": 38,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1070.191,
+    "firstMeaningfulPaint": 1070.191,
+    "speedIndex": 1070.191,
+    "largestContentfulPaint": 1895.191,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1070.191,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 23.816000000000003,
+    "weight": {
+      "summary": "24 requests • 223,9 KiB",
+      "total": 229282,
+      "image": 55148,
+      "imageCount": 3,
+      "script": 71409,
+      "scriptCount": 12,
+      "document": 17286,
+      "font": 46776,
+      "fontCount": 3,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 42,
+      "-weight.document": 39,
+      "+weight.document": 15,
+      "-weight.script": 3,
+      "+weight.script": 47,
+      "-weight.image": 5,
+      "+weight.image": 46,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 481,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/mesures-d-adaptation-face-a-l-epidemie-de-covid-19",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/mesures-d-adaptation-face-a-l-epidemie-de-covid-19",
+    "timestamp": 1707485227140,
+    "ranks": {
+      "hundos": 24,
+      "performance": 17,
+      "accessibility": 45,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1081.9969999999998,
+    "firstMeaningfulPaint": 1081.9969999999998,
+    "speedIndex": 1081.9969999999998,
+    "largestContentfulPaint": 1831.9969999999998,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1081.9969999999998,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 17.596999999999994,
+    "weight": {
+      "summary": "23 requests • 207,5 KiB",
+      "total": 212471,
+      "image": 55148,
+      "imageCount": 3,
+      "script": 71487,
+      "scriptCount": 12,
+      "document": 16763,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 47,
+      "-weight.document": 32,
+      "+weight.document": 22,
+      "-weight.script": 16,
+      "+weight.script": 34,
+      "-weight.image": 5,
+      "+weight.image": 46,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 421,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/une-nouvelle-fonctionnalite-pour-constructalia",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/une-nouvelle-fonctionnalite-pour-constructalia",
+    "timestamp": 1707484767519,
+    "ranks": {
+      "hundos": 25,
+      "performance": 28,
+      "accessibility": 47,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1221.913,
+    "firstMeaningfulPaint": 1221.913,
+    "speedIndex": 1221.913,
+    "largestContentfulPaint": 1821.913,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1221.913,
+    "maxPotentialFirstInputDelay": 33,
+    "timeToFirstByte": 18.32,
+    "weight": {
+      "summary": "24 requests • 231,1 KiB",
+      "total": 236665,
+      "image": 80613,
+      "imageCount": 4,
+      "script": 71709,
+      "scriptCount": 12,
+      "document": 15270,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 39,
+      "-weight.document": 12,
+      "+weight.document": 42,
+      "-weight.script": 43,
+      "+weight.script": 7,
+      "-weight.image": 12,
+      "+weight.image": 39,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 441,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/financement-europeen-en-faveur-de-nos-actions-de-decarbonation",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/financement-europeen-en-faveur-de-nos-actions-de-decarbonation",
+    "timestamp": 1707484374179,
+    "ranks": {
+      "hundos": 34,
+      "performance": 20,
+      "accessibility": 49,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 395
+    },
+    "firstContentfulPaint": 1070.895,
+    "firstMeaningfulPaint": 1070.895,
+    "speedIndex": 1170.4796783564955,
+    "largestContentfulPaint": 1895.895,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1070.895,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 147.98899999999998,
+    "weight": {
+      "summary": "23 requests • 229,5 KiB",
+      "total": 234989,
+      "image": 75828,
+      "imageCount": 3,
+      "script": 71538,
+      "scriptCount": 12,
+      "document": 18550,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 40,
+      "-weight.document": 50,
+      "+weight.document": 4,
+      "-weight.script": 23,
+      "+weight.script": 27,
+      "-weight.image": 10,
+      "+weight.image": 41,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 505,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/arcelormittal-recompense-par-la-societe-francaise-de-metallurgie-et-de",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/arcelormittal-recompense-par-la-societe-francaise-de-metallurgie-et-de",
+    "timestamp": 1707484753272,
+    "ranks": {
+      "hundos": 41,
+      "performance": 47,
+      "accessibility": 16,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 394
+    },
+    "firstContentfulPaint": 1222.191,
+    "firstMeaningfulPaint": 1313.191,
+    "speedIndex": 1222.191,
+    "largestContentfulPaint": 2229.191,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1313.191,
+    "maxPotentialFirstInputDelay": 32,
+    "timeToFirstByte": 17.274,
+    "weight": {
+      "summary": "25 requests • 325,1 KiB",
+      "total": 332908,
+      "image": 175279,
+      "imageCount": 5,
+      "script": 71578,
+      "scriptCount": 12,
+      "document": 17023,
+      "font": 30365,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 15,
+      "-weight.document": 35,
+      "+weight.document": 19,
+      "-weight.script": 28,
+      "+weight.script": 22,
+      "-weight.image": 36,
+      "+weight.image": 15,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 422,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/un-investissement-de-protection-environnementale-a-la-cokerie-de-fos-sur-mer",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/un-investissement-de-protection-environnementale-a-la-cokerie-de-fos-sur-mer",
+    "timestamp": 1707485206115,
+    "ranks": {
+      "hundos": 42,
+      "performance": 45,
+      "accessibility": 27,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 394
+    },
+    "firstContentfulPaint": 1083.7795,
+    "firstMeaningfulPaint": 1083.7795,
+    "speedIndex": 1169.5586205079912,
+    "largestContentfulPaint": 2364.3385,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1083.7795,
+    "maxPotentialFirstInputDelay": 33,
+    "timeToFirstByte": 19.556999999999988,
+    "weight": {
+      "summary": "23 requests • 305,2 KiB",
+      "total": 312509,
+      "image": 155228,
+      "imageCount": 3,
+      "script": 71564,
+      "scriptCount": 12,
+      "document": 16644,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 17,
+      "-weight.document": 29,
+      "+weight.document": 25,
+      "-weight.script": 26,
+      "+weight.script": 24,
+      "-weight.image": 34,
+      "+weight.image": 17,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 394,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/le-site-de-fos-sur-mer-publie-le-septieme-numero-de-l-acier-vous",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/le-site-de-fos-sur-mer-publie-le-septieme-numero-de-l-acier-vous",
+    "timestamp": 1707484682112,
+    "ranks": {
+      "hundos": 43,
+      "performance": 46,
+      "accessibility": 32,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 394
+    },
+    "firstContentfulPaint": 1076.887,
+    "firstMeaningfulPaint": 1076.887,
+    "speedIndex": 1197.7351347828687,
+    "largestContentfulPaint": 2351.8869999999997,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1076.887,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 32.938,
+    "weight": {
+      "summary": "24 requests • 319,6 KiB",
+      "total": 327303,
+      "image": 171596,
+      "imageCount": 4,
+      "script": 71715,
+      "scriptCount": 12,
+      "document": 14919,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 16,
+      "-weight.document": 9,
+      "+weight.document": 45,
+      "-weight.script": 44,
+      "+weight.script": 6,
+      "-weight.image": 35,
+      "+weight.image": 16,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 386,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/arcelormittal-recrute-100-operateurs-et-ingenieurs-a-mardyck",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/arcelormittal-recrute-100-operateurs-et-ingenieurs-a-mardyck",
+    "timestamp": 1707485065109,
+    "ranks": {
+      "hundos": 44,
+      "performance": 48,
+      "accessibility": 39,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 394
+    },
+    "firstContentfulPaint": 1227.2395000000001,
+    "firstMeaningfulPaint": 1227.2395000000001,
+    "speedIndex": 1227.2395000000001,
+    "largestContentfulPaint": 2277.2395,
+    "totalBlockingTime": 13,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 2352.4487500000005,
+    "maxPotentialFirstInputDelay": 76,
+    "timeToFirstByte": 19.070999999999998,
+    "weight": {
+      "summary": "25 requests • 303,3 KiB",
+      "total": 310571,
+      "image": 138178,
+      "imageCount": 4,
+      "script": 71564,
+      "scriptCount": 12,
+      "document": 15390,
+      "font": 46776,
+      "fontCount": 3,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 18,
+      "-weight.document": 13,
+      "+weight.document": 41,
+      "-weight.script": 26,
+      "+weight.script": 24,
+      "-weight.image": 32,
+      "+weight.image": 19,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 471,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/fusemetal-un-laboratoire-de-r-d-en-partenariat-avec-l-utc",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/fusemetal-un-laboratoire-de-r-d-en-partenariat-avec-l-utc",
+    "timestamp": 1707484795626,
+    "ranks": {
+      "hundos": 45,
+      "performance": 34,
+      "accessibility": 50,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.94,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 393
+    },
+    "firstContentfulPaint": 1227.2430000000002,
+    "firstMeaningfulPaint": 1227.2430000000002,
+    "speedIndex": 1329.43285933107,
+    "largestContentfulPaint": 2069.1445000000003,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1227.2430000000002,
+    "maxPotentialFirstInputDelay": 37,
+    "timeToFirstByte": 16.793000000000006,
+    "weight": {
+      "summary": "26 requests • 440,1 KiB",
+      "total": 450708,
+      "image": 292213,
+      "imageCount": 6,
+      "script": 71540,
+      "scriptCount": 12,
+      "document": 17882,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 6,
+      "-weight.document": 47,
+      "+weight.document": 7,
+      "-weight.script": 24,
+      "+weight.script": 26,
+      "-weight.image": 45,
+      "+weight.image": 6,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 439,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/innovation/digitalisation/production",
+    "requestedUrl": "https://france.arcelormittal.com/innovation/digitalisation/production",
+    "timestamp": 1707484632577,
+    "ranks": {
+      "hundos": 47,
+      "performance": 9,
+      "accessibility": 1,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 1,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.96,
+      "total": 392
+    },
+    "firstContentfulPaint": 1067.9299999999998,
+    "firstMeaningfulPaint": 1067.9299999999998,
+    "speedIndex": 1145.3486363082993,
+    "largestContentfulPaint": 1742.9299999999998,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1067.9299999999998,
+    "maxPotentialFirstInputDelay": 35,
+    "timeToFirstByte": 18.935000000000002,
+    "weight": {
+      "summary": "29 requests • 337,6 KiB",
+      "total": 345747,
+      "image": 183916,
+      "imageCount": 9,
+      "script": 71692,
+      "scriptCount": 12,
+      "document": 21066,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 13,
+      "-weight.document": 53,
+      "+weight.document": 1,
+      "-weight.script": 41,
+      "+weight.script": 9,
+      "-weight.image": 38,
+      "+weight.image": 13,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 645,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/production-d-electricite-solaire-sur-nos-batiments",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/production-d-electricite-solaire-sur-nos-batiments",
+    "timestamp": 1707485156892,
+    "ranks": {
+      "hundos": 46,
+      "performance": 49,
+      "accessibility": 51,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.98,
+      "accessibility": 0.94,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 392
+    },
+    "firstContentfulPaint": 1074.2955,
+    "firstMeaningfulPaint": 1074.2955,
+    "speedIndex": 1258.0382324376205,
+    "largestContentfulPaint": 2424.2955,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1074.2955,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 17.897999999999996,
+    "weight": {
+      "summary": "25 requests • 414,8 KiB",
+      "total": 424756,
+      "image": 250386,
+      "imageCount": 4,
+      "script": 71493,
+      "scriptCount": 12,
+      "document": 17438,
+      "font": 46776,
+      "fontCount": 3,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 7,
+      "-weight.document": 41,
+      "+weight.document": 13,
+      "-weight.script": 17,
+      "+weight.script": 33,
+      "-weight.image": 43,
+      "+weight.image": 8,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 437,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/l-acier-vous-no4",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/l-acier-vous-no4",
+    "timestamp": 1707484417854,
+    "ranks": {
+      "hundos": 48,
+      "performance": 50,
+      "accessibility": 30,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.95,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 391
+    },
+    "firstContentfulPaint": 1101.5720000000001,
+    "firstMeaningfulPaint": 1101.5720000000001,
+    "speedIndex": 1574.3885584197183,
+    "largestContentfulPaint": 2826.572,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1101.5720000000001,
+    "maxPotentialFirstInputDelay": 32,
+    "timeToFirstByte": 202.05,
+    "weight": {
+      "summary": "24 requests • 403,4 KiB",
+      "total": 413038,
+      "image": 257411,
+      "imageCount": 4,
+      "script": 71453,
+      "scriptCount": 12,
+      "document": 15101,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 8,
+      "-weight.document": 10,
+      "+weight.document": 44,
+      "-weight.script": 10,
+      "+weight.script": 40,
+      "-weight.image": 44,
+      "+weight.image": 7,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 51
+    },
+    "axe": {
+      "passes": 392,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/actualites/la-torche-des-jeux-olympiques-et-paralympiques-de-paris-2024",
+    "requestedUrl": "https://france.arcelormittal.com/actualites/la-torche-des-jeux-olympiques-et-paralympiques-de-paris-2024",
+    "timestamp": 1707484271844,
+    "ranks": {
+      "hundos": 49,
+      "performance": 44,
+      "accessibility": 53,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.92,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 391
+    },
+    "firstContentfulPaint": 1078.681,
+    "firstMeaningfulPaint": 1078.681,
+    "speedIndex": 2460.068284791085,
+    "largestContentfulPaint": 1603.681,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1078.681,
+    "maxPotentialFirstInputDelay": 35,
+    "timeToFirstByte": 356.618,
+    "weight": {
+      "summary": "27 requests • 837,8 KiB",
+      "total": 857873,
+      "image": 704454,
+      "imageCount": 7,
+      "script": 71778,
+      "scriptCount": 12,
+      "document": 12545,
+      "font": 30387,
+      "fontCount": 2,
+      "stylesheet": 38643,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 53,
+      "+weight.total": 1,
+      "-weight.document": 3,
+      "+weight.document": 51,
+      "-weight.script": 48,
+      "+weight.script": 2,
+      "-weight.image": 50,
+      "+weight.image": 1,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 464,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/contacts/",
+    "requestedUrl": "https://france.arcelormittal.com/contacts/nous-contacter",
+    "timestamp": 1707485022766,
+    "ranks": {
+      "hundos": 50,
+      "performance": 51,
+      "accessibility": 2,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.94,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 390
+    },
+    "firstContentfulPaint": 1084.816,
+    "firstMeaningfulPaint": 1084.816,
+    "speedIndex": 1542.5549649995385,
+    "largestContentfulPaint": 3034.816,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1084.816,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 16.837,
+    "weight": {
+      "summary": "28 requests • 473,8 KiB",
+      "total": 485168,
+      "image": 325528,
+      "imageCount": 7,
+      "script": 71433,
+      "scriptCount": 12,
+      "document": 17860,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 5,
+      "-weight.document": 46,
+      "+weight.document": 8,
+      "-weight.script": 8,
+      "+weight.script": 42,
+      "-weight.image": 46,
+      "+weight.image": 5,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 52
+    },
+    "axe": {
+      "passes": 474,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/engagements/environnement/",
+    "requestedUrl": "https://france.arcelormittal.com/engagements/environnement/",
+    "timestamp": 1707484603433,
+    "ranks": {
+      "hundos": 51,
+      "performance": 19,
+      "accessibility": 4,
+      "cumulative": 51
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 388
+    },
+    "firstContentfulPaint": 1092.7134999999998,
+    "firstMeaningfulPaint": 1092.7134999999998,
+    "speedIndex": 1166.9116557767172,
+    "largestContentfulPaint": 2067.7135,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1092.7134999999998,
+    "maxPotentialFirstInputDelay": 38,
+    "timeToFirstByte": 47.089,
+    "weight": {
+      "summary": "23 requests • 264,8 KiB",
+      "total": 271160,
+      "image": 114343,
+      "imageCount": 3,
+      "script": 71410,
+      "scriptCount": 12,
+      "document": 16334,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38597,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 25,
+      "-weight.document": 23,
+      "+weight.document": 31,
+      "-weight.script": 4,
+      "+weight.script": 46,
+      "-weight.image": 26,
+      "+weight.image": 25,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 376,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/",
+    "requestedUrl": "https://france.arcelormittal.com/",
+    "timestamp": 1707484200033,
+    "ranks": {
+      "hundos": 52,
+      "performance": 52,
+      "accessibility": 52,
+      "cumulative": 52
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.94,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 387
+    },
+    "firstContentfulPaint": 1214.056,
+    "firstMeaningfulPaint": 1214.056,
+    "speedIndex": 4436.946891661726,
+    "largestContentfulPaint": 2532.056,
+    "totalBlockingTime": 12.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1998.8394987640381,
+    "maxPotentialFirstInputDelay": 75,
+    "timeToFirstByte": 2106.948,
+    "weight": {
+      "summary": "37 requests • 714,9 KiB",
+      "total": 732024,
+      "image": 561368,
+      "imageCount": 15,
+      "script": 83849,
+      "scriptCount": 14,
+      "document": 17711,
+      "font": 30410,
+      "fontCount": 2,
+      "stylesheet": 38620,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 52,
+      "+weight.total": 2,
+      "-weight.document": 44,
+      "+weight.document": 10,
+      "-weight.script": 49,
+      "+weight.script": 1,
+      "-weight.image": 49,
+      "+weight.image": 2,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 52,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "passes": 627,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://france.arcelormittal.com/engagements/rapports-rse",
+    "requestedUrl": "https://france.arcelormittal.com/engagements/rapports-rse",
+    "timestamp": 1707484223687,
+    "ranks": {
+      "hundos": 53,
+      "performance": 53,
+      "accessibility": 3,
+      "cumulative": 53
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.89,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 385
+    },
+    "firstContentfulPaint": 1132.7314999999999,
+    "firstMeaningfulPaint": 1132.7314999999999,
+    "speedIndex": 2214.2432389389032,
+    "largestContentfulPaint": 3682.7315,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1132.7314999999999,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 341.81800000000004,
+    "weight": {
+      "summary": "30 requests • 640,9 KiB",
+      "total": 656314,
+      "image": 499271,
+      "imageCount": 10,
+      "script": 71527,
+      "scriptCount": 12,
+      "document": 16443,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 4,
+      "-weight.document": 26,
+      "+weight.document": 28,
+      "-weight.script": 21,
+      "+weight.script": 29,
+      "-weight.image": 47,
+      "+weight.image": 4,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 53
+    },
+    "axe": {
+      "passes": 473,
+      "violations": 1
+    }
+  }
+]

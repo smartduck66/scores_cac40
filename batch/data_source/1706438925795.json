@@ -1,0 +1,2609 @@
+[
+  {
+    "url": "https://france.arcelormittal.com/",
+    "requestedUrl": "https://france.arcelormittal.com/",
+    "timestamp": 1706439453763,
+    "ranks": {
+      "hundos": 1,
+      "performance": 1,
+      "accessibility": 7,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.99,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 392
+    },
+    "firstContentfulPaint": 1222.6109999999999,
+    "firstMeaningfulPaint": 1222.6109999999999,
+    "speedIndex": 1236.234117261621,
+    "largestContentfulPaint": 2197.611,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 1222.6109999999999,
+    "maxPotentialFirstInputDelay": 36,
+    "timeToFirstByte": 17.724000000000004,
+    "weight": {
+      "summary": "37 requests • 762,8 KiB",
+      "total": 781115,
+      "image": 610335,
+      "imageCount": 15,
+      "script": 83849,
+      "scriptCount": 14,
+      "document": 17858,
+      "font": 30415,
+      "fontCount": 2,
+      "stylesheet": 38592,
+      "stylesheetCount": 3,
+      "thirdParty": 21699,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 37,
+      "-weight.document": 8,
+      "+weight.document": 32,
+      "-weight.script": 1,
+      "+weight.script": 39,
+      "-weight.image": 13,
+      "+weight.image": 27,
+      "-weight.font": 4,
+      "+weight.font": 35,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 627,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.vinci.com/",
+    "requestedUrl": "https://www.vinci.com/",
+    "timestamp": 1706440300286,
+    "ranks": {
+      "hundos": 2,
+      "performance": 2,
+      "accessibility": 15,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.86,
+      "accessibility": 0.88,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 374
+    },
+    "firstContentfulPaint": 1658.289,
+    "firstMeaningfulPaint": 1750.289,
+    "speedIndex": 2262.3784256352183,
+    "largestContentfulPaint": 3008.2889999999998,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.170948868254635,
+    "timeToInteractive": 1750.289,
+    "maxPotentialFirstInputDelay": 34,
+    "timeToFirstByte": 122.126,
+    "weight": {
+      "summary": "33 requests • 977,1 KiB",
+      "total": 1000577,
+      "image": 604705,
+      "imageCount": 13,
+      "script": 213416,
+      "scriptCount": 11,
+      "document": 23549,
+      "font": 124549,
+      "fontCount": 4,
+      "stylesheet": 33630,
+      "stylesheetCount": 3,
+      "thirdParty": 0,
+      "thirdPartyCount": 0
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 34,
+      "-weight.document": 12,
+      "+weight.document": 28,
+      "-weight.script": 3,
+      "+weight.script": 37,
+      "-weight.image": 12,
+      "+weight.image": 28,
+      "-weight.font": 15,
+      "+weight.font": 24,
+      "+weight.fontCount": 9,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 919,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://totalenergies.com/fr",
+    "requestedUrl": "https://totalenergies.com/fr",
+    "timestamp": 1706440267819,
+    "ranks": {
+      "hundos": 3,
+      "performance": 6,
+      "accessibility": 11,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.92,
+      "bestPractices": 0.96,
+      "seo": 0.98,
+      "total": 364
+    },
+    "firstContentfulPaint": 2768.6319999999996,
+    "firstMeaningfulPaint": 2768.6319999999996,
+    "speedIndex": 2969.3318971166464,
+    "largestContentfulPaint": 4550.0470000000005,
+    "totalBlockingTime": 30.5,
+    "cumulativeLayoutShift": 0.07331305055364026,
+    "timeToInteractive": 4657.844499999999,
+    "maxPotentialFirstInputDelay": 111,
+    "timeToFirstByte": 110.893,
+    "weight": {
+      "summary": "42 requests • 966,0 KiB",
+      "total": 989135,
+      "image": 271622,
+      "imageCount": 24,
+      "script": 267958,
+      "scriptCount": 7,
+      "document": 15630,
+      "font": 320425,
+      "fontCount": 5,
+      "stylesheet": 111781,
+      "stylesheetCount": 2,
+      "thirdParty": 156095,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 35,
+      "-weight.document": 5,
+      "+weight.document": 35,
+      "-weight.script": 5,
+      "+weight.script": 35,
+      "-weight.image": 5,
+      "+weight.image": 35,
+      "-weight.font": 32,
+      "+weight.font": 7,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 958,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr",
+    "requestedUrl": "https://www.saint-gobain.com/fr",
+    "timestamp": 1706439265802,
+    "ranks": {
+      "hundos": 5,
+      "performance": 12,
+      "accessibility": 8,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 363
+    },
+    "firstContentfulPaint": 2016.2185,
+    "firstMeaningfulPaint": 2016.2185,
+    "speedIndex": 2948.8509430774848,
+    "largestContentfulPaint": 9098.1745,
+    "totalBlockingTime": 191.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 8163.065999999999,
+    "maxPotentialFirstInputDelay": 162,
+    "timeToFirstByte": 123.90500000000002,
+    "weight": {
+      "summary": "89 requests • 2,6 MiB",
+      "total": 2707761,
+      "image": 1933787,
+      "imageCount": 59,
+      "script": 381229,
+      "scriptCount": 12,
+      "document": 64373,
+      "font": 106565,
+      "fontCount": 5,
+      "stylesheet": 178302,
+      "stylesheetCount": 2,
+      "thirdParty": 711714,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 23,
+      "-weight.document": 29,
+      "+weight.document": 11,
+      "-weight.script": 7,
+      "+weight.script": 33,
+      "-weight.image": 27,
+      "+weight.image": 13,
+      "-weight.font": 13,
+      "+weight.font": 26,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 1637,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.orange.com/fr",
+    "requestedUrl": "https://www.orange.com/fr",
+    "timestamp": 1706439661735,
+    "ranks": {
+      "hundos": 4,
+      "performance": 13,
+      "accessibility": 6,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.98,
+      "total": 363
+    },
+    "firstContentfulPaint": 2308.9584999999997,
+    "firstMeaningfulPaint": 2308.9584999999997,
+    "speedIndex": 4546.55036516664,
+    "largestContentfulPaint": 9484.2685,
+    "totalBlockingTime": 47,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 8910.678000000002,
+    "maxPotentialFirstInputDelay": 75,
+    "timeToFirstByte": 7.909999999999997,
+    "weight": {
+      "summary": "42 requests • 1,3 MiB",
+      "total": 1322185,
+      "image": 353679,
+      "imageCount": 18,
+      "script": 536622,
+      "scriptCount": 14,
+      "document": 15363,
+      "font": 293203,
+      "fontCount": 3,
+      "stylesheet": 120957,
+      "stylesheetCount": 3,
+      "thirdParty": 305868,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 30,
+      "-weight.document": 4,
+      "+weight.document": 36,
+      "-weight.script": 22,
+      "+weight.script": 18,
+      "-weight.image": 7,
+      "+weight.image": 33,
+      "-weight.font": 31,
+      "+weight.font": 8,
+      "+weight.fontCount": 10,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 962,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.pernod-ricard.com/fr",
+    "requestedUrl": "https://www.pernod-ricard.com/fr",
+    "timestamp": 1706439221880,
+    "ranks": {
+      "hundos": 7,
+      "performance": 17,
+      "accessibility": 3,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 362
+    },
+    "firstContentfulPaint": 1749.432,
+    "firstMeaningfulPaint": 7132.401000000002,
+    "speedIndex": 5594.049652954158,
+    "largestContentfulPaint": 20864.547,
+    "totalBlockingTime": 196.5,
+    "cumulativeLayoutShift": 0.0009596518087960208,
+    "timeToInteractive": 12790.881500000003,
+    "maxPotentialFirstInputDelay": 236,
+    "timeToFirstByte": 53.94,
+    "weight": {
+      "summary": "91 requests • 4,2 MiB",
+      "total": 4424845,
+      "image": 1593229,
+      "imageCount": 59,
+      "script": 1049112,
+      "scriptCount": 16,
+      "document": 26663,
+      "font": 557124,
+      "fontCount": 5,
+      "stylesheet": 75376,
+      "stylesheetCount": 4,
+      "thirdParty": 665936,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 15,
+      "-weight.document": 15,
+      "+weight.document": 25,
+      "-weight.script": 29,
+      "+weight.script": 11,
+      "-weight.image": 25,
+      "+weight.image": 15,
+      "-weight.font": 37,
+      "+weight.font": 2,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 291,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.bouygues.com/",
+    "requestedUrl": "https://www.bouygues.com/",
+    "timestamp": 1706439484896,
+    "ranks": {
+      "hundos": 6,
+      "performance": 8,
+      "accessibility": 10,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.96,
+      "total": 362
+    },
+    "firstContentfulPaint": 2029.065,
+    "firstMeaningfulPaint": 2029.065,
+    "speedIndex": 2834.2312145265723,
+    "largestContentfulPaint": 7338.153333786011,
+    "totalBlockingTime": 16,
+    "cumulativeLayoutShift": 0.07602883448911771,
+    "timeToInteractive": 6036.065333786011,
+    "maxPotentialFirstInputDelay": 64,
+    "timeToFirstByte": 29.772000000000006,
+    "weight": {
+      "summary": "92 requests • 942,6 KiB",
+      "total": 963611,
+      "image": 168627,
+      "imageCount": 36,
+      "script": 527575,
+      "scriptCount": 20,
+      "document": 40346,
+      "font": 161016,
+      "fontCount": 10,
+      "stylesheet": 67227,
+      "stylesheetCount": 22,
+      "thirdParty": 413860,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 36,
+      "-weight.document": 20,
+      "+weight.document": 20,
+      "-weight.script": 20,
+      "+weight.script": 20,
+      "-weight.image": 3,
+      "+weight.image": 37,
+      "-weight.font": 20,
+      "+weight.font": 19,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 1339,
+      "violations": 21
+    }
+  },
+  {
+    "url": "https://www.safran-group.com/fr",
+    "requestedUrl": "https://www.safran-group.com/fr",
+    "timestamp": 1706439703999,
+    "ranks": {
+      "hundos": 8,
+      "performance": 21,
+      "accessibility": 1,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.99,
+      "total": 358
+    },
+    "firstContentfulPaint": 2334.11,
+    "firstMeaningfulPaint": 4544.110000000001,
+    "speedIndex": 6572.7063979176855,
+    "largestContentfulPaint": 4454.110000000001,
+    "totalBlockingTime": 42.500000000000455,
+    "cumulativeLayoutShift": 0.2525527060625785,
+    "timeToInteractive": 7429.110000000001,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 74.43,
+    "weight": {
+      "summary": "118 requests • 10,6 MiB",
+      "total": 11164279,
+      "image": 3493235,
+      "imageCount": 45,
+      "script": 905192,
+      "scriptCount": 23,
+      "document": 25397,
+      "font": 140994,
+      "fontCount": 5,
+      "stylesheet": 138441,
+      "stylesheetCount": 43,
+      "thirdParty": 150871,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 5,
+      "-weight.document": 13,
+      "+weight.document": 27,
+      "-weight.script": 27,
+      "+weight.script": 13,
+      "-weight.image": 35,
+      "+weight.image": 5,
+      "-weight.font": 17,
+      "+weight.font": 22,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 58,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.stellantis.com/fr",
+    "requestedUrl": "https://www.stellantis.com/fr",
+    "timestamp": 1706440211724,
+    "ranks": {
+      "hundos": 9,
+      "performance": 16,
+      "accessibility": 5,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.91,
+      "total": 352
+    },
+    "firstContentfulPaint": 3619.232000000001,
+    "firstMeaningfulPaint": 3619.232000000001,
+    "speedIndex": 3619.232000000001,
+    "largestContentfulPaint": 18701.321000000004,
+    "totalBlockingTime": 99.99999999999909,
+    "cumulativeLayoutShift": 0.035620707768705344,
+    "timeToInteractive": 6708.522000000001,
+    "maxPotentialFirstInputDelay": 150,
+    "timeToFirstByte": 35.126000000000005,
+    "weight": {
+      "summary": "56 requests • 17,6 MiB",
+      "total": 18501450,
+      "image": 5676054,
+      "imageCount": 15,
+      "script": 201634,
+      "scriptCount": 10,
+      "document": 191593,
+      "font": 198052,
+      "fontCount": 13,
+      "stylesheet": 56998,
+      "stylesheetCount": 9,
+      "thirdParty": 582803,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 4,
+      "-weight.document": 36,
+      "+weight.document": 4,
+      "-weight.script": 2,
+      "+weight.script": 38,
+      "-weight.image": 37,
+      "+weight.image": 3,
+      "-weight.font": 22,
+      "+weight.font": 17,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 767,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.edenred.com/fr",
+    "requestedUrl": "https://www.edenred.com/fr",
+    "timestamp": 1706439557631,
+    "ranks": {
+      "hundos": 10,
+      "performance": 28,
+      "accessibility": 9,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 350
+    },
+    "firstContentfulPaint": 1264.527,
+    "firstMeaningfulPaint": 1264.527,
+    "speedIndex": 5640.369617331002,
+    "largestContentfulPaint": 8851.126,
+    "totalBlockingTime": 85,
+    "cumulativeLayoutShift": 0.250252139565298,
+    "timeToInteractive": 8558.353500000001,
+    "maxPotentialFirstInputDelay": 144,
+    "timeToFirstByte": 122.656,
+    "weight": {
+      "summary": "41 requests • 1,3 MiB",
+      "total": 1347053,
+      "image": 252801,
+      "imageCount": 18,
+      "script": 511574,
+      "scriptCount": 4,
+      "document": 27614,
+      "font": 496620,
+      "fontCount": 8,
+      "stylesheet": 20986,
+      "stylesheetCount": 2,
+      "thirdParty": 181378,
+      "thirdPartyCount": 1
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 29,
+      "-weight.document": 16,
+      "+weight.document": 24,
+      "-weight.script": 18,
+      "+weight.script": 22,
+      "-weight.image": 4,
+      "+weight.image": 36,
+      "-weight.font": 36,
+      "+weight.font": 3,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 1078,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.alstom.com/fr",
+    "requestedUrl": "https://www.alstom.com/fr",
+    "timestamp": 1706439894714,
+    "ranks": {
+      "hundos": 11,
+      "performance": 19,
+      "accessibility": 16,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.87,
+      "bestPractices": 0.93,
+      "seo": 0.98,
+      "total": 342
+    },
+    "firstContentfulPaint": 2388.3075,
+    "firstMeaningfulPaint": 3454.5815000000002,
+    "speedIndex": 8406.187233826427,
+    "largestContentfulPaint": 24926.375,
+    "totalBlockingTime": 3.9999999999995453,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4364.5885,
+    "maxPotentialFirstInputDelay": 54,
+    "timeToFirstByte": 130.727,
+    "weight": {
+      "summary": "90 requests • 5,7 MiB",
+      "total": 6013143,
+      "image": 5401249,
+      "imageCount": 59,
+      "script": 397605,
+      "scriptCount": 13,
+      "document": 60142,
+      "font": 71806,
+      "fontCount": 2,
+      "stylesheet": 44263,
+      "stylesheetCount": 3,
+      "thirdParty": 293815,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 12,
+      "-weight.document": 27,
+      "+weight.document": 13,
+      "-weight.script": 8,
+      "+weight.script": 32,
+      "-weight.image": 36,
+      "+weight.image": 4,
+      "-weight.font": 9,
+      "+weight.font": 30,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 2004,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.airliquide.com/fr",
+    "requestedUrl": "https://www.airliquide.com/fr",
+    "timestamp": 1706439424235,
+    "ranks": {
+      "hundos": 12,
+      "performance": 7,
+      "accessibility": 2,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.96,
+      "bestPractices": 0.78,
+      "seo": 0.93,
+      "total": 342
+    },
+    "firstContentfulPaint": 1105.4605000000001,
+    "firstMeaningfulPaint": 1105.4605000000001,
+    "speedIndex": 4645.561327960066,
+    "largestContentfulPaint": 2800.9765,
+    "totalBlockingTime": 200.5000000000009,
+    "cumulativeLayoutShift": 0.29096880784742046,
+    "timeToInteractive": 14445.2525,
+    "maxPotentialFirstInputDelay": 227,
+    "timeToFirstByte": 164.92600000000002,
+    "weight": {
+      "summary": "71 requests • 2,4 MiB",
+      "total": 2494808,
+      "image": 888120,
+      "imageCount": 36,
+      "script": 1265325,
+      "scriptCount": 15,
+      "document": 63344,
+      "font": 156855,
+      "fontCount": 6,
+      "stylesheet": 77831,
+      "stylesheetCount": 3,
+      "thirdParty": 1317296,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 24,
+      "-weight.document": 28,
+      "+weight.document": 12,
+      "-weight.script": 31,
+      "+weight.script": 9,
+      "-weight.image": 16,
+      "+weight.image": 24,
+      "-weight.font": 19,
+      "+weight.font": 20,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 799,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.kering.com/fr/",
+    "requestedUrl": "https://www.kering.com/fr/",
+    "timestamp": 1706440051769,
+    "ranks": {
+      "hundos": 13,
+      "performance": 9,
+      "accessibility": 29,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.81,
+      "bestPractices": 0.96,
+      "seo": 0.89,
+      "total": 339
+    },
+    "firstContentfulPaint": 1180.6865,
+    "firstMeaningfulPaint": 1180.6865,
+    "speedIndex": 4545.790414829116,
+    "largestContentfulPaint": 6916.732500000001,
+    "totalBlockingTime": 112,
+    "cumulativeLayoutShift": 0.003934188537422844,
+    "timeToInteractive": 6304.885371932984,
+    "maxPotentialFirstInputDelay": 156,
+    "timeToFirstByte": 685.511,
+    "weight": {
+      "summary": "97 requests • 58,5 MiB",
+      "total": 61360106,
+      "image": 352850,
+      "imageCount": 44,
+      "script": 440315,
+      "scriptCount": 15,
+      "document": 33777,
+      "font": 67312,
+      "fontCount": 3,
+      "stylesheet": 16661,
+      "stylesheetCount": 2,
+      "thirdParty": 302559,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 1,
+      "-weight.document": 17,
+      "+weight.document": 23,
+      "-weight.script": 13,
+      "+weight.script": 27,
+      "-weight.image": 6,
+      "+weight.image": 34,
+      "-weight.font": 7,
+      "+weight.font": 32,
+      "+weight.fontCount": 10,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "error": "{\"name\":\"TimeoutError\"}"
+    }
+  },
+  {
+    "url": "https://www.se.com/fr/fr/",
+    "requestedUrl": "https://www.se.com/fr/fr/",
+    "timestamp": 1706439740842,
+    "ranks": {
+      "hundos": 14,
+      "performance": 15,
+      "accessibility": 25,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.84,
+      "bestPractices": 0.96,
+      "seo": 0.91,
+      "total": 338
+    },
+    "firstContentfulPaint": 1891.4029999999998,
+    "firstMeaningfulPaint": 2074.462,
+    "speedIndex": 10735.985661141449,
+    "largestContentfulPaint": 6132.3435,
+    "totalBlockingTime": 101.5,
+    "cumulativeLayoutShift": 0.012759970644777938,
+    "timeToInteractive": 23090.136499999997,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 22.131999999999998,
+    "weight": {
+      "summary": "75 requests • 8,1 MiB",
+      "total": 8458973,
+      "image": 7436596,
+      "imageCount": 20,
+      "script": 821901,
+      "scriptCount": 41,
+      "document": 121789,
+      "font": 29405,
+      "fontCount": 2,
+      "stylesheet": 3638,
+      "stylesheetCount": 1,
+      "thirdParty": 745526,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 8,
+      "-weight.document": 32,
+      "+weight.document": 8,
+      "-weight.script": 26,
+      "+weight.script": 14,
+      "-weight.image": 39,
+      "+weight.image": 1,
+      "-weight.font": 3,
+      "+weight.font": 36,
+      "+weight.fontCount": 11,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 1724,
+      "violations": 39
+    }
+  },
+  {
+    "url": "https://www.3ds.com/fr/",
+    "requestedUrl": "https://www.3ds.com/fr/",
+    "timestamp": 1706439065112,
+    "ranks": {
+      "hundos": 16,
+      "performance": 33,
+      "accessibility": 13,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.5,
+      "accessibility": 0.92,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 335
+    },
+    "firstContentfulPaint": 3020.1459999999997,
+    "firstMeaningfulPaint": 3020.1459999999997,
+    "speedIndex": 5979.9666722593165,
+    "largestContentfulPaint": 6719.009,
+    "totalBlockingTime": 663.5,
+    "cumulativeLayoutShift": 0.050102366950726944,
+    "timeToInteractive": 16497.629999999986,
+    "maxPotentialFirstInputDelay": 179,
+    "timeToFirstByte": 97.32,
+    "weight": {
+      "summary": "259 requests • 10,1 MiB",
+      "total": 10591292,
+      "image": 3233518,
+      "imageCount": 120,
+      "script": 760813,
+      "scriptCount": 35,
+      "document": 45937,
+      "font": 292902,
+      "fontCount": 9,
+      "stylesheet": 85416,
+      "stylesheetCount": 11,
+      "thirdParty": 188995,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 7,
+      "-weight.document": 21,
+      "+weight.document": 19,
+      "-weight.script": 25,
+      "+weight.script": 15,
+      "-weight.image": 33,
+      "+weight.image": 7,
+      "-weight.font": 30,
+      "+weight.font": 9,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 1388,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.eurofins.com/",
+    "requestedUrl": "https://www.eurofins.com/",
+    "timestamp": 1706440035765,
+    "ranks": {
+      "hundos": 17,
+      "performance": 4,
+      "accessibility": 27,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.82,
+      "bestPractices": 0.93,
+      "seo": 0.77,
+      "total": 331
+    },
+    "firstContentfulPaint": 2449.1899999999996,
+    "firstMeaningfulPaint": 2449.1899999999996,
+    "speedIndex": 2751.42855620501,
+    "largestContentfulPaint": 4856.128999999999,
+    "totalBlockingTime": 8.5,
+    "cumulativeLayoutShift": 0.0001335736414222243,
+    "timeToInteractive": 6837.9595,
+    "maxPotentialFirstInputDelay": 62,
+    "timeToFirstByte": 66.47000000000001,
+    "weight": {
+      "summary": "91 requests • 1,2 MiB",
+      "total": 1290319,
+      "image": 714869,
+      "imageCount": 59,
+      "script": 254496,
+      "scriptCount": 16,
+      "document": 134974,
+      "font": 79471,
+      "fontCount": 1,
+      "stylesheet": 62763,
+      "stylesheetCount": 7,
+      "thirdParty": 309754,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 31,
+      "-weight.document": 33,
+      "+weight.document": 7,
+      "-weight.script": 4,
+      "+weight.script": 36,
+      "-weight.image": 15,
+      "+weight.image": 25,
+      "-weight.font": 10,
+      "+weight.font": 29,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 7,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.legrandgroup.com/fr/",
+    "requestedUrl": "https://www.legrandgroup.com/fr/",
+    "timestamp": 1706439614500,
+    "ranks": {
+      "hundos": 18,
+      "performance": 10,
+      "accessibility": 32,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.77,
+      "bestPractices": 0.96,
+      "seo": 0.86,
+      "total": 331
+    },
+    "firstContentfulPaint": 1695.286,
+    "firstMeaningfulPaint": 4838.645,
+    "speedIndex": 4067.679961146608,
+    "largestContentfulPaint": 10198.392,
+    "totalBlockingTime": 84.50000000000045,
+    "cumulativeLayoutShift": 0.02914183660184242,
+    "timeToInteractive": 11572.412686599731,
+    "maxPotentialFirstInputDelay": 100,
+    "timeToFirstByte": 77.082,
+    "weight": {
+      "summary": "58 requests • 2,2 MiB",
+      "total": 2269187,
+      "image": 1104391,
+      "imageCount": 30,
+      "script": 709312,
+      "scriptCount": 12,
+      "document": 51774,
+      "font": 252956,
+      "fontCount": 7,
+      "stylesheet": 144036,
+      "stylesheetCount": 2,
+      "thirdParty": 517880,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 25,
+      "-weight.document": 23,
+      "+weight.document": 17,
+      "-weight.script": 23,
+      "+weight.script": 17,
+      "-weight.image": 19,
+      "+weight.image": 21,
+      "-weight.font": 26,
+      "+weight.font": 13,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 672,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://group.bnpparibas/",
+    "requestedUrl": "https://group.bnpparibas.com/",
+    "timestamp": 1706439923470,
+    "ranks": {
+      "hundos": 19,
+      "performance": 5,
+      "accessibility": 21,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.79,
+      "accessibility": 0.86,
+      "bestPractices": 0.74,
+      "seo": 0.9,
+      "total": 329
+    },
+    "firstContentfulPaint": 2921.7315,
+    "firstMeaningfulPaint": 2921.7315,
+    "speedIndex": 4393.728566769465,
+    "largestContentfulPaint": 4062.4890000000005,
+    "totalBlockingTime": 91.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 8412.236999999997,
+    "maxPotentialFirstInputDelay": 104,
+    "timeToFirstByte": 21.254999999999995,
+    "weight": {
+      "summary": "92 requests • 2,0 MiB",
+      "total": 2045274,
+      "image": 1201073,
+      "imageCount": 52,
+      "script": 466759,
+      "scriptCount": 19,
+      "document": 17284,
+      "font": 231047,
+      "fontCount": 9,
+      "stylesheet": 75854,
+      "stylesheetCount": 3,
+      "thirdParty": 1996914,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 27,
+      "-weight.document": 6,
+      "+weight.document": 34,
+      "-weight.script": 16,
+      "+weight.script": 24,
+      "-weight.image": 21,
+      "+weight.image": 19,
+      "-weight.font": 25,
+      "+weight.font": 14,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/",
+    "requestedUrl": "https://www.vivendi.com/",
+    "timestamp": 1706439862523,
+    "ranks": {
+      "hundos": 20,
+      "performance": 11,
+      "accessibility": 19,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.86,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 327
+    },
+    "firstContentfulPaint": 2914.891,
+    "firstMeaningfulPaint": 4434.762500000001,
+    "speedIndex": 2914.891,
+    "largestContentfulPaint": 8618.231,
+    "totalBlockingTime": 18,
+    "cumulativeLayoutShift": 0.03615860869953104,
+    "timeToInteractive": 4745.377999999999,
+    "maxPotentialFirstInputDelay": 86,
+    "timeToFirstByte": 40.693,
+    "weight": {
+      "summary": "26 requests • 1,1 MiB",
+      "total": 1133400,
+      "image": 639344,
+      "imageCount": 8,
+      "script": 274250,
+      "scriptCount": 7,
+      "document": 18421,
+      "font": 113780,
+      "fontCount": 3,
+      "stylesheet": 86396,
+      "stylesheetCount": 5,
+      "thirdParty": 205082,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 32,
+      "-weight.document": 9,
+      "+weight.document": 31,
+      "-weight.script": 6,
+      "+weight.script": 34,
+      "-weight.image": 14,
+      "+weight.image": 26,
+      "-weight.font": 14,
+      "+weight.font": 25,
+      "+weight.fontCount": 10,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 682,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.lvmh.fr/",
+    "requestedUrl": "https://www.lvmh.fr/",
+    "timestamp": 1706439636525,
+    "ranks": {
+      "hundos": 21,
+      "performance": 20,
+      "accessibility": 23,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.85,
+      "bestPractices": 0.96,
+      "seo": 0.83,
+      "total": 327
+    },
+    "firstContentfulPaint": 3056.4894999999997,
+    "firstMeaningfulPaint": 4628.8835,
+    "speedIndex": 6428.599358373359,
+    "largestContentfulPaint": 9039.6095,
+    "totalBlockingTime": 118.50000000000091,
+    "cumulativeLayoutShift": 0.011759124615223701,
+    "timeToInteractive": 10914.751255401614,
+    "maxPotentialFirstInputDelay": 147.0000000000009,
+    "timeToFirstByte": 115.19299999999998,
+    "weight": {
+      "summary": "90 requests • 2,8 MiB",
+      "total": 2902533,
+      "image": 1750671,
+      "imageCount": 23,
+      "script": 738660,
+      "scriptCount": 26,
+      "document": 21648,
+      "font": 276142,
+      "fontCount": 6,
+      "stylesheet": 68745,
+      "stylesheetCount": 9,
+      "thirdParty": 2745600,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 20,
+      "-weight.document": 11,
+      "+weight.document": 29,
+      "-weight.script": 24,
+      "+weight.script": 16,
+      "-weight.image": 26,
+      "+weight.image": 14,
+      "-weight.font": 29,
+      "+weight.font": 10,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.loreal.com/fr/",
+    "requestedUrl": "https://www.loreal.com/fr/",
+    "timestamp": 1706439624320,
+    "ranks": {
+      "hundos": 22,
+      "performance": 18,
+      "accessibility": 4,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.96,
+      "bestPractices": 0.81,
+      "seo": 0.82,
+      "total": 324
+    },
+    "firstContentfulPaint": 2956.5314999999996,
+    "firstMeaningfulPaint": 3788.1919999999996,
+    "speedIndex": 3975.8569863166067,
+    "largestContentfulPaint": 5457.430499999999,
+    "totalBlockingTime": 334,
+    "cumulativeLayoutShift": 0.001246890569571194,
+    "timeToInteractive": 7269.2905,
+    "maxPotentialFirstInputDelay": 215,
+    "timeToFirstByte": 89.412,
+    "weight": {
+      "summary": "31 requests • 755,2 KiB",
+      "total": 770193,
+      "image": 28812,
+      "imageCount": 4,
+      "script": 426748,
+      "scriptCount": 9,
+      "document": 17399,
+      "font": 224701,
+      "fontCount": 5,
+      "stylesheet": 34049,
+      "stylesheetCount": 2,
+      "thirdParty": 303976,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 38,
+      "-weight.document": 7,
+      "+weight.document": 33,
+      "-weight.script": 11,
+      "+weight.script": 29,
+      "-weight.image": 1,
+      "+weight.image": 39,
+      "-weight.font": 23,
+      "+weight.font": 16,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 499,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.renaultgroup.com/",
+    "requestedUrl": "https://www.renaultgroup.com/",
+    "timestamp": 1706439691759,
+    "ranks": {
+      "hundos": 23,
+      "performance": 22,
+      "accessibility": 20,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.86,
+      "bestPractices": 0.74,
+      "seo": 1,
+      "total": 323
+    },
+    "firstContentfulPaint": 1811.251,
+    "firstMeaningfulPaint": 1811.251,
+    "speedIndex": 6863.658185990409,
+    "largestContentfulPaint": 4886.251,
+    "totalBlockingTime": 447.5,
+    "cumulativeLayoutShift": 0.010403069956954133,
+    "timeToInteractive": 15239.351999999999,
+    "maxPotentialFirstInputDelay": 133,
+    "timeToFirstByte": 78.39000000000001,
+    "weight": {
+      "summary": "56 requests • 3,1 MiB",
+      "total": 3208231,
+      "image": 1217760,
+      "imageCount": 16,
+      "script": 1419798,
+      "scriptCount": 19,
+      "document": 54340,
+      "font": 323698,
+      "fontCount": 7,
+      "stylesheet": 147138,
+      "stylesheetCount": 2,
+      "thirdParty": 1054838,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 19,
+      "-weight.document": 24,
+      "+weight.document": 16,
+      "-weight.script": 35,
+      "+weight.script": 5,
+      "-weight.image": 22,
+      "+weight.image": 18,
+      "-weight.font": 33,
+      "+weight.font": 6,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 591,
+      "violations": 32
+    }
+  },
+  {
+    "url": "https://www.urw.com/fr-fr",
+    "requestedUrl": "https://www.urw.com/fr-FR",
+    "timestamp": 1706439831151,
+    "ranks": {
+      "hundos": 24,
+      "performance": 14,
+      "accessibility": 35,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.65,
+      "bestPractices": 1,
+      "seo": 0.89,
+      "total": 321
+    },
+    "firstContentfulPaint": 3329.2594999999997,
+    "firstMeaningfulPaint": 5326.4595,
+    "speedIndex": 6043.802475276862,
+    "largestContentfulPaint": 5686.0515,
+    "totalBlockingTime": 118.99999999999955,
+    "cumulativeLayoutShift": 0.0005636487955789279,
+    "timeToInteractive": 8455.9535,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 87.797,
+    "weight": {
+      "summary": "50 requests • 21,2 MiB",
+      "total": 22189077,
+      "image": 2385888,
+      "imageCount": 26,
+      "script": 418552,
+      "scriptCount": 7,
+      "document": 100344,
+      "font": 265834,
+      "fontCount": 7,
+      "stylesheet": 103494,
+      "stylesheetCount": 2,
+      "thirdParty": 800427,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 3,
+      "-weight.document": 31,
+      "+weight.document": 9,
+      "-weight.script": 10,
+      "+weight.script": 30,
+      "-weight.image": 31,
+      "+weight.image": 9,
+      "-weight.font": 27,
+      "+weight.font": 12,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "error": "{\"name\":\"TimeoutError\"}"
+    }
+  },
+  {
+    "url": "https://www.essilorluxottica.com/fr/",
+    "requestedUrl": "https://www.essilorluxottica.com/fr",
+    "timestamp": 1706439093998,
+    "ranks": {
+      "hundos": 25,
+      "performance": 24,
+      "accessibility": 14,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.9,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 315
+    },
+    "firstContentfulPaint": 1069.71696,
+    "firstMeaningfulPaint": 1069.71696,
+    "speedIndex": 5899.705117084055,
+    "largestContentfulPaint": 7008.882250000001,
+    "totalBlockingTime": 395.50000000000045,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6897.3919000000005,
+    "maxPotentialFirstInputDelay": 280,
+    "timeToFirstByte": 489.309,
+    "weight": {
+      "summary": "98 requests • 4,4 MiB",
+      "total": 4584801,
+      "image": 1980770,
+      "imageCount": 41,
+      "script": 534930,
+      "scriptCount": 33,
+      "document": 35556,
+      "font": 68750,
+      "fontCount": 6,
+      "stylesheet": 7480,
+      "stylesheetCount": 1,
+      "thirdParty": 189244,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 14,
+      "-weight.document": 19,
+      "+weight.document": 21,
+      "-weight.script": 21,
+      "+weight.script": 19,
+      "-weight.image": 28,
+      "+weight.image": 12,
+      "-weight.font": 8,
+      "+weight.font": 31,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 1162,
+      "violations": 124
+    }
+  },
+  {
+    "url": "https://www.engie.com/",
+    "requestedUrl": "https://www.engie.com/",
+    "timestamp": 1706440015682,
+    "ranks": {
+      "hundos": 26,
+      "performance": 29,
+      "accessibility": 34,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.66,
+      "bestPractices": 1,
+      "seo": 0.91,
+      "total": 311
+    },
+    "firstContentfulPaint": 2625.3855,
+    "firstMeaningfulPaint": 2625.3855,
+    "speedIndex": 6243.844022345278,
+    "largestContentfulPaint": 11931.3855,
+    "totalBlockingTime": 47.5,
+    "cumulativeLayoutShift": 0.22712831393606353,
+    "timeToInteractive": 11521.712500000001,
+    "maxPotentialFirstInputDelay": 91,
+    "timeToFirstByte": 5.036000000000001,
+    "weight": {
+      "summary": "37 requests • 2,6 MiB",
+      "total": 2769199,
+      "image": 2164941,
+      "imageCount": 20,
+      "script": 454597,
+      "scriptCount": 7,
+      "document": 12016,
+      "font": 61198,
+      "fontCount": 5,
+      "stylesheet": 76447,
+      "stylesheetCount": 3,
+      "thirdParty": 232473,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 22,
+      "-weight.document": 2,
+      "+weight.document": 38,
+      "-weight.script": 15,
+      "+weight.script": 25,
+      "-weight.image": 29,
+      "+weight.image": 11,
+      "-weight.font": 6,
+      "+weight.font": 33,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 959,
+      "violations": 49
+    }
+  },
+  {
+    "url": "https://www.publicisgroupe.com/fr/splash",
+    "requestedUrl": "https://www.publicisgroupe.com/fr",
+    "timestamp": 1706440127704,
+    "ranks": {
+      "hundos": 27,
+      "performance": 27,
+      "accessibility": 24,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.84,
+      "bestPractices": 0.74,
+      "seo": 0.93,
+      "total": 309
+    },
+    "firstContentfulPaint": 4120.920032287598,
+    "firstMeaningfulPaint": 6882.5325,
+    "speedIndex": 7773.655602377437,
+    "largestContentfulPaint": 12283.003499999999,
+    "totalBlockingTime": 50.5,
+    "cumulativeLayoutShift": 0.07527311697645263,
+    "timeToInteractive": 11092.768,
+    "maxPotentialFirstInputDelay": 139,
+    "timeToFirstByte": 18.423,
+    "weight": {
+      "summary": "24 requests • 2,0 MiB",
+      "total": 2079266,
+      "image": 520319,
+      "imageCount": 3,
+      "script": 972029,
+      "scriptCount": 4,
+      "document": 25464,
+      "font": 33381,
+      "fontCount": 5,
+      "stylesheet": 389510,
+      "stylesheetCount": 4,
+      "thirdParty": 3178,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 26,
+      "-weight.document": 14,
+      "+weight.document": 26,
+      "-weight.script": 28,
+      "+weight.script": 12,
+      "-weight.image": 10,
+      "+weight.image": 30,
+      "-weight.font": 5,
+      "+weight.font": 34,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 288,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.axa.com/fr",
+    "requestedUrl": "https://www.axa.com/fr/",
+    "timestamp": 1706438980474,
+    "ranks": {
+      "hundos": 28,
+      "performance": 32,
+      "accessibility": 22,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.85,
+      "bestPractices": 0.74,
+      "seo": 0.92,
+      "total": 302
+    },
+    "firstContentfulPaint": 5814.521250000002,
+    "firstMeaningfulPaint": 5814.521250000002,
+    "speedIndex": 11316.19758796019,
+    "largestContentfulPaint": 11113.759000000002,
+    "totalBlockingTime": 273.5,
+    "cumulativeLayoutShift": 0.023675925926390447,
+    "timeToInteractive": 19410.736249999998,
+    "maxPotentialFirstInputDelay": 329,
+    "timeToFirstByte": 295.74399999999997,
+    "weight": {
+      "summary": "66 requests • 3,6 MiB",
+      "total": 3795118,
+      "image": 1120654,
+      "imageCount": 22,
+      "script": 1549303,
+      "scriptCount": 29,
+      "document": 797814,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 100451,
+      "stylesheetCount": 2,
+      "thirdParty": 1230055,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 16,
+      "-weight.document": 39,
+      "+weight.document": 1,
+      "-weight.script": 37,
+      "+weight.script": 3,
+      "-weight.image": 20,
+      "+weight.image": 20,
+      "-weight.font": 18,
+      "+weight.font": 21,
+      "+weight.fontCount": 9,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 813,
+      "violations": 62
+    }
+  },
+  {
+    "url": "https://www.sanofi.fr/fr/",
+    "requestedUrl": "https://www.sanofi.fr/fr/",
+    "timestamp": 1706439729358,
+    "ranks": {
+      "hundos": 29,
+      "performance": 34,
+      "accessibility": 18,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.86,
+      "bestPractices": 0.7,
+      "seo": 0.93,
+      "total": 298
+    },
+    "firstContentfulPaint": 1736.1960000000001,
+    "firstMeaningfulPaint": 1736.1960000000001,
+    "speedIndex": 9074.161476844183,
+    "largestContentfulPaint": 4484.256,
+    "totalBlockingTime": 1401.7525000000005,
+    "cumulativeLayoutShift": 0.054678007290400975,
+    "timeToInteractive": 13425.8215,
+    "maxPotentialFirstInputDelay": 233,
+    "timeToFirstByte": 711.373,
+    "weight": {
+      "summary": "137 requests • 3,2 MiB",
+      "total": 3400730,
+      "image": 1368257,
+      "imageCount": 22,
+      "script": 1331812,
+      "scriptCount": 38,
+      "document": 272189,
+      "font": 22186,
+      "fontCount": 17,
+      "stylesheet": 85125,
+      "stylesheetCount": 15,
+      "thirdParty": 1855321,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 17,
+      "-weight.document": 38,
+      "+weight.document": 2,
+      "-weight.script": 32,
+      "+weight.script": 8,
+      "-weight.image": 23,
+      "+weight.image": 17,
+      "-weight.font": 1,
+      "+weight.font": 38,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 540,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.carrefour.com/fr",
+    "requestedUrl": "https://www.carrefour.com/fr",
+    "timestamp": 1706439959397,
+    "ranks": {
+      "hundos": 30,
+      "performance": 23,
+      "accessibility": 33,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.75,
+      "bestPractices": 0.81,
+      "seo": 0.79,
+      "total": 297
+    },
+    "firstContentfulPaint": 2065.781,
+    "firstMeaningfulPaint": 2682.7185,
+    "speedIndex": 2222.3297551695246,
+    "largestContentfulPaint": 4649.656,
+    "totalBlockingTime": 207.5000000000009,
+    "cumulativeLayoutShift": 0.3232081974847892,
+    "timeToInteractive": 7139.156,
+    "maxPotentialFirstInputDelay": 220,
+    "timeToFirstByte": 112.47800000000001,
+    "weight": {
+      "summary": "72 requests • 1 015,3 KiB",
+      "total": 1039661,
+      "image": 389670,
+      "imageCount": 12,
+      "script": 435510,
+      "scriptCount": 14,
+      "document": 10243,
+      "font": 94410,
+      "fontCount": 5,
+      "stylesheet": 56006,
+      "stylesheetCount": 30,
+      "thirdParty": 254625,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 33,
+      "-weight.document": 1,
+      "+weight.document": 39,
+      "-weight.script": 12,
+      "+weight.script": 28,
+      "-weight.image": 8,
+      "+weight.image": 32,
+      "-weight.font": 11,
+      "+weight.font": 28,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 749,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.airbus.com/en",
+    "requestedUrl": "https://www.airbus.com/en",
+    "timestamp": 1706438948828,
+    "ranks": {
+      "hundos": 15,
+      "performance": 3,
+      "accessibility": 37,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 0.49,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 336
+    },
+    "firstContentfulPaint": 1872.6879999999994,
+    "firstMeaningfulPaint": 1872.6879999999994,
+    "speedIndex": 3088.17747058937,
+    "largestContentfulPaint": 3720.0464999999995,
+    "totalBlockingTime": 222.5,
+    "cumulativeLayoutShift": 0.011131742590040829,
+    "timeToInteractive": 6579.0824999999995,
+    "maxPotentialFirstInputDelay": 192,
+    "timeToFirstByte": 18.028000000000002,
+    "weight": {
+      "summary": "42 requests • 661,9 KiB",
+      "total": 677823,
+      "image": 108333,
+      "imageCount": 11,
+      "script": 400431,
+      "scriptCount": 14,
+      "document": 48424,
+      "font": 0,
+      "fontCount": 0,
+      "stylesheet": 214,
+      "stylesheetCount": 3,
+      "thirdParty": 396206,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 39,
+      "-weight.document": 22,
+      "+weight.document": 18,
+      "-weight.script": 9,
+      "+weight.script": 31,
+      "-weight.image": 2,
+      "+weight.image": 38,
+      "-weight.font": 1,
+      "+weight.font": 39,
+      "+weight.fontCount": 13,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 136,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.veolia.com/fr",
+    "requestedUrl": "https://www.veolia.com/fr",
+    "timestamp": 1706439395784,
+    "ranks": {
+      "hundos": 31,
+      "performance": 36,
+      "accessibility": 28,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.44,
+      "accessibility": 0.81,
+      "bestPractices": 0.93,
+      "seo": 0.77,
+      "total": 295
+    },
+    "firstContentfulPaint": 3278.258,
+    "firstMeaningfulPaint": 7318.224,
+    "speedIndex": 9056.567386169785,
+    "largestContentfulPaint": 9816.056000000002,
+    "totalBlockingTime": 556,
+    "cumulativeLayoutShift": 0.09450584002235968,
+    "timeToInteractive": 16584.598999999995,
+    "maxPotentialFirstInputDelay": 201,
+    "timeToFirstByte": 164.455,
+    "weight": {
+      "summary": "71 requests • 2,8 MiB",
+      "total": 2890225,
+      "image": 550768,
+      "imageCount": 20,
+      "script": 1477087,
+      "scriptCount": 23,
+      "document": 72806,
+      "font": 442980,
+      "fontCount": 10,
+      "stylesheet": 289419,
+      "stylesheetCount": 6,
+      "thirdParty": 1549221,
+      "thirdPartyCount": 10
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 21,
+      "-weight.document": 30,
+      "+weight.document": 10,
+      "-weight.script": 36,
+      "+weight.script": 4,
+      "-weight.image": 11,
+      "+weight.image": 29,
+      "-weight.font": 35,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 1303,
+      "violations": 42
+    }
+  },
+  {
+    "url": "https://www.danone.com/fr.html",
+    "requestedUrl": "https://www.danone.com/fr.html",
+    "timestamp": 1706439978326,
+    "ranks": {
+      "hundos": 32,
+      "performance": 31,
+      "accessibility": 31,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.86,
+      "total": 287
+    },
+    "firstContentfulPaint": 1915.5210000000002,
+    "firstMeaningfulPaint": 5435.895,
+    "speedIndex": 7357.398307165894,
+    "largestContentfulPaint": 18789.139000000003,
+    "totalBlockingTime": 277,
+    "cumulativeLayoutShift": 0.165398560381815,
+    "timeToInteractive": 13944.521,
+    "maxPotentialFirstInputDelay": 149,
+    "timeToFirstByte": 5.557000000000002,
+    "weight": {
+      "summary": "45 requests • 28,8 MiB",
+      "total": 30179384,
+      "image": 2377298,
+      "imageCount": 10,
+      "script": 1400242,
+      "scriptCount": 11,
+      "document": 59599,
+      "font": 127236,
+      "fontCount": 5,
+      "stylesheet": 97420,
+      "stylesheetCount": 2,
+      "thirdParty": 1375856,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 2,
+      "-weight.document": 26,
+      "+weight.document": 14,
+      "-weight.script": 34,
+      "+weight.script": 6,
+      "-weight.image": 30,
+      "+weight.image": 10,
+      "-weight.font": 16,
+      "+weight.font": 23,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "error": "{\"name\":\"TimeoutError\"}"
+    }
+  },
+  {
+    "url": "https://www.credit-agricole.com/",
+    "requestedUrl": "https://www.credit-agricole.com/",
+    "timestamp": 1706439519626,
+    "ranks": {
+      "hundos": 33,
+      "performance": 35,
+      "accessibility": 30,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.48,
+      "accessibility": 0.78,
+      "bestPractices": 0.7,
+      "seo": 0.89,
+      "total": 285
+    },
+    "firstContentfulPaint": 2228.7974999999997,
+    "firstMeaningfulPaint": 3995.24,
+    "speedIndex": 3332.527913631072,
+    "largestContentfulPaint": 11074.604999999996,
+    "totalBlockingTime": 50,
+    "cumulativeLayoutShift": 0.7660133631227697,
+    "timeToInteractive": 8529.492499999997,
+    "maxPotentialFirstInputDelay": 79,
+    "timeToFirstByte": 9.751999999999995,
+    "weight": {
+      "summary": "51 requests • 1,7 MiB",
+      "total": 1795878,
+      "image": 1000818,
+      "imageCount": 20,
+      "script": 470876,
+      "scriptCount": 19,
+      "document": 21161,
+      "font": 189603,
+      "fontCount": 7,
+      "stylesheet": 112821,
+      "stylesheetCount": 3,
+      "thirdParty": 92887,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 28,
+      "-weight.document": 10,
+      "+weight.document": 30,
+      "-weight.script": 17,
+      "+weight.script": 23,
+      "-weight.image": 18,
+      "+weight.image": 22,
+      "-weight.font": 21,
+      "+weight.font": 18,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 775,
+      "violations": 49
+    }
+  },
+  {
+    "url": "https://www.capgemini.com/fr-fr/",
+    "requestedUrl": "https://www.capgemini.com/fr-fr/",
+    "timestamp": 1706439950781,
+    "ranks": {
+      "hundos": 34,
+      "performance": 30,
+      "accessibility": 12,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.92,
+      "bestPractices": 0.56,
+      "seo": 0.79,
+      "total": 281
+    },
+    "firstContentfulPaint": 3283.1150000000002,
+    "firstMeaningfulPaint": 3283.1150000000002,
+    "speedIndex": 9199.5108171608,
+    "largestContentfulPaint": 5233.115,
+    "totalBlockingTime": 497.5,
+    "cumulativeLayoutShift": 0.0002952201441966071,
+    "timeToInteractive": 13661.115,
+    "maxPotentialFirstInputDelay": 154,
+    "timeToFirstByte": 125.31400000000002,
+    "weight": {
+      "summary": "76 requests • 6,0 MiB",
+      "total": 6285866,
+      "image": 946766,
+      "imageCount": 23,
+      "script": 1354675,
+      "scriptCount": 33,
+      "document": 35289,
+      "font": 583769,
+      "fontCount": 6,
+      "stylesheet": 200857,
+      "stylesheetCount": 4,
+      "thirdParty": 683633,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 11,
+      "-weight.document": 18,
+      "+weight.document": 22,
+      "-weight.script": 33,
+      "+weight.script": 7,
+      "-weight.image": 17,
+      "+weight.image": 23,
+      "-weight.font": 38,
+      "+weight.font": 1,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 1352,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.thalesgroup.com/fr",
+    "requestedUrl": "https://www.thalesgroup.com/fr",
+    "timestamp": 1706439360680,
+    "ranks": {
+      "hundos": 35,
+      "performance": 39,
+      "accessibility": 17,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.37,
+      "accessibility": 0.87,
+      "bestPractices": 0.56,
+      "seo": 0.99,
+      "total": 279
+    },
+    "firstContentfulPaint": 2837.5220000000004,
+    "firstMeaningfulPaint": 3901.5120000000006,
+    "speedIndex": 15519.575581856312,
+    "largestContentfulPaint": 21947.833699999996,
+    "totalBlockingTime": 1181,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 28878.56999002075,
+    "maxPotentialFirstInputDelay": 327,
+    "timeToFirstByte": 16.72800000000001,
+    "weight": {
+      "summary": "332 requests • 6,7 MiB",
+      "total": 7053679,
+      "image": 3340613,
+      "imageCount": 75,
+      "script": 2038695,
+      "scriptCount": 52,
+      "document": 167280,
+      "font": 224713,
+      "fontCount": 10,
+      "stylesheet": 251112,
+      "stylesheetCount": 17,
+      "thirdParty": 5041889,
+      "thirdPartyCount": 15
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 10,
+      "-weight.document": 35,
+      "+weight.document": 5,
+      "-weight.script": 38,
+      "+weight.script": 2,
+      "-weight.image": 34,
+      "+weight.image": 6,
+      "-weight.font": 24,
+      "+weight.font": 15,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 3823,
+      "violations": 247
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/locations/france-site/france/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/",
+    "timestamp": 1706440238020,
+    "ranks": {
+      "hundos": 36,
+      "performance": 25,
+      "accessibility": 36,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.54,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 277
+    },
+    "firstContentfulPaint": 3471.3810000000003,
+    "firstMeaningfulPaint": 3500.3810000000003,
+    "speedIndex": 6903.682962865466,
+    "largestContentfulPaint": 14131.042380000003,
+    "totalBlockingTime": 203,
+    "cumulativeLayoutShift": 0.0017143480340618912,
+    "timeToInteractive": 12173.36937319946,
+    "maxPotentialFirstInputDelay": 137,
+    "timeToFirstByte": 373.892,
+    "weight": {
+      "summary": "62 requests • 10,5 MiB",
+      "total": 10988002,
+      "image": 2995008,
+      "imageCount": 24,
+      "script": 441075,
+      "scriptCount": 12,
+      "document": 144444,
+      "font": 415727,
+      "fontCount": 6,
+      "stylesheet": 95190,
+      "stylesheetCount": 4,
+      "thirdParty": 411360,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 6,
+      "-weight.document": 34,
+      "+weight.document": 6,
+      "-weight.script": 14,
+      "+weight.script": 26,
+      "-weight.image": 32,
+      "+weight.image": 8,
+      "-weight.font": 34,
+      "+weight.font": 5,
+      "+weight.fontCount": 7,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 1393,
+      "violations": 92
+    }
+  },
+  {
+    "url": "https://www.st.com/content/st_com/en.html",
+    "requestedUrl": "https://www.st.com/content/st_com/en.html",
+    "timestamp": 1706439776250,
+    "ranks": {
+      "hundos": 37,
+      "performance": 38,
+      "accessibility": 26,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.39,
+      "accessibility": 0.83,
+      "bestPractices": 0.56,
+      "seo": 0.77,
+      "total": 255
+    },
+    "firstContentfulPaint": 3852.0245000000004,
+    "firstMeaningfulPaint": 3962.4095000000007,
+    "speedIndex": 7345.542376258343,
+    "largestContentfulPaint": 6489.363500000002,
+    "totalBlockingTime": 1210.5,
+    "cumulativeLayoutShift": 0.0037264017929248563,
+    "timeToInteractive": 12506.080000000002,
+    "maxPotentialFirstInputDelay": 392.5,
+    "timeToFirstByte": 40.229,
+    "weight": {
+      "summary": "111 requests • 3,2 MiB",
+      "total": 3344245,
+      "image": 456202,
+      "imageCount": 31,
+      "script": 1226452,
+      "scriptCount": 39,
+      "document": 54864,
+      "font": 23594,
+      "fontCount": 1,
+      "stylesheet": 126132,
+      "stylesheetCount": 11,
+      "thirdParty": 1673634,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 18,
+      "-weight.document": 25,
+      "+weight.document": 15,
+      "-weight.script": 30,
+      "+weight.script": 10,
+      "-weight.image": 9,
+      "+weight.image": 31,
+      "-weight.font": 2,
+      "+weight.font": 37,
+      "+weight.fontCount": 12,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "error": "{}"
+    }
+  },
+  {
+    "url": "https://www.societegenerale.com/fr",
+    "requestedUrl": "https://www.societegenerale.com/fr",
+    "timestamp": 1706440198956,
+    "ranks": {
+      "hundos": 38,
+      "performance": 26,
+      "accessibility": 39,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": null,
+      "bestPractices": 0.96,
+      "seo": 0.99,
+      "total": 254
+    },
+    "firstContentfulPaint": 1081.105,
+    "firstMeaningfulPaint": 1081.105,
+    "speedIndex": 12906.289330928304,
+    "largestContentfulPaint": 18452.973000000005,
+    "totalBlockingTime": 69,
+    "cumulativeLayoutShift": 0.1473416168508952,
+    "timeToInteractive": 18109.190500000004,
+    "maxPotentialFirstInputDelay": 121,
+    "timeToFirstByte": 8.688000000000002,
+    "weight": {
+      "summary": "58 requests • 7,8 MiB",
+      "total": 8138190,
+      "image": 7293969,
+      "imageCount": 29,
+      "script": 525773,
+      "scriptCount": 12,
+      "document": 13724,
+      "font": 273399,
+      "fontCount": 7,
+      "stylesheet": 17229,
+      "stylesheetCount": 2,
+      "thirdParty": 420280,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 9,
+      "-weight.document": 3,
+      "+weight.document": 37,
+      "-weight.script": 19,
+      "+weight.script": 21,
+      "-weight.image": 38,
+      "+weight.image": 2,
+      "-weight.font": 28,
+      "+weight.font": 11,
+      "+weight.fontCount": 6,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 701,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.michelin.fr/",
+    "requestedUrl": "https://www.michelin.fr/",
+    "timestamp": 1706440100253,
+    "ranks": {
+      "hundos": 39,
+      "performance": 37,
+      "accessibility": 38,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.4,
+      "accessibility": null,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 233
+    },
+    "firstContentfulPaint": 4245.222,
+    "firstMeaningfulPaint": 4245.222,
+    "speedIndex": 11424.75231766982,
+    "largestContentfulPaint": 7503.548499999999,
+    "totalBlockingTime": 775.5,
+    "cumulativeLayoutShift": 0.03532980284372854,
+    "timeToInteractive": 22775.665999999997,
+    "maxPotentialFirstInputDelay": 772,
+    "timeToFirstByte": 16.491,
+    "weight": {
+      "summary": "78 requests • 4,5 MiB",
+      "total": 4704717,
+      "image": 1578703,
+      "imageCount": 22,
+      "script": 2402057,
+      "scriptCount": 26,
+      "document": 218986,
+      "font": 95751,
+      "fontCount": 5,
+      "stylesheet": 163948,
+      "stylesheetCount": 2,
+      "thirdParty": 4267006,
+      "thirdPartyCount": 13
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 13,
+      "-weight.document": 37,
+      "+weight.document": 3,
+      "-weight.script": 39,
+      "+weight.script": 1,
+      "-weight.image": 24,
+      "+weight.image": 16,
+      "-weight.font": 12,
+      "+weight.font": 27,
+      "+weight.fontCount": 8,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1436,
+      "violations": 0
+    }
+  }
+]

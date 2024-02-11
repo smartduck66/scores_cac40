@@ -1,0 +1,3285 @@
+[
+  {
+    "url": "https://www.saint-gobain.com/en/corporate-responsibility/our-pillars/climate-change",
+    "requestedUrl": "https://www.saint-gobain.com/en/group/net-zero-carbon/success-stories",
+    "timestamp": 1707568510560,
+    "ranks": {
+      "hundos": 1,
+      "performance": 1,
+      "accessibility": 3,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.94,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 380
+    },
+    "firstContentfulPaint": 1997.245,
+    "firstMeaningfulPaint": 1997.245,
+    "speedIndex": 2987.7938495105927,
+    "largestContentfulPaint": 2597.245,
+    "totalBlockingTime": 132.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6776.594999999999,
+    "maxPotentialFirstInputDelay": 157,
+    "timeToFirstByte": 50.486,
+    "weight": {
+      "summary": "55 requests • 1,0 MiB",
+      "total": 1092015,
+      "image": 357350,
+      "imageCount": 26,
+      "script": 361232,
+      "scriptCount": 11,
+      "document": 46741,
+      "font": 106484,
+      "fontCount": 5,
+      "stylesheet": 177640,
+      "stylesheetCount": 2,
+      "thirdParty": 273186,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 25,
+      "-weight.document": 41,
+      "+weight.document": 9,
+      "-weight.script": 34,
+      "+weight.script": 16,
+      "-weight.image": 30,
+      "+weight.image": 20,
+      "-weight.font": 3,
+      "+weight.font": 41,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1006,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/offering-sustainable-and-affordable-solutions-are-adapted-lifestyle-changes-associated-increasing",
+    "requestedUrl": "https://www.saint-gobain.com/en/offering-sustainable-and-affordable-solutions-are-adapted-lifestyle-changes-associated-increasing",
+    "timestamp": 1707567608738,
+    "ranks": {
+      "hundos": 2,
+      "performance": 3,
+      "accessibility": 10,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.93,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 379
+    },
+    "firstContentfulPaint": 1997.8749999999995,
+    "firstMeaningfulPaint": 1997.8749999999995,
+    "speedIndex": 3286.5295989356528,
+    "largestContentfulPaint": 2826.9649999999992,
+    "totalBlockingTime": 35,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6332.1175,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 156.053,
+    "weight": {
+      "summary": "48 requests • 837,2 KiB",
+      "total": 857334,
+      "image": 149883,
+      "imageCount": 20,
+      "script": 341458,
+      "scriptCount": 11,
+      "document": 40936,
+      "font": 106617,
+      "fontCount": 5,
+      "stylesheet": 177291,
+      "stylesheetCount": 2,
+      "thirdParty": 273198,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 40,
+      "-weight.document": 5,
+      "+weight.document": 45,
+      "-weight.script": 7,
+      "+weight.script": 43,
+      "-weight.image": 14,
+      "+weight.image": 36,
+      "-weight.font": 28,
+      "+weight.font": 16,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 673,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/finance/information-reglementee/information-mensuelle-relative-au-nombre-total-de-droits-de-vote-et",
+    "requestedUrl": "https://www.saint-gobain.com/fr/finance/information-reglementee/information-mensuelle-relative-au-nombre-total-de-droits-de-vote-et",
+    "timestamp": 1707568403062,
+    "ranks": {
+      "hundos": 3,
+      "performance": 7,
+      "accessibility": 22,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.9,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 379
+    },
+    "firstContentfulPaint": 1989.1595,
+    "firstMeaningfulPaint": 1989.1595,
+    "speedIndex": 3018.0889771918237,
+    "largestContentfulPaint": 2820.1594999999998,
+    "totalBlockingTime": 159,
+    "cumulativeLayoutShift": 0.0909096828322821,
+    "timeToInteractive": 6327.3994999999995,
+    "maxPotentialFirstInputDelay": 168,
+    "timeToFirstByte": 112.773,
+    "weight": {
+      "summary": "48 requests • 824,4 KiB",
+      "total": 844232,
+      "image": 129483,
+      "imageCount": 20,
+      "script": 346603,
+      "scriptCount": 11,
+      "document": 41195,
+      "font": 106687,
+      "fontCount": 5,
+      "stylesheet": 177187,
+      "stylesheetCount": 2,
+      "thirdParty": 275127,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 44,
+      "-weight.document": 8,
+      "+weight.document": 42,
+      "-weight.script": 19,
+      "+weight.script": 31,
+      "-weight.image": 2,
+      "+weight.image": 48,
+      "-weight.font": 34,
+      "+weight.font": 10,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 632,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/careers/career-news/5-questions-regis-blugeon-directeur-des-affaires",
+    "requestedUrl": "https://www.saint-gobain.com/fr/careers/career-news/5-questions-regis-blugeon-directeur-des-affaires",
+    "timestamp": 1707568311777,
+    "ranks": {
+      "hundos": 4,
+      "performance": 12,
+      "accessibility": 9,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 375
+    },
+    "firstContentfulPaint": 2016.1519999999998,
+    "firstMeaningfulPaint": 2016.1519999999998,
+    "speedIndex": 2987.0006454032655,
+    "largestContentfulPaint": 6872.424499999999,
+    "totalBlockingTime": 24,
+    "cumulativeLayoutShift": 0.02243099741564836,
+    "timeToInteractive": 6352.193999999999,
+    "maxPotentialFirstInputDelay": 159,
+    "timeToFirstByte": 76.123,
+    "weight": {
+      "summary": "47 requests • 855,3 KiB",
+      "total": 875861,
+      "image": 149760,
+      "imageCount": 19,
+      "script": 356341,
+      "scriptCount": 11,
+      "document": 42509,
+      "font": 106536,
+      "fontCount": 5,
+      "stylesheet": 177649,
+      "stylesheetCount": 2,
+      "thirdParty": 275116,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 36,
+      "-weight.document": 24,
+      "+weight.document": 26,
+      "-weight.script": 30,
+      "+weight.script": 20,
+      "-weight.image": 13,
+      "+weight.image": 37,
+      "-weight.font": 19,
+      "+weight.font": 25,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 690,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/saint-gobain-research-north-america-northborough-massachusetts-etats-unis",
+    "requestedUrl": "https://www.saint-gobain.com/fr/saint-gobain-research-north-america-northborough-massachusetts-etats-unis",
+    "timestamp": 1707568442253,
+    "ranks": {
+      "hundos": 6,
+      "performance": 4,
+      "accessibility": 30,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.93,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 374
+    },
+    "firstContentfulPaint": 1978.6250000000005,
+    "firstMeaningfulPaint": 1978.6250000000005,
+    "speedIndex": 3737.893049980052,
+    "largestContentfulPaint": 2629.2690000000007,
+    "totalBlockingTime": 131,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 7309.872,
+    "maxPotentialFirstInputDelay": 157,
+    "timeToFirstByte": 74.887,
+    "weight": {
+      "summary": "50 requests • 1,1 MiB",
+      "total": 1178228,
+      "image": 462401,
+      "imageCount": 22,
+      "script": 345471,
+      "scriptCount": 11,
+      "document": 42658,
+      "font": 106524,
+      "fontCount": 5,
+      "stylesheet": 178095,
+      "stylesheetCount": 2,
+      "thirdParty": 296760,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 22,
+      "-weight.document": 25,
+      "+weight.document": 25,
+      "-weight.script": 14,
+      "+weight.script": 36,
+      "-weight.image": 33,
+      "+weight.image": 17,
+      "-weight.font": 16,
+      "+weight.font": 28,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 678,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/clients/bim-saint-gobain",
+    "requestedUrl": "https://www.saint-gobain.com/en/clients/bim-saint-gobain",
+    "timestamp": 1707568282690,
+    "ranks": {
+      "hundos": 5,
+      "performance": 2,
+      "accessibility": 33,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.93,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 374
+    },
+    "firstContentfulPaint": 2040.493,
+    "firstMeaningfulPaint": 2040.493,
+    "speedIndex": 3136.7458700407124,
+    "largestContentfulPaint": 2790.493,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6595.827499999999,
+    "maxPotentialFirstInputDelay": 154,
+    "timeToFirstByte": 134.153,
+    "weight": {
+      "summary": "57 requests • 1,2 MiB",
+      "total": 1309182,
+      "image": 591910,
+      "imageCount": 29,
+      "script": 350252,
+      "scriptCount": 11,
+      "document": 42228,
+      "font": 106473,
+      "fontCount": 5,
+      "stylesheet": 177172,
+      "stylesheetCount": 2,
+      "thirdParty": 273207,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 16,
+      "-weight.document": 22,
+      "+weight.document": 28,
+      "-weight.script": 23,
+      "+weight.script": 27,
+      "-weight.image": 36,
+      "+weight.image": 14,
+      "-weight.font": 1,
+      "+weight.font": 43,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 819,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/supporteur-officiel-paris-2024",
+    "requestedUrl": "https://www.saint-gobain.com/fr/supporteur-officiel-paris-2024",
+    "timestamp": 1707567810441,
+    "ranks": {
+      "hundos": 7,
+      "performance": 26,
+      "accessibility": 2,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 372
+    },
+    "firstContentfulPaint": 2030.9279999999999,
+    "firstMeaningfulPaint": 2030.9279999999999,
+    "speedIndex": 3223.1620722774246,
+    "largestContentfulPaint": 8408.913499999999,
+    "totalBlockingTime": 132,
+    "cumulativeLayoutShift": 0.009462166834728766,
+    "timeToInteractive": 7347.207,
+    "maxPotentialFirstInputDelay": 156,
+    "timeToFirstByte": 87.53000000000002,
+    "weight": {
+      "summary": "63 requests • 1,2 MiB",
+      "total": 1275995,
+      "image": 535460,
+      "imageCount": 35,
+      "script": 366012,
+      "scriptCount": 11,
+      "document": 46438,
+      "font": 106536,
+      "fontCount": 5,
+      "stylesheet": 178514,
+      "stylesheetCount": 2,
+      "thirdParty": 386161,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 17,
+      "-weight.document": 40,
+      "+weight.document": 10,
+      "-weight.script": 38,
+      "+weight.script": 12,
+      "-weight.image": 35,
+      "+weight.image": 15,
+      "-weight.font": 19,
+      "+weight.font": 25,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 1053,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/explore-2050/home-more-frugal-city-where-resources-are-shared",
+    "requestedUrl": "https://www.saint-gobain.com/en/explore-2050/home-more-frugal-city-where-resources-are-shared",
+    "timestamp": 1707567519246,
+    "ranks": {
+      "hundos": 8,
+      "performance": 6,
+      "accessibility": 34,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.91,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 372
+    },
+    "firstContentfulPaint": 1999.6830000000002,
+    "firstMeaningfulPaint": 1999.6830000000002,
+    "speedIndex": 3267.114367456539,
+    "largestContentfulPaint": 2808.293,
+    "totalBlockingTime": 153.50000000000023,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6707.7305,
+    "maxPotentialFirstInputDelay": 155.00000000000023,
+    "timeToFirstByte": 167.799,
+    "weight": {
+      "summary": "51 requests • 953,7 KiB",
+      "total": 976583,
+      "image": 263244,
+      "imageCount": 23,
+      "script": 341074,
+      "scriptCount": 11,
+      "document": 47286,
+      "font": 106508,
+      "fontCount": 5,
+      "stylesheet": 177310,
+      "stylesheetCount": 2,
+      "thirdParty": 273210,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 29,
+      "-weight.document": 43,
+      "+weight.document": 7,
+      "-weight.script": 5,
+      "+weight.script": 45,
+      "-weight.image": 27,
+      "+weight.image": 23,
+      "-weight.font": 10,
+      "+weight.font": 34,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 883,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/carrieres/nos-metiers/achat-commerce-distribution",
+    "requestedUrl": "https://www.saint-gobain.com/fr/carrieres/nos-metiers/achat-commerce-distribution",
+    "timestamp": 1707567571228,
+    "ranks": {
+      "hundos": 9,
+      "performance": 36,
+      "accessibility": 6,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 371
+    },
+    "firstContentfulPaint": 2147.916,
+    "firstMeaningfulPaint": 2147.916,
+    "speedIndex": 4369.897191202788,
+    "largestContentfulPaint": 7392.118000000002,
+    "totalBlockingTime": 31.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6877.706000000002,
+    "maxPotentialFirstInputDelay": 158.00000000000023,
+    "timeToFirstByte": 977.005,
+    "weight": {
+      "summary": "53 requests • 1,6 MiB",
+      "total": 1691580,
+      "image": 916759,
+      "imageCount": 25,
+      "script": 400175,
+      "scriptCount": 11,
+      "document": 47256,
+      "font": 106510,
+      "fontCount": 5,
+      "stylesheet": 177838,
+      "stylesheetCount": 2,
+      "thirdParty": 275100,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 9,
+      "-weight.document": 42,
+      "+weight.document": 8,
+      "-weight.script": 42,
+      "+weight.script": 8,
+      "-weight.image": 42,
+      "+weight.image": 8,
+      "-weight.font": 12,
+      "+weight.font": 32,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 900,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/be-inclusive-promoting-equal-opportunities",
+    "requestedUrl": "https://www.saint-gobain.com/en/be-inclusive-promoting-equal-opportunities",
+    "timestamp": 1707568578287,
+    "ranks": {
+      "hundos": 10,
+      "performance": 9,
+      "accessibility": 8,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.83,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 369
+    },
+    "firstContentfulPaint": 1997.0865000000001,
+    "firstMeaningfulPaint": 1997.0865000000001,
+    "speedIndex": 3234.278106861313,
+    "largestContentfulPaint": 4295.6224999999995,
+    "totalBlockingTime": 65.49999999999955,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6477.147500000001,
+    "maxPotentialFirstInputDelay": 156,
+    "timeToFirstByte": 89.297,
+    "weight": {
+      "summary": "48 requests • 830,9 KiB",
+      "total": 850882,
+      "image": 143708,
+      "imageCount": 20,
+      "script": 340727,
+      "scriptCount": 11,
+      "document": 41402,
+      "font": 106616,
+      "fontCount": 5,
+      "stylesheet": 177281,
+      "stylesheetCount": 2,
+      "thirdParty": 273205,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 42,
+      "-weight.document": 12,
+      "+weight.document": 38,
+      "-weight.script": 3,
+      "+weight.script": 47,
+      "-weight.image": 11,
+      "+weight.image": 39,
+      "-weight.font": 27,
+      "+weight.font": 17,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 750,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/magazine/societe",
+    "requestedUrl": "https://www.saint-gobain.com/en/magazine/societe",
+    "timestamp": 1707568140701,
+    "ranks": {
+      "hundos": 11,
+      "performance": 8,
+      "accessibility": 38,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.9,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 369
+    },
+    "firstContentfulPaint": 2052.952,
+    "firstMeaningfulPaint": 2052.952,
+    "speedIndex": 4013.0723685035723,
+    "largestContentfulPaint": 2864.952,
+    "totalBlockingTime": 139,
+    "cumulativeLayoutShift": 0.003216804464973906,
+    "timeToInteractive": 7797.794999999999,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 84.339,
+    "weight": {
+      "summary": "74 requests • 2,1 MiB",
+      "total": 2231121,
+      "image": 1512581,
+      "imageCount": 46,
+      "script": 349164,
+      "scriptCount": 11,
+      "document": 44556,
+      "font": 106520,
+      "fontCount": 5,
+      "stylesheet": 177156,
+      "stylesheetCount": 2,
+      "thirdParty": 273193,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 6,
+      "-weight.document": 33,
+      "+weight.document": 17,
+      "-weight.script": 21,
+      "+weight.script": 29,
+      "-weight.image": 45,
+      "+weight.image": 5,
+      "-weight.font": 15,
+      "+weight.font": 29,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 1143,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/carrieres/nos-metiers/technique-production",
+    "requestedUrl": "https://www.saint-gobain.com/fr/carrieres/nos-metiers/technique-production",
+    "timestamp": 1707568053028,
+    "ranks": {
+      "hundos": 12,
+      "performance": 40,
+      "accessibility": 17,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.98,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 368
+    },
+    "firstContentfulPaint": 2142.6245,
+    "firstMeaningfulPaint": 2142.6245,
+    "speedIndex": 4435.150467737585,
+    "largestContentfulPaint": 10818.984499999999,
+    "totalBlockingTime": 25,
+    "cumulativeLayoutShift": 0.005295801597155887,
+    "timeToInteractive": 8729.756999999998,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 80.287,
+    "weight": {
+      "summary": "56 requests • 2,2 MiB",
+      "total": 2321587,
+      "image": 1547025,
+      "imageCount": 28,
+      "script": 399945,
+      "scriptCount": 11,
+      "document": 47405,
+      "font": 106496,
+      "fontCount": 5,
+      "stylesheet": 177632,
+      "stylesheetCount": 2,
+      "thirdParty": 275144,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 5,
+      "-weight.document": 44,
+      "+weight.document": 6,
+      "-weight.script": 41,
+      "+weight.script": 9,
+      "-weight.image": 46,
+      "+weight.image": 4,
+      "-weight.font": 8,
+      "+weight.font": 36,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 898,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/4-projets-iconiques-presentation",
+    "requestedUrl": "https://www.saint-gobain.com/fr/4-projets-iconiques-presentation",
+    "timestamp": 1707567970255,
+    "ranks": {
+      "hundos": 13,
+      "performance": 20,
+      "accessibility": 12,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 366
+    },
+    "firstContentfulPaint": 2011.4565,
+    "firstMeaningfulPaint": 2011.4565,
+    "speedIndex": 3232.875611748103,
+    "largestContentfulPaint": 7261.543,
+    "totalBlockingTime": 130.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6516.284,
+    "maxPotentialFirstInputDelay": 154,
+    "timeToFirstByte": 76.30000000000001,
+    "weight": {
+      "summary": "47 requests • 851,1 KiB",
+      "total": 871577,
+      "image": 157331,
+      "imageCount": 19,
+      "script": 345622,
+      "scriptCount": 11,
+      "document": 41193,
+      "font": 106489,
+      "fontCount": 5,
+      "stylesheet": 177903,
+      "stylesheetCount": 2,
+      "thirdParty": 303819,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 37,
+      "-weight.document": 7,
+      "+weight.document": 43,
+      "-weight.script": 15,
+      "+weight.script": 35,
+      "-weight.image": 16,
+      "+weight.image": 34,
+      "-weight.font": 4,
+      "+weight.font": 40,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 635,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/saint-gobain-corporate-movie",
+    "requestedUrl": "https://www.saint-gobain.com/en/saint-gobain-corporate-movie",
+    "timestamp": 1707568188614,
+    "ranks": {
+      "hundos": 14,
+      "performance": 21,
+      "accessibility": 14,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 366
+    },
+    "firstContentfulPaint": 1987.113,
+    "firstMeaningfulPaint": 1987.113,
+    "speedIndex": 3263.4861218663705,
+    "largestContentfulPaint": 7148.493,
+    "totalBlockingTime": 133,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6481.297500000001,
+    "maxPotentialFirstInputDelay": 158,
+    "timeToFirstByte": 81.62700000000001,
+    "weight": {
+      "summary": "48 requests • 829,1 KiB",
+      "total": 848978,
+      "image": 140270,
+      "imageCount": 20,
+      "script": 342287,
+      "scriptCount": 11,
+      "document": 41001,
+      "font": 106513,
+      "fontCount": 5,
+      "stylesheet": 177762,
+      "stylesheetCount": 2,
+      "thirdParty": 283609,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 43,
+      "-weight.document": 6,
+      "+weight.document": 44,
+      "-weight.script": 12,
+      "+weight.script": 38,
+      "-weight.image": 9,
+      "+weight.image": 41,
+      "-weight.font": 13,
+      "+weight.font": 31,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 631,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/2024-nine-month-sales",
+    "requestedUrl": "https://www.saint-gobain.com/en/2024-nine-month-sales",
+    "timestamp": 1707567738769,
+    "ranks": {
+      "hundos": 15,
+      "performance": 18,
+      "accessibility": 13,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 366
+    },
+    "firstContentfulPaint": 1879.9825,
+    "firstMeaningfulPaint": 1879.9825,
+    "speedIndex": 3207.86919280889,
+    "largestContentfulPaint": 6622.7285,
+    "totalBlockingTime": 141.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6253.2775,
+    "maxPotentialFirstInputDelay": 162,
+    "timeToFirstByte": 91.765,
+    "weight": {
+      "summary": "48 requests • 816,3 KiB",
+      "total": 835892,
+      "image": 130504,
+      "imageCount": 20,
+      "script": 340428,
+      "scriptCount": 11,
+      "document": 40090,
+      "font": 106495,
+      "fontCount": 5,
+      "stylesheet": 177253,
+      "stylesheetCount": 2,
+      "thirdParty": 273222,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 49,
+      "-weight.document": 1,
+      "+weight.document": 49,
+      "-weight.script": 1,
+      "+weight.script": 49,
+      "-weight.image": 6,
+      "+weight.image": 44,
+      "-weight.font": 7,
+      "+weight.font": 37,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 631,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/corporate-responsibility/our-pillars/inclusive-growth",
+    "requestedUrl": "https://www.saint-gobain.com/en/corporate-responsibility/our-pillars/inclusive-growth",
+    "timestamp": 1707568082147,
+    "ranks": {
+      "hundos": 16,
+      "performance": 23,
+      "accessibility": 5,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 366
+    },
+    "firstContentfulPaint": 1998.101,
+    "firstMeaningfulPaint": 1998.101,
+    "speedIndex": 3508.0841243040213,
+    "largestContentfulPaint": 7114.048000000001,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6730.291,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 419.245,
+    "weight": {
+      "summary": "53 requests • 974,1 KiB",
+      "total": 997436,
+      "image": 267844,
+      "imageCount": 25,
+      "script": 360764,
+      "scriptCount": 11,
+      "document": 43436,
+      "font": 106543,
+      "fontCount": 5,
+      "stylesheet": 177707,
+      "stylesheetCount": 2,
+      "thirdParty": 273152,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 27,
+      "-weight.document": 28,
+      "+weight.document": 22,
+      "-weight.script": 32,
+      "+weight.script": 18,
+      "-weight.image": 29,
+      "+weight.image": 21,
+      "-weight.font": 21,
+      "+weight.font": 23,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 909,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/multi-comfort-2020-project",
+    "requestedUrl": "https://www.saint-gobain.com/en/multi-comfort-2020-project",
+    "timestamp": 1707568646379,
+    "ranks": {
+      "hundos": 17,
+      "performance": 5,
+      "accessibility": 26,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.92,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.78,
+      "total": 365
+    },
+    "firstContentfulPaint": 2001.7154999999996,
+    "firstMeaningfulPaint": 2001.7154999999996,
+    "speedIndex": 2825.6881732244515,
+    "largestContentfulPaint": 2980.3955,
+    "totalBlockingTime": 33,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6632.5275,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 85.08500000000001,
+    "weight": {
+      "summary": "52 requests • 1,9 MiB",
+      "total": 1998647,
+      "image": 1279471,
+      "imageCount": 24,
+      "script": 352307,
+      "scriptCount": 11,
+      "document": 41411,
+      "font": 106591,
+      "fontCount": 5,
+      "stylesheet": 177734,
+      "stylesheetCount": 2,
+      "thirdParty": 273186,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 7,
+      "-weight.document": 13,
+      "+weight.document": 37,
+      "-weight.script": 27,
+      "+weight.script": 23,
+      "-weight.image": 44,
+      "+weight.image": 6,
+      "-weight.font": 24,
+      "+weight.font": 20,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 803,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/vie",
+    "requestedUrl": "https://www.saint-gobain.com/en/vie",
+    "timestamp": 1707567638816,
+    "ranks": {
+      "hundos": 18,
+      "performance": 17,
+      "accessibility": 20,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.98,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 364
+    },
+    "firstContentfulPaint": 1994.692,
+    "firstMeaningfulPaint": 2237.192,
+    "speedIndex": 3124.629774809219,
+    "largestContentfulPaint": 7404.755499999999,
+    "totalBlockingTime": 130,
+    "cumulativeLayoutShift": 0.006450336542507408,
+    "timeToInteractive": 6721.951999999999,
+    "maxPotentialFirstInputDelay": 151,
+    "timeToFirstByte": 156.156,
+    "weight": {
+      "summary": "51 requests • 967,2 KiB",
+      "total": 990384,
+      "image": 263288,
+      "imageCount": 23,
+      "script": 354625,
+      "scriptCount": 11,
+      "document": 46435,
+      "font": 106542,
+      "fontCount": 5,
+      "stylesheet": 178352,
+      "stylesheetCount": 2,
+      "thirdParty": 275561,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 28,
+      "-weight.document": 39,
+      "+weight.document": 11,
+      "-weight.script": 29,
+      "+weight.script": 21,
+      "-weight.image": 28,
+      "+weight.image": 22,
+      "-weight.font": 20,
+      "+weight.font": 24,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 993,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/mesaint-gobain-les-collaborateurs-prennent-la-parole",
+    "requestedUrl": "https://www.saint-gobain.com/fr/mesaint-gobain-les-collaborateurs-prennent-la-parole",
+    "timestamp": 1707567498804,
+    "ranks": {
+      "hundos": 19,
+      "performance": 13,
+      "accessibility": 27,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 363
+    },
+    "firstContentfulPaint": 2008.0294999999996,
+    "firstMeaningfulPaint": 2008.0294999999996,
+    "speedIndex": 2994.4685027099995,
+    "largestContentfulPaint": 6575.989,
+    "totalBlockingTime": 29,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6207.723,
+    "maxPotentialFirstInputDelay": 156,
+    "timeToFirstByte": 101.229,
+    "weight": {
+      "summary": "48 requests • 836,6 KiB",
+      "total": 856663,
+      "image": 142719,
+      "imageCount": 20,
+      "script": 345310,
+      "scriptCount": 11,
+      "document": 41774,
+      "font": 106504,
+      "fontCount": 5,
+      "stylesheet": 177278,
+      "stylesheetCount": 2,
+      "thirdParty": 275123,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 41,
+      "-weight.document": 18,
+      "+weight.document": 32,
+      "-weight.script": 13,
+      "+weight.script": 37,
+      "-weight.image": 10,
+      "+weight.image": 40,
+      "-weight.font": 9,
+      "+weight.font": 35,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 713,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/margot-boulet",
+    "requestedUrl": "https://www.saint-gobain.com/en/margot-boulet",
+    "timestamp": 1707568683875,
+    "ranks": {
+      "hundos": 20,
+      "performance": 10,
+      "accessibility": 18,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.98,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 361
+    },
+    "firstContentfulPaint": 1983.638,
+    "firstMeaningfulPaint": 1983.638,
+    "speedIndex": 3419.7341803029312,
+    "largestContentfulPaint": 5627.6179999999995,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 7003.058999999999,
+    "maxPotentialFirstInputDelay": 158,
+    "timeToFirstByte": 29.235,
+    "weight": {
+      "summary": "49 requests • 1,1 MiB",
+      "total": 1105406,
+      "image": 397100,
+      "imageCount": 21,
+      "script": 341676,
+      "scriptCount": 11,
+      "document": 41625,
+      "font": 106594,
+      "fontCount": 5,
+      "stylesheet": 177264,
+      "stylesheetCount": 2,
+      "thirdParty": 273220,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 24,
+      "-weight.document": 15,
+      "+weight.document": 35,
+      "-weight.script": 10,
+      "+weight.script": 40,
+      "-weight.image": 31,
+      "+weight.image": 19,
+      "-weight.font": 25,
+      "+weight.font": 19,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 692,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/finance/information-reglementee/communique-relatif-aux-honoraires-des-commissaires-aux-comptes",
+    "requestedUrl": "https://www.saint-gobain.com/fr/finance/information-reglementee/communique-relatif-aux-honoraires-des-commissaires-aux-comptes",
+    "timestamp": 1707567397146,
+    "ranks": {
+      "hundos": 21,
+      "performance": 31,
+      "accessibility": 21,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 360
+    },
+    "firstContentfulPaint": 1980.772,
+    "firstMeaningfulPaint": 1980.772,
+    "speedIndex": 2998.133560261053,
+    "largestContentfulPaint": 6558.6375,
+    "totalBlockingTime": 152.5,
+    "cumulativeLayoutShift": 0.09436442934394776,
+    "timeToInteractive": 6326.607,
+    "maxPotentialFirstInputDelay": 166,
+    "timeToFirstByte": 165.68699999999998,
+    "weight": {
+      "summary": "47 requests • 823,5 KiB",
+      "total": 843267,
+      "image": 128968,
+      "imageCount": 19,
+      "script": 345646,
+      "scriptCount": 11,
+      "document": 41715,
+      "font": 106496,
+      "fontCount": 5,
+      "stylesheet": 177342,
+      "stylesheetCount": 2,
+      "thirdParty": 275183,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 46,
+      "-weight.document": 16,
+      "+weight.document": 34,
+      "-weight.script": 17,
+      "+weight.script": 33,
+      "-weight.image": 1,
+      "+weight.image": 49,
+      "-weight.font": 8,
+      "+weight.font": 36,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 786,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/individual-shareholders/dividend-briefly",
+    "requestedUrl": "https://www.saint-gobain.com/en/individual-shareholders/dividend-briefly",
+    "timestamp": 1707568421400,
+    "ranks": {
+      "hundos": 23,
+      "performance": 19,
+      "accessibility": 11,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 359
+    },
+    "firstContentfulPaint": 1847.4009999999998,
+    "firstMeaningfulPaint": 1847.4009999999998,
+    "speedIndex": 3222.7976667694948,
+    "largestContentfulPaint": 7041.896500000001,
+    "totalBlockingTime": 135.50000000000045,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6439.388500000001,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 113.88600000000001,
+    "weight": {
+      "summary": "47 requests • 879,3 KiB",
+      "total": 900420,
+      "image": 193638,
+      "imageCount": 19,
+      "script": 341219,
+      "scriptCount": 11,
+      "document": 40487,
+      "font": 106481,
+      "fontCount": 5,
+      "stylesheet": 177453,
+      "stylesheetCount": 2,
+      "thirdParty": 273191,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 35,
+      "-weight.document": 4,
+      "+weight.document": 46,
+      "-weight.script": 6,
+      "+weight.script": 44,
+      "-weight.image": 21,
+      "+weight.image": 29,
+      "-weight.font": 2,
+      "+weight.font": 42,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 648,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en",
+    "requestedUrl": "https://www.saint-gobain.com/en",
+    "timestamp": 1707567224343,
+    "ranks": {
+      "hundos": 22,
+      "performance": 38,
+      "accessibility": 24,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 359
+    },
+    "firstContentfulPaint": 1987.3410000000001,
+    "firstMeaningfulPaint": 1987.3410000000001,
+    "speedIndex": 3116.639093170387,
+    "largestContentfulPaint": 9450.497499999996,
+    "totalBlockingTime": 199,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 8086.806999999999,
+    "maxPotentialFirstInputDelay": 154,
+    "timeToFirstByte": 88.236,
+    "weight": {
+      "summary": "86 requests • 4,7 MiB",
+      "total": 4910043,
+      "image": 4170594,
+      "imageCount": 58,
+      "script": 360680,
+      "scriptCount": 11,
+      "document": 52793,
+      "font": 106509,
+      "fontCount": 5,
+      "stylesheet": 178335,
+      "stylesheetCount": 2,
+      "thirdParty": 666775,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 1,
+      "-weight.document": 45,
+      "+weight.document": 5,
+      "-weight.script": 31,
+      "+weight.script": 19,
+      "-weight.image": 49,
+      "+weight.image": 1,
+      "-weight.font": 11,
+      "+weight.font": 33,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 1609,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/group/who-are-we",
+    "requestedUrl": "https://www.saint-gobain.com/en/group/who-are-we",
+    "timestamp": 1707568665525,
+    "ranks": {
+      "hundos": 26,
+      "performance": 24,
+      "accessibility": 7,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 358
+    },
+    "firstContentfulPaint": 2010.4205,
+    "firstMeaningfulPaint": 2010.4205000000002,
+    "speedIndex": 3211.844937025477,
+    "largestContentfulPaint": 7390.688500000001,
+    "totalBlockingTime": 130,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6793.65,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 97.59400000000001,
+    "weight": {
+      "summary": "55 requests • 928,5 KiB",
+      "total": 950752,
+      "image": 241413,
+      "imageCount": 27,
+      "script": 340794,
+      "scriptCount": 11,
+      "document": 42841,
+      "font": 106510,
+      "fontCount": 5,
+      "stylesheet": 178049,
+      "stylesheetCount": 2,
+      "thirdParty": 283656,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 33,
+      "-weight.document": 26,
+      "+weight.document": 24,
+      "-weight.script": 4,
+      "+weight.script": 46,
+      "-weight.image": 25,
+      "+weight.image": 25,
+      "-weight.font": 12,
+      "+weight.font": 32,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 759,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/our-solutions/solutions/our-markets/construction",
+    "requestedUrl": "https://www.saint-gobain.com/en/our-solutions/solutions/our-markets/construction",
+    "timestamp": 1707568119659,
+    "ranks": {
+      "hundos": 27,
+      "performance": 27,
+      "accessibility": 4,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 358
+    },
+    "firstContentfulPaint": 2005.49,
+    "firstMeaningfulPaint": 2005.49,
+    "speedIndex": 3393.124988892661,
+    "largestContentfulPaint": 7329.093,
+    "totalBlockingTime": 139.00000000000023,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6659.8189999999995,
+    "maxPotentialFirstInputDelay": 159.99999999999977,
+    "timeToFirstByte": 233.969,
+    "weight": {
+      "summary": "51 requests • 938,5 KiB",
+      "total": 961025,
+      "image": 238474,
+      "imageCount": 23,
+      "script": 351663,
+      "scriptCount": 11,
+      "document": 45618,
+      "font": 106531,
+      "fontCount": 5,
+      "stylesheet": 177603,
+      "stylesheetCount": 2,
+      "thirdParty": 273188,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 32,
+      "-weight.document": 38,
+      "+weight.document": 12,
+      "-weight.script": 24,
+      "+weight.script": 26,
+      "-weight.image": 23,
+      "+weight.image": 27,
+      "-weight.font": 18,
+      "+weight.font": 26,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 966,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/ludvy-vaillant",
+    "requestedUrl": "https://www.saint-gobain.com/en/ludvy-vaillant",
+    "timestamp": 1707568693330,
+    "ranks": {
+      "hundos": 25,
+      "performance": 15,
+      "accessibility": 19,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.98,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 358
+    },
+    "firstContentfulPaint": 1993.2060000000001,
+    "firstMeaningfulPaint": 1993.2060000000001,
+    "speedIndex": 3416.5970433476296,
+    "largestContentfulPaint": 6979.825000000001,
+    "totalBlockingTime": 31,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 7000.069,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 111.12800000000001,
+    "weight": {
+      "summary": "49 requests • 1,1 MiB",
+      "total": 1119768,
+      "image": 411908,
+      "imageCount": 21,
+      "script": 341527,
+      "scriptCount": 11,
+      "document": 41324,
+      "font": 106558,
+      "fontCount": 5,
+      "stylesheet": 177311,
+      "stylesheetCount": 2,
+      "thirdParty": 273197,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 23,
+      "-weight.document": 11,
+      "+weight.document": 39,
+      "-weight.script": 9,
+      "+weight.script": 41,
+      "-weight.image": 32,
+      "+weight.image": 18,
+      "-weight.font": 23,
+      "+weight.font": 21,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 678,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/magazine/stories",
+    "requestedUrl": "https://www.saint-gobain.com/fr/magazine/stories",
+    "timestamp": 1707568530571,
+    "ranks": {
+      "hundos": 24,
+      "performance": 29,
+      "accessibility": 36,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 358
+    },
+    "firstContentfulPaint": 2002.809,
+    "firstMeaningfulPaint": 2240.809,
+    "speedIndex": 3872.825919836948,
+    "largestContentfulPaint": 9802.0275,
+    "totalBlockingTime": 27.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 8013.275500000001,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 31.335,
+    "weight": {
+      "summary": "56 requests • 1,9 MiB",
+      "total": 1967938,
+      "image": 1235039,
+      "imageCount": 28,
+      "script": 362929,
+      "scriptCount": 11,
+      "document": 42988,
+      "font": 106628,
+      "fontCount": 5,
+      "stylesheet": 177270,
+      "stylesheetCount": 2,
+      "thirdParty": 275135,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 8,
+      "-weight.document": 27,
+      "+weight.document": 23,
+      "-weight.script": 35,
+      "+weight.script": 15,
+      "-weight.image": 43,
+      "+weight.image": 7,
+      "-weight.font": 29,
+      "+weight.font": 15,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 863,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/finance/financial-results",
+    "requestedUrl": "https://www.saint-gobain.com/en/finance/financial-results",
+    "timestamp": 1707567329834,
+    "ranks": {
+      "hundos": 28,
+      "performance": 32,
+      "accessibility": 1,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 1,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 357
+    },
+    "firstContentfulPaint": 2042.925,
+    "firstMeaningfulPaint": 2042.925,
+    "speedIndex": 3601.991289555396,
+    "largestContentfulPaint": 7619.225,
+    "totalBlockingTime": 148.50000000000023,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6779.259000000001,
+    "maxPotentialFirstInputDelay": 155.00000000000023,
+    "timeToFirstByte": 151.02100000000002,
+    "weight": {
+      "summary": "49 requests • 943,5 KiB",
+      "total": 966100,
+      "image": 243706,
+      "imageCount": 21,
+      "script": 351722,
+      "scriptCount": 11,
+      "document": 44879,
+      "font": 106755,
+      "fontCount": 5,
+      "stylesheet": 177885,
+      "stylesheetCount": 2,
+      "thirdParty": 273209,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 31,
+      "-weight.document": 35,
+      "+weight.document": 15,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 24,
+      "-weight.font": 37,
+      "+weight.font": 7,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 2537,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/stock-dividend-payment-procedure-0",
+    "requestedUrl": "https://www.saint-gobain.com/en/stock-dividend-payment-procedure-0",
+    "timestamp": 1707568412236,
+    "ranks": {
+      "hundos": 30,
+      "performance": 14,
+      "accessibility": 25,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 356
+    },
+    "firstContentfulPaint": 2026.8635,
+    "firstMeaningfulPaint": 2026.8635,
+    "speedIndex": 3065.143444904274,
+    "largestContentfulPaint": 6657.5995,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6221.5995,
+    "maxPotentialFirstInputDelay": 154,
+    "timeToFirstByte": 79.11,
+    "weight": {
+      "summary": "48 requests • 819,0 KiB",
+      "total": 838655,
+      "image": 130461,
+      "imageCount": 20,
+      "script": 341950,
+      "scriptCount": 11,
+      "document": 41320,
+      "font": 106493,
+      "fontCount": 5,
+      "stylesheet": 177281,
+      "stylesheetCount": 2,
+      "thirdParty": 273211,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 47,
+      "-weight.document": 10,
+      "+weight.document": 40,
+      "-weight.script": 11,
+      "+weight.script": 39,
+      "-weight.image": 5,
+      "+weight.image": 45,
+      "-weight.font": 6,
+      "+weight.font": 38,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 696,
+      "violations": 0
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/insights",
+    "requestedUrl": "https://www.saint-gobain.com/fr/insights",
+    "timestamp": 1707568239488,
+    "ranks": {
+      "hundos": 29,
+      "performance": 28,
+      "accessibility": 45,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.91,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 356
+    },
+    "firstContentfulPaint": 2185.256,
+    "firstMeaningfulPaint": 2185.256,
+    "speedIndex": 3671.670691447121,
+    "largestContentfulPaint": 8972.7515,
+    "totalBlockingTime": 29,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 7676.95,
+    "maxPotentialFirstInputDelay": 158.00000000000023,
+    "timeToFirstByte": 36.191,
+    "weight": {
+      "summary": "65 requests • 2,6 MiB",
+      "total": 2746511,
+      "image": 2010152,
+      "imageCount": 37,
+      "script": 364352,
+      "scriptCount": 11,
+      "document": 44466,
+      "font": 106752,
+      "fontCount": 5,
+      "stylesheet": 177720,
+      "stylesheetCount": 2,
+      "thirdParty": 337057,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 3,
+      "-weight.document": 31,
+      "+weight.document": 19,
+      "-weight.script": 36,
+      "+weight.script": 14,
+      "-weight.image": 48,
+      "+weight.image": 2,
+      "-weight.font": 36,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 1112,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/finance/saint-gobain-figures",
+    "requestedUrl": "https://www.saint-gobain.com/en/finance/saint-gobain-figures",
+    "timestamp": 1707567873823,
+    "ranks": {
+      "hundos": 31,
+      "performance": 42,
+      "accessibility": 32,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 356
+    },
+    "firstContentfulPaint": 1847.2220000000002,
+    "firstMeaningfulPaint": 1847.2220000000002,
+    "speedIndex": 3018.0926638022283,
+    "largestContentfulPaint": 6654.677,
+    "totalBlockingTime": 260,
+    "cumulativeLayoutShift": 0.09491179997181104,
+    "timeToInteractive": 6289.245,
+    "maxPotentialFirstInputDelay": 167,
+    "timeToFirstByte": 78.64700000000002,
+    "weight": {
+      "summary": "47 requests • 817,4 KiB",
+      "total": 836997,
+      "image": 130055,
+      "imageCount": 19,
+      "script": 341503,
+      "scriptCount": 11,
+      "document": 40482,
+      "font": 106668,
+      "fontCount": 5,
+      "stylesheet": 177140,
+      "stylesheetCount": 2,
+      "thirdParty": 273208,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 48,
+      "-weight.document": 3,
+      "+weight.document": 47,
+      "-weight.script": 8,
+      "+weight.script": 42,
+      "-weight.image": 4,
+      "+weight.image": 46,
+      "-weight.font": 33,
+      "+weight.font": 11,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 612,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/careers-contact",
+    "requestedUrl": "https://www.saint-gobain.com/en/careers-contact",
+    "timestamp": 1707567864649,
+    "ranks": {
+      "hundos": 32,
+      "performance": 41,
+      "accessibility": 43,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 355
+    },
+    "firstContentfulPaint": 1875.737,
+    "firstMeaningfulPaint": 1875.737,
+    "speedIndex": 4182.238274557711,
+    "largestContentfulPaint": 9737.213499999998,
+    "totalBlockingTime": 187.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 9127.0365,
+    "maxPotentialFirstInputDelay": 156,
+    "timeToFirstByte": 149.099,
+    "weight": {
+      "summary": "67 requests • 1,1 MiB",
+      "total": 1180832,
+      "image": 178186,
+      "imageCount": 26,
+      "script": 566435,
+      "scriptCount": 16,
+      "document": 74131,
+      "font": 117781,
+      "fontCount": 7,
+      "stylesheet": 203011,
+      "stylesheetCount": 4,
+      "thirdParty": 550908,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 21,
+      "-weight.document": 46,
+      "+weight.document": 4,
+      "-weight.script": 47,
+      "+weight.script": 3,
+      "-weight.image": 18,
+      "+weight.image": 32,
+      "-weight.font": 38,
+      "+weight.font": 6,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 932,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/finance/information-reglementee/information-trimestrielle",
+    "requestedUrl": "https://www.saint-gobain.com/fr/finance/information-reglementee/information-trimestrielle",
+    "timestamp": 1707567406766,
+    "ranks": {
+      "hundos": 33,
+      "performance": 39,
+      "accessibility": 29,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.9,
+      "total": 355
+    },
+    "firstContentfulPaint": 1994.245,
+    "firstMeaningfulPaint": 1994.245,
+    "speedIndex": 3355.5955826542586,
+    "largestContentfulPaint": 6777.771000000002,
+    "totalBlockingTime": 164.5,
+    "cumulativeLayoutShift": 0.0954270591737646,
+    "timeToInteractive": 6344.975500000001,
+    "maxPotentialFirstInputDelay": 177,
+    "timeToFirstByte": 198.348,
+    "weight": {
+      "summary": "48 requests • 823,6 KiB",
+      "total": 843355,
+      "image": 129712,
+      "imageCount": 20,
+      "script": 345632,
+      "scriptCount": 11,
+      "document": 41294,
+      "font": 106473,
+      "fontCount": 5,
+      "stylesheet": 177164,
+      "stylesheetCount": 2,
+      "thirdParty": 275131,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 45,
+      "-weight.document": 9,
+      "+weight.document": 41,
+      "-weight.script": 16,
+      "+weight.script": 34,
+      "-weight.image": 3,
+      "+weight.image": 47,
+      "-weight.font": 1,
+      "+weight.font": 43,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 784,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/sustainability/our-responsibility",
+    "requestedUrl": "https://www.saint-gobain.com/en/sustainability/our-responsibility",
+    "timestamp": 1707567266762,
+    "ranks": {
+      "hundos": 35,
+      "performance": 43,
+      "accessibility": 16,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.98,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 352
+    },
+    "firstContentfulPaint": 2040.5020000000004,
+    "firstMeaningfulPaint": 2040.5020000000004,
+    "speedIndex": 5896.55838486468,
+    "largestContentfulPaint": 8620.138,
+    "totalBlockingTime": 35.5,
+    "cumulativeLayoutShift": 0.015423804814591043,
+    "timeToInteractive": 7350.333,
+    "maxPotentialFirstInputDelay": 152,
+    "timeToFirstByte": 1771.578,
+    "weight": {
+      "summary": "67 requests • 1,5 MiB",
+      "total": 1598022,
+      "image": 881831,
+      "imageCount": 39,
+      "script": 348947,
+      "scriptCount": 11,
+      "document": 42249,
+      "font": 106703,
+      "fontCount": 5,
+      "stylesheet": 177158,
+      "stylesheetCount": 2,
+      "thirdParty": 273170,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 11,
+      "-weight.document": 23,
+      "+weight.document": 27,
+      "-weight.script": 20,
+      "+weight.script": 30,
+      "-weight.image": 41,
+      "+weight.image": 9,
+      "-weight.font": 35,
+      "+weight.font": 9,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 1033,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/la-rd-moteur-de-linnovation",
+    "requestedUrl": "https://www.saint-gobain.com/en/la-rd-moteur-de-linnovation",
+    "timestamp": 1707568596712,
+    "ranks": {
+      "hundos": 34,
+      "performance": 22,
+      "accessibility": 35,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.94,
+      "bestPractices": 1,
+      "seo": 0.85,
+      "total": 352
+    },
+    "firstContentfulPaint": 2020.6779999999999,
+    "firstMeaningfulPaint": 2020.6779999999999,
+    "speedIndex": 3367.0041163949863,
+    "largestContentfulPaint": 8426.6475,
+    "totalBlockingTime": 37.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 7151.431,
+    "maxPotentialFirstInputDelay": 159,
+    "timeToFirstByte": 88.148,
+    "weight": {
+      "summary": "51 requests • 1,5 MiB",
+      "total": 1594323,
+      "image": 874764,
+      "imageCount": 23,
+      "script": 352476,
+      "scriptCount": 11,
+      "document": 41771,
+      "font": 106603,
+      "fontCount": 5,
+      "stylesheet": 177609,
+      "stylesheetCount": 2,
+      "thirdParty": 273155,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 12,
+      "-weight.document": 17,
+      "+weight.document": 33,
+      "-weight.script": 28,
+      "+weight.script": 22,
+      "-weight.image": 40,
+      "+weight.image": 10,
+      "-weight.font": 26,
+      "+weight.font": 18,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 805,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/finance/information-reglementee",
+    "requestedUrl": "https://www.saint-gobain.com/fr/finance/information-reglementee",
+    "timestamp": 1707567883164,
+    "ranks": {
+      "hundos": 36,
+      "performance": 37,
+      "accessibility": 46,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.91,
+      "bestPractices": 1,
+      "seo": 0.9,
+      "total": 351
+    },
+    "firstContentfulPaint": 1997.9985,
+    "firstMeaningfulPaint": 1997.9985,
+    "speedIndex": 3087.9392252554685,
+    "largestContentfulPaint": 6931.1275000000005,
+    "totalBlockingTime": 155,
+    "cumulativeLayoutShift": 0.09491179997181104,
+    "timeToInteractive": 6419.2675,
+    "maxPotentialFirstInputDelay": 167,
+    "timeToFirstByte": 95.691,
+    "weight": {
+      "summary": "48 requests • 849,1 KiB",
+      "total": 869454,
+      "image": 155052,
+      "imageCount": 20,
+      "script": 345916,
+      "scriptCount": 11,
+      "document": 41466,
+      "font": 106643,
+      "fontCount": 5,
+      "stylesheet": 177300,
+      "stylesheetCount": 2,
+      "thirdParty": 275129,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 38,
+      "-weight.document": 14,
+      "+weight.document": 36,
+      "-weight.script": 18,
+      "+weight.script": 32,
+      "-weight.image": 15,
+      "+weight.image": 35,
+      "-weight.font": 30,
+      "+weight.font": 14,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 685,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/magazine/stories/la-construction-legere-est-elle-lavenir-de-lhabitat-abordable",
+    "requestedUrl": "https://www.saint-gobain.com/en/magazine/stories/la-construction-legere-est-elle-lavenir-de-lhabitat-abordable",
+    "timestamp": 1707568169954,
+    "ranks": {
+      "hundos": 37,
+      "performance": 25,
+      "accessibility": 39,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 351
+    },
+    "firstContentfulPaint": 1993.1860000000001,
+    "firstMeaningfulPaint": 1993.1860000000001,
+    "speedIndex": 3220.577878429004,
+    "largestContentfulPaint": 7223.665000000001,
+    "totalBlockingTime": 140.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 6551.6759999999995,
+    "maxPotentialFirstInputDelay": 155,
+    "timeToFirstByte": 153.724,
+    "weight": {
+      "summary": "49 requests • 880,6 KiB",
+      "total": 901764,
+      "image": 178765,
+      "imageCount": 21,
+      "script": 351897,
+      "scriptCount": 11,
+      "document": 45480,
+      "font": 106653,
+      "fontCount": 5,
+      "stylesheet": 177820,
+      "stylesheetCount": 2,
+      "thirdParty": 273201,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 34,
+      "-weight.document": 37,
+      "+weight.document": 13,
+      "-weight.script": 26,
+      "+weight.script": 24,
+      "-weight.image": 19,
+      "+weight.image": 31,
+      "-weight.font": 32,
+      "+weight.font": 12,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 913,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/our-foundation-our-philanthropic-actions",
+    "requestedUrl": "https://www.saint-gobain.com/en/our-foundation-our-philanthropic-actions",
+    "timestamp": 1707568272775,
+    "ranks": {
+      "hundos": 38,
+      "performance": 30,
+      "accessibility": 31,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.85,
+      "total": 351
+    },
+    "firstContentfulPaint": 2033.219,
+    "firstMeaningfulPaint": 2033.219,
+    "speedIndex": 2918.0044028115835,
+    "largestContentfulPaint": 7799.031,
+    "totalBlockingTime": 197.5,
+    "cumulativeLayoutShift": 0.02702838177033097,
+    "timeToInteractive": 7129.407,
+    "maxPotentialFirstInputDelay": 153,
+    "timeToFirstByte": 272.97299999999996,
+    "weight": {
+      "summary": "66 requests • 2,4 MiB",
+      "total": 2489925,
+      "image": 1712124,
+      "imageCount": 36,
+      "script": 407536,
+      "scriptCount": 13,
+      "document": 44845,
+      "font": 106491,
+      "fontCount": 5,
+      "stylesheet": 177780,
+      "stylesheetCount": 2,
+      "thirdParty": 273202,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 4,
+      "-weight.document": 34,
+      "+weight.document": 16,
+      "-weight.script": 43,
+      "+weight.script": 7,
+      "-weight.image": 47,
+      "+weight.image": 3,
+      "-weight.font": 5,
+      "+weight.font": 39,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 1013,
+      "violations": 3
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/magazine/le-pouvoir-cache-des-materiaux-podcasts/comment-recentrer-nos-batiments-sur-le-bien-vivre",
+    "requestedUrl": "https://www.saint-gobain.com/fr/magazine/le-pouvoir-cache-des-materiaux-podcasts/comment-recentrer-nos-batiments-sur-le-bien-vivre",
+    "timestamp": 1707567540443,
+    "ranks": {
+      "hundos": 39,
+      "performance": 46,
+      "accessibility": 47,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.91,
+      "bestPractices": 1,
+      "seo": 1,
+      "total": 351
+    },
+    "firstContentfulPaint": 2465.55,
+    "firstMeaningfulPaint": 2465.55,
+    "speedIndex": 3520.6626605200536,
+    "largestContentfulPaint": 9002.656500000001,
+    "totalBlockingTime": 421.49999999999955,
+    "cumulativeLayoutShift": 0.0002068137631954586,
+    "timeToInteractive": 9460.780499999999,
+    "maxPotentialFirstInputDelay": 280.99999999999955,
+    "timeToFirstByte": 142.579,
+    "weight": {
+      "summary": "59 requests • 1,1 MiB",
+      "total": 1184709,
+      "image": 190977,
+      "imageCount": 22,
+      "script": 554936,
+      "scriptCount": 13,
+      "document": 44288,
+      "font": 159597,
+      "fontCount": 8,
+      "stylesheet": 178477,
+      "stylesheetCount": 3,
+      "thirdParty": 618299,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 19,
+      "-weight.document": 30,
+      "+weight.document": 20,
+      "-weight.script": 44,
+      "+weight.script": 6,
+      "-weight.image": 20,
+      "+weight.image": 30,
+      "-weight.font": 39,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 753,
+      "violations": 5
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/space-love-will-space-materials-save-our-lives-earth-podcast",
+    "requestedUrl": "https://www.saint-gobain.com/en/space-love-will-space-materials-save-our-lives-earth-podcast",
+    "timestamp": 1707567508948,
+    "ranks": {
+      "hundos": 40,
+      "performance": 11,
+      "accessibility": 49,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.76,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 351
+    },
+    "firstContentfulPaint": 2450.7529999999997,
+    "firstMeaningfulPaint": 2450.7529999999997,
+    "speedIndex": 4286.601650162567,
+    "largestContentfulPaint": 3416.8489999999997,
+    "totalBlockingTime": 407,
+    "cumulativeLayoutShift": 0.020731575183372687,
+    "timeToInteractive": 9774.097999999998,
+    "maxPotentialFirstInputDelay": 274,
+    "timeToFirstByte": 155.353,
+    "weight": {
+      "summary": "60 requests • 1,6 MiB",
+      "total": 1665040,
+      "image": 669466,
+      "imageCount": 23,
+      "script": 559819,
+      "scriptCount": 13,
+      "document": 44534,
+      "font": 159663,
+      "fontCount": 8,
+      "stylesheet": 178469,
+      "stylesheetCount": 3,
+      "thirdParty": 1067961,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 10,
+      "-weight.document": 32,
+      "+weight.document": 18,
+      "-weight.script": 45,
+      "+weight.script": 5,
+      "-weight.image": 37,
+      "+weight.image": 13,
+      "-weight.font": 40,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 793,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/finance/bourse/saint-gobains-share-price-charts/graph-over-3-years",
+    "requestedUrl": "https://www.saint-gobain.com/en/finance/bourse/saint-gobains-share-price-charts/graph-over-3-years",
+    "timestamp": 1707567854503,
+    "ranks": {
+      "hundos": 43,
+      "performance": 44,
+      "accessibility": 37,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 346
+    },
+    "firstContentfulPaint": 2011.8260000000002,
+    "firstMeaningfulPaint": 2011.8260000000002,
+    "speedIndex": 3596.693277471645,
+    "largestContentfulPaint": 6576.3105,
+    "totalBlockingTime": 263,
+    "cumulativeLayoutShift": 0.09547356537680625,
+    "timeToInteractive": 6968.821,
+    "maxPotentialFirstInputDelay": 172,
+    "timeToFirstByte": 35.980000000000004,
+    "weight": {
+      "summary": "69 requests • 949,7 KiB",
+      "total": 972532,
+      "image": 135437,
+      "imageCount": 24,
+      "script": 387599,
+      "scriptCount": 25,
+      "document": 124689,
+      "font": 106504,
+      "fontCount": 5,
+      "stylesheet": 177157,
+      "stylesheetCount": 2,
+      "thirdParty": 273221,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 30,
+      "-weight.document": 48,
+      "+weight.document": 2,
+      "-weight.script": 40,
+      "+weight.script": 10,
+      "-weight.image": 7,
+      "+weight.image": 43,
+      "-weight.font": 9,
+      "+weight.font": 35,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 710,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/future-mobility",
+    "requestedUrl": "https://www.saint-gobain.com/fr/future-mobility",
+    "timestamp": 1707568292262,
+    "ranks": {
+      "hundos": 41,
+      "performance": 35,
+      "accessibility": 41,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.93,
+      "bestPractices": 0.96,
+      "seo": 0.86,
+      "total": 346
+    },
+    "firstContentfulPaint": 2003.9569999999999,
+    "firstMeaningfulPaint": 2003.9569999999999,
+    "speedIndex": 4062.1130957812325,
+    "largestContentfulPaint": 10118.196499999996,
+    "totalBlockingTime": 23.5,
+    "cumulativeLayoutShift": 0.0031184741974856207,
+    "timeToInteractive": 8022.640999999999,
+    "maxPotentialFirstInputDelay": 153,
+    "timeToFirstByte": 40.766999999999996,
+    "weight": {
+      "summary": "54 requests • 1,5 MiB",
+      "total": 1545177,
+      "image": 809999,
+      "imageCount": 26,
+      "script": 366003,
+      "scriptCount": 11,
+      "document": 41800,
+      "font": 106516,
+      "fontCount": 5,
+      "stylesheet": 177791,
+      "stylesheetCount": 2,
+      "thirdParty": 275142,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 13,
+      "-weight.document": 19,
+      "+weight.document": 31,
+      "-weight.script": 37,
+      "+weight.script": 13,
+      "-weight.image": 39,
+      "+weight.image": 11,
+      "-weight.font": 14,
+      "+weight.font": 30,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 773,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/future-sustainability",
+    "requestedUrl": "https://www.saint-gobain.com/en/future-sustainability",
+    "timestamp": 1707567759471,
+    "ranks": {
+      "hundos": 42,
+      "performance": 34,
+      "accessibility": 44,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.93,
+      "bestPractices": 0.96,
+      "seo": 0.86,
+      "total": 346
+    },
+    "firstContentfulPaint": 2057.188,
+    "firstMeaningfulPaint": 2057.188,
+    "speedIndex": 3933.0182882844397,
+    "largestContentfulPaint": 9651.865500000002,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.0033853706378109663,
+    "timeToInteractive": 7926.9975,
+    "maxPotentialFirstInputDelay": 154,
+    "timeToFirstByte": 79.28099999999999,
+    "weight": {
+      "summary": "59 requests • 1,4 MiB",
+      "total": 1480175,
+      "image": 751597,
+      "imageCount": 31,
+      "script": 361182,
+      "scriptCount": 11,
+      "document": 41969,
+      "font": 106648,
+      "fontCount": 5,
+      "stylesheet": 177636,
+      "stylesheetCount": 2,
+      "thirdParty": 273198,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 14,
+      "-weight.document": 21,
+      "+weight.document": 29,
+      "-weight.script": 33,
+      "+weight.script": 17,
+      "-weight.image": 38,
+      "+weight.image": 12,
+      "-weight.font": 31,
+      "+weight.font": 13,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 854,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/bim-saint-gobain/personal-accounts-bim",
+    "requestedUrl": "https://www.saint-gobain.com/en/bim-saint-gobain/personal-accounts-bim",
+    "timestamp": 1707567660440,
+    "ranks": {
+      "hundos": 44,
+      "performance": 33,
+      "accessibility": 42,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.79,
+      "total": 343
+    },
+    "firstContentfulPaint": 2033.492,
+    "firstMeaningfulPaint": 2033.492,
+    "speedIndex": 3664.9569848736633,
+    "largestContentfulPaint": 8397.0805,
+    "totalBlockingTime": 154.49999999999977,
+    "cumulativeLayoutShift": 0.03300594466669171,
+    "timeToInteractive": 7302.8225,
+    "maxPotentialFirstInputDelay": 158.99999999999977,
+    "timeToFirstByte": 157.71599999999998,
+    "weight": {
+      "summary": "50 requests • 1,1 MiB",
+      "total": 1183103,
+      "image": 473315,
+      "imageCount": 22,
+      "script": 340572,
+      "scriptCount": 11,
+      "document": 44211,
+      "font": 106528,
+      "fontCount": 5,
+      "stylesheet": 177331,
+      "stylesheetCount": 2,
+      "thirdParty": 273200,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 20,
+      "-weight.document": 29,
+      "+weight.document": 21,
+      "-weight.script": 2,
+      "+weight.script": 48,
+      "-weight.image": 34,
+      "+weight.image": 16,
+      "-weight.font": 17,
+      "+weight.font": 27,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 774,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/careers/life-saint-gobain/inclusion-diversite",
+    "requestedUrl": "https://www.saint-gobain.com/en/careers/life-saint-gobain/inclusion-diversite",
+    "timestamp": 1707567580474,
+    "ranks": {
+      "hundos": 45,
+      "performance": 16,
+      "accessibility": 28,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.95,
+      "bestPractices": 0.96,
+      "seo": 0.79,
+      "total": 343
+    },
+    "firstContentfulPaint": 1915.0470000000005,
+    "firstMeaningfulPaint": 1915.0470000000005,
+    "speedIndex": 3023.7608503436727,
+    "largestContentfulPaint": 6880.8274999999985,
+    "totalBlockingTime": 133.5,
+    "cumulativeLayoutShift": 0.013487873921447046,
+    "timeToInteractive": 6360.812999999999,
+    "maxPotentialFirstInputDelay": 161,
+    "timeToFirstByte": 175.61599999999999,
+    "weight": {
+      "summary": "47 requests • 839,0 KiB",
+      "total": 859102,
+      "image": 144345,
+      "imageCount": 19,
+      "script": 349705,
+      "scriptCount": 11,
+      "document": 40189,
+      "font": 106536,
+      "fontCount": 5,
+      "stylesheet": 177172,
+      "stylesheetCount": 2,
+      "thirdParty": 273201,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 39,
+      "-weight.document": 2,
+      "+weight.document": 48,
+      "-weight.script": 22,
+      "+weight.script": 28,
+      "-weight.image": 12,
+      "+weight.image": 38,
+      "-weight.font": 19,
+      "+weight.font": 25,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 641,
+      "violations": 1
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/quiz-ca-existe-ou-pas",
+    "requestedUrl": "https://www.saint-gobain.com/fr/quiz-ca-existe-ou-pas",
+    "timestamp": 1707568452017,
+    "ranks": {
+      "hundos": 46,
+      "performance": 45,
+      "accessibility": 23,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.96,
+      "bestPractices": 0.78,
+      "seo": 1,
+      "total": 341
+    },
+    "firstContentfulPaint": 2301.0589999999993,
+    "firstMeaningfulPaint": 2301.0589999999993,
+    "speedIndex": 4289.133919684729,
+    "largestContentfulPaint": 10714.311999999998,
+    "totalBlockingTime": 208,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 10756.298999999999,
+    "maxPotentialFirstInputDelay": 168,
+    "timeToFirstByte": 92.24799999999999,
+    "weight": {
+      "summary": "67 requests • 1,3 MiB",
+      "total": 1324416,
+      "image": 172133,
+      "imageCount": 20,
+      "script": 596449,
+      "scriptCount": 16,
+      "document": 41931,
+      "font": 277789,
+      "fontCount": 15,
+      "stylesheet": 186021,
+      "stylesheetCount": 3,
+      "thirdParty": 758243,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 15,
+      "-weight.document": 20,
+      "+weight.document": 30,
+      "-weight.script": 48,
+      "+weight.script": 2,
+      "-weight.image": 17,
+      "+weight.image": 33,
+      "-weight.font": 42,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 696,
+      "violations": 2
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/fr/magazine/le-pouvoir-cache-des-materiaux-podcasts/2050-quoi-ressemble-une-ville-100-circulaire-podcast",
+    "requestedUrl": "https://www.saint-gobain.com/fr/magazine/le-pouvoir-cache-des-materiaux-podcasts/2050-quoi-ressemble-une-ville-100-circulaire-podcast",
+    "timestamp": 1707567489680,
+    "ranks": {
+      "hundos": 47,
+      "performance": 48,
+      "accessibility": 48,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.93,
+      "total": 340
+    },
+    "firstContentfulPaint": 2344.0029999999997,
+    "firstMeaningfulPaint": 2344.0029999999997,
+    "speedIndex": 4884.858800066045,
+    "largestContentfulPaint": 9070.588499999998,
+    "totalBlockingTime": 445.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 9350.043499999998,
+    "maxPotentialFirstInputDelay": 302,
+    "timeToFirstByte": 622.6320000000001,
+    "weight": {
+      "summary": "67 requests • 1,2 MiB",
+      "total": 1226840,
+      "image": 224135,
+      "imageCount": 30,
+      "script": 563928,
+      "scriptCount": 13,
+      "document": 45295,
+      "font": 159741,
+      "fontCount": 8,
+      "stylesheet": 178549,
+      "stylesheetCount": 3,
+      "thirdParty": 623862,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 18,
+      "-weight.document": 36,
+      "+weight.document": 14,
+      "-weight.script": 46,
+      "+weight.script": 4,
+      "-weight.image": 22,
+      "+weight.image": 28,
+      "-weight.font": 41,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 811,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/finance/stock-information/saint-gobains-share-price-charts/graph-over-5-days",
+    "requestedUrl": "https://www.saint-gobain.com/en/finance/stock-information/saint-gobains-share-price-charts/graph-over-5-days",
+    "timestamp": 1707567345534,
+    "ranks": {
+      "hundos": 48,
+      "performance": 49,
+      "accessibility": 40,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.86,
+      "total": 337
+    },
+    "firstContentfulPaint": 2036.24,
+    "firstMeaningfulPaint": 2036.24,
+    "speedIndex": 7382.071737536495,
+    "largestContentfulPaint": 6799.718999999999,
+    "totalBlockingTime": 340.4999999999998,
+    "cumulativeLayoutShift": 0.0954270591737646,
+    "timeToInteractive": 7526.7945,
+    "maxPotentialFirstInputDelay": 167,
+    "timeToFirstByte": 1813.848,
+    "weight": {
+      "summary": "73 requests • 1,0 MiB",
+      "total": 1062659,
+      "image": 138549,
+      "imageCount": 27,
+      "script": 385101,
+      "scriptCount": 25,
+      "document": 213395,
+      "font": 106552,
+      "fontCount": 5,
+      "stylesheet": 177196,
+      "stylesheetCount": 2,
+      "thirdParty": 273194,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 26,
+      "-weight.document": 49,
+      "+weight.document": 1,
+      "-weight.script": 39,
+      "+weight.script": 11,
+      "-weight.image": 8,
+      "+weight.image": 42,
+      "-weight.font": 22,
+      "+weight.font": 22,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 760,
+      "violations": 4
+    }
+  },
+  {
+    "url": "https://www.saint-gobain.com/en/corporate-video",
+    "requestedUrl": "https://www.saint-gobain.com/en/corporate-video",
+    "timestamp": 1707568432879,
+    "ranks": {
+      "hundos": 49,
+      "performance": 47,
+      "accessibility": 15,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 1,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 323
+    },
+    "firstContentfulPaint": 1854.7444999999996,
+    "firstMeaningfulPaint": 1854.7444999999996,
+    "speedIndex": 8236.098106060412,
+    "largestContentfulPaint": 7192.518999999999,
+    "totalBlockingTime": 341.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 15254.805999999999,
+    "maxPotentialFirstInputDelay": 368,
+    "timeToFirstByte": 82.841,
+    "weight": {
+      "summary": "65 requests • 2,7 MiB",
+      "total": 2784600,
+      "image": 240170,
+      "imageCount": 21,
+      "script": 1758298,
+      "scriptCount": 14,
+      "document": 101233,
+      "font": 434274,
+      "fontCount": 7,
+      "stylesheet": 177272,
+      "stylesheetCount": 2,
+      "thirdParty": 2221914,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 2,
+      "-weight.document": 47,
+      "+weight.document": 3,
+      "-weight.script": 49,
+      "+weight.script": 1,
+      "-weight.image": 24,
+      "+weight.image": 26,
+      "-weight.font": 43,
+      "+weight.font": 1,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 737,
+      "violations": 8
+    }
+  }
+]

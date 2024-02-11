@@ -1,0 +1,2365 @@
+[
+  {
+    "url": "https://www.vivendi.com/footer/avertissement-concernant-les-declarations-prospectives/",
+    "requestedUrl": "https://www.vivendi.com/footer/avertissement-concernant-les-declarations-prospectives/",
+    "timestamp": 1707603489746,
+    "ranks": {
+      "hundos": 1,
+      "performance": 6,
+      "accessibility": 4,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.77,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 341
+    },
+    "firstContentfulPaint": 2791.335,
+    "firstMeaningfulPaint": 4038.115,
+    "speedIndex": 2791.335,
+    "largestContentfulPaint": 5119.496999999999,
+    "totalBlockingTime": 33.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4295.347,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 47.385,
+    "weight": {
+      "summary": "18 requests • 395,9 KiB",
+      "total": 405398,
+      "image": 2893,
+      "imageCount": 3,
+      "script": 187516,
+      "scriptCount": 5,
+      "document": 14450,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86372,
+      "stylesheetCount": 5,
+      "thirdParty": 117528,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 28,
+      "-weight.document": 10,
+      "+weight.document": 20,
+      "-weight.script": 9,
+      "+weight.script": 16,
+      "-weight.image": 1,
+      "+weight.image": 25,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 273,
+      "violations": 7
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/presse/contacts/",
+    "requestedUrl": "https://www.vivendi.com/presse/contacts/",
+    "timestamp": 1707603482211,
+    "ranks": {
+      "hundos": 2,
+      "performance": 8,
+      "accessibility": 6,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.76,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 340
+    },
+    "firstContentfulPaint": 2771.3395000000005,
+    "firstMeaningfulPaint": 4067.0405000000005,
+    "speedIndex": 2811.6157802686284,
+    "largestContentfulPaint": 5366.710249999999,
+    "totalBlockingTime": 21,
+    "cumulativeLayoutShift": 0.00023314020418323042,
+    "timeToInteractive": 4406.970249999999,
+    "maxPotentialFirstInputDelay": 92,
+    "timeToFirstByte": 44.932,
+    "weight": {
+      "summary": "19 requests • 427,6 KiB",
+      "total": 437827,
+      "image": 36420,
+      "imageCount": 4,
+      "script": 187526,
+      "scriptCount": 5,
+      "document": 13326,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86388,
+      "stylesheetCount": 5,
+      "thirdParty": 117528,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 25,
+      "-weight.document": 2,
+      "+weight.document": 28,
+      "-weight.script": 11,
+      "+weight.script": 14,
+      "-weight.image": 7,
+      "+weight.image": 19,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 331,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/tax-policy/",
+    "requestedUrl": "https://www.vivendi.com/en/tax-policy/",
+    "timestamp": 1707602823377,
+    "ranks": {
+      "hundos": 4,
+      "performance": 3,
+      "accessibility": 7,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.82,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.62,
+      "total": 339
+    },
+    "firstContentfulPaint": 2766.1195,
+    "firstMeaningfulPaint": 4225.767000000001,
+    "speedIndex": 2794.405779232608,
+    "largestContentfulPaint": 4054.68275,
+    "totalBlockingTime": 34,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4425.9577500000005,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 47.172,
+    "weight": {
+      "summary": "19 requests • 437,4 KiB",
+      "total": 447864,
+      "image": 46185,
+      "imageCount": 4,
+      "script": 187215,
+      "scriptCount": 5,
+      "document": 13911,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86386,
+      "stylesheetCount": 5,
+      "thirdParty": 117529,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 23,
+      "-weight.document": 6,
+      "+weight.document": 24,
+      "-weight.script": 2,
+      "+weight.script": 23,
+      "-weight.image": 8,
+      "+weight.image": 18,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 315,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/our-group/key-milestones/the-groups-origins/",
+    "requestedUrl": "https://www.vivendi.com/en/our-group/key-milestones/the-groups-origins/",
+    "timestamp": 1707602760307,
+    "ranks": {
+      "hundos": 5,
+      "performance": 1,
+      "accessibility": 16,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.84,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.62,
+      "total": 339
+    },
+    "firstContentfulPaint": 2785.639,
+    "firstMeaningfulPaint": 2785.639,
+    "speedIndex": 2785.639,
+    "largestContentfulPaint": 3760.7180000000003,
+    "totalBlockingTime": 23,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4367.302,
+    "maxPotentialFirstInputDelay": 96,
+    "timeToFirstByte": 48.117999999999995,
+    "weight": {
+      "summary": "19 requests • 409,1 KiB",
+      "total": 418875,
+      "image": 17523,
+      "imageCount": 4,
+      "script": 187215,
+      "scriptCount": 5,
+      "document": 13603,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86367,
+      "stylesheetCount": 5,
+      "thirdParty": 117521,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 27,
+      "-weight.document": 4,
+      "+weight.document": 26,
+      "-weight.script": 2,
+      "+weight.script": 23,
+      "-weight.image": 4,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 261,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/shareholders-investors/regulatory-information/",
+    "requestedUrl": "https://www.vivendi.com/en/shareholders-investors/regulatory-information/",
+    "timestamp": 1707604657559,
+    "ranks": {
+      "hundos": 3,
+      "performance": 2,
+      "accessibility": 8,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.82,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.62,
+      "total": 339
+    },
+    "firstContentfulPaint": 2761.5615,
+    "firstMeaningfulPaint": 2761.5615,
+    "speedIndex": 2761.5615,
+    "largestContentfulPaint": 4123.62775,
+    "totalBlockingTime": 32.5,
+    "cumulativeLayoutShift": 0.0039326346576036165,
+    "timeToInteractive": 4495.05025,
+    "maxPotentialFirstInputDelay": 115,
+    "timeToFirstByte": 49.46600000000001,
+    "weight": {
+      "summary": "19 requests • 459,4 KiB",
+      "total": 470429,
+      "image": 69822,
+      "imageCount": 4,
+      "script": 187239,
+      "scriptCount": 5,
+      "document": 12821,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86380,
+      "stylesheetCount": 5,
+      "thirdParty": 117521,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 21,
+      "-weight.document": 1,
+      "+weight.document": 29,
+      "-weight.script": 4,
+      "+weight.script": 21,
+      "-weight.image": 12,
+      "+weight.image": 14,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 276,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/biographie/maud-fontenoy/",
+    "requestedUrl": "https://www.vivendi.com/biographie/maud-fontenoy/",
+    "timestamp": 1707602839220,
+    "ranks": {
+      "hundos": 6,
+      "performance": 21,
+      "accessibility": 2,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.72,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 338
+    },
+    "firstContentfulPaint": 2963.3459999999995,
+    "firstMeaningfulPaint": 4576.7705,
+    "speedIndex": 3163.8177099611903,
+    "largestContentfulPaint": 6480.8125,
+    "totalBlockingTime": 24,
+    "cumulativeLayoutShift": 0.014863050730484233,
+    "timeToInteractive": 5268.489,
+    "maxPotentialFirstInputDelay": 98,
+    "timeToFirstByte": 35.818,
+    "weight": {
+      "summary": "21 requests • 607,1 KiB",
+      "total": 621700,
+      "image": 132396,
+      "imageCount": 3,
+      "script": 212408,
+      "scriptCount": 6,
+      "document": 19579,
+      "font": 131401,
+      "fontCount": 4,
+      "stylesheet": 125528,
+      "stylesheetCount": 6,
+      "thirdParty": 199164,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 10,
+      "-weight.document": 21,
+      "+weight.document": 9,
+      "-weight.script": 19,
+      "+weight.script": 6,
+      "-weight.image": 15,
+      "+weight.image": 11,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 359,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/biographie/claire-leost/",
+    "requestedUrl": "https://www.vivendi.com/biographie/claire-leost/",
+    "timestamp": 1707604696589,
+    "ranks": {
+      "hundos": 7,
+      "performance": 19,
+      "accessibility": 3,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.72,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 338
+    },
+    "firstContentfulPaint": 2915.473,
+    "firstMeaningfulPaint": 4554.9515,
+    "speedIndex": 3101.475520448123,
+    "largestContentfulPaint": 6400.3505000000005,
+    "totalBlockingTime": 23,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 5323.958500000001,
+    "maxPotentialFirstInputDelay": 96,
+    "timeToFirstByte": 49.824999999999996,
+    "weight": {
+      "summary": "22 requests • 607,2 KiB",
+      "total": 621729,
+      "image": 90090,
+      "imageCount": 3,
+      "script": 212425,
+      "scriptCount": 6,
+      "document": 18619,
+      "font": 174684,
+      "fontCount": 5,
+      "stylesheet": 125523,
+      "stylesheetCount": 6,
+      "thirdParty": 242461,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 9,
+      "-weight.document": 18,
+      "+weight.document": 12,
+      "-weight.script": 22,
+      "+weight.script": 3,
+      "-weight.image": 13,
+      "+weight.image": 13,
+      "-weight.font": 5,
+      "+weight.font": 4,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 354,
+      "violations": 6
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/actionnaires-investisseurs/liste-des-brokers-qui-ont-une-couverture-reguliere-sur-vivendi/",
+    "requestedUrl": "https://www.vivendi.com/actionnaires-investisseurs/liste-des-brokers-qui-ont-une-couverture-reguliere-sur-vivendi/",
+    "timestamp": 1707603752135,
+    "ranks": {
+      "hundos": 8,
+      "performance": 7,
+      "accessibility": 14,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.76,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 338
+    },
+    "firstContentfulPaint": 2767.3519999999994,
+    "firstMeaningfulPaint": 3152.5059999999994,
+    "speedIndex": 2767.3519999999994,
+    "largestContentfulPaint": 5151.2835,
+    "totalBlockingTime": 33,
+    "cumulativeLayoutShift": 0.00012576616801515068,
+    "timeToInteractive": 4268.785,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 39.988,
+    "weight": {
+      "summary": "18 requests • 395,6 KiB",
+      "total": 405096,
+      "image": 2893,
+      "imageCount": 3,
+      "script": 187532,
+      "scriptCount": 5,
+      "document": 14116,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86388,
+      "stylesheetCount": 5,
+      "thirdParty": 117528,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 29,
+      "-weight.document": 7,
+      "+weight.document": 23,
+      "-weight.script": 12,
+      "+weight.script": 13,
+      "-weight.image": 1,
+      "+weight.image": 25,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 343,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/shareholders-investors/individual-shareholders/shareholders-booklet/dividend/",
+    "requestedUrl": "https://www.vivendi.com/en/shareholders-investors/individual-shareholders/shareholders-booklet/dividend/",
+    "timestamp": 1707603721254,
+    "ranks": {
+      "hundos": 9,
+      "performance": 4,
+      "accessibility": 5,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.81,
+      "accessibility": 0.95,
+      "bestPractices": 1,
+      "seo": 0.62,
+      "total": 338
+    },
+    "firstContentfulPaint": 2921.7874999999995,
+    "firstMeaningfulPaint": 4545.619499999999,
+    "speedIndex": 3447.384858595041,
+    "largestContentfulPaint": 4134.16375,
+    "totalBlockingTime": 28,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4725.821749999999,
+    "maxPotentialFirstInputDelay": 97,
+    "timeToFirstByte": 44.658000000000015,
+    "weight": {
+      "summary": "20 requests • 463,7 KiB",
+      "total": 474810,
+      "image": 50448,
+      "imageCount": 4,
+      "script": 187254,
+      "scriptCount": 5,
+      "document": 18931,
+      "font": 131401,
+      "fontCount": 4,
+      "stylesheet": 86388,
+      "stylesheetCount": 5,
+      "thirdParty": 135150,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 19,
+      "-weight.document": 19,
+      "+weight.document": 11,
+      "-weight.script": 5,
+      "+weight.script": 20,
+      "-weight.image": 9,
+      "+weight.image": 17,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 940,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/actionnaires-investisseurs/information-reglementee/honoraires-des-cac/",
+    "requestedUrl": "https://www.vivendi.com/actionnaires-investisseurs/information-reglementee/honoraires-des-cac/",
+    "timestamp": 1707602532860,
+    "ranks": {
+      "hundos": 10,
+      "performance": 9,
+      "accessibility": 15,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.75,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 337
+    },
+    "firstContentfulPaint": 2789.964,
+    "firstMeaningfulPaint": 2789.964,
+    "speedIndex": 2789.964,
+    "largestContentfulPaint": 5378.8369999999995,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4398.056,
+    "maxPotentialFirstInputDelay": 93,
+    "timeToFirstByte": 49.412000000000006,
+    "weight": {
+      "summary": "20 requests • 422,1 KiB",
+      "total": 432188,
+      "image": 30618,
+      "imageCount": 5,
+      "script": 187526,
+      "scriptCount": 5,
+      "document": 13505,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86372,
+      "stylesheetCount": 5,
+      "thirdParty": 117528,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 26,
+      "-weight.document": 3,
+      "+weight.document": 27,
+      "-weight.script": 11,
+      "+weight.script": 14,
+      "-weight.image": 6,
+      "+weight.image": 20,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 303,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/actionnaires-investisseurs/actionnaires-individuels/livret-de-lactionnaire/lexique/",
+    "requestedUrl": "https://www.vivendi.com/actionnaires-investisseurs/actionnaires-individuels/livret-de-lactionnaire/lexique/",
+    "timestamp": 1707604380056,
+    "ranks": {
+      "hundos": 11,
+      "performance": 12,
+      "accessibility": 13,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.74,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 336
+    },
+    "firstContentfulPaint": 2919.438,
+    "firstMeaningfulPaint": 2919.438,
+    "speedIndex": 2919.438,
+    "largestContentfulPaint": 5636.753999999999,
+    "totalBlockingTime": 24,
+    "cumulativeLayoutShift": 0.0016708112913233846,
+    "timeToInteractive": 4667.519,
+    "maxPotentialFirstInputDelay": 98,
+    "timeToFirstByte": 45.245999999999995,
+    "weight": {
+      "summary": "20 requests • 462,4 KiB",
+      "total": 473447,
+      "image": 50448,
+      "imageCount": 4,
+      "script": 187550,
+      "scriptCount": 5,
+      "document": 17280,
+      "font": 131401,
+      "fontCount": 4,
+      "stylesheet": 86380,
+      "stylesheetCount": 5,
+      "thirdParty": 135150,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 20,
+      "-weight.document": 14,
+      "+weight.document": 16,
+      "-weight.script": 14,
+      "+weight.script": 11,
+      "-weight.image": 9,
+      "+weight.image": 17,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 449,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/notre-groupe/gouvernance/communication/redonner-de-la-valeur-a-telecom-italia/",
+    "requestedUrl": "https://www.vivendi.com/notre-groupe/gouvernance/communication/redonner-de-la-valeur-a-telecom-italia/",
+    "timestamp": 1707604346459,
+    "ranks": {
+      "hundos": 12,
+      "performance": 13,
+      "accessibility": 12,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.73,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 335
+    },
+    "firstContentfulPaint": 2763.567,
+    "firstMeaningfulPaint": 4383.79,
+    "speedIndex": 2763.567,
+    "largestContentfulPaint": 6207.8275,
+    "totalBlockingTime": 22.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 5006.125,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 41.82299999999999,
+    "weight": {
+      "summary": "22 requests • 601,4 KiB",
+      "total": 615840,
+      "image": 118536,
+      "imageCount": 5,
+      "script": 187550,
+      "scriptCount": 5,
+      "document": 14178,
+      "font": 208802,
+      "fontCount": 5,
+      "stylesheet": 86386,
+      "stylesheetCount": 5,
+      "thirdParty": 212551,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 12,
+      "-weight.document": 9,
+      "+weight.document": 21,
+      "-weight.script": 14,
+      "+weight.script": 11,
+      "-weight.image": 14,
+      "+weight.image": 12,
+      "-weight.font": 6,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 524,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/shareholders-investors/bond-debt/press-releases-presentation-notice/",
+    "requestedUrl": "https://www.vivendi.com/en/shareholders-investors/bond-debt/press-releases-presentation-notice/",
+    "timestamp": 1707602815834,
+    "ranks": {
+      "hundos": 15,
+      "performance": 5,
+      "accessibility": 11,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.78,
+      "accessibility": 0.93,
+      "bestPractices": 1,
+      "seo": 0.62,
+      "total": 333
+    },
+    "firstContentfulPaint": 2932.3395,
+    "firstMeaningfulPaint": 2932.3395,
+    "speedIndex": 2932.3395,
+    "largestContentfulPaint": 4618.5955,
+    "totalBlockingTime": 22,
+    "cumulativeLayoutShift": 0.005200388269818312,
+    "timeToInteractive": 4607.68425,
+    "maxPotentialFirstInputDelay": 94,
+    "timeToFirstByte": 42.08200000000001,
+    "weight": {
+      "summary": "19 requests • 445,8 KiB",
+      "total": 456516,
+      "image": 53736,
+      "imageCount": 4,
+      "script": 187214,
+      "scriptCount": 5,
+      "document": 15021,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86378,
+      "stylesheetCount": 5,
+      "thirdParty": 117528,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 22,
+      "-weight.document": 11,
+      "+weight.document": 19,
+      "-weight.script": 1,
+      "+weight.script": 24,
+      "-weight.image": 10,
+      "+weight.image": 16,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 583,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/publications/lettre-aux-actionnaires-octobre-2023/",
+    "requestedUrl": "https://www.vivendi.com/publications/lettre-aux-actionnaires-octobre-2023/",
+    "timestamp": 1707602662829,
+    "ranks": {
+      "hundos": 14,
+      "performance": 15,
+      "accessibility": 24,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.73,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 333
+    },
+    "firstContentfulPaint": 2941.402,
+    "firstMeaningfulPaint": 4493.3325,
+    "speedIndex": 3183.883194440411,
+    "largestContentfulPaint": 5999.239,
+    "totalBlockingTime": 36.5,
+    "cumulativeLayoutShift": 0.0217516410690954,
+    "timeToInteractive": 4927.0495,
+    "maxPotentialFirstInputDelay": 123,
+    "timeToFirstByte": 46.803,
+    "weight": {
+      "summary": "22 requests • 518,0 KiB",
+      "total": 530427,
+      "image": 60840,
+      "imageCount": 5,
+      "script": 212410,
+      "scriptCount": 6,
+      "document": 17501,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 125509,
+      "stylesheetCount": 6,
+      "thirdParty": 181549,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 14,
+      "-weight.document": 15,
+      "+weight.document": 15,
+      "-weight.script": 20,
+      "+weight.script": 5,
+      "-weight.image": 11,
+      "+weight.image": 15,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 338,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/nos-activites/spectacle-vivant/",
+    "requestedUrl": "https://www.vivendi.com/nos-activites/spectacle-vivant/",
+    "timestamp": 1707604364160,
+    "ranks": {
+      "hundos": 13,
+      "performance": 20,
+      "accessibility": 20,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.72,
+      "accessibility": 0.9,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 333
+    },
+    "firstContentfulPaint": 2922.5470000000005,
+    "firstMeaningfulPaint": 4483.763000000001,
+    "speedIndex": 3103.5752967262542,
+    "largestContentfulPaint": 6455.711499999999,
+    "totalBlockingTime": 46,
+    "cumulativeLayoutShift": 0.02565129934203147,
+    "timeToInteractive": 5177.1045,
+    "maxPotentialFirstInputDelay": 142,
+    "timeToFirstByte": 37.132999999999996,
+    "weight": {
+      "summary": "21 requests • 605,8 KiB",
+      "total": 620368,
+      "image": 157759,
+      "imageCount": 5,
+      "script": 187542,
+      "scriptCount": 5,
+      "document": 22756,
+      "font": 165519,
+      "fontCount": 4,
+      "stylesheet": 86404,
+      "stylesheetCount": 5,
+      "thirdParty": 169268,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 11,
+      "-weight.document": 28,
+      "+weight.document": 2,
+      "-weight.script": 13,
+      "+weight.script": 12,
+      "-weight.image": 17,
+      "+weight.image": 9,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 650,
+      "violations": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/actionnaires-investisseurs/operations-financieres/",
+    "requestedUrl": "https://www.vivendi.com/actionnaires-investisseurs/operations-financieres/",
+    "timestamp": 1707604396524,
+    "ranks": {
+      "hundos": 16,
+      "performance": 10,
+      "accessibility": 21,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.75,
+      "accessibility": 0.9,
+      "bestPractices": 1,
+      "seo": 0.68,
+      "total": 333
+    },
+    "firstContentfulPaint": 2912.7519999999995,
+    "firstMeaningfulPaint": 4410.476999999999,
+    "speedIndex": 2912.7519999999995,
+    "largestContentfulPaint": 5432.8835,
+    "totalBlockingTime": 45.5,
+    "cumulativeLayoutShift": 0.010161135930744072,
+    "timeToInteractive": 4543.200999999999,
+    "maxPotentialFirstInputDelay": 141,
+    "timeToFirstByte": 39.31800000000001,
+    "weight": {
+      "summary": "19 requests • 427,8 KiB",
+      "total": 438039,
+      "image": 29204,
+      "imageCount": 4,
+      "script": 187511,
+      "scriptCount": 5,
+      "document": 20769,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86388,
+      "stylesheetCount": 5,
+      "thirdParty": 117521,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 24,
+      "-weight.document": 25,
+      "+weight.document": 5,
+      "-weight.script": 8,
+      "+weight.script": 17,
+      "-weight.image": 5,
+      "+weight.image": 21,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 1399,
+      "violations": 58
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/etude-de-cas/hackathon-innovation-les-entites-du-groupe-reunies-font-emerger-les-projets-de-demain/",
+    "requestedUrl": "https://www.vivendi.com/etude-de-cas/hackathon-innovation-les-entites-du-groupe-reunies-font-emerger-les-projets-de-demain/",
+    "timestamp": 1707602736174,
+    "ranks": {
+      "hundos": 17,
+      "performance": 24,
+      "accessibility": 18,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.71,
+      "accessibility": 0.9,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 332
+    },
+    "firstContentfulPaint": 2762.977,
+    "firstMeaningfulPaint": 2762.977,
+    "speedIndex": 3123.4515751922363,
+    "largestContentfulPaint": 8425.8005,
+    "totalBlockingTime": 31,
+    "cumulativeLayoutShift": 0.0004328825186802065,
+    "timeToInteractive": 6160.529499999999,
+    "maxPotentialFirstInputDelay": 110,
+    "timeToFirstByte": 48.358999999999995,
+    "weight": {
+      "summary": "24 requests • 879,0 KiB",
+      "total": 900137,
+      "image": 428516,
+      "imageCount": 7,
+      "script": 212407,
+      "scriptCount": 6,
+      "document": 19523,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 125524,
+      "stylesheetCount": 6,
+      "thirdParty": 181549,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 4,
+      "-weight.document": 20,
+      "+weight.document": 10,
+      "-weight.script": 18,
+      "+weight.script": 7,
+      "-weight.image": 23,
+      "+weight.image": 3,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 396,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/actualite/trois-questions-a-damien-marchi-directeur-rse-de-vivendi/",
+    "requestedUrl": "https://www.vivendi.com/actualite/trois-questions-a-damien-marchi-directeur-rse-de-vivendi/",
+    "timestamp": 1707604428681,
+    "ranks": {
+      "hundos": 19,
+      "performance": 25,
+      "accessibility": 19,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.71,
+      "accessibility": 0.9,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 332
+    },
+    "firstContentfulPaint": 2879.5755,
+    "firstMeaningfulPaint": 4539.4185,
+    "speedIndex": 3448.1640939910035,
+    "largestContentfulPaint": 7299.575500000002,
+    "totalBlockingTime": 24.5,
+    "cumulativeLayoutShift": 0.019009897396522694,
+    "timeToInteractive": 5796.010000000001,
+    "maxPotentialFirstInputDelay": 99,
+    "timeToFirstByte": 43.637,
+    "weight": {
+      "summary": "21 requests • 775,3 KiB",
+      "total": 793921,
+      "image": 303687,
+      "imageCount": 3,
+      "script": 212401,
+      "scriptCount": 6,
+      "document": 20520,
+      "font": 131401,
+      "fontCount": 4,
+      "stylesheet": 125524,
+      "stylesheetCount": 6,
+      "thirdParty": 199171,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 6,
+      "-weight.document": 24,
+      "+weight.document": 6,
+      "-weight.script": 16,
+      "+weight.script": 9,
+      "-weight.image": 22,
+      "+weight.image": 4,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 394,
+      "violations": 8
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/etude-de-cas/paddington-lours-que-toutes-les-societes-sarrachent/",
+    "requestedUrl": "https://www.vivendi.com/etude-de-cas/paddington-lours-que-toutes-les-societes-sarrachent/",
+    "timestamp": 1707603677040,
+    "ranks": {
+      "hundos": 21,
+      "performance": 18,
+      "accessibility": 23,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.72,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 332
+    },
+    "firstContentfulPaint": 2877.952,
+    "firstMeaningfulPaint": 4428.37275,
+    "speedIndex": 2963.672809824561,
+    "largestContentfulPaint": 6456.7384999999995,
+    "totalBlockingTime": 22.5,
+    "cumulativeLayoutShift": 0.0157880854877612,
+    "timeToInteractive": 5266.095499999999,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 40.910000000000004,
+    "weight": {
+      "summary": "21 requests • 609,2 KiB",
+      "total": 623867,
+      "image": 134541,
+      "imageCount": 3,
+      "script": 212406,
+      "scriptCount": 6,
+      "document": 19606,
+      "font": 131401,
+      "fontCount": 4,
+      "stylesheet": 125525,
+      "stylesheetCount": 6,
+      "thirdParty": 199175,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 8,
+      "-weight.document": 22,
+      "+weight.document": 8,
+      "-weight.script": 17,
+      "+weight.script": 8,
+      "-weight.image": 16,
+      "+weight.image": 10,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 385,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/our-group/governance/executive-committee/",
+    "requestedUrl": "https://www.vivendi.com/en/our-group/governance/executive-committee/",
+    "timestamp": 1707602752741,
+    "ranks": {
+      "hundos": 22,
+      "performance": 11,
+      "accessibility": 9,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.74,
+      "accessibility": 0.94,
+      "bestPractices": 1,
+      "seo": 0.64,
+      "total": 332
+    },
+    "firstContentfulPaint": 2771.943,
+    "firstMeaningfulPaint": 4245.4985,
+    "speedIndex": 2771.943,
+    "largestContentfulPaint": 5746.359,
+    "totalBlockingTime": 39,
+    "cumulativeLayoutShift": 0.0000045403615790275695,
+    "timeToInteractive": 4314.114,
+    "maxPotentialFirstInputDelay": 128,
+    "timeToFirstByte": 49.239,
+    "weight": {
+      "summary": "20 requests • 590,0 KiB",
+      "total": 604174,
+      "image": 202459,
+      "imageCount": 5,
+      "script": 187260,
+      "scriptCount": 5,
+      "document": 13900,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86388,
+      "stylesheetCount": 5,
+      "thirdParty": 117528,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 13,
+      "-weight.document": 5,
+      "+weight.document": 25,
+      "-weight.script": 6,
+      "+weight.script": 19,
+      "-weight.image": 18,
+      "+weight.image": 8,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 622,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/actionnaires-investisseurs/actionnaires-individuels/comite-des-actionnaires/",
+    "requestedUrl": "https://www.vivendi.com/actionnaires-investisseurs/actionnaires-individuels/comite-des-actionnaires/",
+    "timestamp": 1707603449745,
+    "ranks": {
+      "hundos": 18,
+      "performance": 17,
+      "accessibility": 25,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.72,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 332
+    },
+    "firstContentfulPaint": 2658.534,
+    "firstMeaningfulPaint": 4122.0145,
+    "speedIndex": 2755.4982084522458,
+    "largestContentfulPaint": 7080.2795,
+    "totalBlockingTime": 23.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 5414.2195,
+    "maxPotentialFirstInputDelay": 97,
+    "timeToFirstByte": 40.235,
+    "weight": {
+      "summary": "22 requests • 715,0 KiB",
+      "total": 732150,
+      "image": 278194,
+      "imageCount": 6,
+      "script": 187518,
+      "scriptCount": 5,
+      "document": 14159,
+      "font": 165519,
+      "fontCount": 4,
+      "stylesheet": 86372,
+      "stylesheetCount": 5,
+      "thirdParty": 169268,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 7,
+      "-weight.document": 8,
+      "+weight.document": 22,
+      "-weight.script": 10,
+      "+weight.script": 15,
+      "-weight.image": 20,
+      "+weight.image": 6,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 324,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/notre-groupe/rwc2023/",
+    "requestedUrl": "https://www.vivendi.com/notre-groupe/rwc2023/",
+    "timestamp": 1707603433520,
+    "ranks": {
+      "hundos": 20,
+      "performance": 28,
+      "accessibility": 1,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.65,
+      "accessibility": 0.96,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 332
+    },
+    "firstContentfulPaint": 2950.817693627818,
+    "firstMeaningfulPaint": 4726.991809804508,
+    "speedIndex": 3113.097261025955,
+    "largestContentfulPaint": 7141.55129861215,
+    "totalBlockingTime": 23,
+    "cumulativeLayoutShift": 0.13858409727974977,
+    "timeToInteractive": 5696.20493888972,
+    "maxPotentialFirstInputDelay": 96,
+    "timeToFirstByte": 42.331,
+    "weight": {
+      "summary": "24 requests • 784,5 KiB",
+      "total": 803289,
+      "image": 282767,
+      "imageCount": 6,
+      "script": 187494,
+      "scriptCount": 5,
+      "document": 19836,
+      "font": 226424,
+      "fontCount": 6,
+      "stylesheet": 86380,
+      "stylesheetCount": 5,
+      "thirdParty": 230173,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 5,
+      "-weight.document": 23,
+      "+weight.document": 7,
+      "-weight.script": 7,
+      "+weight.script": 18,
+      "-weight.image": 21,
+      "+weight.image": 5,
+      "-weight.font": 7,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 811,
+      "violations": 29
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/communique/vivendi-va-etudier-un-projet-de-scission-de-ses-activites-en-plusieurs-entites/",
+    "requestedUrl": "https://www.vivendi.com/communique/vivendi-va-etudier-un-projet-de-scission-de-ses-activites-en-plusieurs-entites/",
+    "timestamp": 1707603497906,
+    "ranks": {
+      "hundos": 23,
+      "performance": 23,
+      "accessibility": 22,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.72,
+      "accessibility": 0.89,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 330
+    },
+    "firstContentfulPaint": 3314.5874999999996,
+    "firstMeaningfulPaint": 4839.4,
+    "speedIndex": 3314.5874999999996,
+    "largestContentfulPaint": 5877.0005,
+    "totalBlockingTime": 22.5,
+    "cumulativeLayoutShift": 0.0014648343084107624,
+    "timeToInteractive": 4974.05925,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 46.80499999999999,
+    "weight": {
+      "summary": "21 requests • 483,2 KiB",
+      "total": 494844,
+      "image": 3979,
+      "imageCount": 3,
+      "script": 212414,
+      "scriptCount": 6,
+      "document": 21145,
+      "font": 131401,
+      "fontCount": 4,
+      "stylesheet": 125517,
+      "stylesheetCount": 6,
+      "thirdParty": 199175,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 15,
+      "-weight.document": 27,
+      "+weight.document": 3,
+      "-weight.script": 21,
+      "+weight.script": 4,
+      "-weight.image": 2,
+      "+weight.image": 24,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 469,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/presse/actualites/page/47/",
+    "requestedUrl": "https://www.vivendi.com/presse/actualites/page/47/",
+    "timestamp": 1707602582392,
+    "ranks": {
+      "hundos": 24,
+      "performance": 14,
+      "accessibility": 29,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.73,
+      "accessibility": 0.8,
+      "bestPractices": 1,
+      "seo": 0.77,
+      "total": 330
+    },
+    "firstContentfulPaint": 2935.17,
+    "firstMeaningfulPaint": 4410.853000000001,
+    "speedIndex": 2972.8267595791267,
+    "largestContentfulPaint": 5704.4505,
+    "totalBlockingTime": 45,
+    "cumulativeLayoutShift": 0.04001572760870021,
+    "timeToInteractive": 4759.4475,
+    "maxPotentialFirstInputDelay": 96,
+    "timeToFirstByte": 47.673,
+    "weight": {
+      "summary": "24 requests • 468,6 KiB",
+      "total": 479797,
+      "image": 5038,
+      "imageCount": 5,
+      "script": 187556,
+      "scriptCount": 5,
+      "document": 16728,
+      "font": 171471,
+      "fontCount": 5,
+      "stylesheet": 86396,
+      "stylesheetCount": 5,
+      "thirdParty": 187440,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 17,
+      "-weight.document": 13,
+      "+weight.document": 17,
+      "-weight.script": 15,
+      "+weight.script": 10,
+      "-weight.image": 3,
+      "+weight.image": 23,
+      "-weight.font": 4,
+      "+weight.font": 5,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 725,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/communique/vivendi-croissance-solide-du-chiffre-daffaires/",
+    "requestedUrl": "https://www.vivendi.com/communique/vivendi-croissance-solide-du-chiffre-daffaires/",
+    "timestamp": 1707603522969,
+    "ranks": {
+      "hundos": 25,
+      "performance": 22,
+      "accessibility": 26,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.72,
+      "accessibility": 0.88,
+      "bestPractices": 1,
+      "seo": 0.69,
+      "total": 329
+    },
+    "firstContentfulPaint": 3305.5755000000004,
+    "firstMeaningfulPaint": 4750.038500000001,
+    "speedIndex": 3305.5755000000004,
+    "largestContentfulPaint": 5879.0165,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0.006630773333636303,
+    "timeToInteractive": 4997.6155,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 42.144,
+    "weight": {
+      "summary": "21 requests • 480,2 KiB",
+      "total": 491726,
+      "image": 3979,
+      "imageCount": 3,
+      "script": 212408,
+      "scriptCount": 6,
+      "document": 18022,
+      "font": 131401,
+      "fontCount": 4,
+      "stylesheet": 125528,
+      "stylesheetCount": 6,
+      "thirdParty": 199164,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 16,
+      "-weight.document": 16,
+      "+weight.document": 14,
+      "-weight.script": 19,
+      "+weight.script": 6,
+      "-weight.image": 2,
+      "+weight.image": 24,
+      "-weight.font": 2,
+      "+weight.font": 7,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 390,
+      "violations": 9
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/",
+    "requestedUrl": "https://www.vivendi.com/",
+    "timestamp": 1707602473558,
+    "ranks": {
+      "hundos": 26,
+      "performance": 26,
+      "accessibility": 27,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.7,
+      "accessibility": 0.86,
+      "bestPractices": 1,
+      "seo": 0.71,
+      "total": 327
+    },
+    "firstContentfulPaint": 2912.3154999999997,
+    "firstMeaningfulPaint": 4223.9145,
+    "speedIndex": 2912.3154999999997,
+    "largestContentfulPaint": 8486.499,
+    "totalBlockingTime": 25.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 4748.1402499999995,
+    "maxPotentialFirstInputDelay": 95,
+    "timeToFirstByte": 54.81800000000001,
+    "weight": {
+      "summary": "26 requests • 1,1 MiB",
+      "total": 1133408,
+      "image": 639358,
+      "imageCount": 8,
+      "script": 274330,
+      "scriptCount": 7,
+      "document": 18359,
+      "font": 113779,
+      "fontCount": 3,
+      "stylesheet": 86372,
+      "stylesheetCount": 5,
+      "thirdParty": 205162,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 3,
+      "-weight.document": 17,
+      "+weight.document": 13,
+      "-weight.script": 23,
+      "+weight.script": 2,
+      "-weight.image": 24,
+      "+weight.image": 2,
+      "-weight.font": 1,
+      "+weight.font": 8,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 683,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/our-activities/communications/",
+    "requestedUrl": "https://www.vivendi.com/en/our-activities/communications/",
+    "timestamp": 1707604632976,
+    "ranks": {
+      "hundos": 27,
+      "performance": 27,
+      "accessibility": 10,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.69,
+      "accessibility": 0.94,
+      "bestPractices": 1,
+      "seo": 0.64,
+      "total": 327
+    },
+    "firstContentfulPaint": 2926.143,
+    "firstMeaningfulPaint": 4464.9615,
+    "speedIndex": 9865.373170644638,
+    "largestContentfulPaint": 4837.294,
+    "totalBlockingTime": 24,
+    "cumulativeLayoutShift": 0.018088127623391695,
+    "timeToInteractive": 4682.902,
+    "maxPotentialFirstInputDelay": 98,
+    "timeToFirstByte": 39.346,
+    "weight": {
+      "summary": "23 requests • 20,1 MiB",
+      "total": 21030333,
+      "image": 7362245,
+      "imageCount": 6,
+      "script": 187239,
+      "scriptCount": 5,
+      "document": 20984,
+      "font": 165519,
+      "fontCount": 4,
+      "stylesheet": 86380,
+      "stylesheetCount": 5,
+      "thirdParty": 169261,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 1,
+      "-weight.document": 26,
+      "+weight.document": 4,
+      "-weight.script": 4,
+      "+weight.script": 21,
+      "-weight.image": 25,
+      "+weight.image": 1,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 531,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/en/shareholders-investors/individual-shareholders/shareholders-newsletters/",
+    "requestedUrl": "https://www.vivendi.com/en/shareholders-investors/individual-shareholders/shareholders-newsletters/",
+    "timestamp": 1707603712727,
+    "ranks": {
+      "hundos": 28,
+      "performance": 16,
+      "accessibility": 28,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.73,
+      "accessibility": 0.85,
+      "bestPractices": 1,
+      "seo": 0.62,
+      "total": 320
+    },
+    "firstContentfulPaint": 2968.527,
+    "firstMeaningfulPaint": 4507.2705000000005,
+    "speedIndex": 3321.4300147704093,
+    "largestContentfulPaint": 5823.5415,
+    "totalBlockingTime": 63,
+    "cumulativeLayoutShift": 0.03709661358281137,
+    "timeToInteractive": 4878.028,
+    "maxPotentialFirstInputDelay": 131,
+    "timeToFirstByte": 43.495,
+    "weight": {
+      "summary": "23 requests • 465,5 KiB",
+      "total": 476669,
+      "image": 5038,
+      "imageCount": 5,
+      "script": 187223,
+      "scriptCount": 5,
+      "document": 16248,
+      "font": 165519,
+      "fontCount": 4,
+      "stylesheet": 86388,
+      "stylesheetCount": 5,
+      "thirdParty": 185126,
+      "thirdPartyCount": 5
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 18,
+      "-weight.document": 12,
+      "+weight.document": 18,
+      "-weight.script": 3,
+      "+weight.script": 22,
+      "-weight.image": 3,
+      "+weight.image": 23,
+      "-weight.font": 3,
+      "+weight.font": 6,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 730,
+      "violations": 10
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/notre-groupe/a-propos/",
+    "requestedUrl": "https://www.vivendi.com/notre-groupe/a-propos/",
+    "timestamp": 1707604338666,
+    "ranks": {
+      "hundos": 29,
+      "performance": 29,
+      "accessibility": 17,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.5.0",
+      "performance": 0.53,
+      "accessibility": 0.91,
+      "bestPractices": 0.59,
+      "seo": 0.71,
+      "total": 274
+    },
+    "firstContentfulPaint": 3479.3305000000005,
+    "firstMeaningfulPaint": 3479.3305000000005,
+    "speedIndex": 6840.981277123499,
+    "largestContentfulPaint": 15514.993000000002,
+    "totalBlockingTime": 381.5,
+    "cumulativeLayoutShift": 0,
+    "timeToInteractive": 14914.653999999999,
+    "maxPotentialFirstInputDelay": 268,
+    "timeToFirstByte": 50.288,
+    "weight": {
+      "summary": "54 requests • 2,1 MiB",
+      "total": 2232357,
+      "image": 224529,
+      "imageCount": 6,
+      "script": 1258209,
+      "scriptCount": 23,
+      "document": 293081,
+      "font": 234841,
+      "fontCount": 6,
+      "stylesheet": 86372,
+      "stylesheetCount": 5,
+      "thirdParty": 1879122,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 2,
+      "-weight.document": 29,
+      "+weight.document": 1,
+      "-weight.script": 24,
+      "+weight.script": 1,
+      "-weight.image": 19,
+      "+weight.image": 7,
+      "-weight.font": 8,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 680,
+      "violations": 55
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2023/07/20230727_VIV_CP_PM-Gala-Le-Figaro.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2023/06/20230619_VIV_CP_Nomination-ACB-DPO.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2023/03/20230308_VIV_Rapport-financier-et-Etats-financiers-consolides-de-lexercice-2022.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2022/06/2022_06_01_Barclays_ESG_Vivendi.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2020/10/Code-anticorruption-VF-septembre-2018_.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2023/07/20230726_VIV_Declaration-individuelle-operation-sur-titres-VB-PEG-2023-20-07-2023.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2022/07/Declaration-individuelle-operation-sur-titres-Vivendi-art-L.-621-18-2-du-Code-monetaire-et-financier-FC-PEG-2022.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2022/03/20220314_VIV_Declaration-individuelle-operation-sur-titres-YB-Attribution-AP-10-03-2022.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2021/07/20210701_VIV_Declaration-individuelle-operation-sur-titres-CB-Transaction-du-24-6-2021.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2021/06/20210616_VIV_Declaration-individuelle-operation-sur-titres-CdL-Transactions-1-et-2-du-14-6-2021.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2021/06/20210610_VIV_Declaration-individuelle-operations-sur-titres-VB-Transaction-du-07-06-2021.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2021/05/20210518_VIV_Declaration-individuelle-operation-sur-titres-V-art-621-18-2-du-Code-monetaire-et-financier-GA-Achat13-05-2021.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2021/03/Declaration-individuelle-operation-sur-titres-V-art-L-621-18-2-du-Code-monetaire-et-financier-VB-Transaction-12-du-9-3-2021.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2020/07/20200727_VIV_Declaration-individuelle-operation-sur-titres-Vivendi-art-L.-621-18-2-du-Code-monetaire-et-financier-HPacquisition210720.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2020/03/20200320_VIV_Declaration-individuelle-operation-sur-titres-Vivendi-art-L.-621-18-2-du-Code-monetaire-et-financier-FClevee180320.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2019/07/20190723_VIV_Declaration-individuelle-operation-sur-titres-Vivendi-art-L.-621-18-2-du-Code-monetaire-et-financier-ADPsouscription170719.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2019/06/Declaration-individuelle-operation-sur-titres-V-art-223-22-et-223-25-Reglt-Gen-AMF-VB-option-dachat-dactions05.06.19-1.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2019/03/20180307_VIV_Declaration_individuelle_operation_sur_titres_Vivendi_art_L_621_18_2_du_Code_monetaire_et_financier_FC_levee_050319_2.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2019/02/20190218_VIV_Declaration-individuelle-operation-sur-titres-Vivendi-art-L.-621-18-2-du-Code-monetaire-et-financier-SRvente1502192.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2019/01/20190104_VIV_Declaration-individuelle-operation-sur-titres-V-art-621-18-2-CMF-VB-Achats21.12.18Euronext-Paris.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  },
+  {
+    "url": "https://www.vivendi.com/wp-content/uploads/2018/10/Declaration-individuelle-operation-sur-titres-V-art-621-18-2-CMF-VB-Achats26.10.18TRQX.pdf",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 30,
+      "-weight.document": 30,
+      "+weight.document": 30,
+      "-weight.script": 25,
+      "+weight.script": 25,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 9,
+      "+weight.font": 9,
+      "+weight.fontCount": 5,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 30
+    }
+  }
+]

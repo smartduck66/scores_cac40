@@ -1,0 +1,3419 @@
+[
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/india-and-the-re-imagining-of-21st-century-cx-delivery/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/india-and-the-re-imagining-of-21st-century-cx-delivery/",
+    "timestamp": 1707509596440,
+    "ranks": {
+      "hundos": 1,
+      "performance": 1,
+      "accessibility": 9,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 319
+    },
+    "firstContentfulPaint": 3232.9069999999997,
+    "firstMeaningfulPaint": 3258.9069999999997,
+    "speedIndex": 4399.147009079682,
+    "largestContentfulPaint": 4081.734999999999,
+    "totalBlockingTime": 98.5,
+    "cumulativeLayoutShift": 0.05775828847468784,
+    "timeToInteractive": 8426.488522750855,
+    "maxPotentialFirstInputDelay": 113,
+    "timeToFirstByte": 217.721,
+    "weight": {
+      "summary": "36 requests • 1,2 MiB",
+      "total": 1278554,
+      "image": 203606,
+      "imageCount": 5,
+      "script": 440332,
+      "scriptCount": 12,
+      "document": 115870,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 84673,
+      "stylesheetCount": 4,
+      "thirdParty": 405078,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 42,
+      "-weight.document": 7,
+      "+weight.document": 45,
+      "-weight.script": 9,
+      "+weight.script": 42,
+      "-weight.image": 14,
+      "+weight.image": 38,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/press-releases/la-newsletter-des-actionnaires-juin-2022/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/press-releases/la-newsletter-des-actionnaires-juin-2022/",
+    "timestamp": 1707510015458,
+    "ranks": {
+      "hundos": 2,
+      "performance": 4,
+      "accessibility": 14,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.93,
+      "total": 318
+    },
+    "firstContentfulPaint": 3210.7124999999996,
+    "firstMeaningfulPaint": 3235.7124999999996,
+    "speedIndex": 4526.642503623826,
+    "largestContentfulPaint": 4572.6055,
+    "totalBlockingTime": 108.5,
+    "cumulativeLayoutShift": 0.022750491948765,
+    "timeToInteractive": 8465.746522750853,
+    "maxPotentialFirstInputDelay": 115,
+    "timeToFirstByte": 181.918,
+    "weight": {
+      "summary": "36 requests • 1,2 MiB",
+      "total": 1250154,
+      "image": 172080,
+      "imageCount": 5,
+      "script": 440166,
+      "scriptCount": 12,
+      "document": 119355,
+      "font": 415933,
+      "fontCount": 6,
+      "stylesheet": 84675,
+      "stylesheetCount": 4,
+      "thirdParty": 404894,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 45,
+      "-weight.document": 11,
+      "+weight.document": 41,
+      "-weight.script": 5,
+      "+weight.script": 46,
+      "-weight.image": 8,
+      "+weight.image": 44,
+      "-weight.font": 9,
+      "+weight.font": 18,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 1190,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/press-releases/teleperformance-rejoint-le-programme-ai-lighthouse-3-octobre-2023/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/press-releases/teleperformance-rejoint-le-programme-ai-lighthouse-3-octobre-2023/",
+    "timestamp": 1707509145442,
+    "ranks": {
+      "hundos": 3,
+      "performance": 2,
+      "accessibility": 15,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.93,
+      "total": 318
+    },
+    "firstContentfulPaint": 3134.1110000000003,
+    "firstMeaningfulPaint": 3155.6110000000003,
+    "speedIndex": 4449.9538948889995,
+    "largestContentfulPaint": 4634.9115,
+    "totalBlockingTime": 108,
+    "cumulativeLayoutShift": 0.02159417915705934,
+    "timeToInteractive": 8552.137522750854,
+    "maxPotentialFirstInputDelay": 115,
+    "timeToFirstByte": 201.54000000000002,
+    "weight": {
+      "summary": "35 requests • 1,2 MiB",
+      "total": 1257170,
+      "image": 177507,
+      "imageCount": 4,
+      "script": 440154,
+      "scriptCount": 12,
+      "document": 120817,
+      "font": 415920,
+      "fontCount": 6,
+      "stylesheet": 84678,
+      "stylesheetCount": 4,
+      "thirdParty": 405103,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 43,
+      "-weight.document": 17,
+      "+weight.document": 35,
+      "-weight.script": 1,
+      "+weight.script": 50,
+      "-weight.image": 11,
+      "+weight.image": 41,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 1190,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/press-releases/resultats-annuels-2022-16-fevrier-2023/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/press-releases/resultats-annuels-2022-16-fevrier-2023/",
+    "timestamp": 1707510072385,
+    "ranks": {
+      "hundos": 4,
+      "performance": 6,
+      "accessibility": 13,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.93,
+      "total": 317
+    },
+    "firstContentfulPaint": 3265.24,
+    "firstMeaningfulPaint": 3286.74,
+    "speedIndex": 6077.936166231921,
+    "largestContentfulPaint": 3333.74,
+    "totalBlockingTime": 95,
+    "cumulativeLayoutShift": 0.1511844059892192,
+    "timeToInteractive": 10031.831522750854,
+    "maxPotentialFirstInputDelay": 119,
+    "timeToFirstByte": 262.829,
+    "weight": {
+      "summary": "36 requests • 1,7 MiB",
+      "total": 1793858,
+      "image": 714594,
+      "imageCount": 4,
+      "script": 440159,
+      "scriptCount": 12,
+      "document": 120582,
+      "font": 415923,
+      "fontCount": 6,
+      "stylesheet": 84676,
+      "stylesheetCount": 4,
+      "thirdParty": 404739,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 27,
+      "-weight.document": 16,
+      "+weight.document": 36,
+      "-weight.script": 2,
+      "+weight.script": 49,
+      "-weight.image": 27,
+      "+weight.image": 25,
+      "-weight.font": 3,
+      "+weight.font": 24,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 1197,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/re-imagining-f-a-shared-services-in-the-covid-19-pandemic/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/re-imagining-f-a-shared-services-in-the-covid-19-pandemic/",
+    "timestamp": 1707507784381,
+    "ranks": {
+      "hundos": 5,
+      "performance": 5,
+      "accessibility": 7,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 316
+    },
+    "firstContentfulPaint": 3228.063,
+    "firstMeaningfulPaint": 3250.063,
+    "speedIndex": 4512.420840426899,
+    "largestContentfulPaint": 4583.596,
+    "totalBlockingTime": 122,
+    "cumulativeLayoutShift": 0.05959786717277991,
+    "timeToInteractive": 8436.139522750855,
+    "maxPotentialFirstInputDelay": 119,
+    "timeToFirstByte": 236.21999999999997,
+    "weight": {
+      "summary": "36 requests • 1,2 MiB",
+      "total": 1233628,
+      "image": 158146,
+      "imageCount": 5,
+      "script": 440321,
+      "scriptCount": 12,
+      "document": 116410,
+      "font": 415942,
+      "fontCount": 6,
+      "stylesheet": 84673,
+      "stylesheetCount": 4,
+      "thirdParty": 405957,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 47,
+      "-weight.document": 8,
+      "+weight.document": 44,
+      "-weight.script": 7,
+      "+weight.script": 44,
+      "-weight.image": 6,
+      "+weight.image": 46,
+      "-weight.font": 12,
+      "+weight.font": 15,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/india-is-the-global-fff-winner-once-again/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/india-is-the-global-fff-winner-once-again/",
+    "timestamp": 1707507796260,
+    "ranks": {
+      "hundos": 6,
+      "performance": 7,
+      "accessibility": 8,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 314
+    },
+    "firstContentfulPaint": 3248.8779999999997,
+    "firstMeaningfulPaint": 3273.3779999999997,
+    "speedIndex": 4983.88644924447,
+    "largestContentfulPaint": 4583.455999999999,
+    "totalBlockingTime": 104,
+    "cumulativeLayoutShift": 0.08937464296598803,
+    "timeToInteractive": 8989.504522750854,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 280.934,
+    "weight": {
+      "summary": "37 requests • 1,3 MiB",
+      "total": 1357365,
+      "image": 283023,
+      "imageCount": 5,
+      "script": 440380,
+      "scriptCount": 12,
+      "document": 115191,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 84676,
+      "stylesheetCount": 4,
+      "thirdParty": 404890,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 33,
+      "-weight.document": 2,
+      "+weight.document": 50,
+      "-weight.script": 11,
+      "+weight.script": 40,
+      "-weight.image": 20,
+      "+weight.image": 32,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/thinking-within-the-box/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/thinking-within-the-box/",
+    "timestamp": 1707508650813,
+    "ranks": {
+      "hundos": 7,
+      "performance": 8,
+      "accessibility": 5,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 314
+    },
+    "firstContentfulPaint": 3270.234,
+    "firstMeaningfulPaint": 3292.234,
+    "speedIndex": 5187.220673406621,
+    "largestContentfulPaint": 4614.783,
+    "totalBlockingTime": 125.5,
+    "cumulativeLayoutShift": 0.024672934681310384,
+    "timeToInteractive": 8970.598522750854,
+    "maxPotentialFirstInputDelay": 123,
+    "timeToFirstByte": 326.668,
+    "weight": {
+      "summary": "37 requests • 1,2 MiB",
+      "total": 1303907,
+      "image": 229610,
+      "imageCount": 5,
+      "script": 440649,
+      "scriptCount": 12,
+      "document": 115280,
+      "font": 415933,
+      "fontCount": 6,
+      "stylesheet": 84362,
+      "stylesheetCount": 4,
+      "thirdParty": 405130,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 38,
+      "-weight.document": 3,
+      "+weight.document": 49,
+      "-weight.script": 16,
+      "+weight.script": 35,
+      "-weight.image": 16,
+      "+weight.image": 36,
+      "-weight.font": 9,
+      "+weight.font": 18,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/you-re-never-too-busy-for-yourself/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/you-re-never-too-busy-for-yourself/",
+    "timestamp": 1707508639612,
+    "ranks": {
+      "hundos": 8,
+      "performance": 9,
+      "accessibility": 4,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 313
+    },
+    "firstContentfulPaint": 3195.3709999999996,
+    "firstMeaningfulPaint": 3220.3709999999996,
+    "speedIndex": 4871.57990363481,
+    "largestContentfulPaint": 4989.771,
+    "totalBlockingTime": 90,
+    "cumulativeLayoutShift": 0.08721166342246064,
+    "timeToInteractive": 8557.110522750852,
+    "maxPotentialFirstInputDelay": 115,
+    "timeToFirstByte": 272.647,
+    "weight": {
+      "summary": "35 requests • 1,2 MiB",
+      "total": 1253546,
+      "image": 174670,
+      "imageCount": 4,
+      "script": 440654,
+      "scriptCount": 12,
+      "document": 119804,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 84365,
+      "stylesheetCount": 4,
+      "thirdParty": 405063,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 44,
+      "-weight.document": 14,
+      "+weight.document": 38,
+      "-weight.script": 17,
+      "+weight.script": 34,
+      "-weight.image": 9,
+      "+weight.image": 43,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/digitalsmart-pr-seo-go-hand-in-hand/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/digitalsmart-pr-seo-go-hand-in-hand/",
+    "timestamp": 1707508719213,
+    "ranks": {
+      "hundos": 9,
+      "performance": 10,
+      "accessibility": 11,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 311
+    },
+    "firstContentfulPaint": 3280.6809999999996,
+    "firstMeaningfulPaint": 3302.6809999999996,
+    "speedIndex": 4801.532902292549,
+    "largestContentfulPaint": 4467.102500000001,
+    "totalBlockingTime": 123,
+    "cumulativeLayoutShift": 0.14397580610644434,
+    "timeToInteractive": 8377.741022750855,
+    "maxPotentialFirstInputDelay": 120,
+    "timeToFirstByte": 236.337,
+    "weight": {
+      "summary": "35 requests • 1,1 MiB",
+      "total": 1164108,
+      "image": 93313,
+      "imageCount": 4,
+      "script": 440642,
+      "scriptCount": 12,
+      "document": 111702,
+      "font": 415927,
+      "fontCount": 6,
+      "stylesheet": 84363,
+      "stylesheetCount": 4,
+      "thirdParty": 405048,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 49,
+      "-weight.document": 1,
+      "+weight.document": 51,
+      "-weight.script": 14,
+      "+weight.script": 37,
+      "-weight.image": 3,
+      "+weight.image": 49,
+      "-weight.font": 5,
+      "+weight.font": 22,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/investisseurs/presentation-investisseurs/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/investisseurs/presentation-investisseurs/",
+    "timestamp": 1707509293080,
+    "ranks": {
+      "hundos": 10,
+      "performance": 13,
+      "accessibility": 26,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.7,
+      "bestPractices": 0.78,
+      "seo": 0.93,
+      "total": 308
+    },
+    "firstContentfulPaint": 3251.4055,
+    "firstMeaningfulPaint": 3276.4055,
+    "speedIndex": 4418.89627544783,
+    "largestContentfulPaint": 7064.751,
+    "totalBlockingTime": 125,
+    "cumulativeLayoutShift": 0.015366698723385018,
+    "timeToInteractive": 8396.738045501708,
+    "maxPotentialFirstInputDelay": 119,
+    "timeToFirstByte": 444.964,
+    "weight": {
+      "summary": "37 requests • 1,1 MiB",
+      "total": 1148514,
+      "image": 56855,
+      "imageCount": 5,
+      "script": 440803,
+      "scriptCount": 12,
+      "document": 121776,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 85045,
+      "stylesheetCount": 4,
+      "thirdParty": 415140,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 50,
+      "-weight.document": 18,
+      "+weight.document": 34,
+      "-weight.script": 18,
+      "+weight.script": 33,
+      "-weight.image": 2,
+      "+weight.image": 50,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 1255,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/job-opportunities/india/sr-database-developer-thane/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/job-opportunities/india/sr-database-developer-thane/",
+    "timestamp": 1707510163095,
+    "ranks": {
+      "hundos": 11,
+      "performance": 3,
+      "accessibility": 3,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.72,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 307
+    },
+    "firstContentfulPaint": 3262.464,
+    "firstMeaningfulPaint": 3286.964,
+    "speedIndex": 4508.8819450911205,
+    "largestContentfulPaint": 4452.538,
+    "totalBlockingTime": 116.50000000000091,
+    "cumulativeLayoutShift": 0.01816037821970528,
+    "timeToInteractive": 8491.188522750854,
+    "maxPotentialFirstInputDelay": 114,
+    "timeToFirstByte": 236.912,
+    "weight": {
+      "summary": "36 requests • 1,1 MiB",
+      "total": 1186224,
+      "image": 111331,
+      "imageCount": 5,
+      "script": 440170,
+      "scriptCount": 12,
+      "document": 115386,
+      "font": 415942,
+      "fontCount": 6,
+      "stylesheet": 85289,
+      "stylesheetCount": 4,
+      "thirdParty": 404923,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 48,
+      "-weight.document": 4,
+      "+weight.document": 48,
+      "-weight.script": 6,
+      "+weight.script": 45,
+      "-weight.image": 4,
+      "+weight.image": 48,
+      "-weight.font": 12,
+      "+weight.font": 15,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 1420,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/high-tech-high-touch-for-a-better-customer-experience/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/high-tech-high-touch-for-a-better-customer-experience/",
+    "timestamp": 1707508509076,
+    "ranks": {
+      "hundos": 12,
+      "performance": 12,
+      "accessibility": 16,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 307
+    },
+    "firstContentfulPaint": 3041.8055,
+    "firstMeaningfulPaint": 3066.8055,
+    "speedIndex": 5248.601196097786,
+    "largestContentfulPaint": 6396.3955000000005,
+    "totalBlockingTime": 76.5,
+    "cumulativeLayoutShift": 0.002602793378530091,
+    "timeToInteractive": 9557.111022750856,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 292.652,
+    "weight": {
+      "summary": "54 requests • 1,2 MiB",
+      "total": 1279023,
+      "image": 145843,
+      "imageCount": 20,
+      "script": 488781,
+      "scriptCount": 14,
+      "document": 123589,
+      "font": 415920,
+      "fontCount": 6,
+      "stylesheet": 86281,
+      "stylesheetCount": 4,
+      "thirdParty": 459228,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 41,
+      "-weight.document": 23,
+      "+weight.document": 29,
+      "-weight.script": 24,
+      "+weight.script": 27,
+      "-weight.image": 5,
+      "+weight.image": 47,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 1981,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/harvard-business-review-analytic-services-tendances/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/harvard-business-review-analytic-services-tendances/",
+    "timestamp": 1707507595865,
+    "ranks": {
+      "hundos": 13,
+      "performance": 18,
+      "accessibility": 22,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 303
+    },
+    "firstContentfulPaint": 3233.3145,
+    "firstMeaningfulPaint": 3258.3145,
+    "speedIndex": 5959.413153850603,
+    "largestContentfulPaint": 6402.6714999999995,
+    "totalBlockingTime": 165.5,
+    "cumulativeLayoutShift": 0.014006470672703877,
+    "timeToInteractive": 10061.582022750856,
+    "maxPotentialFirstInputDelay": 125,
+    "timeToFirstByte": 417.792,
+    "weight": {
+      "summary": "54 requests • 1,3 MiB",
+      "total": 1347928,
+      "image": 208831,
+      "imageCount": 20,
+      "script": 488783,
+      "scriptCount": 14,
+      "document": 129546,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 86280,
+      "stylesheetCount": 4,
+      "thirdParty": 459219,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 34,
+      "-weight.document": 30,
+      "+weight.document": 22,
+      "-weight.script": 25,
+      "+weight.script": 26,
+      "-weight.image": 15,
+      "+weight.image": 37,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/the-world-of-retail-is-a-ground-for-innovative-cx/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/the-world-of-retail-is-a-ground-for-innovative-cx/",
+    "timestamp": 1707508450415,
+    "ranks": {
+      "hundos": 14,
+      "performance": 19,
+      "accessibility": 18,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 303
+    },
+    "firstContentfulPaint": 3211.759,
+    "firstMeaningfulPaint": 3233.759,
+    "speedIndex": 6316.628091492211,
+    "largestContentfulPaint": 6528.347,
+    "totalBlockingTime": 126.5,
+    "cumulativeLayoutShift": 0.014597275354649396,
+    "timeToInteractive": 9755.928522750854,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 993.4429999999999,
+    "weight": {
+      "summary": "54 requests • 1,3 MiB",
+      "total": 1331519,
+      "image": 197883,
+      "imageCount": 20,
+      "script": 489105,
+      "scriptCount": 14,
+      "document": 124260,
+      "font": 415922,
+      "fontCount": 6,
+      "stylesheet": 85971,
+      "stylesheetCount": 4,
+      "thirdParty": 460086,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 35,
+      "-weight.document": 25,
+      "+weight.document": 27,
+      "-weight.script": 36,
+      "+weight.script": 15,
+      "-weight.image": 12,
+      "+weight.image": 40,
+      "-weight.font": 2,
+      "+weight.font": 25,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 1754,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/press-releases/relevement-de-la-notation-de-credit/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/press-releases/relevement-de-la-notation-de-credit/",
+    "timestamp": 1707510004209,
+    "ranks": {
+      "hundos": 15,
+      "performance": 24,
+      "accessibility": 27,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.7,
+      "bestPractices": 0.78,
+      "seo": 0.93,
+      "total": 303
+    },
+    "firstContentfulPaint": 3225.1099999999997,
+    "firstMeaningfulPaint": 3250.1099999999997,
+    "speedIndex": 6765.237721865966,
+    "largestContentfulPaint": 6342.305,
+    "totalBlockingTime": 90.5,
+    "cumulativeLayoutShift": 0.10809635982245624,
+    "timeToInteractive": 9190.056272750855,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 1608.556,
+    "weight": {
+      "summary": "36 requests • 1,3 MiB",
+      "total": 1326550,
+      "image": 248976,
+      "imageCount": 4,
+      "script": 440414,
+      "scriptCount": 12,
+      "document": 118129,
+      "font": 415937,
+      "fontCount": 6,
+      "stylesheet": 84865,
+      "stylesheetCount": 4,
+      "thirdParty": 405034,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 37,
+      "-weight.document": 9,
+      "+weight.document": 43,
+      "-weight.script": 12,
+      "+weight.script": 39,
+      "-weight.image": 17,
+      "+weight.image": 35,
+      "-weight.font": 10,
+      "+weight.font": 17,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 1217,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/e-commerce-the-changing-paradigm-driving-consumer-empowerment/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/e-commerce-the-changing-paradigm-driving-consumer-empowerment/",
+    "timestamp": 1707508707305,
+    "ranks": {
+      "hundos": 16,
+      "performance": 28,
+      "accessibility": 10,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 302
+    },
+    "firstContentfulPaint": 3184.5245000000004,
+    "firstMeaningfulPaint": 3210.0245000000004,
+    "speedIndex": 4351.225160419991,
+    "largestContentfulPaint": 8455.8045,
+    "totalBlockingTime": 66,
+    "cumulativeLayoutShift": 0.16260571896826836,
+    "timeToInteractive": 8558.090022750854,
+    "maxPotentialFirstInputDelay": 119,
+    "timeToFirstByte": 185.26000000000002,
+    "weight": {
+      "summary": "36 requests • 1,2 MiB",
+      "total": 1281405,
+      "image": 203092,
+      "imageCount": 5,
+      "script": 440331,
+      "scriptCount": 12,
+      "document": 119390,
+      "font": 415920,
+      "fontCount": 6,
+      "stylesheet": 84672,
+      "stylesheetCount": 4,
+      "thirdParty": 404735,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 40,
+      "-weight.document": 12,
+      "+weight.document": 40,
+      "-weight.script": 8,
+      "+weight.script": 43,
+      "-weight.image": 13,
+      "+weight.image": 39,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/cx-lab-elever-l-experience-client/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/cx-lab-elever-l-experience-client/",
+    "timestamp": 1707507570440,
+    "ranks": {
+      "hundos": 17,
+      "performance": 16,
+      "accessibility": 25,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.7,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 302
+    },
+    "firstContentfulPaint": 3204.794499999999,
+    "firstMeaningfulPaint": 3226.794499999999,
+    "speedIndex": 5352.587218106635,
+    "largestContentfulPaint": 6524.8345,
+    "totalBlockingTime": 113.5,
+    "cumulativeLayoutShift": 0.10337720575860748,
+    "timeToInteractive": 10030.346522750853,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 229.137,
+    "weight": {
+      "summary": "54 requests • 1,4 MiB",
+      "total": 1416068,
+      "image": 282975,
+      "imageCount": 20,
+      "script": 489092,
+      "scriptCount": 14,
+      "document": 123570,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 85982,
+      "stylesheetCount": 4,
+      "thirdParty": 458964,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 32,
+      "-weight.document": 22,
+      "+weight.document": 30,
+      "-weight.script": 31,
+      "+weight.script": 20,
+      "-weight.image": 19,
+      "+weight.image": 33,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/harnessing-the-artificial-to-foster-the-authentic/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/harnessing-the-artificial-to-foster-the-authentic/",
+    "timestamp": 1707507607533,
+    "ranks": {
+      "hundos": 18,
+      "performance": 22,
+      "accessibility": 23,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 301
+    },
+    "firstContentfulPaint": 3208.5355,
+    "firstMeaningfulPaint": 3230.5355,
+    "speedIndex": 6444.673254781347,
+    "largestContentfulPaint": 12600.377499999999,
+    "totalBlockingTime": 122.5,
+    "cumulativeLayoutShift": 0.015132983037190326,
+    "timeToInteractive": 12320.787522750854,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 212.371,
+    "weight": {
+      "summary": "54 requests • 2,3 MiB",
+      "total": 2413993,
+      "image": 1277870,
+      "imageCount": 20,
+      "script": 488789,
+      "scriptCount": 14,
+      "document": 126566,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 86278,
+      "stylesheetCount": 4,
+      "thirdParty": 459120,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 21,
+      "-weight.document": 29,
+      "+weight.document": 23,
+      "-weight.script": 26,
+      "+weight.script": 25,
+      "-weight.image": 35,
+      "+weight.image": 17,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/competence-contre-suffisance-le-pionnier-en-teletravail-wish/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/competence-contre-suffisance-le-pionnier-en-teletravail-wish/",
+    "timestamp": 1707509372878,
+    "ranks": {
+      "hundos": 19,
+      "performance": 25,
+      "accessibility": 21,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 300
+    },
+    "firstContentfulPaint": 3248.9764999999998,
+    "firstMeaningfulPaint": 3273.4764999999998,
+    "speedIndex": 5856.730593615336,
+    "largestContentfulPaint": 7738.718500000001,
+    "totalBlockingTime": 116.5,
+    "cumulativeLayoutShift": 0.10542347869244022,
+    "timeToInteractive": 12004.841022750854,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 309.99,
+    "weight": {
+      "summary": "48 requests • 2,1 MiB",
+      "total": 2235425,
+      "image": 1101018,
+      "imageCount": 14,
+      "script": 489098,
+      "scriptCount": 14,
+      "document": 124791,
+      "font": 415933,
+      "fontCount": 6,
+      "stylesheet": 85973,
+      "stylesheetCount": 4,
+      "thirdParty": 459091,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 23,
+      "-weight.document": 26,
+      "+weight.document": 26,
+      "-weight.script": 34,
+      "+weight.script": 17,
+      "-weight.image": 31,
+      "+weight.image": 21,
+      "-weight.font": 9,
+      "+weight.font": 18,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/teleperformance-in-india-wins-6-golds-and-industry-champion-award/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/teleperformance-in-india-wins-6-golds-and-industry-champion-award/",
+    "timestamp": 1707508662491,
+    "ranks": {
+      "hundos": 20,
+      "performance": 31,
+      "accessibility": 6,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 300
+    },
+    "firstContentfulPaint": 3237.5665000000004,
+    "firstMeaningfulPaint": 3262.0665000000004,
+    "speedIndex": 5170.634619344657,
+    "largestContentfulPaint": 4843.086499999999,
+    "totalBlockingTime": 555,
+    "cumulativeLayoutShift": 0.07036317377232332,
+    "timeToInteractive": 9659.784045501707,
+    "maxPotentialFirstInputDelay": 940,
+    "timeToFirstByte": 219.81399999999996,
+    "weight": {
+      "summary": "37 requests • 1,3 MiB",
+      "total": 1326905,
+      "image": 252153,
+      "imageCount": 5,
+      "script": 440336,
+      "scriptCount": 12,
+      "document": 115628,
+      "font": 415939,
+      "fontCount": 6,
+      "stylesheet": 84674,
+      "stylesheetCount": 4,
+      "thirdParty": 405068,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 36,
+      "-weight.document": 6,
+      "+weight.document": 46,
+      "-weight.script": 10,
+      "+weight.script": 41,
+      "-weight.image": 18,
+      "+weight.image": 34,
+      "-weight.font": 11,
+      "+weight.font": 16,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 50,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/becoming-gender-balance-is-an-imperative-for-growth/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/india/becoming-gender-balance-is-an-imperative-for-growth/",
+    "timestamp": 1707507841141,
+    "ranks": {
+      "hundos": 21,
+      "performance": 33,
+      "accessibility": 12,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.72,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 299
+    },
+    "firstContentfulPaint": 3237.335,
+    "firstMeaningfulPaint": 3259.335,
+    "speedIndex": 4755.451084125118,
+    "largestContentfulPaint": 8238.240522750853,
+    "totalBlockingTime": 118.5,
+    "cumulativeLayoutShift": 0.18180125976194872,
+    "timeToInteractive": 8738.780522750852,
+    "maxPotentialFirstInputDelay": 121,
+    "timeToFirstByte": 329.93,
+    "weight": {
+      "summary": "36 requests • 1,2 MiB",
+      "total": 1249341,
+      "image": 174909,
+      "imageCount": 5,
+      "script": 440646,
+      "scriptCount": 12,
+      "document": 115454,
+      "font": 415929,
+      "fontCount": 6,
+      "stylesheet": 84365,
+      "stylesheetCount": 4,
+      "thirdParty": 404965,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 46,
+      "-weight.document": 5,
+      "+weight.document": 47,
+      "-weight.script": 15,
+      "+weight.script": 36,
+      "-weight.image": 10,
+      "+weight.image": 42,
+      "-weight.font": 7,
+      "+weight.font": 20,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 1373,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/the-post-pandemic-transformation-of-healthcare/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/the-post-pandemic-transformation-of-healthcare/",
+    "timestamp": 1707509336629,
+    "ranks": {
+      "hundos": 22,
+      "performance": 15,
+      "accessibility": 20,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 299
+    },
+    "firstContentfulPaint": 3238.072,
+    "firstMeaningfulPaint": 3260.072,
+    "speedIndex": 5297.787673858789,
+    "largestContentfulPaint": 6105.106999999998,
+    "totalBlockingTime": 107,
+    "cumulativeLayoutShift": 0.015230568056033686,
+    "timeToInteractive": 9562.964022750853,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 390.591,
+    "weight": {
+      "summary": "53 requests • 1,2 MiB",
+      "total": 1291296,
+      "image": 162021,
+      "imageCount": 19,
+      "script": 488799,
+      "scriptCount": 14,
+      "document": 119803,
+      "font": 415920,
+      "fontCount": 6,
+      "stylesheet": 86276,
+      "stylesheetCount": 4,
+      "thirdParty": 459207,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 39,
+      "-weight.document": 13,
+      "+weight.document": 39,
+      "-weight.script": 28,
+      "+weight.script": 23,
+      "-weight.image": 7,
+      "+weight.image": 45,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/la-petite-etincelle-du-changement/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/la-petite-etincelle-du-changement/",
+    "timestamp": 1707509445101,
+    "ranks": {
+      "hundos": 23,
+      "performance": 29,
+      "accessibility": 24,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 298
+    },
+    "firstContentfulPaint": 3230.678,
+    "firstMeaningfulPaint": 3256.178,
+    "speedIndex": 6271.166384276564,
+    "largestContentfulPaint": 7671.736999999998,
+    "totalBlockingTime": 173.5,
+    "cumulativeLayoutShift": 0.10337720575860748,
+    "timeToInteractive": 10305.176022750853,
+    "maxPotentialFirstInputDelay": 117,
+    "timeToFirstByte": 801.711,
+    "weight": {
+      "summary": "54 requests • 1,4 MiB",
+      "total": 1424073,
+      "image": 288477,
+      "imageCount": 20,
+      "script": 489102,
+      "scriptCount": 14,
+      "document": 126203,
+      "font": 415920,
+      "fontCount": 6,
+      "stylesheet": 85975,
+      "stylesheetCount": 4,
+      "thirdParty": 458882,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 31,
+      "-weight.document": 28,
+      "+weight.document": 24,
+      "-weight.script": 35,
+      "+weight.script": 16,
+      "-weight.image": 21,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/job-opportunities/india/manager-talent-acquisition-bangalore/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/job-opportunities/india/manager-talent-acquisition-bangalore/",
+    "timestamp": 1707509213668,
+    "ranks": {
+      "hundos": 24,
+      "performance": 17,
+      "accessibility": 2,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.72,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 296
+    },
+    "firstContentfulPaint": 3248.0120000000006,
+    "firstMeaningfulPaint": 3273.5120000000006,
+    "speedIndex": 5693.8648826884455,
+    "largestContentfulPaint": 8423.055999999999,
+    "totalBlockingTime": 136,
+    "cumulativeLayoutShift": 0.004306117331810485,
+    "timeToInteractive": 11100.267522750853,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 197.84699999999998,
+    "weight": {
+      "summary": "38 requests • 2,1 MiB",
+      "total": 2188066,
+      "image": 1105976,
+      "imageCount": 6,
+      "script": 440463,
+      "scriptCount": 12,
+      "document": 122488,
+      "font": 415928,
+      "fontCount": 6,
+      "stylesheet": 84986,
+      "stylesheetCount": 4,
+      "thirdParty": 405128,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 24,
+      "-weight.document": 20,
+      "+weight.document": 32,
+      "-weight.script": 13,
+      "+weight.script": 38,
+      "-weight.image": 32,
+      "+weight.image": 20,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 1499,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/france-1/les-objets-connectes-vont-renforcer-l-experience-client/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/france-1/les-objets-connectes-vont-renforcer-l-experience-client/",
+    "timestamp": 1707509687626,
+    "ranks": {
+      "hundos": 25,
+      "performance": 23,
+      "accessibility": 29,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.66,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 296
+    },
+    "firstContentfulPaint": 3409.775,
+    "firstMeaningfulPaint": 3434.775,
+    "speedIndex": 6496.768665118759,
+    "largestContentfulPaint": 7519.479999999998,
+    "totalBlockingTime": 137,
+    "cumulativeLayoutShift": 0.0005999503553986979,
+    "timeToInteractive": 11835.857022750852,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 264.041,
+    "weight": {
+      "summary": "66 requests • 3,4 MiB",
+      "total": 3512936,
+      "image": 2354711,
+      "imageCount": 26,
+      "script": 488628,
+      "scriptCount": 14,
+      "document": 137775,
+      "font": 415928,
+      "fontCount": 6,
+      "stylesheet": 86460,
+      "stylesheetCount": 4,
+      "thirdParty": 468613,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 13,
+      "-weight.document": 35,
+      "+weight.document": 17,
+      "-weight.script": 23,
+      "+weight.script": 28,
+      "-weight.image": 49,
+      "+weight.image": 3,
+      "-weight.font": 6,
+      "+weight.font": 21,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 1380,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/reducing-risks-tp-s-work-at-home-solutions/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/reducing-risks-tp-s-work-at-home-solutions/",
+    "timestamp": 1707509321510,
+    "ranks": {
+      "hundos": 26,
+      "performance": 27,
+      "accessibility": 19,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.71,
+      "bestPractices": 0.74,
+      "seo": 0.9,
+      "total": 296
+    },
+    "firstContentfulPaint": 3203.5169999999994,
+    "firstMeaningfulPaint": 3228.0169999999994,
+    "speedIndex": 7254.596828730412,
+    "largestContentfulPaint": 6717.5495,
+    "totalBlockingTime": 95.5,
+    "cumulativeLayoutShift": 0.10337720575860748,
+    "timeToInteractive": 13821.536772750855,
+    "maxPotentialFirstInputDelay": 115,
+    "timeToFirstByte": 296.92999999999995,
+    "weight": {
+      "summary": "49 requests • 2,8 MiB",
+      "total": 2978820,
+      "image": 1845235,
+      "imageCount": 15,
+      "script": 488792,
+      "scriptCount": 14,
+      "document": 124122,
+      "font": 415920,
+      "fontCount": 6,
+      "stylesheet": 86276,
+      "stylesheetCount": 4,
+      "thirdParty": 459138,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 18,
+      "-weight.document": 24,
+      "+weight.document": 28,
+      "-weight.script": 27,
+      "+weight.script": 24,
+      "-weight.image": 47,
+      "+weight.image": 5,
+      "-weight.font": 1,
+      "+weight.font": 26,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/change-management-is-critical-to-transforming-your-business-successfully/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/change-management-is-critical-to-transforming-your-business-successfully/",
+    "timestamp": 1707507677132,
+    "ranks": {
+      "hundos": 27,
+      "performance": 34,
+      "accessibility": 17,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.71,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 294
+    },
+    "firstContentfulPaint": 3141.226,
+    "firstMeaningfulPaint": 3184.726,
+    "speedIndex": 7857.939770496505,
+    "largestContentfulPaint": 12083.994000000004,
+    "totalBlockingTime": 199,
+    "cumulativeLayoutShift": 0.11825821446181085,
+    "timeToInteractive": 13135.192022750854,
+    "maxPotentialFirstInputDelay": 127,
+    "timeToFirstByte": 224.938,
+    "weight": {
+      "summary": "54 requests • 2,5 MiB",
+      "total": 2643158,
+      "image": 1510243,
+      "imageCount": 19,
+      "script": 489097,
+      "scriptCount": 14,
+      "document": 123321,
+      "font": 415933,
+      "fontCount": 6,
+      "stylesheet": 85965,
+      "stylesheetCount": 4,
+      "thirdParty": 459295,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 20,
+      "-weight.document": 21,
+      "+weight.document": 31,
+      "-weight.script": 33,
+      "+weight.script": 18,
+      "-weight.image": 40,
+      "+weight.image": 12,
+      "-weight.font": 9,
+      "+weight.font": 18,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 1788,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/groupama-et-tp-inscrivent-leur-partenariat-dans-la-confiance/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/groupama-et-tp-inscrivent-leur-partenariat-dans-la-confiance/",
+    "timestamp": 1707509432697,
+    "ranks": {
+      "hundos": 28,
+      "performance": 14,
+      "accessibility": 34,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.64,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 292
+    },
+    "firstContentfulPaint": 3174.2145,
+    "firstMeaningfulPaint": 3174.2145,
+    "speedIndex": 5245.658916555055,
+    "largestContentfulPaint": 7045.0395,
+    "totalBlockingTime": 71,
+    "cumulativeLayoutShift": 0.002602793378530091,
+    "timeToInteractive": 10281.430522750852,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 221.628,
+    "weight": {
+      "summary": "56 requests • 1,4 MiB",
+      "total": 1467680,
+      "image": 328079,
+      "imageCount": 22,
+      "script": 489094,
+      "scriptCount": 14,
+      "document": 129963,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 85972,
+      "stylesheetCount": 4,
+      "thirdParty": 459272,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 30,
+      "-weight.document": 31,
+      "+weight.document": 21,
+      "-weight.script": 32,
+      "+weight.script": 19,
+      "-weight.image": 22,
+      "+weight.image": 30,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 1746,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/how-does-analytics-work-for-social-commerce-in-china/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/how-does-analytics-work-for-social-commerce-in-china/",
+    "timestamp": 1707509503339,
+    "ranks": {
+      "hundos": 29,
+      "performance": 30,
+      "accessibility": 35,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.59,
+      "accessibility": 0.64,
+      "bestPractices": 0.78,
+      "seo": 0.9,
+      "total": 291
+    },
+    "firstContentfulPaint": 3398.6640000000007,
+    "firstMeaningfulPaint": 3424.1640000000007,
+    "speedIndex": 7673.332713886082,
+    "largestContentfulPaint": 10896.912000000002,
+    "totalBlockingTime": 164.5,
+    "cumulativeLayoutShift": 0.014437944889812548,
+    "timeToInteractive": 12416.310022750857,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 316.88599999999997,
+    "weight": {
+      "summary": "64 requests • 2,1 MiB",
+      "total": 2248575,
+      "image": 1086392,
+      "imageCount": 28,
+      "script": 489042,
+      "scriptCount": 14,
+      "document": 141913,
+      "font": 415933,
+      "fontCount": 6,
+      "stylesheet": 86946,
+      "stylesheetCount": 4,
+      "thirdParty": 469057,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 22,
+      "-weight.document": 36,
+      "+weight.document": 16,
+      "-weight.script": 30,
+      "+weight.script": 21,
+      "-weight.image": 30,
+      "+weight.image": 22,
+      "-weight.font": 9,
+      "+weight.font": 18,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 1729,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/the-impossible-reimagined-2-2-2-3-3-2-2-3-1-1-1-2-1-1-1-1-1/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/the-impossible-reimagined-2-2-2-3-3-2-2-3-1-1-1-2-1-1-1-1-1/",
+    "timestamp": 1707509527886,
+    "ranks": {
+      "hundos": 30,
+      "performance": 20,
+      "accessibility": 28,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.63,
+      "accessibility": 0.66,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 290
+    },
+    "firstContentfulPaint": 3230.2080000000005,
+    "firstMeaningfulPaint": 3255.2080000000005,
+    "speedIndex": 4844.453281819167,
+    "largestContentfulPaint": 6965.363000000001,
+    "totalBlockingTime": 133.5,
+    "cumulativeLayoutShift": 0.10337720575860748,
+    "timeToInteractive": 9534.201522750856,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 237.98200000000003,
+    "weight": {
+      "summary": "40 requests • 1,5 MiB",
+      "total": 1521356,
+      "image": 430054,
+      "imageCount": 9,
+      "script": 440862,
+      "scriptCount": 12,
+      "document": 131800,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 84548,
+      "stylesheetCount": 4,
+      "thirdParty": 405180,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 29,
+      "-weight.document": 33,
+      "+weight.document": 19,
+      "-weight.script": 19,
+      "+weight.script": 32,
+      "-weight.image": 25,
+      "+weight.image": 27,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 3455,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/job-opportunities/india/director-quality-bangalore/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/job-opportunities/india/director-quality-bangalore/",
+    "timestamp": 1707508261563,
+    "ranks": {
+      "hundos": 31,
+      "performance": 32,
+      "accessibility": 1,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.72,
+      "bestPractices": 0.74,
+      "seo": 0.86,
+      "total": 290
+    },
+    "firstContentfulPaint": 3222.3970000000004,
+    "firstMeaningfulPaint": 3247.3970000000004,
+    "speedIndex": 7559.594367604036,
+    "largestContentfulPaint": 17694.783999999996,
+    "totalBlockingTime": 120,
+    "cumulativeLayoutShift": 0.10768651158999226,
+    "timeToInteractive": 12485.840522750852,
+    "maxPotentialFirstInputDelay": 114,
+    "timeToFirstByte": 197.354,
+    "weight": {
+      "summary": "36 requests • 2,7 MiB",
+      "total": 2836452,
+      "image": 1754688,
+      "imageCount": 5,
+      "script": 440165,
+      "scriptCount": 12,
+      "document": 122331,
+      "font": 415931,
+      "fontCount": 6,
+      "stylesheet": 85289,
+      "stylesheetCount": 4,
+      "thirdParty": 404940,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 1,
+      "total": 2
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 19,
+      "-weight.document": 19,
+      "+weight.document": 33,
+      "-weight.script": 4,
+      "+weight.script": 47,
+      "-weight.image": 46,
+      "+weight.image": 6,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 51
+    },
+    "axe": {
+      "passes": 1503,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/outbreak-optimism-ten-post-pandemic-positives-we-can-all-look-forward-to/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/teleperformance-blogs/global/outbreak-optimism-ten-post-pandemic-positives-we-can-all-look-forward-to/",
+    "timestamp": 1707507725359,
+    "ranks": {
+      "hundos": 32,
+      "performance": 21,
+      "accessibility": 30,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.62,
+      "accessibility": 0.66,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 289
+    },
+    "firstContentfulPaint": 3412.6389999999997,
+    "firstMeaningfulPaint": 3437.6389999999997,
+    "speedIndex": 6379.529348010151,
+    "largestContentfulPaint": 8503.616,
+    "totalBlockingTime": 131.5,
+    "cumulativeLayoutShift": 0.025277943544866628,
+    "timeToInteractive": 12049.239022750855,
+    "maxPotentialFirstInputDelay": 120,
+    "timeToFirstByte": 262.287,
+    "weight": {
+      "summary": "62 requests • 1,8 MiB",
+      "total": 1907929,
+      "image": 495707,
+      "imageCount": 25,
+      "script": 489024,
+      "scriptCount": 14,
+      "document": 145973,
+      "font": 661491,
+      "fontCount": 8,
+      "stylesheet": 86942,
+      "stylesheetCount": 4,
+      "thirdParty": 469190,
+      "thirdPartyCount": 7
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 25,
+      "-weight.document": 37,
+      "+weight.document": 15,
+      "-weight.script": 29,
+      "+weight.script": 22,
+      "-weight.image": 26,
+      "+weight.image": 26,
+      "-weight.font": 26,
+      "+weight.font": 1,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 1375,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/login-alumni/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/login-alumni/",
+    "timestamp": 1707509235674,
+    "ranks": {
+      "hundos": 33,
+      "performance": 11,
+      "accessibility": 32,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.65,
+      "bestPractices": 0.78,
+      "seo": 0.77,
+      "total": 288
+    },
+    "firstContentfulPaint": 3281.8705000000004,
+    "firstMeaningfulPaint": 3306.8705000000004,
+    "speedIndex": 4568.188718807119,
+    "largestContentfulPaint": 6270.8255,
+    "totalBlockingTime": 99,
+    "cumulativeLayoutShift": 0.015168928882161021,
+    "timeToInteractive": 8318.245522750856,
+    "maxPotentialFirstInputDelay": 129,
+    "timeToFirstByte": 388.833,
+    "weight": {
+      "summary": "34 requests • 1,1 MiB",
+      "total": 1113429,
+      "image": 36078,
+      "imageCount": 3,
+      "script": 440163,
+      "scriptCount": 12,
+      "document": 119104,
+      "font": 415924,
+      "fontCount": 6,
+      "stylesheet": 84196,
+      "stylesheetCount": 4,
+      "thirdParty": 404830,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 51,
+      "-weight.document": 10,
+      "+weight.document": 42,
+      "-weight.script": 3,
+      "+weight.script": 48,
+      "-weight.image": 1,
+      "+weight.image": 51,
+      "-weight.font": 4,
+      "+weight.font": 23,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 1126,
+      "violations": 88
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/locations/france-site/france/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/",
+    "timestamp": 1707508356431,
+    "ranks": {
+      "hundos": 34,
+      "performance": 26,
+      "accessibility": 51,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.54,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 279
+    },
+    "firstContentfulPaint": 3252.1850000000004,
+    "firstMeaningfulPaint": 3277.1850000000004,
+    "speedIndex": 6642.272678989299,
+    "largestContentfulPaint": 14083.682499999999,
+    "totalBlockingTime": 165,
+    "cumulativeLayoutShift": 0.014247568407872575,
+    "timeToInteractive": 12189.23254550171,
+    "maxPotentialFirstInputDelay": 126,
+    "timeToFirstByte": 366.126,
+    "weight": {
+      "summary": "61 requests • 10,4 MiB",
+      "total": 10909934,
+      "image": 2810267,
+      "imageCount": 23,
+      "script": 444396,
+      "scriptCount": 12,
+      "document": 131227,
+      "font": 415931,
+      "fontCount": 6,
+      "stylesheet": 95421,
+      "stylesheetCount": 4,
+      "thirdParty": 414788,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 51,
+      "+weight.total": 1,
+      "-weight.document": 32,
+      "+weight.document": 20,
+      "-weight.script": 21,
+      "+weight.script": 30,
+      "-weight.image": 51,
+      "+weight.image": 1,
+      "-weight.font": 8,
+      "+weight.font": 19,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 1399,
+      "violations": 92
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/investisseurs/publications-et-evenements/dette-et-investisseurs-obligataires/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/investisseurs/publications-et-evenements/dette-et-investisseurs-obligataires/",
+    "timestamp": 1707509280305,
+    "ranks": {
+      "hundos": 35,
+      "performance": 37,
+      "accessibility": 33,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.42,
+      "accessibility": 0.65,
+      "bestPractices": 0.78,
+      "seo": 0.86,
+      "total": 271
+    },
+    "firstContentfulPaint": 3240.13,
+    "firstMeaningfulPaint": 3265.13,
+    "speedIndex": 5745.6380336981965,
+    "largestContentfulPaint": 11899.7085,
+    "totalBlockingTime": 98.5,
+    "cumulativeLayoutShift": 0.5698223912320678,
+    "timeToInteractive": 9900.272522750853,
+    "maxPotentialFirstInputDelay": 118,
+    "timeToFirstByte": 521.494,
+    "weight": {
+      "summary": "42 requests • 1,5 MiB",
+      "total": 1565492,
+      "image": 343559,
+      "imageCount": 5,
+      "script": 445399,
+      "scriptCount": 12,
+      "document": 120093,
+      "font": 531107,
+      "fontCount": 8,
+      "stylesheet": 104501,
+      "stylesheetCount": 5,
+      "thirdParty": 490250,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 28,
+      "-weight.document": 15,
+      "+weight.document": 37,
+      "-weight.script": 22,
+      "+weight.script": 29,
+      "-weight.image": 24,
+      "+weight.image": 28,
+      "-weight.font": 14,
+      "+weight.font": 13,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 1357,
+      "violations": 91
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/reports/2018-integrated-report/",
+    "timestamp": 1707509991518,
+    "ranks": {
+      "hundos": 36,
+      "performance": 35,
+      "accessibility": 50,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.52,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 267
+    },
+    "firstContentfulPaint": 3415.3469999999998,
+    "firstMeaningfulPaint": 3439.3469999999998,
+    "speedIndex": 9431.419440892434,
+    "largestContentfulPaint": 12768.882999999998,
+    "totalBlockingTime": 331.5,
+    "cumulativeLayoutShift": 0.024745937581214746,
+    "timeToInteractive": 19578.461750000002,
+    "maxPotentialFirstInputDelay": 144,
+    "timeToFirstByte": 462.295,
+    "weight": {
+      "summary": "184 requests • 3,9 MiB",
+      "total": 4102519,
+      "image": 1886660,
+      "imageCount": 40,
+      "script": 1089916,
+      "scriptCount": 62,
+      "document": 365578,
+      "font": 550098,
+      "fontCount": 17,
+      "stylesheet": 166296,
+      "stylesheetCount": 20,
+      "thirdParty": 1024936,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 2,
+      "-weight.document": 40,
+      "+weight.document": 12,
+      "-weight.script": 47,
+      "+weight.script": 4,
+      "-weight.image": 48,
+      "+weight.image": 4,
+      "-weight.font": 23,
+      "+weight.font": 4,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/teleperformance-entrer-au-cac-40-une-opportunite-et-un-devoir-2/",
+    "timestamp": 1707509032322,
+    "ranks": {
+      "hundos": 37,
+      "performance": 36,
+      "accessibility": 50,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 266
+    },
+    "firstContentfulPaint": 3406.8689999999997,
+    "firstMeaningfulPaint": 3428.3689999999997,
+    "speedIndex": 14435.744610979002,
+    "largestContentfulPaint": 10374.903999999999,
+    "totalBlockingTime": 341.5,
+    "cumulativeLayoutShift": 0.024745937581214746,
+    "timeToInteractive": 20146.62425,
+    "maxPotentialFirstInputDelay": 121,
+    "timeToFirstByte": 890.602,
+    "weight": {
+      "summary": "182 requests • 3,7 MiB",
+      "total": 3886454,
+      "image": 1670081,
+      "imageCount": 37,
+      "script": 1089613,
+      "scriptCount": 62,
+      "document": 366487,
+      "font": 550105,
+      "fontCount": 17,
+      "stylesheet": 166601,
+      "stylesheetCount": 20,
+      "thirdParty": 1024809,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 5,
+      "-weight.document": 41,
+      "+weight.document": 11,
+      "-weight.script": 45,
+      "+weight.script": 6,
+      "-weight.image": 43,
+      "+weight.image": 9,
+      "-weight.font": 24,
+      "+weight.font": 3,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/investisseurs/la-newsletter-des-actionnaires-decembre-2023/le-carnet-de-l-actionnaire/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/investisseurs/la-newsletter-des-actionnaires-decembre-2023/le-carnet-de-l-actionnaire/",
+    "timestamp": 1707509308084,
+    "ranks": {
+      "hundos": 38,
+      "performance": 40,
+      "accessibility": 31,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.38,
+      "accessibility": 0.66,
+      "bestPractices": 0.74,
+      "seo": 0.83,
+      "total": 261
+    },
+    "firstContentfulPaint": 3249.8675,
+    "firstMeaningfulPaint": 3271.8675,
+    "speedIndex": 5819.892375341953,
+    "largestContentfulPaint": 9840.659,
+    "totalBlockingTime": 253,
+    "cumulativeLayoutShift": 0.5106882496813906,
+    "timeToInteractive": 12528.360522750856,
+    "maxPotentialFirstInputDelay": 126,
+    "timeToFirstByte": 327.292,
+    "weight": {
+      "summary": "85 requests • 1,8 MiB",
+      "total": 1880086,
+      "image": 343493,
+      "imageCount": 12,
+      "script": 860435,
+      "scriptCount": 32,
+      "document": 125935,
+      "font": 433655,
+      "fontCount": 8,
+      "stylesheet": 93398,
+      "stylesheetCount": 6,
+      "thirdParty": 893989,
+      "thirdPartyCount": 8
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 26,
+      "-weight.document": 27,
+      "+weight.document": 25,
+      "-weight.script": 37,
+      "+weight.script": 14,
+      "-weight.image": 23,
+      "+weight.image": 29,
+      "-weight.font": 13,
+      "+weight.font": 14,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 1400,
+      "violations": 90
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/fr-fr/investisseurs/informations-pour-les-actionnaires/composition/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/investisseurs/informations-pour-les-actionnaires/composition/",
+    "timestamp": 1707508374239,
+    "ranks": {
+      "hundos": 39,
+      "performance": 42,
+      "accessibility": 36,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.34,
+      "accessibility": 0.64,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 259
+    },
+    "firstContentfulPaint": 3283.915,
+    "firstMeaningfulPaint": 3308.915,
+    "speedIndex": 10597.410227669554,
+    "largestContentfulPaint": 14841.533000000005,
+    "totalBlockingTime": 99.5,
+    "cumulativeLayoutShift": 1.1337392042038283,
+    "timeToInteractive": 13378.870022750856,
+    "maxPotentialFirstInputDelay": 127,
+    "timeToFirstByte": 2235.1890000000003,
+    "weight": {
+      "summary": "97 requests • 3,6 MiB",
+      "total": 3794621,
+      "image": 2689613,
+      "imageCount": 66,
+      "script": 442967,
+      "scriptCount": 12,
+      "document": 134849,
+      "font": 415922,
+      "fontCount": 6,
+      "stylesheet": 93204,
+      "stylesheetCount": 4,
+      "thirdParty": 405853,
+      "thirdPartyCount": 6
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 8,
+      "-weight.document": 34,
+      "+weight.document": 18,
+      "-weight.script": 20,
+      "+weight.script": 31,
+      "-weight.image": 50,
+      "+weight.image": 2,
+      "-weight.font": 2,
+      "+weight.font": 25,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 51,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 50
+    },
+    "axe": {
+      "passes": 1731,
+      "violations": 98
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/trabajo-en-casa-el-as-bajo-la-manga-de-teleperformance/",
+    "timestamp": 1707508921435,
+    "ranks": {
+      "hundos": 40,
+      "performance": 38,
+      "accessibility": 50,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.4,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 255
+    },
+    "firstContentfulPaint": 3466.0790000000006,
+    "firstMeaningfulPaint": 3491.5790000000006,
+    "speedIndex": 9644.726268407168,
+    "largestContentfulPaint": 13050.8835,
+    "totalBlockingTime": 214.5,
+    "cumulativeLayoutShift": 0.3321570666164771,
+    "timeToInteractive": 19961.414999999994,
+    "maxPotentialFirstInputDelay": 124,
+    "timeToFirstByte": 462.601,
+    "weight": {
+      "summary": "173 requests • 3,3 MiB",
+      "total": 3492715,
+      "image": 1275599,
+      "imageCount": 30,
+      "script": 1089929,
+      "scriptCount": 62,
+      "document": 367227,
+      "font": 549615,
+      "fontCount": 17,
+      "stylesheet": 166293,
+      "stylesheetCount": 20,
+      "thirdParty": 1025054,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 14,
+      "-weight.document": 44,
+      "+weight.document": 8,
+      "-weight.script": 49,
+      "+weight.script": 2,
+      "-weight.image": 34,
+      "+weight.image": 18,
+      "-weight.font": 17,
+      "+weight.font": 10,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/teleperformance-argentina-realiza-actividades-siguiendo-los-protocolos-sanitarios/",
+    "timestamp": 1707509729015,
+    "ranks": {
+      "hundos": 41,
+      "performance": 39,
+      "accessibility": 50,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.39,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 254
+    },
+    "firstContentfulPaint": 3468.1298,
+    "firstMeaningfulPaint": 3493.1298,
+    "speedIndex": 9699.654167423836,
+    "largestContentfulPaint": 13258.207165,
+    "totalBlockingTime": 303.2258024999999,
+    "cumulativeLayoutShift": 0.28861254193674823,
+    "timeToInteractive": 19230.727335000003,
+    "maxPotentialFirstInputDelay": 120,
+    "timeToFirstByte": 522.531,
+    "weight": {
+      "summary": "171 requests • 3,1 MiB",
+      "total": 3243775,
+      "image": 1020269,
+      "imageCount": 26,
+      "script": 1089566,
+      "scriptCount": 62,
+      "document": 373934,
+      "font": 549622,
+      "fontCount": 17,
+      "stylesheet": 166602,
+      "stylesheetCount": 20,
+      "thirdParty": 1024272,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 16,
+      "-weight.document": 51,
+      "+weight.document": 1,
+      "-weight.script": 38,
+      "+weight.script": 13,
+      "-weight.image": 29,
+      "+weight.image": 23,
+      "-weight.font": 19,
+      "+weight.font": 8,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/descubre-la-evolucion-del-trabajo-desde-casa/",
+    "timestamp": 1707509844286,
+    "ranks": {
+      "hundos": 42,
+      "performance": 43,
+      "accessibility": 50,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.33,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 248
+    },
+    "firstContentfulPaint": 3357.275,
+    "firstMeaningfulPaint": 3382.775,
+    "speedIndex": 9325.320305839485,
+    "largestContentfulPaint": 13136.732522750852,
+    "totalBlockingTime": 230,
+    "cumulativeLayoutShift": 0.6168782854188526,
+    "timeToInteractive": 19552.698999999993,
+    "maxPotentialFirstInputDelay": 116,
+    "timeToFirstByte": 852.599,
+    "weight": {
+      "summary": "182 requests • 3,8 MiB",
+      "total": 3942027,
+      "image": 1723897,
+      "imageCount": 37,
+      "script": 1089924,
+      "scriptCount": 62,
+      "document": 368593,
+      "font": 549619,
+      "fontCount": 17,
+      "stylesheet": 166297,
+      "stylesheetCount": 20,
+      "thirdParty": 1025635,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 3,
+      "-weight.document": 45,
+      "+weight.document": 7,
+      "-weight.script": 48,
+      "+weight.script": 3,
+      "-weight.image": 45,
+      "+weight.image": 7,
+      "-weight.font": 18,
+      "+weight.font": 9,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/the-changing-face-of-department-stores/",
+    "timestamp": 1707508964572,
+    "ranks": {
+      "hundos": 43,
+      "performance": 44,
+      "accessibility": 50,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.31,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 246
+    },
+    "firstContentfulPaint": 3510.7309999999998,
+    "firstMeaningfulPaint": 3537.2309999999998,
+    "speedIndex": 9339.730489795453,
+    "largestContentfulPaint": 12260.346000000001,
+    "totalBlockingTime": 246,
+    "cumulativeLayoutShift": 1.0253735721040442,
+    "timeToInteractive": 19197.841749999996,
+    "maxPotentialFirstInputDelay": 114,
+    "timeToFirstByte": 442.373,
+    "weight": {
+      "summary": "175 requests • 3,3 MiB",
+      "total": 3465478,
+      "image": 1250394,
+      "imageCount": 30,
+      "script": 1089649,
+      "scriptCount": 62,
+      "document": 365271,
+      "font": 549613,
+      "fontCount": 17,
+      "stylesheet": 166608,
+      "stylesheetCount": 20,
+      "thirdParty": 1024514,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 15,
+      "-weight.document": 39,
+      "+weight.document": 13,
+      "-weight.script": 46,
+      "+weight.script": 5,
+      "-weight.image": 33,
+      "+weight.image": 19,
+      "-weight.font": 16,
+      "+weight.font": 11,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/post-intelenet-buy-teleperformance-is-scouting-for-more-deals/",
+    "timestamp": 1707507877466,
+    "ranks": {
+      "hundos": 44,
+      "performance": 41,
+      "accessibility": 50,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.38,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.74,
+      "total": 246
+    },
+    "firstContentfulPaint": 3414.2880000000005,
+    "firstMeaningfulPaint": 3439.2880000000005,
+    "speedIndex": 8919.086619712612,
+    "largestContentfulPaint": 13121.119999999997,
+    "totalBlockingTime": 311.0000000000002,
+    "cumulativeLayoutShift": 0.29689297353839333,
+    "timeToInteractive": 19348.910000000003,
+    "maxPotentialFirstInputDelay": 129,
+    "timeToFirstByte": 504.002,
+    "weight": {
+      "summary": "176 requests • 3,4 MiB",
+      "total": 3556392,
+      "image": 1341781,
+      "imageCount": 31,
+      "script": 1089570,
+      "scriptCount": 62,
+      "document": 364601,
+      "font": 550096,
+      "fontCount": 17,
+      "stylesheet": 166603,
+      "stylesheetCount": 20,
+      "thirdParty": 1024995,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 12,
+      "-weight.document": 38,
+      "+weight.document": 14,
+      "-weight.script": 39,
+      "+weight.script": 12,
+      "-weight.image": 37,
+      "+weight.image": 15,
+      "-weight.font": 22,
+      "+weight.font": 5,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/teleperformance-plans-cavite-office/",
+    "timestamp": 1707508828174,
+    "ranks": {
+      "hundos": 45,
+      "performance": 45,
+      "accessibility": 50,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.3,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 245
+    },
+    "firstContentfulPaint": 3413.8535,
+    "firstMeaningfulPaint": 3439.3535,
+    "speedIndex": 9553.929399725785,
+    "largestContentfulPaint": 12273.223499999996,
+    "totalBlockingTime": 320.5,
+    "cumulativeLayoutShift": 0.6134828810802775,
+    "timeToInteractive": 20757.726499999997,
+    "maxPotentialFirstInputDelay": 115,
+    "timeToFirstByte": 433.00800000000004,
+    "weight": {
+      "summary": "180 requests • 3,6 MiB",
+      "total": 3818851,
+      "image": 1602175,
+      "imageCount": 36,
+      "script": 1089585,
+      "scriptCount": 62,
+      "document": 366858,
+      "font": 550096,
+      "fontCount": 17,
+      "stylesheet": 166599,
+      "stylesheetCount": 20,
+      "thirdParty": 1024692,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 7,
+      "-weight.document": 43,
+      "+weight.document": 9,
+      "-weight.script": 41,
+      "+weight.script": 10,
+      "-weight.image": 41,
+      "+weight.image": 11,
+      "-weight.font": 22,
+      "+weight.font": 5,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/getting-physical-with-datacentre-security/",
+    "timestamp": 1707509822937,
+    "ranks": {
+      "hundos": 46,
+      "performance": 46,
+      "accessibility": 50,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.3,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 245
+    },
+    "firstContentfulPaint": 3443.914,
+    "firstMeaningfulPaint": 3468.414,
+    "speedIndex": 15458.373557002787,
+    "largestContentfulPaint": 13459.523000000001,
+    "totalBlockingTime": 292,
+    "cumulativeLayoutShift": 0.6274020981537198,
+    "timeToInteractive": 18843.244000000002,
+    "maxPotentialFirstInputDelay": 127.5,
+    "timeToFirstByte": 1342.0629999999999,
+    "weight": {
+      "summary": "168 requests • 3,0 MiB",
+      "total": 3176005,
+      "image": 956030,
+      "imageCount": 24,
+      "script": 1089594,
+      "scriptCount": 62,
+      "document": 369554,
+      "font": 550096,
+      "fontCount": 17,
+      "stylesheet": 166603,
+      "stylesheetCount": 20,
+      "thirdParty": 1025292,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 17,
+      "-weight.document": 47,
+      "+weight.document": 5,
+      "-weight.script": 42,
+      "+weight.script": 9,
+      "-weight.image": 28,
+      "+weight.image": 24,
+      "-weight.font": 22,
+      "+weight.font": 5,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/teleperformance-contratara-335-personas-por-expansion-del-negocio/",
+    "timestamp": 1707508849764,
+    "ranks": {
+      "hundos": 47,
+      "performance": 47,
+      "accessibility": 50,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.29,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 244
+    },
+    "firstContentfulPaint": 3449.4024999999997,
+    "firstMeaningfulPaint": 3471.4024999999997,
+    "speedIndex": 9655.164938158778,
+    "largestContentfulPaint": 10305.27,
+    "totalBlockingTime": 336.595,
+    "cumulativeLayoutShift": 0.6307381744737866,
+    "timeToInteractive": 20097.996750000006,
+    "maxPotentialFirstInputDelay": 140,
+    "timeToFirstByte": 442.314,
+    "weight": {
+      "summary": "181 requests • 3,7 MiB",
+      "total": 3838610,
+      "image": 1614782,
+      "imageCount": 37,
+      "script": 1089571,
+      "scriptCount": 62,
+      "document": 373488,
+      "font": 550096,
+      "fontCount": 17,
+      "stylesheet": 166597,
+      "stylesheetCount": 20,
+      "thirdParty": 1025545,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 6,
+      "-weight.document": 50,
+      "+weight.document": 2,
+      "-weight.script": 40,
+      "+weight.script": 11,
+      "-weight.image": 42,
+      "+weight.image": 10,
+      "-weight.font": 22,
+      "+weight.font": 5,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/optimising-the-entire-employee-cycle-and-better-managing-remote-teams/",
+    "timestamp": 1707508987515,
+    "ranks": {
+      "hundos": 48,
+      "performance": 48,
+      "accessibility": 50,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.29,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 244
+    },
+    "firstContentfulPaint": 3642.2110000000007,
+    "firstMeaningfulPaint": 3663.7110000000007,
+    "speedIndex": 9819.937490479982,
+    "largestContentfulPaint": 11959.054999999997,
+    "totalBlockingTime": 312,
+    "cumulativeLayoutShift": 0.6307381744737866,
+    "timeToInteractive": 20344.09925,
+    "maxPotentialFirstInputDelay": 115,
+    "timeToFirstByte": 464.618,
+    "weight": {
+      "summary": "178 requests • 3,5 MiB",
+      "total": 3653586,
+      "image": 1434529,
+      "imageCount": 34,
+      "script": 1089610,
+      "scriptCount": 62,
+      "document": 368931,
+      "font": 550093,
+      "fontCount": 17,
+      "stylesheet": 166597,
+      "stylesheetCount": 20,
+      "thirdParty": 1025229,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 10,
+      "-weight.document": 46,
+      "+weight.document": 6,
+      "-weight.script": 44,
+      "+weight.script": 7,
+      "-weight.image": 38,
+      "+weight.image": 14,
+      "-weight.font": 20,
+      "+weight.font": 7,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/airbnb-org-doordash-ikea-and-teleperformance-recognized-for-their-efforts-to-integrate-refugees-at-first-ever-awards-1-1-1/",
+    "timestamp": 1707509949441,
+    "ranks": {
+      "hundos": 49,
+      "performance": 50,
+      "accessibility": 50,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.28,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 243
+    },
+    "firstContentfulPaint": 3405.848,
+    "firstMeaningfulPaint": 3426.848,
+    "speedIndex": 9792.635158660312,
+    "largestContentfulPaint": 10446.803000000002,
+    "totalBlockingTime": 367,
+    "cumulativeLayoutShift": 0.6134828810802775,
+    "timeToInteractive": 19915.41075,
+    "maxPotentialFirstInputDelay": 122,
+    "timeToFirstByte": 498.565,
+    "weight": {
+      "summary": "181 requests • 3,8 MiB",
+      "total": 3938957,
+      "image": 1715383,
+      "imageCount": 37,
+      "script": 1089933,
+      "scriptCount": 62,
+      "document": 373361,
+      "font": 550094,
+      "fontCount": 17,
+      "stylesheet": 166294,
+      "stylesheetCount": 20,
+      "thirdParty": 1025278,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 4,
+      "-weight.document": 49,
+      "+weight.document": 3,
+      "-weight.script": 50,
+      "+weight.script": 1,
+      "-weight.image": 44,
+      "+weight.image": 8,
+      "-weight.font": 21,
+      "+weight.font": 6,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 47,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/teleperformance-sumo-mas-de-2-000-colaboradores-durante-la-pandemia-en-centroamerica/",
+    "timestamp": 1707509886382,
+    "ranks": {
+      "hundos": 50,
+      "performance": 49,
+      "accessibility": 50,
+      "cumulative": 50
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.28,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 243
+    },
+    "firstContentfulPaint": 3397.21888,
+    "firstMeaningfulPaint": 3422.21888,
+    "speedIndex": 9188.470680295657,
+    "largestContentfulPaint": 13642.84894275085,
+    "totalBlockingTime": 380.7107400000002,
+    "cumulativeLayoutShift": 0.6134828810802775,
+    "timeToInteractive": 19888.697929999988,
+    "maxPotentialFirstInputDelay": 124.5,
+    "timeToFirstByte": 539.0070000000001,
+    "weight": {
+      "summary": "175 requests • 3,4 MiB",
+      "total": 3561324,
+      "image": 1338398,
+      "imageCount": 31,
+      "script": 1089604,
+      "scriptCount": 62,
+      "document": 372306,
+      "font": 550110,
+      "fontCount": 17,
+      "stylesheet": 166598,
+      "stylesheetCount": 20,
+      "thirdParty": 1025722,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 11,
+      "-weight.document": 48,
+      "+weight.document": 4,
+      "-weight.script": 43,
+      "+weight.script": 8,
+      "-weight.image": 36,
+      "+weight.image": 16,
+      "-weight.font": 25,
+      "+weight.font": 2,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 48,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  },
+  {
+    "url": "https://www.teleperformance.com/en-us/",
+    "requestedUrl": "https://www.teleperformance.com/fr-fr/insights/news/teleperformance-ceo-agility-enables-us-to-prosper/",
+    "timestamp": 1707509754727,
+    "ranks": {
+      "hundos": 51,
+      "performance": 51,
+      "accessibility": 50,
+      "cumulative": 51
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.27,
+      "accessibility": 0.6,
+      "bestPractices": 0.74,
+      "seo": 0.81,
+      "total": 242
+    },
+    "firstContentfulPaint": 3435.415,
+    "firstMeaningfulPaint": 3460.415,
+    "speedIndex": 9648.167681107003,
+    "largestContentfulPaint": 13200.735499999999,
+    "totalBlockingTime": 430.78299999999945,
+    "cumulativeLayoutShift": 0.6206340752046227,
+    "timeToInteractive": 19547.78875,
+    "maxPotentialFirstInputDelay": 158,
+    "timeToFirstByte": 683.284,
+    "weight": {
+      "summary": "177 requests • 3,5 MiB",
+      "total": 3709381,
+      "image": 1493244,
+      "imageCount": 34,
+      "script": 1089649,
+      "scriptCount": 62,
+      "document": 366596,
+      "font": 549612,
+      "fontCount": 17,
+      "stylesheet": 166605,
+      "stylesheetCount": 20,
+      "thirdParty": 1025139,
+      "thirdPartyCount": 9
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 9,
+      "-weight.document": 42,
+      "+weight.document": 10,
+      "-weight.script": 46,
+      "+weight.script": 5,
+      "-weight.image": 39,
+      "+weight.image": 13,
+      "-weight.font": 15,
+      "+weight.font": 12,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 49,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 1497,
+      "violations": 93
+    }
+  }
+]

@@ -1,0 +1,3325 @@
+[
+  {
+    "url": "https://www.axa.com/en/press/publications/axa-essentials-2017",
+    "requestedUrl": "https://www.axa.com/en/press/publications/axa-essentials-2017",
+    "timestamp": 1707552544588,
+    "ranks": {
+      "hundos": 1,
+      "performance": 2,
+      "accessibility": 24,
+      "cumulative": 1
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.81,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 341
+    },
+    "firstContentfulPaint": 2591.813,
+    "firstMeaningfulPaint": 2591.813,
+    "speedIndex": 5284.764224012075,
+    "largestContentfulPaint": 2891.813,
+    "totalBlockingTime": 292.5,
+    "cumulativeLayoutShift": 0.013784490161039033,
+    "timeToInteractive": 18832.048749999994,
+    "maxPotentialFirstInputDelay": 319,
+    "timeToFirstByte": 348.084,
+    "weight": {
+      "summary": "51 requests • 2,9 MiB",
+      "total": 3058098,
+      "image": 4288,
+      "imageCount": 2,
+      "script": 2600824,
+      "scriptCount": 34,
+      "document": 107059,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 173362,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 2,
+      "+weight.total": 48,
+      "-weight.document": 4,
+      "+weight.document": 46,
+      "-weight.script": 8,
+      "+weight.script": 35,
+      "-weight.image": 8,
+      "+weight.image": 25,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 21,
+      "-totalBlockingTime": 19,
+      "-largestContentfulPaint": 3
+    },
+    "axe": {
+      "passes": 306,
+      "violations": 18
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/20190917-degas",
+    "requestedUrl": "https://www.axa.com/en/press/events/20190917-degas",
+    "timestamp": 1707552357517,
+    "ranks": {
+      "hundos": 2,
+      "performance": 5,
+      "accessibility": 21,
+      "cumulative": 2
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 338
+    },
+    "firstContentfulPaint": 2567.6310000000003,
+    "firstMeaningfulPaint": 2567.6310000000003,
+    "speedIndex": 5183.4205578665915,
+    "largestContentfulPaint": 3392.6310000000008,
+    "totalBlockingTime": 284.5,
+    "cumulativeLayoutShift": 0.0669472471561876,
+    "timeToInteractive": 18855.99725,
+    "maxPotentialFirstInputDelay": 341,
+    "timeToFirstByte": 306.99600000000004,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3102164,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2647526,
+      "scriptCount": 35,
+      "document": 108172,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169606,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 19,
+      "+weight.total": 31,
+      "-weight.document": 5,
+      "+weight.document": 45,
+      "-weight.script": 24,
+      "+weight.script": 19,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 17,
+      "-totalBlockingTime": 16,
+      "-largestContentfulPaint": 5
+    },
+    "axe": {
+      "passes": 313,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/about-us/profile/sally-wan",
+    "requestedUrl": "https://www.axa.com/en/about-us/profile/sally-wan",
+    "timestamp": 1707551812461,
+    "ranks": {
+      "hundos": 4,
+      "performance": 6,
+      "accessibility": 2,
+      "cumulative": 3
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.77,
+      "accessibility": 0.92,
+      "bestPractices": 0.74,
+      "seo": 0.92,
+      "total": 335
+    },
+    "firstContentfulPaint": 2548.822,
+    "firstMeaningfulPaint": 2548.822,
+    "speedIndex": 7963.126772790978,
+    "largestContentfulPaint": 2923.822,
+    "totalBlockingTime": 312.45550000000185,
+    "cumulativeLayoutShift": 0.014100897987371498,
+    "timeToInteractive": 19173.921499999997,
+    "maxPotentialFirstInputDelay": 334,
+    "timeToFirstByte": 1328.651,
+    "weight": {
+      "summary": "56 requests • 2,9 MiB",
+      "total": 3060935,
+      "image": 2534,
+      "imageCount": 2,
+      "script": 2600209,
+      "scriptCount": 34,
+      "document": 108781,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121753,
+      "stylesheetCount": 3,
+      "thirdParty": 171608,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 3,
+      "+weight.total": 47,
+      "-weight.document": 6,
+      "+weight.document": 44,
+      "-weight.script": 3,
+      "+weight.script": 40,
+      "-weight.image": 5,
+      "+weight.image": 28,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 46,
+      "-totalBlockingTime": 31,
+      "-largestContentfulPaint": 4
+    },
+    "axe": {
+      "passes": 305,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/publications/axa-health-of-the-nation-china-2020-publication",
+    "requestedUrl": "https://www.axa.com/en/press/publications/axa-health-of-the-nation-china-2020-publication",
+    "timestamp": 1707551877644,
+    "ranks": {
+      "hundos": 3,
+      "performance": 8,
+      "accessibility": 23,
+      "cumulative": 4
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 335
+    },
+    "firstContentfulPaint": 2586.6040000000003,
+    "firstMeaningfulPaint": 2586.6040000000003,
+    "speedIndex": 5203.854854826598,
+    "largestContentfulPaint": 3889.505,
+    "totalBlockingTime": 271.5,
+    "cumulativeLayoutShift": 0.013841045742502242,
+    "timeToInteractive": 18746.218000000004,
+    "maxPotentialFirstInputDelay": 319,
+    "timeToFirstByte": 276.645,
+    "weight": {
+      "summary": "51 requests • 2,9 MiB",
+      "total": 3062504,
+      "image": 6489,
+      "imageCount": 2,
+      "script": 2600803,
+      "scriptCount": 34,
+      "document": 109278,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 175563,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 4,
+      "+weight.total": 46,
+      "-weight.document": 7,
+      "+weight.document": 43,
+      "-weight.script": 6,
+      "+weight.script": 37,
+      "-weight.image": 10,
+      "+weight.image": 23,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 6,
+      "-totalBlockingTime": 7,
+      "-largestContentfulPaint": 10
+    },
+    "axe": {
+      "passes": 306,
+      "violations": 18
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/commitments/sustainable-procurement-activities",
+    "requestedUrl": "https://www.axa.com/en/commitments/sustainable-procurement-activities",
+    "timestamp": 1707551253250,
+    "ranks": {
+      "hundos": 6,
+      "performance": 15,
+      "accessibility": 3,
+      "cumulative": 5
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.92,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 333
+    },
+    "firstContentfulPaint": 2396.397,
+    "firstMeaningfulPaint": 2396.397,
+    "speedIndex": 5092.207256205721,
+    "largestContentfulPaint": 4578.063,
+    "totalBlockingTime": 275,
+    "cumulativeLayoutShift": 0.021104035786297482,
+    "timeToInteractive": 20292.514999999992,
+    "maxPotentialFirstInputDelay": 344,
+    "timeToFirstByte": 652.03,
+    "weight": {
+      "summary": "59 requests • 3,2 MiB",
+      "total": 3387947,
+      "image": 13559,
+      "imageCount": 3,
+      "script": 2910529,
+      "scriptCount": 36,
+      "document": 114435,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 182631,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 33,
+      "+weight.total": 17,
+      "-weight.document": 15,
+      "+weight.document": 35,
+      "-weight.script": 34,
+      "+weight.script": 9,
+      "-weight.image": 11,
+      "+weight.image": 22,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 31,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 21
+    },
+    "axe": {
+      "passes": 318,
+      "violations": 12
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/execution-of-a-share-repurchase-agreement-in-relation-to-axas-share-buy-back-program",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/execution-of-a-share-repurchase-agreement-in-relation-to-axas-share-buy-back-program",
+    "timestamp": 1707552158685,
+    "ranks": {
+      "hundos": 5,
+      "performance": 1,
+      "accessibility": 48,
+      "cumulative": 6
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.89,
+      "accessibility": 0.78,
+      "bestPractices": 0.74,
+      "seo": 0.92,
+      "total": 333
+    },
+    "firstContentfulPaint": 2285.524,
+    "firstMeaningfulPaint": 2285.524,
+    "speedIndex": 4830.227279006381,
+    "largestContentfulPaint": 2510.524,
+    "totalBlockingTime": 166,
+    "cumulativeLayoutShift": 0.021034416292844423,
+    "timeToInteractive": 12266.085000000003,
+    "maxPotentialFirstInputDelay": 179,
+    "timeToFirstByte": 314.531,
+    "weight": {
+      "summary": "43 requests • 1,8 MiB",
+      "total": 1903744,
+      "image": 4964,
+      "imageCount": 2,
+      "script": 1475645,
+      "scriptCount": 27,
+      "document": 96850,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 100467,
+      "stylesheetCount": 2,
+      "thirdParty": 171253,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 1,
+      "+weight.total": 49,
+      "-weight.document": 1,
+      "+weight.document": 49,
+      "-weight.script": 1,
+      "+weight.script": 42,
+      "-weight.image": 9,
+      "+weight.image": 24,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 18,
+      "-totalBlockingTime": 1,
+      "-largestContentfulPaint": 1
+    },
+    "axe": {
+      "passes": 291,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/european-road-safety-charter",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/european-road-safety-charter",
+    "timestamp": 1707551974754,
+    "ranks": {
+      "hundos": 7,
+      "performance": 4,
+      "accessibility": 15,
+      "cumulative": 7
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.78,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 330
+    },
+    "firstContentfulPaint": 2581.54,
+    "firstMeaningfulPaint": 2581.54,
+    "speedIndex": 5101.442208296876,
+    "largestContentfulPaint": 3408.4759999999997,
+    "totalBlockingTime": 300,
+    "cumulativeLayoutShift": 0.014784809141344986,
+    "timeToInteractive": 18973.892,
+    "maxPotentialFirstInputDelay": 350,
+    "timeToFirstByte": 278.52500000000003,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3097166,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606270,
+      "scriptCount": 35,
+      "document": 121340,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169604,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 11,
+      "+weight.total": 39,
+      "-weight.document": 23,
+      "+weight.document": 27,
+      "-weight.script": 9,
+      "+weight.script": 34,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 9,
+      "-totalBlockingTime": 24,
+      "-largestContentfulPaint": 6
+    },
+    "axe": {
+      "passes": 352,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/publications/activity-report-1998",
+    "requestedUrl": "https://www.axa.com/en/press/publications/activity-report-1998",
+    "timestamp": 1707552366082,
+    "ranks": {
+      "hundos": 8,
+      "performance": 19,
+      "accessibility": 25,
+      "cumulative": 8
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 328
+    },
+    "firstContentfulPaint": 2598.5299999999997,
+    "firstMeaningfulPaint": 2598.5299999999997,
+    "speedIndex": 5365.19164995158,
+    "largestContentfulPaint": 3785.2949999999996,
+    "totalBlockingTime": 275,
+    "cumulativeLayoutShift": 0.16560591408701772,
+    "timeToInteractive": 18987.7675,
+    "maxPotentialFirstInputDelay": 326,
+    "timeToFirstByte": 305.072,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3126464,
+      "image": 69282,
+      "imageCount": 2,
+      "script": 2600813,
+      "scriptCount": 34,
+      "document": 110438,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 238363,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 27,
+      "+weight.total": 23,
+      "-weight.document": 10,
+      "+weight.document": 40,
+      "-weight.script": 7,
+      "+weight.script": 36,
+      "-weight.image": 18,
+      "+weight.image": 15,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 13,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 9
+    },
+    "axe": {
+      "passes": 335,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/axa-presents-the-results-of-its-shareholders-meeting",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/axa-presents-the-results-of-its-shareholders-meeting",
+    "timestamp": 1707551357664,
+    "ranks": {
+      "hundos": 9,
+      "performance": 7,
+      "accessibility": 11,
+      "cumulative": 9
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.75,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 327
+    },
+    "firstContentfulPaint": 2582.593,
+    "firstMeaningfulPaint": 2582.593,
+    "speedIndex": 5023.557630139037,
+    "largestContentfulPaint": 3761.499,
+    "totalBlockingTime": 283,
+    "cumulativeLayoutShift": 0.06135353798439106,
+    "timeToInteractive": 18897.894,
+    "maxPotentialFirstInputDelay": 340,
+    "timeToFirstByte": 282.722,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3096968,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606273,
+      "scriptCount": 35,
+      "document": 121144,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169602,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 10,
+      "+weight.total": 40,
+      "-weight.document": 22,
+      "+weight.document": 28,
+      "-weight.script": 10,
+      "+weight.script": 33,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 10,
+      "-totalBlockingTime": 15,
+      "-largestContentfulPaint": 8
+    },
+    "axe": {
+      "passes": 356,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/results-employee-share-2014",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/results-employee-share-2014",
+    "timestamp": 1707552044808,
+    "ranks": {
+      "hundos": 10,
+      "performance": 11,
+      "accessibility": 13,
+      "cumulative": 10
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 326
+    },
+    "firstContentfulPaint": 2559.2855,
+    "firstMeaningfulPaint": 2559.2855,
+    "speedIndex": 5141.708314112455,
+    "largestContentfulPaint": 4028.2755,
+    "totalBlockingTime": 281,
+    "cumulativeLayoutShift": 0.015108165753389666,
+    "timeToInteractive": 18898.28875,
+    "maxPotentialFirstInputDelay": 346,
+    "timeToFirstByte": 305.72999999999996,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3096916,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606280,
+      "scriptCount": 35,
+      "document": 121087,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169607,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 9,
+      "+weight.total": 41,
+      "-weight.document": 21,
+      "+weight.document": 29,
+      "-weight.script": 13,
+      "+weight.script": 30,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 15,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 14
+    },
+    "axe": {
+      "passes": 354,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/christian-thimann-joins-axa",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/christian-thimann-joins-axa",
+    "timestamp": 1707551957536,
+    "ranks": {
+      "hundos": 11,
+      "performance": 9,
+      "accessibility": 12,
+      "cumulative": 11
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 326
+    },
+    "firstContentfulPaint": 2554.43,
+    "firstMeaningfulPaint": 2554.43,
+    "speedIndex": 5110.039841098312,
+    "largestContentfulPaint": 4019.613,
+    "totalBlockingTime": 281,
+    "cumulativeLayoutShift": 0.031159773625627746,
+    "timeToInteractive": 18843.5115,
+    "maxPotentialFirstInputDelay": 344,
+    "timeToFirstByte": 318.51800000000003,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3098020,
+      "image": 527,
+      "imageCount": 1,
+      "script": 2606280,
+      "scriptCount": 35,
+      "document": 122190,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169608,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 15,
+      "+weight.total": 35,
+      "-weight.document": 28,
+      "+weight.document": 22,
+      "-weight.script": 13,
+      "+weight.script": 30,
+      "-weight.image": 3,
+      "+weight.image": 30,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 20,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 13
+    },
+    "axe": {
+      "passes": 354,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/investor/how-to-ask-a-question-2023",
+    "requestedUrl": "https://www.axa.com/en/investor/how-to-ask-a-question-2023",
+    "timestamp": 1707552246549,
+    "ranks": {
+      "hundos": 13,
+      "performance": 17,
+      "accessibility": 6,
+      "cumulative": 12
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.7,
+      "accessibility": 0.92,
+      "bestPractices": 0.78,
+      "seo": 0.85,
+      "total": 325
+    },
+    "firstContentfulPaint": 2527.795,
+    "firstMeaningfulPaint": 2527.795,
+    "speedIndex": 5849.140979182381,
+    "largestContentfulPaint": 4430.862000000001,
+    "totalBlockingTime": 302.5,
+    "cumulativeLayoutShift": 0.021301459711208302,
+    "timeToInteractive": 20500.515000000003,
+    "maxPotentialFirstInputDelay": 385,
+    "timeToFirstByte": 886.508,
+    "weight": {
+      "summary": "60 requests • 3,3 MiB",
+      "total": 3454400,
+      "image": 39108,
+      "imageCount": 2,
+      "script": 2910534,
+      "scriptCount": 36,
+      "document": 117901,
+      "font": 179703,
+      "fontCount": 6,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 208212,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 35,
+      "+weight.total": 15,
+      "-weight.document": 16,
+      "+weight.document": 34,
+      "-weight.script": 35,
+      "+weight.script": 8,
+      "-weight.image": 14,
+      "+weight.image": 19,
+      "-weight.font": 4,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 38,
+      "-totalBlockingTime": 25,
+      "-largestContentfulPaint": 20
+    },
+    "axe": {
+      "passes": 353,
+      "violations": 15
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/complete-sale-hungarian-insurance",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/complete-sale-hungarian-insurance",
+    "timestamp": 1707551576590,
+    "ranks": {
+      "hundos": 12,
+      "performance": 12,
+      "accessibility": 17,
+      "cumulative": 13
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.73,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 325
+    },
+    "firstContentfulPaint": 2596.465,
+    "firstMeaningfulPaint": 2596.465,
+    "speedIndex": 5111.681892185095,
+    "largestContentfulPaint": 4084.443,
+    "totalBlockingTime": 291,
+    "cumulativeLayoutShift": 0.0343190753546623,
+    "timeToInteractive": 19072.233,
+    "maxPotentialFirstInputDelay": 344,
+    "timeToFirstByte": 275.22499999999997,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3096558,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606280,
+      "scriptCount": 35,
+      "document": 120730,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169606,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 8,
+      "+weight.total": 42,
+      "-weight.document": 20,
+      "+weight.document": 30,
+      "-weight.script": 13,
+      "+weight.script": 30,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 4,
+      "-totalBlockingTime": 18,
+      "-largestContentfulPaint": 15
+    },
+    "axe": {
+      "passes": 352,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/commitments/axa-for-progress-index",
+    "requestedUrl": "https://www.axa.com/en/commitments/axa-for-progress-index",
+    "timestamp": 1707551756864,
+    "ranks": {
+      "hundos": 17,
+      "performance": 23,
+      "accessibility": 31,
+      "cumulative": 14
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 323
+    },
+    "firstContentfulPaint": 2556.804,
+    "firstMeaningfulPaint": 2556.804,
+    "speedIndex": 5792.151333189101,
+    "largestContentfulPaint": 5341.549499999999,
+    "totalBlockingTime": 307.5,
+    "cumulativeLayoutShift": 0.02765248926816867,
+    "timeToInteractive": 20795.795999999995,
+    "maxPotentialFirstInputDelay": 399,
+    "timeToFirstByte": 715.917,
+    "weight": {
+      "summary": "59 requests • 3,4 MiB",
+      "total": 3560745,
+      "image": 166305,
+      "imageCount": 3,
+      "script": 2910546,
+      "scriptCount": 36,
+      "document": 134467,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 335405,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 36,
+      "+weight.total": 14,
+      "-weight.document": 32,
+      "+weight.document": 18,
+      "-weight.script": 37,
+      "+weight.script": 6,
+      "-weight.image": 20,
+      "+weight.image": 13,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 33,
+      "-totalBlockingTime": 28,
+      "-largestContentfulPaint": 28
+    },
+    "axe": {
+      "passes": 399,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/successful-placement-eur-500-million-senior-notes-due-2028",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/successful-placement-eur-500-million-senior-notes-due-2028",
+    "timestamp": 1707551559663,
+    "ranks": {
+      "hundos": 14,
+      "performance": 16,
+      "accessibility": 14,
+      "cumulative": 15
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 323
+    },
+    "firstContentfulPaint": 2579.602,
+    "firstMeaningfulPaint": 2579.602,
+    "speedIndex": 5120.109692812737,
+    "largestContentfulPaint": 4606.0475,
+    "totalBlockingTime": 277,
+    "cumulativeLayoutShift": 0.01478009744536675,
+    "timeToInteractive": 18966.40975,
+    "maxPotentialFirstInputDelay": 338,
+    "timeToFirstByte": 277.29400000000004,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3097905,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606279,
+      "scriptCount": 35,
+      "document": 122077,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169606,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 13,
+      "+weight.total": 37,
+      "-weight.document": 27,
+      "+weight.document": 23,
+      "-weight.script": 12,
+      "+weight.script": 31,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 8,
+      "-totalBlockingTime": 10,
+      "-largestContentfulPaint": 22
+    },
+    "axe": {
+      "passes": 353,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/axa-announces-the-subscription-prices-for-its-2023-employee-share-offering",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/axa-announces-the-subscription-prices-for-its-2023-employee-share-offering",
+    "timestamp": 1707551793963,
+    "ranks": {
+      "hundos": 15,
+      "performance": 14,
+      "accessibility": 10,
+      "cumulative": 16
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.71,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 323
+    },
+    "firstContentfulPaint": 2578.8540000000003,
+    "firstMeaningfulPaint": 2578.8540000000003,
+    "speedIndex": 5055.563918263706,
+    "largestContentfulPaint": 4355.781,
+    "totalBlockingTime": 297.5,
+    "cumulativeLayoutShift": 0.015145581826678798,
+    "timeToInteractive": 18927.978,
+    "maxPotentialFirstInputDelay": 351,
+    "timeToFirstByte": 276.509,
+    "weight": {
+      "summary": "53 requests • 3,0 MiB",
+      "total": 3114146,
+      "image": 527,
+      "imageCount": 1,
+      "script": 2606279,
+      "scriptCount": 35,
+      "document": 123973,
+      "font": 179703,
+      "fontCount": 6,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169608,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 25,
+      "+weight.total": 25,
+      "-weight.document": 30,
+      "+weight.document": 20,
+      "-weight.script": 12,
+      "+weight.script": 31,
+      "-weight.image": 3,
+      "+weight.image": 30,
+      "-weight.font": 4,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 5,
+      "-totalBlockingTime": 23,
+      "-largestContentfulPaint": 19
+    },
+    "axe": {
+      "passes": 374,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/investor/capital-ownership",
+    "requestedUrl": "https://www.axa.com/en/investor/capital-ownership",
+    "timestamp": 1707551380999,
+    "ranks": {
+      "hundos": 16,
+      "performance": 26,
+      "accessibility": 29,
+      "cumulative": 17
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.89,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 323
+    },
+    "firstContentfulPaint": 3475.9660000000003,
+    "firstMeaningfulPaint": 3475.9660000000003,
+    "speedIndex": 7945.741397568665,
+    "largestContentfulPaint": 4000.9660000000003,
+    "totalBlockingTime": 323.5,
+    "cumulativeLayoutShift": 0.08076693623380342,
+    "timeToInteractive": 22811.864,
+    "maxPotentialFirstInputDelay": 433,
+    "timeToFirstByte": 642.359,
+    "weight": {
+      "summary": "58 requests • 3,4 MiB",
+      "total": 3599161,
+      "image": 29823,
+      "imageCount": 2,
+      "script": 2910509,
+      "scriptCount": 36,
+      "document": 309398,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 198902,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 37,
+      "+weight.total": 13,
+      "-weight.document": 42,
+      "+weight.document": 8,
+      "-weight.script": 33,
+      "+weight.script": 10,
+      "-weight.image": 13,
+      "+weight.image": 20,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 30,
+      "-totalBlockingTime": 36,
+      "-largestContentfulPaint": 12
+    },
+    "axe": {
+      "passes": 455,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/commitments/supply-chain-monitoring",
+    "requestedUrl": "https://www.axa.com/en/commitments/supply-chain-monitoring",
+    "timestamp": 1707551312687,
+    "ranks": {
+      "hundos": 20,
+      "performance": 30,
+      "accessibility": 1,
+      "cumulative": 18
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.92,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 322
+    },
+    "firstContentfulPaint": 2366.532,
+    "firstMeaningfulPaint": 2366.532,
+    "speedIndex": 5878.369758870958,
+    "largestContentfulPaint": 14533.831999999999,
+    "totalBlockingTime": 303.5,
+    "cumulativeLayoutShift": 0.01730875062192819,
+    "timeToInteractive": 23212.216999999993,
+    "maxPotentialFirstInputDelay": 371,
+    "timeToFirstByte": 623.285,
+    "weight": {
+      "summary": "57 requests • 3,9 MiB",
+      "total": 4125952,
+      "image": 759411,
+      "imageCount": 2,
+      "script": 2910494,
+      "scriptCount": 36,
+      "document": 106615,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 928490,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 43,
+      "+weight.total": 7,
+      "-weight.document": 3,
+      "+weight.document": 47,
+      "-weight.script": 32,
+      "+weight.script": 11,
+      "-weight.image": 29,
+      "+weight.image": 4,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 29,
+      "-totalBlockingTime": 26,
+      "-largestContentfulPaint": 37
+    },
+    "axe": {
+      "passes": 322,
+      "violations": 11
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/1Q-2009-activity-indicators",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/1Q-2009-activity-indicators",
+    "timestamp": 1707551966140,
+    "ranks": {
+      "hundos": 18,
+      "performance": 13,
+      "accessibility": 27,
+      "cumulative": 19
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.72,
+      "accessibility": 0.89,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 322
+    },
+    "firstContentfulPaint": 2567.191,
+    "firstMeaningfulPaint": 2567.191,
+    "speedIndex": 5188.6159680250275,
+    "largestContentfulPaint": 4338.2865,
+    "totalBlockingTime": 275,
+    "cumulativeLayoutShift": 0.036640470347748144,
+    "timeToInteractive": 18868.09825,
+    "maxPotentialFirstInputDelay": 338,
+    "timeToFirstByte": 390.792,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3098477,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606322,
+      "scriptCount": 35,
+      "document": 122607,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169606,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 16,
+      "+weight.total": 34,
+      "-weight.document": 29,
+      "+weight.document": 21,
+      "-weight.script": 17,
+      "+weight.script": 26,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 23,
+      "-totalBlockingTime": 9,
+      "-largestContentfulPaint": 18
+    },
+    "axe": {
+      "passes": 392,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/2009-axa-presentation-autumn-investor-seminar",
+    "requestedUrl": "https://www.axa.com/en/press/events/2009-axa-presentation-autumn-investor-seminar",
+    "timestamp": 1707551661955,
+    "ranks": {
+      "hundos": 19,
+      "performance": 24,
+      "accessibility": 36,
+      "cumulative": 20
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.65,
+      "accessibility": 0.87,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 322
+    },
+    "firstContentfulPaint": 2558.19,
+    "firstMeaningfulPaint": 2558.19,
+    "speedIndex": 6606.361446789305,
+    "largestContentfulPaint": 4283.1900000000005,
+    "totalBlockingTime": 390.0000000000018,
+    "cumulativeLayoutShift": 0.07706946554199248,
+    "timeToInteractive": 19437.57,
+    "maxPotentialFirstInputDelay": 363,
+    "timeToFirstByte": 314.901,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3113571,
+      "image": 982,
+      "imageCount": 2,
+      "script": 2647499,
+      "scriptCount": 35,
+      "document": 119174,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 170061,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 24,
+      "+weight.total": 26,
+      "-weight.document": 18,
+      "+weight.document": 32,
+      "-weight.script": 21,
+      "+weight.script": 22,
+      "-weight.image": 4,
+      "+weight.image": 29,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 19,
+      "-totalBlockingTime": 43,
+      "-largestContentfulPaint": 17
+    },
+    "axe": {
+      "passes": 642,
+      "violations": 60
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/icbc-axa-minmetals-en",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/icbc-axa-minmetals-en",
+    "timestamp": 1707552446225,
+    "ranks": {
+      "hundos": 21,
+      "performance": 18,
+      "accessibility": 16,
+      "cumulative": 21
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.69,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 321
+    },
+    "firstContentfulPaint": 2587.3630000000003,
+    "firstMeaningfulPaint": 2587.3630000000003,
+    "speedIndex": 5080.014164427217,
+    "largestContentfulPaint": 4820.067000000001,
+    "totalBlockingTime": 281,
+    "cumulativeLayoutShift": 0.015138224861956703,
+    "timeToInteractive": 18921.37,
+    "maxPotentialFirstInputDelay": 350,
+    "timeToFirstByte": 277.242,
+    "weight": {
+      "summary": "53 requests • 3,0 MiB",
+      "total": 3097908,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606328,
+      "scriptCount": 35,
+      "document": 122029,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169623,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 14,
+      "+weight.total": 36,
+      "-weight.document": 26,
+      "+weight.document": 24,
+      "-weight.script": 18,
+      "+weight.script": 25,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 7,
+      "-totalBlockingTime": 12,
+      "-largestContentfulPaint": 25
+    },
+    "axe": {
+      "passes": 352,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/20231026-shareholders-meeting-bordeaux",
+    "requestedUrl": "https://www.axa.com/en/press/events/20231026-shareholders-meeting-bordeaux",
+    "timestamp": 1707551802589,
+    "ranks": {
+      "hundos": 22,
+      "performance": 31,
+      "accessibility": 18,
+      "cumulative": 22
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 320
+    },
+    "firstContentfulPaint": 2588.3140000000003,
+    "firstMeaningfulPaint": 2588.3140000000003,
+    "speedIndex": 8780.648850753505,
+    "largestContentfulPaint": 18978.034897155754,
+    "totalBlockingTime": 196,
+    "cumulativeLayoutShift": 0.014697557154539647,
+    "timeToInteractive": 18819.569999999992,
+    "maxPotentialFirstInputDelay": 182,
+    "timeToFirstByte": 283.411,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3100012,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2647535,
+      "scriptCount": 35,
+      "document": 106020,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169607,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 17,
+      "+weight.total": 33,
+      "-weight.document": 2,
+      "+weight.document": 48,
+      "-weight.script": 27,
+      "+weight.script": 16,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 11,
+      "-totalBlockingTime": 2,
+      "-largestContentfulPaint": 44
+    },
+    "axe": {
+      "passes": 304,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/integrated-report-2022-webinar",
+    "requestedUrl": "https://www.axa.com/en/press/events/integrated-report-2022-webinar",
+    "timestamp": 1707551542279,
+    "ranks": {
+      "hundos": 24,
+      "performance": 33,
+      "accessibility": 4,
+      "cumulative": 23
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.92,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 320
+    },
+    "firstContentfulPaint": 2854.616,
+    "firstMeaningfulPaint": 2854.616,
+    "speedIndex": 9100.168175380857,
+    "largestContentfulPaint": 19023.464,
+    "totalBlockingTime": 199,
+    "cumulativeLayoutShift": 0.0649173730520412,
+    "timeToInteractive": 18943.847999999998,
+    "maxPotentialFirstInputDelay": 184,
+    "timeToFirstByte": 687.85,
+    "weight": {
+      "summary": "51 requests • 3,0 MiB",
+      "total": 3177754,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2647520,
+      "scriptCount": 35,
+      "document": 183774,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169602,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 29,
+      "+weight.total": 21,
+      "-weight.document": 38,
+      "+weight.document": 12,
+      "-weight.script": 23,
+      "+weight.script": 20,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 32,
+      "-totalBlockingTime": 3,
+      "-largestContentfulPaint": 45
+    },
+    "axe": {
+      "passes": 333,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/block-bonds-axa-shares",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/block-bonds-axa-shares",
+    "timestamp": 1707552393580,
+    "ranks": {
+      "hundos": 23,
+      "performance": 20,
+      "accessibility": 8,
+      "cumulative": 24
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.68,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 320
+    },
+    "firstContentfulPaint": 2597.6949999999997,
+    "firstMeaningfulPaint": 2597.6949999999997,
+    "speedIndex": 6505.440790137636,
+    "largestContentfulPaint": 3722.6949999999997,
+    "totalBlockingTime": 465,
+    "cumulativeLayoutShift": 0.015109077297186763,
+    "timeToInteractive": 19445.4325,
+    "maxPotentialFirstInputDelay": 341,
+    "timeToFirstByte": 267.08299999999997,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3095579,
+      "image": 527,
+      "imageCount": 1,
+      "script": 2606330,
+      "scriptCount": 35,
+      "document": 119691,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169610,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 7,
+      "+weight.total": 43,
+      "-weight.document": 19,
+      "+weight.document": 31,
+      "-weight.script": 19,
+      "+weight.script": 24,
+      "-weight.image": 3,
+      "+weight.image": 30,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 1,
+      "-totalBlockingTime": 45,
+      "-largestContentfulPaint": 7
+    },
+    "axe": {
+      "passes": 347,
+      "violations": 21
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/about-us/compensation-governance-committee",
+    "requestedUrl": "https://www.axa.com/en/about-us/compensation-governance-committee",
+    "timestamp": 1707552207624,
+    "ranks": {
+      "hundos": 25,
+      "performance": 35,
+      "accessibility": 7,
+      "cumulative": 25
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.92,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 319
+    },
+    "firstContentfulPaint": 2685.8095000000003,
+    "firstMeaningfulPaint": 2685.8095000000003,
+    "speedIndex": 8085.848384053709,
+    "largestContentfulPaint": 14567.582,
+    "totalBlockingTime": 294.5,
+    "cumulativeLayoutShift": 0.05185906694455765,
+    "timeToInteractive": 23850.564500000008,
+    "maxPotentialFirstInputDelay": 379,
+    "timeToFirstByte": 807.037,
+    "weight": {
+      "summary": "59 requests • 4,0 MiB",
+      "total": 4186408,
+      "image": 768598,
+      "imageCount": 2,
+      "script": 2910485,
+      "scriptCount": 36,
+      "document": 143550,
+      "font": 156612,
+      "fontCount": 5,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 937680,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 46,
+      "+weight.total": 4,
+      "-weight.document": 36,
+      "+weight.document": 14,
+      "-weight.script": 31,
+      "+weight.script": 12,
+      "-weight.image": 31,
+      "+weight.image": 2,
+      "-weight.font": 2,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 37,
+      "-totalBlockingTime": 21,
+      "-largestContentfulPaint": 38
+    },
+    "axe": {
+      "passes": 358,
+      "violations": 17
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/publications/2010-half-year-earnings",
+    "requestedUrl": "https://www.axa.com/en/press/publications/2010-half-year-earnings",
+    "timestamp": 1707552517277,
+    "ranks": {
+      "hundos": 26,
+      "performance": 29,
+      "accessibility": 32,
+      "cumulative": 26
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 318
+    },
+    "firstContentfulPaint": 2554.49,
+    "firstMeaningfulPaint": 2554.49,
+    "speedIndex": 5422.121727361751,
+    "largestContentfulPaint": 5219.235,
+    "totalBlockingTime": 268.5,
+    "cumulativeLayoutShift": 0.16401072498422453,
+    "timeToInteractive": 18767.0875,
+    "maxPotentialFirstInputDelay": 319,
+    "timeToFirstByte": 391.304,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3115258,
+      "image": 54290,
+      "imageCount": 2,
+      "script": 2600785,
+      "scriptCount": 34,
+      "document": 114252,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 223369,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 26,
+      "+weight.total": 24,
+      "-weight.document": 14,
+      "+weight.document": 36,
+      "-weight.script": 4,
+      "+weight.script": 39,
+      "-weight.image": 16,
+      "+weight.image": 17,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 24,
+      "-totalBlockingTime": 6,
+      "-largestContentfulPaint": 27
+    },
+    "axe": {
+      "passes": 427,
+      "violations": 36
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/20230405-axa-announces-the-successful-placement-of-euro-1-billion-dated-subordinated-notes-due-2043",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/20230405-axa-announces-the-successful-placement-of-euro-1-billion-dated-subordinated-notes-due-2043",
+    "timestamp": 1707552375174,
+    "ranks": {
+      "hundos": 28,
+      "performance": 21,
+      "accessibility": 30,
+      "cumulative": 27
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.67,
+      "accessibility": 0.89,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 317
+    },
+    "firstContentfulPaint": 2622.326,
+    "firstMeaningfulPaint": 2622.326,
+    "speedIndex": 6916.082466125096,
+    "largestContentfulPaint": 3897.326,
+    "totalBlockingTime": 446,
+    "cumulativeLayoutShift": 0.032407617508754795,
+    "timeToInteractive": 19542.641000000003,
+    "maxPotentialFirstInputDelay": 352,
+    "timeToFirstByte": 364.81100000000004,
+    "weight": {
+      "summary": "53 requests • 3,0 MiB",
+      "total": 3100919,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606278,
+      "scriptCount": 35,
+      "document": 125092,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169605,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 18,
+      "+weight.total": 32,
+      "-weight.document": 31,
+      "+weight.document": 19,
+      "-weight.script": 11,
+      "+weight.script": 32,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 22,
+      "-totalBlockingTime": 44,
+      "-largestContentfulPaint": 11
+    },
+    "axe": {
+      "passes": 370,
+      "violations": 24
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/henri-de-castries-retire-on-september-2016",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/henri-de-castries-retire-on-september-2016",
+    "timestamp": 1707552403081,
+    "ranks": {
+      "hundos": 27,
+      "performance": 3,
+      "accessibility": 45,
+      "cumulative": 28
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.8,
+      "accessibility": 0.82,
+      "bestPractices": 0.78,
+      "seo": 0.77,
+      "total": 317
+    },
+    "firstContentfulPaint": 2692.632,
+    "firstMeaningfulPaint": 2692.632,
+    "speedIndex": 6576.402839178854,
+    "largestContentfulPaint": 2767.632,
+    "totalBlockingTime": 290,
+    "cumulativeLayoutShift": 0.025561891901294126,
+    "timeToInteractive": 19721.712000000003,
+    "maxPotentialFirstInputDelay": 360,
+    "timeToFirstByte": 305.491,
+    "weight": {
+      "summary": "55 requests • 3,0 MiB",
+      "total": 3190413,
+      "image": 50171,
+      "imageCount": 3,
+      "script": 2606320,
+      "scriptCount": 35,
+      "document": 150573,
+      "font": 179703,
+      "fontCount": 6,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 219249,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 32,
+      "+weight.total": 18,
+      "-weight.document": 37,
+      "+weight.document": 13,
+      "-weight.script": 16,
+      "+weight.script": 27,
+      "-weight.image": 15,
+      "+weight.image": 18,
+      "-weight.font": 4,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 14,
+      "-totalBlockingTime": 17,
+      "-largestContentfulPaint": 2
+    },
+    "axe": {
+      "passes": 460,
+      "violations": 33
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/publications/2013-activity-report",
+    "requestedUrl": "https://www.axa.com/en/press/publications/2013-activity-report",
+    "timestamp": 1707552561457,
+    "ranks": {
+      "hundos": 29,
+      "performance": 38,
+      "accessibility": 26,
+      "cumulative": 29
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 316
+    },
+    "firstContentfulPaint": 2574.946,
+    "firstMeaningfulPaint": 2574.946,
+    "speedIndex": 5261.69145770984,
+    "largestContentfulPaint": 6824.838,
+    "totalBlockingTime": 273.5,
+    "cumulativeLayoutShift": 0.16863102481087655,
+    "timeToInteractive": 19072.7975,
+    "maxPotentialFirstInputDelay": 323,
+    "timeToFirstByte": 274.67400000000004,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3189935,
+      "image": 132590,
+      "imageCount": 2,
+      "script": 2600788,
+      "scriptCount": 34,
+      "document": 110630,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 301668,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 31,
+      "+weight.total": 19,
+      "-weight.document": 11,
+      "+weight.document": 39,
+      "-weight.script": 5,
+      "+weight.script": 38,
+      "-weight.image": 19,
+      "+weight.image": 14,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 3,
+      "-totalBlockingTime": 8,
+      "-largestContentfulPaint": 34
+    },
+    "axe": {
+      "passes": 313,
+      "violations": 19
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/half-year-2005-earnings-re-release",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/half-year-2005-earnings-re-release",
+    "timestamp": 1707551568151,
+    "ranks": {
+      "hundos": 30,
+      "performance": 10,
+      "accessibility": 28,
+      "cumulative": 30
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.74,
+      "accessibility": 0.89,
+      "bestPractices": 0.78,
+      "seo": 0.75,
+      "total": 316
+    },
+    "firstContentfulPaint": 2599.9635,
+    "firstMeaningfulPaint": 2599.9635,
+    "speedIndex": 5139.010359751403,
+    "largestContentfulPaint": 4089.9359999999997,
+    "totalBlockingTime": 282.5,
+    "cumulativeLayoutShift": 0.014829258099780194,
+    "timeToInteractive": 19099.7395,
+    "maxPotentialFirstInputDelay": 349,
+    "timeToFirstByte": 289.404,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3097769,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606281,
+      "scriptCount": 35,
+      "document": 121922,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169625,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 12,
+      "+weight.total": 38,
+      "-weight.document": 25,
+      "+weight.document": 25,
+      "-weight.script": 14,
+      "+weight.script": 29,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 12,
+      "-totalBlockingTime": 14,
+      "-largestContentfulPaint": 16
+    },
+    "axe": {
+      "passes": 366,
+      "violations": 23
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/about-us/profile/olga-villano",
+    "requestedUrl": "https://www.axa.com/en/about-us/profile/olga-villano",
+    "timestamp": 1707551681330,
+    "ranks": {
+      "hundos": 31,
+      "performance": 32,
+      "accessibility": 19,
+      "cumulative": 31
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.58,
+      "accessibility": 0.9,
+      "bestPractices": 0.74,
+      "seo": 0.92,
+      "total": 314
+    },
+    "firstContentfulPaint": 2547.726,
+    "firstMeaningfulPaint": 2547.726,
+    "speedIndex": 7537.118938328642,
+    "largestContentfulPaint": 19638.541,
+    "totalBlockingTime": 282,
+    "cumulativeLayoutShift": 0.04170934233273395,
+    "timeToInteractive": 19227.178,
+    "maxPotentialFirstInputDelay": 334,
+    "timeToFirstByte": 946.059,
+    "weight": {
+      "summary": "56 requests • 2,9 MiB",
+      "total": 3086024,
+      "image": 23146,
+      "imageCount": 2,
+      "script": 2600176,
+      "scriptCount": 34,
+      "document": 113296,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 192224,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 6,
+      "+weight.total": 44,
+      "-weight.document": 12,
+      "+weight.document": 38,
+      "-weight.script": 2,
+      "+weight.script": 41,
+      "-weight.image": 12,
+      "+weight.image": 21,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 41,
+      "-totalBlockingTime": 13,
+      "-largestContentfulPaint": 47
+    },
+    "axe": {
+      "passes": 298,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/commitments/responsible-investment",
+    "requestedUrl": "https://www.axa.com/en/commitments/responsible-investment",
+    "timestamp": 1707551272847,
+    "ranks": {
+      "hundos": 32,
+      "performance": 39,
+      "accessibility": 33,
+      "cumulative": 32
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.56,
+      "accessibility": 0.88,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 314
+    },
+    "firstContentfulPaint": 2682.024,
+    "firstMeaningfulPaint": 2682.024,
+    "speedIndex": 9042.566394532812,
+    "largestContentfulPaint": 18919.680000000004,
+    "totalBlockingTime": 313.5,
+    "cumulativeLayoutShift": 0.017094543540757116,
+    "timeToInteractive": 23767.840000000004,
+    "maxPotentialFirstInputDelay": 379,
+    "timeToFirstByte": 1363.789,
+    "weight": {
+      "summary": "59 requests • 4,0 MiB",
+      "total": 4165191,
+      "image": 764084,
+      "imageCount": 3,
+      "script": 2910536,
+      "scriptCount": 36,
+      "document": 141156,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 933155,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 45,
+      "+weight.total": 5,
+      "-weight.document": 34,
+      "+weight.document": 16,
+      "-weight.script": 36,
+      "+weight.script": 7,
+      "-weight.image": 30,
+      "+weight.image": 3,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 47,
+      "-totalBlockingTime": 33,
+      "-largestContentfulPaint": 43
+    },
+    "axe": {
+      "passes": 534,
+      "violations": 45
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/about-us/profile/alain-claude",
+    "requestedUrl": "https://www.axa.com/en/about-us/profile/alain-claude",
+    "timestamp": 1707551604136,
+    "ranks": {
+      "hundos": 35,
+      "performance": 37,
+      "accessibility": 20,
+      "cumulative": 33
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.9,
+      "bestPractices": 0.74,
+      "seo": 0.92,
+      "total": 313
+    },
+    "firstContentfulPaint": 2562.8345,
+    "firstMeaningfulPaint": 2562.8345,
+    "speedIndex": 8159.082220492785,
+    "largestContentfulPaint": 19441.536,
+    "totalBlockingTime": 316.3819999999996,
+    "cumulativeLayoutShift": 0.014100897987371498,
+    "timeToInteractive": 19252.3,
+    "maxPotentialFirstInputDelay": 330,
+    "timeToFirstByte": 1398.491,
+    "weight": {
+      "summary": "56 requests • 2,9 MiB",
+      "total": 3065435,
+      "image": 2543,
+      "imageCount": 2,
+      "script": 2600176,
+      "scriptCount": 34,
+      "document": 113305,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121753,
+      "stylesheetCount": 3,
+      "thirdParty": 171618,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 5,
+      "+weight.total": 45,
+      "-weight.document": 13,
+      "+weight.document": 37,
+      "-weight.script": 2,
+      "+weight.script": 41,
+      "-weight.image": 6,
+      "+weight.image": 27,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 48,
+      "-totalBlockingTime": 34,
+      "-largestContentfulPaint": 46
+    },
+    "axe": {
+      "passes": 298,
+      "violations": 13
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/20201117-future-fest",
+    "requestedUrl": "https://www.axa.com/en/press/events/20201117-future-fest",
+    "timestamp": 1707551653178,
+    "ranks": {
+      "hundos": 34,
+      "performance": 46,
+      "accessibility": 5,
+      "cumulative": 34
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.92,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 313
+    },
+    "firstContentfulPaint": 2554.3900000000003,
+    "firstMeaningfulPaint": 2554.3900000000003,
+    "speedIndex": 9006.016869155323,
+    "largestContentfulPaint": 16588.17,
+    "totalBlockingTime": 346.9999999999991,
+    "cumulativeLayoutShift": 0.11400237470552342,
+    "timeToInteractive": 16375.779999999999,
+    "maxPotentialFirstInputDelay": 276,
+    "timeToFirstByte": 1033.279,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3113150,
+      "image": 982,
+      "imageCount": 2,
+      "script": 2647534,
+      "scriptCount": 35,
+      "document": 118718,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 170062,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 23,
+      "+weight.total": 27,
+      "-weight.document": 17,
+      "+weight.document": 33,
+      "-weight.script": 26,
+      "+weight.script": 17,
+      "-weight.image": 4,
+      "+weight.image": 29,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 44,
+      "-totalBlockingTime": 41,
+      "-largestContentfulPaint": 39
+    },
+    "axe": {
+      "passes": 315,
+      "violations": 14
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/news/goodbye-san-francisco-hello-hong-kong",
+    "requestedUrl": "https://www.axa.com/en/news/goodbye-san-francisco-hello-hong-kong",
+    "timestamp": 1707551922677,
+    "ranks": {
+      "hundos": 33,
+      "performance": 36,
+      "accessibility": 41,
+      "cumulative": 35
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.86,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 313
+    },
+    "firstContentfulPaint": 3457.8385000000003,
+    "firstMeaningfulPaint": 3457.8385000000003,
+    "speedIndex": 8109.9496554818,
+    "largestContentfulPaint": 6394.246,
+    "totalBlockingTime": 295,
+    "cumulativeLayoutShift": 0.018622175937875452,
+    "timeToInteractive": 23008.8215,
+    "maxPotentialFirstInputDelay": 378,
+    "timeToFirstByte": 619.208,
+    "weight": {
+      "summary": "66 requests • 3,8 MiB",
+      "total": 3983231,
+      "image": 593765,
+      "imageCount": 9,
+      "script": 2711480,
+      "scriptCount": 36,
+      "document": 314236,
+      "font": 156612,
+      "fontCount": 5,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 762846,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 40,
+      "+weight.total": 10,
+      "-weight.document": 44,
+      "+weight.document": 6,
+      "-weight.script": 28,
+      "+weight.script": 15,
+      "-weight.image": 27,
+      "+weight.image": 6,
+      "-weight.font": 2,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 28,
+      "-totalBlockingTime": 22,
+      "-largestContentfulPaint": 31
+    },
+    "axe": {
+      "passes": 456,
+      "violations": 51
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/full-year-2009",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/full-year-2009",
+    "timestamp": 1707551551197,
+    "ranks": {
+      "hundos": 36,
+      "performance": 28,
+      "accessibility": 9,
+      "cumulative": 36
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.6,
+      "accessibility": 0.91,
+      "bestPractices": 0.78,
+      "seo": 0.83,
+      "total": 312
+    },
+    "firstContentfulPaint": 2509.262,
+    "firstMeaningfulPaint": 2509.262,
+    "speedIndex": 5380.429699968669,
+    "largestContentfulPaint": 21213.206000000006,
+    "totalBlockingTime": 341.9999999999991,
+    "cumulativeLayoutShift": 0.0021313521092996253,
+    "timeToInteractive": 18969.923000000003,
+    "maxPotentialFirstInputDelay": 327.9999999999991,
+    "timeToFirstByte": 466.519,
+    "weight": {
+      "summary": "53 requests • 3,0 MiB",
+      "total": 3111958,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2606320,
+      "scriptCount": 35,
+      "document": 121744,
+      "font": 179703,
+      "fontCount": 6,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169601,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 22,
+      "+weight.total": 28,
+      "-weight.document": 24,
+      "+weight.document": 26,
+      "-weight.script": 16,
+      "+weight.script": 27,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 4,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 25,
+      "-totalBlockingTime": 40,
+      "-largestContentfulPaint": 48
+    },
+    "axe": {
+      "passes": 378,
+      "violations": 22
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/gerald-harlin-societe-generale-premium-review-conference",
+    "requestedUrl": "https://www.axa.com/en/press/events/gerald-harlin-societe-generale-premium-review-conference",
+    "timestamp": 1707551629835,
+    "ranks": {
+      "hundos": 37,
+      "performance": 42,
+      "accessibility": 35,
+      "cumulative": 37
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.87,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 311
+    },
+    "firstContentfulPaint": 2599.127,
+    "firstMeaningfulPaint": 2599.127,
+    "speedIndex": 9677.483194980821,
+    "largestContentfulPaint": 17011.87764715576,
+    "totalBlockingTime": 257,
+    "cumulativeLayoutShift": 0.10591664348374133,
+    "timeToInteractive": 19403.412750000003,
+    "maxPotentialFirstInputDelay": 182,
+    "timeToFirstByte": 271.644,
+    "weight": {
+      "summary": "52 requests • 3,0 MiB",
+      "total": 3103689,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2647494,
+      "scriptCount": 35,
+      "document": 109737,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 169608,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 20,
+      "+weight.total": 30,
+      "-weight.document": 8,
+      "+weight.document": 42,
+      "-weight.script": 20,
+      "+weight.script": 23,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 2,
+      "-totalBlockingTime": 5,
+      "-largestContentfulPaint": 40
+    },
+    "axe": {
+      "passes": 333,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/insights/which-indicators-would-better-measure-life-and-happiness",
+    "requestedUrl": "https://www.axa.com/en/insights/which-indicators-would-better-measure-life-and-happiness",
+    "timestamp": 1707552130859,
+    "ranks": {
+      "hundos": 38,
+      "performance": 43,
+      "accessibility": 43,
+      "cumulative": 38
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.85,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 309
+    },
+    "firstContentfulPaint": 3532.1899999999987,
+    "firstMeaningfulPaint": 3532.1899999999987,
+    "speedIndex": 9861.07569502938,
+    "largestContentfulPaint": 6404.533999999999,
+    "totalBlockingTime": 329.5,
+    "cumulativeLayoutShift": 0.015417956600431389,
+    "timeToInteractive": 24591.925999999992,
+    "maxPotentialFirstInputDelay": 421,
+    "timeToFirstByte": 1682.086,
+    "weight": {
+      "summary": "66 requests • 3,9 MiB",
+      "total": 4140205,
+      "image": 565504,
+      "imageCount": 11,
+      "script": 2927911,
+      "scriptCount": 36,
+      "document": 297383,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 734582,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 44,
+      "+weight.total": 6,
+      "-weight.document": 40,
+      "+weight.document": 10,
+      "-weight.script": 42,
+      "+weight.script": 1,
+      "-weight.image": 26,
+      "+weight.image": 7,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 49,
+      "-totalBlockingTime": 37,
+      "-largestContentfulPaint": 32
+    },
+    "axe": {
+      "passes": 574,
+      "violations": 47
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/20221102-activity-indicators-analysts-and-investors-conference",
+    "requestedUrl": "https://www.axa.com/en/press/events/20221102-activity-indicators-analysts-and-investors-conference",
+    "timestamp": 1707551262430,
+    "ranks": {
+      "hundos": 39,
+      "performance": 48,
+      "accessibility": 22,
+      "cumulative": 39
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.48,
+      "accessibility": 0.9,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 308
+    },
+    "firstContentfulPaint": 3926.7960000000003,
+    "firstMeaningfulPaint": 3926.7960000000003,
+    "speedIndex": 10947.978866588666,
+    "largestContentfulPaint": 18281.837,
+    "totalBlockingTime": 280,
+    "cumulativeLayoutShift": 0.11985383917951448,
+    "timeToInteractive": 20681.836999999996,
+    "maxPotentialFirstInputDelay": 182,
+    "timeToFirstByte": 761.8009999999999,
+    "weight": {
+      "summary": "51 requests • 3,2 MiB",
+      "total": 3404446,
+      "image": 526,
+      "imageCount": 1,
+      "script": 2647530,
+      "scriptCount": 35,
+      "document": 410428,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 169674,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 34,
+      "+weight.total": 16,
+      "-weight.document": 47,
+      "+weight.document": 3,
+      "-weight.script": 25,
+      "+weight.script": 18,
+      "-weight.image": 2,
+      "+weight.image": 31,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 36,
+      "-totalBlockingTime": 11,
+      "-largestContentfulPaint": 42
+    },
+    "axe": {
+      "passes": 319,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/20160929-axa-edge-certification",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/20160929-axa-edge-certification",
+    "timestamp": 1707551859170,
+    "ranks": {
+      "hundos": 40,
+      "performance": 22,
+      "accessibility": 38,
+      "cumulative": 40
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.66,
+      "accessibility": 0.86,
+      "bestPractices": 0.78,
+      "seo": 0.77,
+      "total": 307
+    },
+    "firstContentfulPaint": 2755.241,
+    "firstMeaningfulPaint": 2755.241,
+    "speedIndex": 6768.560221837028,
+    "largestContentfulPaint": 4719.566999999999,
+    "totalBlockingTime": 294,
+    "cumulativeLayoutShift": 0.01504301220863441,
+    "timeToInteractive": 20136.173,
+    "maxPotentialFirstInputDelay": 354,
+    "timeToFirstByte": 306.864,
+    "weight": {
+      "summary": "56 requests • 3,0 MiB",
+      "total": 3186819,
+      "image": 55999,
+      "imageCount": 3,
+      "script": 2606304,
+      "scriptCount": 35,
+      "document": 141166,
+      "font": 179703,
+      "fontCount": 6,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 225078,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 30,
+      "+weight.total": 20,
+      "-weight.document": 35,
+      "+weight.document": 15,
+      "-weight.script": 15,
+      "+weight.script": 28,
+      "-weight.image": 17,
+      "+weight.image": 16,
+      "-weight.font": 4,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 16,
+      "-totalBlockingTime": 20,
+      "-largestContentfulPaint": 24
+    },
+    "axe": {
+      "passes": 409,
+      "violations": 30
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/press-releases/axa-achieves-the-highest-rating-in-the-insurance-sector-in-the-sp-global-corporate-sustainability-assessment-and-confirms-its-place-in-the-dow-jones-sustainability-indices",
+    "requestedUrl": "https://www.axa.com/en/press/press-releases/axa-achieves-the-highest-rating-in-the-insurance-sector-in-the-sp-global-corporate-sustainability-assessment-and-confirms-its-place-in-the-dow-jones-sustainability-indices",
+    "timestamp": 1707551488433,
+    "ranks": {
+      "hundos": 41,
+      "performance": 25,
+      "accessibility": 37,
+      "cumulative": 41
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.64,
+      "accessibility": 0.86,
+      "bestPractices": 0.78,
+      "seo": 0.77,
+      "total": 305
+    },
+    "firstContentfulPaint": 2741.4495,
+    "firstMeaningfulPaint": 2741.4495,
+    "speedIndex": 6759.01449869887,
+    "largestContentfulPaint": 4692.450500000001,
+    "totalBlockingTime": 365.9614999999976,
+    "cumulativeLayoutShift": 0.015178958551527504,
+    "timeToInteractive": 19773.803499999998,
+    "maxPotentialFirstInputDelay": 351,
+    "timeToFirstByte": 468.61,
+    "weight": {
+      "summary": "54 requests • 3,0 MiB",
+      "total": 3131899,
+      "image": 3222,
+      "imageCount": 2,
+      "script": 2606278,
+      "scriptCount": 35,
+      "document": 139039,
+      "font": 179703,
+      "fontCount": 6,
+      "stylesheet": 121761,
+      "stylesheetCount": 3,
+      "thirdParty": 172295,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 28,
+      "+weight.total": 22,
+      "-weight.document": 33,
+      "+weight.document": 17,
+      "-weight.script": 11,
+      "+weight.script": 32,
+      "-weight.image": 7,
+      "+weight.image": 26,
+      "-weight.font": 4,
+      "+weight.font": 1,
+      "+weight.fontCount": 1,
+      "-timeToFirstByte": 26,
+      "-totalBlockingTime": 42,
+      "-largestContentfulPaint": 23
+    },
+    "axe": {
+      "passes": 380,
+      "violations": 26
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/news/matter-of-trust-2-the-art-dealer",
+    "requestedUrl": "https://www.axa.com/en/news/matter-of-trust-2-the-art-dealer",
+    "timestamp": 1707551993190,
+    "ranks": {
+      "hundos": 42,
+      "performance": 47,
+      "accessibility": 40,
+      "cumulative": 42
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.49,
+      "accessibility": 0.86,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 305
+    },
+    "firstContentfulPaint": 12500.043999999989,
+    "firstMeaningfulPaint": 12500.043999999989,
+    "speedIndex": 14517.921403912074,
+    "largestContentfulPaint": 14455.78999999999,
+    "totalBlockingTime": 306,
+    "cumulativeLayoutShift": 0.014100643337421302,
+    "timeToInteractive": 31701.777999999988,
+    "maxPotentialFirstInputDelay": 368,
+    "timeToFirstByte": 919.1,
+    "weight": {
+      "summary": "61 requests • 5,4 MiB",
+      "total": 5693581,
+      "image": 477120,
+      "imageCount": 6,
+      "script": 2711486,
+      "scriptCount": 36,
+      "document": 2155568,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 646199,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 49,
+      "+weight.total": 1,
+      "-weight.document": 49,
+      "+weight.document": 1,
+      "-weight.script": 29,
+      "+weight.script": 14,
+      "-weight.image": 25,
+      "+weight.image": 8,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 40,
+      "-totalBlockingTime": 27,
+      "-largestContentfulPaint": 36
+    },
+    "axe": {
+      "passes": 390,
+      "violations": 38
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/press/events/alfred-bouckaert-cheuvreux-european-asian-insurance-conference",
+    "requestedUrl": "https://www.axa.com/en/press/events/alfred-bouckaert-cheuvreux-european-asian-insurance-conference",
+    "timestamp": 1707552536047,
+    "ranks": {
+      "hundos": 43,
+      "performance": 49,
+      "accessibility": 34,
+      "cumulative": 43
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.47,
+      "accessibility": 0.87,
+      "bestPractices": 0.78,
+      "seo": 0.92,
+      "total": 304
+    },
+    "firstContentfulPaint": 2590.484,
+    "firstMeaningfulPaint": 2590.484,
+    "speedIndex": 9963.503126798405,
+    "largestContentfulPaint": 17030.765999999996,
+    "totalBlockingTime": 335,
+    "cumulativeLayoutShift": 0.17943743486873992,
+    "timeToInteractive": 19446.254000000004,
+    "maxPotentialFirstInputDelay": 226,
+    "timeToFirstByte": 592.0409999999999,
+    "weight": {
+      "summary": "51 requests • 3,0 MiB",
+      "total": 3103843,
+      "image": 525,
+      "imageCount": 1,
+      "script": 2647501,
+      "scriptCount": 35,
+      "document": 109877,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 169606,
+      "thirdPartyCount": 2
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 21,
+      "+weight.total": 29,
+      "-weight.document": 9,
+      "+weight.document": 41,
+      "-weight.script": 22,
+      "+weight.script": 21,
+      "-weight.image": 1,
+      "+weight.image": 32,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 27,
+      "-totalBlockingTime": 38,
+      "-largestContentfulPaint": 41
+    },
+    "axe": {
+      "passes": 333,
+      "violations": 16
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/insights/the-private-sector-and-governments-must-take-risks-in-climate-action",
+    "requestedUrl": "https://www.axa.com/en/insights/the-private-sector-and-governments-must-take-risks-in-climate-action",
+    "timestamp": 1707552150472,
+    "ranks": {
+      "hundos": 45,
+      "performance": 41,
+      "accessibility": 39,
+      "cumulative": 44
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.54,
+      "accessibility": 0.86,
+      "bestPractices": 0.78,
+      "seo": 0.85,
+      "total": 303
+    },
+    "firstContentfulPaint": 3442.464,
+    "firstMeaningfulPaint": 3442.464,
+    "speedIndex": 6855.843864857349,
+    "largestContentfulPaint": 5788.114,
+    "totalBlockingTime": 311,
+    "cumulativeLayoutShift": 0.13895605972510927,
+    "timeToInteractive": 22654.65,
+    "maxPotentialFirstInputDelay": 408,
+    "timeToFirstByte": 985.0919999999999,
+    "weight": {
+      "summary": "64 requests • 3,9 MiB",
+      "total": 4046994,
+      "image": 469888,
+      "imageCount": 8,
+      "script": 2927903,
+      "scriptCount": 36,
+      "document": 299771,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 638967,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 41,
+      "+weight.total": 9,
+      "-weight.document": 41,
+      "+weight.document": 9,
+      "-weight.script": 41,
+      "+weight.script": 2,
+      "-weight.image": 24,
+      "+weight.image": 9,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 43,
+      "-totalBlockingTime": 30,
+      "-largestContentfulPaint": 29
+    },
+    "axe": {
+      "passes": 423,
+      "violations": 38
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/insights/biodiversity-at-risk",
+    "requestedUrl": "https://www.axa.com/en/insights/biodiversity-at-risk",
+    "timestamp": 1707551887649,
+    "ranks": {
+      "hundos": 44,
+      "performance": 27,
+      "accessibility": 47,
+      "cumulative": 45
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.61,
+      "accessibility": 0.79,
+      "bestPractices": 0.78,
+      "seo": 0.85,
+      "total": 303
+    },
+    "firstContentfulPaint": 3437.3779999999997,
+    "firstMeaningfulPaint": 3437.3779999999997,
+    "speedIndex": 7090.701549547882,
+    "largestContentfulPaint": 5012.377999999999,
+    "totalBlockingTime": 319,
+    "cumulativeLayoutShift": 0.01704109403918335,
+    "timeToInteractive": 24400.700999999997,
+    "maxPotentialFirstInputDelay": 420,
+    "timeToFirstByte": 719.917,
+    "weight": {
+      "summary": "66 requests • 4,0 MiB",
+      "total": 4203390,
+      "image": 600560,
+      "imageCount": 9,
+      "script": 2927878,
+      "scriptCount": 36,
+      "document": 311176,
+      "font": 156612,
+      "fontCount": 5,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 769641,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 47,
+      "+weight.total": 3,
+      "-weight.document": 43,
+      "+weight.document": 7,
+      "-weight.script": 38,
+      "+weight.script": 5,
+      "-weight.image": 28,
+      "+weight.image": 5,
+      "-weight.font": 2,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 34,
+      "-totalBlockingTime": 35,
+      "-largestContentfulPaint": 26
+    },
+    "axe": {
+      "passes": 514,
+      "violations": 48
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/insights/2020-future-risks-report-insights",
+    "requestedUrl": "https://www.axa.com/en/insights/2020-future-risks-report-insights",
+    "timestamp": 1707551709645,
+    "ranks": {
+      "hundos": 46,
+      "performance": 44,
+      "accessibility": 44,
+      "cumulative": 46
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.53,
+      "accessibility": 0.84,
+      "bestPractices": 0.78,
+      "seo": 0.85,
+      "total": 300
+    },
+    "firstContentfulPaint": 3783.1435,
+    "firstMeaningfulPaint": 3783.1435,
+    "speedIndex": 14157.963020140274,
+    "largestContentfulPaint": 6248.8234999999995,
+    "totalBlockingTime": 337.5,
+    "cumulativeLayoutShift": 0.014092621863990119,
+    "timeToInteractive": 22796.769499999995,
+    "maxPotentialFirstInputDelay": 449,
+    "timeToFirstByte": 1242.392,
+    "weight": {
+      "summary": "73 requests • 3,9 MiB",
+      "total": 4058536,
+      "image": 380256,
+      "imageCount": 17,
+      "script": 2927880,
+      "scriptCount": 36,
+      "document": 377902,
+      "font": 165360,
+      "fontCount": 5,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 549337,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 42,
+      "+weight.total": 8,
+      "-weight.document": 46,
+      "+weight.document": 4,
+      "-weight.script": 39,
+      "+weight.script": 4,
+      "-weight.image": 23,
+      "+weight.image": 10,
+      "-weight.font": 3,
+      "+weight.font": 2,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 45,
+      "-totalBlockingTime": 39,
+      "-largestContentfulPaint": 30
+    },
+    "axe": {
+      "passes": 589,
+      "violations": 56
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/insights/sustainable-diets-a-new-theme-on-the-menu-for-investors",
+    "requestedUrl": "https://www.axa.com/en/insights/sustainable-diets-a-new-theme-on-the-menu-for-investors",
+    "timestamp": 1707552330537,
+    "ranks": {
+      "hundos": 48,
+      "performance": 45,
+      "accessibility": 42,
+      "cumulative": 47
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.51,
+      "accessibility": 0.85,
+      "bestPractices": 0.78,
+      "seo": 0.85,
+      "total": 299
+    },
+    "firstContentfulPaint": 3295.602,
+    "firstMeaningfulPaint": 3295.602,
+    "speedIndex": 8454.415100920884,
+    "largestContentfulPaint": 6581.295000000001,
+    "totalBlockingTime": 309.5,
+    "cumulativeLayoutShift": 0.136261978594798,
+    "timeToInteractive": 23582.456499999993,
+    "maxPotentialFirstInputDelay": 403,
+    "timeToFirstByte": 972.609,
+    "weight": {
+      "summary": "64 requests • 3,7 MiB",
+      "total": 3851108,
+      "image": 271461,
+      "imageCount": 8,
+      "script": 2927896,
+      "scriptCount": 36,
+      "document": 287976,
+      "font": 156612,
+      "fontCount": 5,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 440541,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 3,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 39,
+      "+weight.total": 11,
+      "-weight.document": 39,
+      "+weight.document": 11,
+      "-weight.script": 40,
+      "+weight.script": 3,
+      "-weight.image": 21,
+      "+weight.image": 12,
+      "-weight.font": 2,
+      "+weight.font": 3,
+      "+weight.fontCount": 2,
+      "-timeToFirstByte": 42,
+      "-totalBlockingTime": 29,
+      "-largestContentfulPaint": 33
+    },
+    "axe": {
+      "passes": 487,
+      "violations": 44
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/news/paris-fintech-forum-axa-startups",
+    "requestedUrl": "https://www.axa.com/en/news/paris-fintech-forum-axa-startups",
+    "timestamp": 1707551371462,
+    "ranks": {
+      "hundos": 47,
+      "performance": 40,
+      "accessibility": 46,
+      "cumulative": 48
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.55,
+      "accessibility": 0.81,
+      "bestPractices": 0.78,
+      "seo": 0.85,
+      "total": 299
+    },
+    "firstContentfulPaint": 3602.7160000000003,
+    "firstMeaningfulPaint": 3602.7160000000003,
+    "speedIndex": 6386.7951883274745,
+    "largestContentfulPaint": 28348.585999999996,
+    "totalBlockingTime": 312.5,
+    "cumulativeLayoutShift": 0.014100643337421302,
+    "timeToInteractive": 24812.722,
+    "maxPotentialFirstInputDelay": 388,
+    "timeToFirstByte": 909.237,
+    "weight": {
+      "summary": "62 requests • 4,8 MiB",
+      "total": 5068966,
+      "image": 1664535,
+      "imageCount": 7,
+      "script": 2711486,
+      "scriptCount": 36,
+      "document": 343512,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121769,
+      "stylesheetCount": 3,
+      "thirdParty": 1833616,
+      "thirdPartyCount": 4
+    },
+    "run": {
+      "number": 1,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 48,
+      "+weight.total": 2,
+      "-weight.document": 45,
+      "+weight.document": 5,
+      "-weight.script": 29,
+      "+weight.script": 14,
+      "-weight.image": 32,
+      "+weight.image": 1,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 39,
+      "-totalBlockingTime": 32,
+      "-largestContentfulPaint": 49
+    },
+    "axe": {
+      "passes": 434,
+      "violations": 48
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/news/how-to-support-the-transition-towards-the-protection-of-biodiversity",
+    "requestedUrl": "https://www.axa.com/en/news/how-to-support-the-transition-towards-the-protection-of-biodiversity",
+    "timestamp": 1707551766674,
+    "ranks": {
+      "hundos": 49,
+      "performance": 34,
+      "accessibility": 49,
+      "cumulative": 49
+    },
+    "lighthouse": {
+      "version": "11.4.0",
+      "performance": 0.57,
+      "accessibility": 0.77,
+      "bestPractices": 0.78,
+      "seo": 0.85,
+      "total": 297
+    },
+    "firstContentfulPaint": 4050.9529999999995,
+    "firstMeaningfulPaint": 4050.9529999999995,
+    "speedIndex": 7527.352837381308,
+    "largestContentfulPaint": 7425.9529999999995,
+    "totalBlockingTime": 223,
+    "cumulativeLayoutShift": 0.014100643337421302,
+    "timeToInteractive": 17460.8825,
+    "maxPotentialFirstInputDelay": 360,
+    "timeToFirstByte": 750.6189999999999,
+    "weight": {
+      "summary": "63 requests • 3,7 MiB",
+      "total": 3843115,
+      "image": 354239,
+      "imageCount": 8,
+      "script": 2711530,
+      "scriptCount": 36,
+      "document": 427938,
+      "font": 142269,
+      "fontCount": 4,
+      "stylesheet": 121745,
+      "stylesheetCount": 3,
+      "thirdParty": 523321,
+      "thirdPartyCount": 3
+    },
+    "run": {
+      "number": 2,
+      "total": 3
+    },
+    "sidequests": {
+      "-weight.total": 38,
+      "+weight.total": 12,
+      "-weight.document": 48,
+      "+weight.document": 2,
+      "-weight.script": 30,
+      "+weight.script": 13,
+      "-weight.image": 22,
+      "+weight.image": 11,
+      "-weight.font": 1,
+      "+weight.font": 4,
+      "+weight.fontCount": 3,
+      "-timeToFirstByte": 35,
+      "-totalBlockingTime": 4,
+      "-largestContentfulPaint": 35
+    },
+    "axe": {
+      "passes": 517,
+      "violations": 52
+    }
+  },
+  {
+    "url": "https://www.axa.com/en/about-us/profile/ariel-eckstein",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 50,
+      "-weight.document": 50,
+      "+weight.document": 50,
+      "-weight.script": 43,
+      "+weight.script": 43,
+      "-weight.image": 33,
+      "+weight.image": 33,
+      "-weight.font": 5,
+      "+weight.font": 5,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 50
+    }
+  },
+  {
+    "url": "https://www.axa.com/not-resolved",
+    "error": "Unknown error.",
+    "sidequests": {
+      "-weight.total": 50,
+      "+weight.total": 50,
+      "-weight.document": 50,
+      "+weight.document": 50,
+      "-weight.script": 43,
+      "+weight.script": 43,
+      "-weight.image": 33,
+      "+weight.image": 33,
+      "-weight.font": 5,
+      "+weight.font": 5,
+      "+weight.fontCount": 4,
+      "-timeToFirstByte": 50,
+      "-totalBlockingTime": 46,
+      "-largestContentfulPaint": 50
+    }
+  }
+]
