@@ -36,10 +36,6 @@
   [headers.values]
     cache-control = "public, max-age=31536000"
 [[headers]]
-  for = "*.json" # json files too
-  [headers.values]
-    cache-control = "public, max-age=31536000"
-[[headers]]
   for = "*.css" # css files too
   [headers.values]
     cache-control = "public, max-age=31536000"
