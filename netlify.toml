@@ -35,7 +35,7 @@
   for = "*.js" # js files too
   [headers.values]
     cache-control = "public, max-age=31536000"
-    [[headers]]
+[[headers]]
   for = "*.json" # json files too
   [headers.values]
     cache-control = "public, max-age=31536000"
