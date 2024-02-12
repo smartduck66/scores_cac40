@@ -35,7 +35,8 @@ Pour construire le site statique (->dist) qui sera publié sur Netlify :
 ---
 
 Installations de modules NPM complémentaires :
-- Appel de Lighthouse (from Zach Leatherman) : npm i performance-leaderboard
+- Google Lighthouse : npm i lighthouse (utilisé dans /batch/lh.js)
+- Chrome Launcher : npm i chrome-launcher (utilisé dans /batch/lh.js)
 - Vue Router : npm i vue-router@4
 - Types Babel : npm i -D @babel/types
 - VueUse : npm i @vueuse/core (utilitaires)
@@ -44,7 +45,6 @@ Installations de modules NPM complémentaires :
 - Pinia : npm i pinia (gestion des états)
 - Sharp : npm install sharp (package utilisé dans le script webp.cjs pour transformer en masse les images png/jpg en webp)
 - eCharts/vue-echarts : npm i echarts vue-echarts (graphiques)
-
 ---
 
 Recommandation : passer le site en production au "checker" HTML régulièrement -> https://validator.w3.org/
@@ -52,5 +52,5 @@ Recommandation : passer le site en production au "checker" HTML régulièrement 
 ---
 
 Traitements batchs (à lancer du répertoire /batch) :
-- hebdomadaire, pour le calcul des indicateurs Lighthouse sur les pages d'accueil des sites du CAC40 : node perf.js
-- à la demande, pour une mesure 'spot' des indicateurs Lighthouse sur la profondeur d'un seul site : node spot.js
+- hebdomadaire, pour le calcul des indicateurs Lighthouse sur l'ensemble des pages d'accueil des sites du CAC40 : node perf.mjs
+- à la demande, pour une mesure 'spot' des indicateurs Lighthouse sur la profondeur d'un seul site. Ex : node spot.mjs bouygues.xml

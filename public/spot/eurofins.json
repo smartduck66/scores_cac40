@@ -1,9 +1,9 @@
 {
-  "sitemap_url": "https://www.eurofins.com/sitemapxml/",
-  "cac40":"eurofins",
-  "timestamp": 1707497705190,
+  "sitemap_url": "eurofins.xml",
+  "cac40": "eurofins",
+  "timestamp": 1707761309269,
   "nb_total_url": 20,
-  "poids_moyen_page": 3221.612451171875,
+  "poids_moyen_page": 3100,
   "lh_perf_moyen": 75,
   "lh_accessibility_moyen": 77,
   "lh_bestpractices_moyen": 86,

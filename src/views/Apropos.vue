@@ -20,11 +20,11 @@ import Footer from "../components/Footer.vue";
     <br /><br />
     Mais, il est assez fastidieux de lancer manuellement ces tests sur plus d'une page, quand vous souhaitez effectuer des comparaisons. Et je suis tombé par hasard, en 2023, sur les travaux de Zach Leatherman.
     <br /><br />
-    Le créateur du framework Eleventy avait en effet publié un projet personnel nommé 'speedlify' qui se proposait d'automatiser les appels aux APIs Google Lighthouse.
+    Le créateur du framework Eleventy avait en effet publié un projet personnel nommé 'speedlify' qui se proposait d'automatiser les appels à l'API Google Lighthouse, via un module NPM dédié nommé 'performance leaderboard'.
     <br /><br />
-    Après l'avoir utilisé quelques mois pour mesurer les performances <b>des sites institutionnels</b> de l'emblématique indice CAC40, j'ai souhaité le réécrire en ne conservant que le coeur du produit.
+    Après l'avoir utilisé quelques mois pour mesurer les performances <b>des sites institutionnels</b> de l'emblématique indice CAC40, j'ai souhaité le réécrire en appelant directement l'API en question.
     <br /><br />
-    J'ai donc repris le module <i>performance-leaderboard</i> et bâti une application en Vue.js, mon framework Javascript de prédilection. Et voici, WebCheck'CAC40 !
+    J'ai donc bâti une application en Vue.js, mon framework Javascript de prédilection. Et voici, WebCheck'CAC40 !
     <br /><br />
     Un tableau collationne les 4 métriques principales issues de <i>Lighthouse</i> (performance, accessibilité, Bonnes pratiques, SEO) ainsi que la répartition du poids des pages auditées.
     <br /><br />

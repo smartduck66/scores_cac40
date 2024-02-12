@@ -6,8 +6,11 @@
 // A convertir en TS
 // ******************************************************************
 
-import { lighthouseAPI_call } from "./lh.js";
 import * as fs1 from "fs";
+
+// Tiré de https://github.com/zachleat/performance-leaderboard
+//const PerfLeaderboard = require("performance-leaderboard");
+import runLighthouse from "performance-leaderboard";
 
 function extractDomainWithoutExtension(url) {
   // Supprimer le protocole s'il est présent
@@ -24,6 +27,7 @@ function extractDomainWithoutExtension(url) {
 
 (async function () {
   const sitemap = process.argv.slice(2).toString();
+  const directoryDataPath = "./data_source/spot/";
   const directoryDataPublicPath = "../public/spot/";
   const timestamp = Date.now();
   const filename = extractDomainWithoutExtension(sitemap) + ".json"; // ex : france.arcelormittal.json
@@ -33,23 +37,48 @@ function extractDomainWithoutExtension(url) {
   var xml;
   var regex = /<loc>(.*?)<\/loc>/g;
   if (sitemap.includes("http")) {
+    //const { statusCode, headers, trailers, body } = await request(sitemap);
+    //const xml = await body.text()
     const res = await fetch(sitemap);
     xml = await res.text();
   } else {
-    xml = fs1.readFileSync("./sitemaps/" + sitemap, "utf8"); // ex: node spot.mjs bouygues.xml
+    xml = fs1.readFileSync("./data_source/sitemaps/" + sitemap, "utf8"); // ex: node spot.mjs bouygues.xml
   }
   const results = xml.match(regex);
   //console.log(results);
   let urls = [];
 
-  // On prend les 100 premières URLs de la sitemap - Temps moyen de calcul : 15'
-  for (let index = 0; index < 100; index++) {
+  // On considère toutefois que 50 URLs est un nombre suffisamment significatif pour calculer des métriques moyennes sur un site donné -> Temps de calcul approximatif : 20 à 50'
+  const increment = Math.round(results.length / 50); // ~50 URLs conservées, dont la page d'accueil traditionnellement plus 'lourde'
+  for (let index = 0; index < results.length; index += increment) {
     const d = results[index];
     urls.push(d.substring(d.indexOf(">") + 1, d.indexOf("</loc>")));
   }
 
+  // Create the options object (not required)
+  const options = {
+    axePuppeteerTimeout: 30000, // 30 seconds
+    writeLogs: true, // Store audit data
+    logDirectory: ".log", // Default audit data files stored at `.log`
+    readFromLogDirectory: false, // Skip tests with existing logs
+    // onlyCategories: ["performance", "accessibility"],
+    chromeFlags: ["--headless"],
+    freshChrome: "site", // or "run"
+    launchOptions: {}, // Puppeteer launch options
+  };
+
+  // Run each site 3 times with default options
+  // Or run each site 5 times with default options
+  // console.log( await PerfLeaderboard(urls, 5) );
+  // Or run each site 5 times with custom options
+  // console.log( await PerfLeaderboard(urls, 5, options) );
+
   // ******************************************************************************************************************************************************************************
-  // Step #1 : création du fichier avec les SEULES données formatées affichées par le navigateur web (Répertoire ../public/data/spot)
+  // Step #1 : création du fichier source par le module 'performance leaderboard' (Répertoire /data_source/spot)
+  fs1.writeFileSync(directoryDataPath + filename, JSON.stringify(await runLighthouse(urls), null, 2)); // Création du json final sur disque
+
+  // ******************************************************************************************************************************************************************************
+  // Step #2 : création du fichier avec les SEULES données formatées affichées par le navigateur web (Répertoire ../public/data/spot)
   class spot {
     sitemap_url;
     cac40;
@@ -60,6 +89,7 @@ function extractDomainWithoutExtension(url) {
     lh_accessibility_moyen;
     lh_bestpractices_moyen;
     lh_seo_moyen;
+    lh_total_moyen;
 
     constructor() {
       this.sitemap_url = "";
@@ -71,33 +101,37 @@ function extractDomainWithoutExtension(url) {
       this.lh_accessibility_moyen = 0;
       this.lh_bestpractices_moyen = 0;
       this.lh_seo_moyen = 0;
+      this.lh_total_moyen = 0;
     }
   }
 
-  const jsonData = await lighthouseAPI_call(urls);
-
+  const content = fs1.readFileSync(directoryDataPath + filename, "utf8");
+  const jsonData = JSON.parse(content);
   var mesures = new spot(); // note the "new" keyword here
   let poids = 0;
   let perf = 0;
   let accessibility = 0;
   let bp = 0;
   let seo = 0;
+  let total = 0;
 
   mesures.sitemap_url = sitemap;
   mesures.cac40 = extractDomainWithoutExtension(sitemap);
   mesures.timestamp = timestamp;
   mesures.nb_total_url = urls.length;
 
-  jsonData.map((d) => {
-    // Une erreur peut être notifiée dans le fichier json construit par l'API Lighthouse -> Les mesures sont donc inexistantes...
-    if (d.error) {
-      mesures.nb_total_url--; // ... On décrémente alors le nombre d'URLs pour ne pas fausser la moyenne finale
-    } else {
-      poids += d.total_weight;
-      perf += d.lh_perf;
-      accessibility += d.lh_accessibility;
-      bp += d.lh_bestpractices;
-      seo += d.lh_seo;
+  await jsonData.map(async (d) => {
+    // Une 'unknown error' peut être notifiée dans le fichier json construit par PerfLeaderboard -> Les mesures sont donc inexistantes...
+    try {
+      // Le async est nécessaire dès qu'un await est présent dans le map
+      poids += d.weight.total;
+      perf += d.lighthouse.performance;
+      accessibility += d.lighthouse.accessibility;
+      bp += d.lighthouse.bestPractices;
+      seo += d.lighthouse.seo;
+      total += d.lighthouse.total;
+    } catch (error) {
+      mesures.nb_total_url--; // ... On décrémente le nombre d'URLs pour ne pas fausser la moyenne finale
     }
   });
 
@@ -111,7 +145,7 @@ function extractDomainWithoutExtension(url) {
   fs1.writeFileSync(directoryDataPublicPath + filename, JSON.stringify(mesures, null, 2)); // Création du json final sur disque
 
   // ******************************************************************************************************************************************************************************
-  // Step #2 : construction du fichier spot.json contenant l'ensemble des fichiers du répertoire, qui sera lu à partir du browser
+  // Step #3 : construction du fichier spot.json contenant l'ensemble des fichiers du répertoire, qui sera lu à partir du browser
 
   // Lecture des fichiers dans le répertoire
   fs1.readdir(directoryDataPublicPath, (err, files) => {

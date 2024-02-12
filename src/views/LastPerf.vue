@@ -107,7 +107,11 @@ const onRowSelect_WebSite = async (event: any) => {
           @rowSelect="onRowSelect_WebSite"
         >
           <Column field="url" header="URL testée" style="padding-top: 0.5em; padding-bottom: 0.5em;padding-left: 0.5em"></Column>
-          <Column field="lh_rank" header="Rang" style="text-align: right; padding-left: 2em; padding-right: 2em"></Column>
+          <Column  header="Rang" style="text-align: right; padding-left: 2em; padding-right: 2em">
+            <template #body="slotProps">
+            {{ slotProps.index + 1 }}
+        </template>
+          </Column>
           <Column
             field="lh_total"
             sortable

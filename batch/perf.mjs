@@ -3,8 +3,8 @@
 // A convertir en TS
 // ******************************************************************
 
-// Tiré de https://github.com/zachleat/performance-leaderboard
-const PerfLeaderboard = require("performance-leaderboard");
+import { lighthouseAPI_call } from "./lh.js";
+import * as fs1 from "fs";
 
 function extractDomainWithoutExtension(url) {
   // Supprimer le protocole s'il est présent
@@ -43,8 +43,6 @@ async function fetchCO2(url) {
 }
 
 (async function () {
-  var fs1 = require("fs");
-  const directoryDataPath = "./data_source/";
   const directoryDataPublicPath = "../public/data/";
   const filename = Date.now().toString() + ".json";
   var startTime = performance.now();
@@ -92,33 +90,10 @@ async function fetchCO2(url) {
     "https://www.veolia.com/fr",
     "https://www.vinci.com",
     "https://www.vivendi.com/",
-    
   ];
-  
-  // Create the options object (not required)
-  const options = {
-    axePuppeteerTimeout: 30000, // 30 seconds
-    writeLogs: true, // Store audit data
-    logDirectory: ".log", // Default audit data files stored at `.log`
-    readFromLogDirectory: false, // Skip tests with existing logs
-    // onlyCategories: ["performance", "accessibility"],
-    chromeFlags: ["--headless"],
-    freshChrome: "site", // or "run"
-    launchOptions: {}, // Puppeteer launch options
-  };
-
-  // Run each site 3 times with default options
-  // Or run each site 5 times with default options
-  // console.log( await PerfLeaderboard(urls, 5) );
-  // Or run each site 5 times with custom options
-  // console.log( await PerfLeaderboard(urls, 5, options) );
 
   // ******************************************************************************************************************************************************************************
-  // Step #1 : création du fichier source par le module 'performance leaderboard' (environ 66ko par fichier - Répertoire /data_source)
-  fs1.writeFileSync(directoryDataPath + filename, JSON.stringify(await PerfLeaderboard(urls), null, 2)); // Création du json final sur disque
-
-  // ******************************************************************************************************************************************************************************
-  // Step #2 : création du fichier avec les SEULES données formatées affichées par le navigateur web (environ 24ko par fichier -> Taille divisée par 3 - Répertoire ../public/data)
+  // Step #1 : création du fichier avec les SEULES données formatées affichées par le navigateur web (Répertoire ../public/data)
   class table_row {
     url;
     cac40;
@@ -128,9 +103,7 @@ async function fetchCO2(url) {
     lh_bestpractices;
     lh_seo;
     lh_total;
-    lh_rank;
     FCP;
-    FMP;
     SI;
     LCP;
     TBT;
@@ -156,9 +129,7 @@ async function fetchCO2(url) {
       this.lh_bestpractices = 0;
       this.lh_seo = 0;
       this.lh_total = 0;
-      this.lh_rank = 0;
       this.FCP = 0;
-      this.FMP = 0;
       this.SI = 0;
       this.LCP = 0;
       this.TBT = 0;
@@ -176,51 +147,50 @@ async function fetchCO2(url) {
       this.carbon_footprint = "";
     }
   }
-  const content = fs1.readFileSync(directoryDataPath + filename, "utf8");
-  const jsonData = JSON.parse(content);
+
+  const jsonData = await lighthouseAPI_call(urls);
   let valeur_cac40 = [];
 
   console.log("Appel de l'API WebsiteCarbon pour chaque valeur du CAC40...");
   const mesures = await Promise.all(
-    // Le Promise.all est nécessaire pour 'attendre' le await de la récupération de l'empreinte CO2
+    // Le Promise.all est nécessaire pour 'attendre' les 'await'
     jsonData.map(async (d) => {
       // Le async est nécessaire dès qu'un await est présent dans le map
       var item = new table_row(); // note the "new" keyword here
+      // On ne vérifie pas 'd.error', comme cela est fait dans spot.mjs car on estime que les pages d'accueil des sites du CAC40 sont toujours crawlables par LH
       item.url = d.url;
       item.cac40 = extractDomainWithoutExtension(d.url);
       valeur_cac40.push(item.cac40); // Pour le fichier historique.json
-      item.lh_version = d.lighthouse.version;
-      item.lh_perf = Math.round(d.lighthouse.performance * 100);
-      item.lh_accessibility = Math.round(d.lighthouse.accessibility * 100);
-      item.lh_bestpractices = Math.round(d.lighthouse.bestPractices * 100);
-      item.lh_seo = Math.round(d.lighthouse.seo * 100);
-      item.lh_total = d.lighthouse.total;
-      item.lh_rank = d.ranks.cumulative;
-      item.FCP = d.firstContentfulPaint / 1000; // en secondes
-      item.FMP = d.firstMeaningfulPaint / 1000; // en secondes
-      item.SI = d.speedIndex / 1000; // en secondes
-      item.LCP = d.largestContentfulPaint / 1000; // en secondes
-      item.TBT = d.totalBlockingTime; // en millisecondes
-      item.CLS = d.cumulativeLayoutShift;
-      item.TTI = d.timeToInteractive / 1000; // en secondes
-      item.FID = d.maxPotentialFirstInputDelay; // en millisecondes
-      item.TTFB = d.timeToFirstByte; // en millisecondes
-      item.total_weight = Math.round(d.weight.total / 1024); // en Ko
-      item.image_weight = Math.round(d.weight.image / 1024); // en Ko
-      item.script_weight = Math.round(d.weight.script / 1024); // en Ko
-      item.document_weight = Math.round(d.weight.document / 1024); // en Ko
-      item.font_weight = Math.round(d.weight.font / 1024); // en Ko
-      item.stylesheet_weight = Math.round(d.weight.stylesheet / 1024); // en Ko
-      item.thirdParty_weight = Math.round(d.weight.thirdParty / 1024); // en Ko
+      item.lh_version = d.lh_version;
+      item.lh_perf = Math.round(d.lh_perf * 100);
+      item.lh_accessibility = Math.round(d.lh_accessibility * 100);
+      item.lh_bestpractices = Math.round(d.lh_bestpractices * 100);
+      item.lh_seo = Math.round(d.lh_seo * 100);
+      item.lh_total = item.lh_perf + item.lh_accessibility + item.lh_bestpractices + item.lh_seo;
+      item.FCP = d.FCP / 1000; // en secondes
+      item.SI = d.SI / 1000; // en secondes
+      item.LCP = d.LCP / 1000; // en secondes
+      item.TBT = d.TBT; // en millisecondes
+      item.CLS = d.CLS;
+      item.TTI = d.TTI / 1000; // en secondes
+      item.FID = d.FID; // en millisecondes
+      item.TTFB = d.TTFB; // en millisecondes
+      item.total_weight = Math.round(d.total_weight / 1024); // en Ko
+      item.image_weight = Math.round(d.image_weight / 1024); // en Ko
+      item.script_weight = Math.round(d.script_weight / 1024); // en Ko
+      item.document_weight = Math.round(d.document_weight / 1024); // en Ko
+      item.font_weight = Math.round(d.font_weight / 1024); // en Ko
+      item.stylesheet_weight = Math.round(d.stylesheet_weight / 1024); // en Ko
+      item.thirdParty_weight = Math.round(d.thirdParty_weight / 1024); // en Ko
       item.carbon_footprint = await fetchCO2(d.url);
 
       return item;
     })
   );
   fs1.writeFileSync(directoryDataPublicPath + filename, JSON.stringify(mesures, null, 2)); // Création du json final sur disque
-
+  
   // ******************************************************************************************************************************************************************************
-  // Step #3 : construction du fichier mesures.json contenant l'ensemble des fichiers du répertoire, qui sera lu à partir du browser
+  // Step #2 : construction du fichier mesures.json contenant l'ensemble des fichiers du répertoire, qui sera lu à partir du browser
 
   // Lecture des fichiers dans le répertoire
   fs1.readdir(directoryDataPublicPath, (err, files) => {
@@ -241,7 +211,7 @@ async function fetchCO2(url) {
     
 
     // ******************************************************************************************************************************************************************************
-    // Step #4 : construction du dataset historique 'historique.json' (inclus dans le fs1.readdir pour éviter des problèmes de synchronisation...)
+    // Step #3 : construction du dataset historique 'historique.json' (inclus dans le fs1.readdir pour éviter des problèmes de synchronisation...)
     class graph_data {
       name;
       type;

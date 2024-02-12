@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { defineAsyncComponent } from 'vue'
-const LastPerfDisplay = defineAsyncComponent(() => import('./LastPerf.vue'))
+import { defineAsyncComponent } from "vue";
+const LastPerfDisplay = defineAsyncComponent(() => import("./LastPerf.vue"));
 import Footer from "../components/Footer.vue";
 import { performance } from "../assets/mixins/types";
 import { ref, Ref } from "vue";
@@ -15,7 +15,7 @@ function menu_choix_date_historique() {
 }
 
 async function Result_table_build(filename: string) {
-  class table_row implements performance{
+  class table_row implements performance {
     url: string;
     cac40: string;
     lh_version: string;
@@ -24,9 +24,7 @@ async function Result_table_build(filename: string) {
     lh_bestpractices: number;
     lh_seo: number;
     lh_total: number;
-    lh_rank: number;
     FCP: number;
-    FMP: number;
     SI: number;
     LCP: number;
     TBT: number;
@@ -52,9 +50,7 @@ async function Result_table_build(filename: string) {
       this.lh_bestpractices = 0;
       this.lh_seo = 0;
       this.lh_total = 0;
-      this.lh_rank = 0;
       this.FCP = 0;
-      this.FMP = 0;
       this.SI = 0;
       this.LCP = 0;
       this.TBT = 0;
@@ -83,6 +79,9 @@ async function Result_table_build(filename: string) {
     })
     .then((content) => {
       const jsonData = JSON.parse(content);
+      jsonData.sort((a: table_row, b: table_row) => {
+        return b.lh_total - a.lh_total;
+      });
 
       mesures.value = jsonData.map(function (d: any) {
         var item = new table_row(); // note the "new" keyword here
@@ -95,9 +94,7 @@ async function Result_table_build(filename: string) {
         item.lh_bestpractices = d.lh_bestpractices;
         item.lh_seo = d.lh_seo;
         item.lh_total = d.lh_total;
-        item.lh_rank = d.lh_rank;
         item.FCP = d.FCP; // en secondes
-        item.FMP = d.FMP; // en secondes
         item.SI = d.SI; // en secondes
         item.LCP = d.LCP; // en secondes
         item.TBT = d.TBT; // en millisecondes
@@ -206,8 +203,7 @@ Result_table_build(store.Liste_dates_mesure[0].file); // On construit la table d
   line-height: 0.9;
   letter-spacing: normal;
   text-align: center;
-  margin-left:10px;
-  padding-top:0px;
-
+  margin-left: 10px;
+  padding-top: 0px;
 }
 </style>

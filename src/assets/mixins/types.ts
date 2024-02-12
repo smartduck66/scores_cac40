@@ -7,9 +7,7 @@ export interface performance {
   lh_bestpractices: number;
   lh_seo: number;
   lh_total: number;
-  lh_rank: number;
   FCP: number;
-  FMP: number;
   SI: number;
   LCP: number;
   TBT: number;

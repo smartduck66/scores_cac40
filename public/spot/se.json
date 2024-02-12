@@ -1,12 +1,12 @@
 {
-  "sitemap_url": "https://www.se.com/fr/fr/sitemap.xml",
-  "cac40":"se",
-  "timestamp": 1707504724173,
-  "nb_total_url": 28,
-  "poids_moyen_page": 4652.887590680803,
-  "lh_perf_moyen": 75,
-  "lh_accessibility_moyen": 63,
-  "lh_bestpractices_moyen": 80,
-  "lh_seo_moyen": 84,
-  "lh_total_moyen": 302
+  "sitemap_url": "se.xml",
+  "cac40": "se",
+  "timestamp": 1707758630143,
+  "nb_total_url": 100,
+  "poids_moyen_page": 9171.79296875,
+  "lh_perf_moyen": 64,
+  "lh_accessibility_moyen": 84,
+  "lh_bestpractices_moyen": 78,
+  "lh_seo_moyen": 93,
+  "lh_total_moyen": 319
 }

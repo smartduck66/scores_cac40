@@ -11,8 +11,9 @@ import Footer from "../components/Footer.vue";
     <ul>
       <li>Mise en production v1.0</li>
       <li>Remplacement de Google Analytics par GoatCounter, script plus léger et suffisant pour les analyses d'audience</li>
-      <li>Nouvelle fonctionnalité 'SPOT' qui permet d'obtenir les métriques moyennes calculées sur une cinquantaine de pages de chaque site suivi</li>
+      <li>Nouvelle fonctionnalité 'SPOT' qui permet d'obtenir les métriques moyennes calculées sur 100 pages de chaque site suivi</li>
       <li>Modification d'URL (.fr -> .com, pour le site institutionnel) : Michelin, Legrand</li>
+      <li>Remplacement du module 'performance leaderboard' de Zach Leatherman par un appel direct à l'API Google Lighthouse</li>
     </ul>
     <br />
     <h4>Janvier 2024</h4>

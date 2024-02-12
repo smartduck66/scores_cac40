@@ -10,8 +10,9 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.7.2",
+    "chrome-launcher": "^1.1.0",
     "echarts": "^5.4.3",
-    "performance-leaderboard": "^11.0.0",
+    "lighthouse": "^11.5.0",
     "pinia": "^2.1.7",
     "primevue": "^3.48.1",
     "sharp": "^0.33.2",
