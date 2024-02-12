@@ -95,7 +95,7 @@ fetch("/spot/" + props.filename)
             size="large"
             :severity="couleur_indicateur_lighthouse(mesures_lh.lh_accessibility_moyen, 50, 89)"
           ></Badge>
-          <div class="KPI">11ty</div>
+          <div class="KPI">A11ty</div>
         </div>
         <div class="c-lh-4">
           <Badge
