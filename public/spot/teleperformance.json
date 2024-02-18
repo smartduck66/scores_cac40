@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.teleperformance.com/fr-fr//sitemap.xml",
-  "cac40":"teleperformance",
-  "timestamp": 1707507452525,
-  "nb_total_url": 51,
-  "poids_moyen_page": 2376.4009267769607,
-  "lh_perf_moyen": 55,
-  "lh_accessibility_moyen": 67,
+  "cac40": "teleperformance",
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 1836.46384765625,
+  "lh_perf_moyen": 57,
+  "lh_accessibility_moyen": 68,
   "lh_bestpractices_moyen": 77,
-  "lh_seo_moyen": 87,
-  "lh_total_moyen": 286
+  "lh_seo_moyen": 88,
+  "lh_total_moyen": 290
 }

@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.sanofi.fr/fr/sitemap.xml",
-  "cac40":"sanofi",
-  "timestamp": 1707501241194,
-  "nb_total_url": 52,
-  "poids_moyen_page": 2528.839562049279,
-  "lh_perf_moyen": 60,
-  "lh_accessibility_moyen": 86,
-  "lh_bestpractices_moyen": 70,
-  "lh_seo_moyen": 90,
-  "lh_total_moyen": 306
+  "cac40": "sanofi",
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 3892.047421875,
+  "lh_perf_moyen": 52,
+  "lh_accessibility_moyen": 90,
+  "lh_bestpractices_moyen": 68,
+  "lh_seo_moyen": 92,
+  "lh_total_moyen": 302
 }

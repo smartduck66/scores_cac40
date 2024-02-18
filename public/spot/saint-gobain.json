@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.saint-gobain.com/sitemap.xml",
-  "cac40":"saint-gobain",
-  "timestamp": 1707567210953,
-  "nb_total_url": 49,
-  "poids_moyen_page": 1311.7244698660713,
-  "lh_perf_moyen": 74,
+  "cac40": "saint-gobain",
+  "timestamp": 1708187425926,
+  "nb_total_url": 99,
+  "poids_moyen_page": 1575.349244397096,
+  "lh_perf_moyen": 73,
   "lh_accessibility_moyen": 96,
-  "lh_bestpractices_moyen": 99,
-  "lh_seo_moyen": 89,
-  "lh_total_moyen": 358
+  "lh_bestpractices_moyen": 98,
+  "lh_seo_moyen": 93,
+  "lh_total_moyen": 360
 }

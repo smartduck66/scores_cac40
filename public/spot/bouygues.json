@@ -1,12 +1,12 @@
 {
   "sitemap_url": "bouygues.xml",
   "cac40": "bouygues",
-  "timestamp": 1707757558866,
-  "nb_total_url": 100,
-  "poids_moyen_page": 700.4755859375,
-  "lh_perf_moyen": 74,
+  "timestamp": 1708187425926,
+  "nb_total_url": 96,
+  "poids_moyen_page": 867.1169637044271,
+  "lh_perf_moyen": 76,
   "lh_accessibility_moyen": 93,
-  "lh_bestpractices_moyen": 78,
-  "lh_seo_moyen": 90,
-  "lh_total_moyen": 335
+  "lh_bestpractices_moyen": 92,
+  "lh_seo_moyen": 96,
+  "lh_total_moyen": 357
 }

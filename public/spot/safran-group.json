@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.safran-group.com/sitemap.xml?page=1",
   "cac40": "safran-group",
-  "timestamp": 1707579764476,
-  "nb_total_url": 50,
-  "poids_moyen_page": 5641.24107421875,
-  "lh_perf_moyen": 49,
-  "lh_accessibility_moyen": 93,
+  "timestamp": 1708173516993,
+  "nb_total_url": 100,
+  "poids_moyen_page": 5513.77486328125,
+  "lh_perf_moyen": 52,
+  "lh_accessibility_moyen": 90,
   "lh_bestpractices_moyen": 100,
-  "lh_seo_moyen": 99,
-  "lh_total_moyen": 341
+  "lh_seo_moyen": 96,
+  "lh_total_moyen": 338
 }

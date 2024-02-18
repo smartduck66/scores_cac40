@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.pernod-ricard.com/sitemap.xml",
   "cac40": "pernod-ricard",
-  "timestamp": 1707576681871,
-  "nb_total_url": 50,
-  "poids_moyen_page": 3361.234140625,
-  "lh_perf_moyen": 67,
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 3227.063310546875,
+  "lh_perf_moyen": 62,
   "lh_accessibility_moyen": 96,
-  "lh_bestpractices_moyen": 96,
+  "lh_bestpractices_moyen": 100,
   "lh_seo_moyen": 100,
-  "lh_total_moyen": 359
+  "lh_total_moyen": 358
 }

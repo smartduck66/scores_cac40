@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.renaultgroup.com/sitemap.xml",
-  "cac40":"renaultgroup",
-  "timestamp": 1707486085896,
-  "nb_total_url": 50,
-  "poids_moyen_page": 4377.16291015625,
-  "lh_perf_moyen": 54,
-  "lh_accessibility_moyen": 82,
-  "lh_bestpractices_moyen": 70,
+  "cac40": "renaultgroup",
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 6189.3228515625,
+  "lh_perf_moyen": 53,
+  "lh_accessibility_moyen": 84,
+  "lh_bestpractices_moyen": 73,
   "lh_seo_moyen": 93,
-  "lh_total_moyen": 299
+  "lh_total_moyen": 303
 }

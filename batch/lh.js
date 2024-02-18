@@ -20,7 +20,6 @@ async function lighthouseAPI_call(urls) {
     lh_accessibility;
     lh_bestpractices;
     lh_seo;
-    lh_rank;
     FCP;
     SI;
     LCP;
@@ -45,7 +44,6 @@ async function lighthouseAPI_call(urls) {
       this.lh_accessibility = 0;
       this.lh_bestpractices = 0;
       this.lh_seo = 0;
-      this.lh_rank = 0;
       this.FCP = 0;
       this.SI = 0;
       this.LCP = 0;
@@ -64,18 +62,19 @@ async function lighthouseAPI_call(urls) {
     }
   }
 
-  const KPI = new lighthouse_KPI(); // note the "new" keyword here
-
   for (let index = 0; index < urls.length; index++) {
     // Le forEach ne fonctionne pas : double async en cause, comme dans Botanical ?
     const url = urls[index];
     console.log("Traitement de l'URL n°" + (index + 1).toString() + " -> " + url);
     const runnerResult = await lighthouse(url, options);
 
+    const KPI = new lighthouse_KPI(); // note the "new" keyword here
+
     if (runnerResult.lhr.runtimeError) {
       // Une url peut ne pas être crawlable (ex : un PDF) -> LH renvoie alors une erreur qu'il faut traiter
       KPI.error = true;
-      
+      //console.log(runnerResult)
+      console.log("Lh.js : erreur présente dans le fichier runnerResult généré par l'API Lighthouse");
     } else {
       // Inspection de l'ensemble des requêtes réseau afin de déterminer la taille des images, scripts, document, fontes, css et 3rd party
       class weights {

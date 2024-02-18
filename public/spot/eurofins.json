@@ -1,12 +1,12 @@
 {
   "sitemap_url": "eurofins.xml",
   "cac40": "eurofins",
-  "timestamp": 1707761309269,
-  "nb_total_url": 20,
-  "poids_moyen_page": 3100,
-  "lh_perf_moyen": 75,
-  "lh_accessibility_moyen": 77,
-  "lh_bestpractices_moyen": 86,
-  "lh_seo_moyen": 81,
-  "lh_total_moyen": 319
+  "timestamp": 1708237088220,
+  "nb_total_url": 19,
+  "poids_moyen_page": 1563.6049033717106,
+  "lh_perf_moyen": 81,
+  "lh_accessibility_moyen": 78,
+  "lh_bestpractices_moyen": 93,
+  "lh_seo_moyen": 78,
+  "lh_total_moyen": 330
 }

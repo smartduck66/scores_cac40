@@ -1,12 +1,12 @@
 {
   "sitemap_url": "vinci.xml",
   "cac40": "vinci",
-  "timestamp": 1707601160658,
-  "nb_total_url": 50,
-  "poids_moyen_page": 685.67302734375,
-  "lh_perf_moyen": 90,
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 767.538212890625,
+  "lh_perf_moyen": 91,
   "lh_accessibility_moyen": 91,
   "lh_bestpractices_moyen": 100,
-  "lh_seo_moyen": 92,
+  "lh_seo_moyen": 91,
   "lh_total_moyen": 373
 }

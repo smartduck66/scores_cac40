@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.stellantis.com/sitemap-fr.xml",
   "cac40": "stellantis",
-  "timestamp": 1707632670760,
-  "nb_total_url": 47,
-  "poids_moyen_page": 2756.6610081449467,
-  "lh_perf_moyen": 70,
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 4353.583974609375,
+  "lh_perf_moyen": 65,
   "lh_accessibility_moyen": 95,
-  "lh_bestpractices_moyen": 79,
+  "lh_bestpractices_moyen": 75,
   "lh_seo_moyen": 90,
-  "lh_total_moyen": 334
+  "lh_total_moyen": 325
 }

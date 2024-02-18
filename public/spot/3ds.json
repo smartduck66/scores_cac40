@@ -1,12 +1,12 @@
 {
   "sitemap_url": "3ds.xml",
   "cac40": "3ds",
-  "timestamp": 1707638176112,
-  "nb_total_url": 45,
-  "poids_moyen_page": 2497.268598090278,
-  "lh_perf_moyen": 52,
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 2543.5457421875,
+  "lh_perf_moyen": 57,
   "lh_accessibility_moyen": 92,
-  "lh_bestpractices_moyen": 83,
-  "lh_seo_moyen": 91,
-  "lh_total_moyen": 318
+  "lh_bestpractices_moyen": 90,
+  "lh_seo_moyen": 92,
+  "lh_total_moyen": 331
 }

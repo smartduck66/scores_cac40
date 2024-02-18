@@ -1,12 +1,12 @@
 {
   "sitemap_url": "legrandgroup.xml",
   "cac40": "legrandgroup",
-  "timestamp": 1707589914635,
-  "nb_total_url": 42,
-  "poids_moyen_page": 1289.508091517857,
-  "lh_perf_moyen": 41,
-  "lh_accessibility_moyen": 32,
-  "lh_bestpractices_moyen": 78,
+  "timestamp": 1708167505183,
+  "nb_total_url": 99,
+  "poids_moyen_page": 1317.3093730271464,
+  "lh_perf_moyen": 35,
+  "lh_accessibility_moyen": 55,
+  "lh_bestpractices_moyen": 77,
   "lh_seo_moyen": 95,
-  "lh_total_moyen": 246
+  "lh_total_moyen": 262
 }

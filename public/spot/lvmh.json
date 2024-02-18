@@ -1,12 +1,12 @@
 {
   "sitemap_url": "lvmh.xml",
   "cac40": "lvmh",
-  "timestamp": 1707593337838,
-  "nb_total_url": 50,
-  "poids_moyen_page": 4372.1300390625,
-  "lh_perf_moyen": 54,
-  "lh_accessibility_moyen": 86,
-  "lh_bestpractices_moyen": 87,
-  "lh_seo_moyen": 80,
-  "lh_total_moyen": 307
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 7891.28978515625,
+  "lh_perf_moyen": 41,
+  "lh_accessibility_moyen": 89,
+  "lh_bestpractices_moyen": 84,
+  "lh_seo_moyen": 83,
+  "lh_total_moyen": 297
 }

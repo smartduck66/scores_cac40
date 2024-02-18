@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.orange.com/fr/sitemap.xml",
-  "cac40":"orange",
-  "timestamp": 1707498756298,
-  "nb_total_url": 52,
-  "poids_moyen_page": 866.4014610877404,
+  "cac40": "orange",
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 845.208095703125,
   "lh_perf_moyen": 79,
-  "lh_accessibility_moyen": 90,
+  "lh_accessibility_moyen": 89,
   "lh_bestpractices_moyen": 99,
-  "lh_seo_moyen": 94,
+  "lh_seo_moyen": 95,
   "lh_total_moyen": 362
 }

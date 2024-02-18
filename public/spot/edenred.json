@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.edenred.com/fr/sitemap.xml",
-  "cac40":"edenred",
-  "timestamp": 1707488847214,
-  "nb_total_url": 47,
-  "poids_moyen_page": 1312.2445146276596,
+  "cac40": "edenred",
+  "timestamp": 1708187425926,
+  "nb_total_url": 99,
+  "poids_moyen_page": 1805.2603377525252,
   "lh_perf_moyen": 72,
   "lh_accessibility_moyen": 93,
-  "lh_bestpractices_moyen": 91,
-  "lh_seo_moyen": 94,
-  "lh_total_moyen": 350
+  "lh_bestpractices_moyen": 88,
+  "lh_seo_moyen": 95,
+  "lh_total_moyen": 348
 }

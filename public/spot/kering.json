@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.kering.com/fr/sitemap.xml",
-  "cac40":"kering",
-  "timestamp": 1707494496742,
-  "nb_total_url": 50,
-  "poids_moyen_page": 1671.69900390625,
-  "lh_perf_moyen": 78,
-  "lh_accessibility_moyen": 80,
-  "lh_bestpractices_moyen": 96,
+  "cac40": "kering",
+  "timestamp": 1708187425926,
+  "nb_total_url": 100,
+  "poids_moyen_page": 963.797333984375,
+  "lh_perf_moyen": 74,
+  "lh_accessibility_moyen": 83,
+  "lh_bestpractices_moyen": 81,
   "lh_seo_moyen": 81,
-  "lh_total_moyen": 335
+  "lh_total_moyen": 319
 }

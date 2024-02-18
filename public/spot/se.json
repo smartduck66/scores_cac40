@@ -1,12 +1,12 @@
 {
   "sitemap_url": "se.xml",
   "cac40": "se",
-  "timestamp": 1707758630143,
+  "timestamp": 1708187425926,
   "nb_total_url": 100,
-  "poids_moyen_page": 9171.79296875,
-  "lh_perf_moyen": 64,
-  "lh_accessibility_moyen": 84,
+  "poids_moyen_page": 7395.647744140625,
+  "lh_perf_moyen": 66,
+  "lh_accessibility_moyen": 80,
   "lh_bestpractices_moyen": 78,
-  "lh_seo_moyen": 93,
-  "lh_total_moyen": 319
+  "lh_seo_moyen": 87,
+  "lh_total_moyen": 311
 }
