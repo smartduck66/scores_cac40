@@ -7,12 +7,12 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
+    _HistoChart_old: typeof import('./src/components/_HistoChart_old.vue')['default']
+    _PageWeightChart_old: typeof import('./src/components/_PageWeightChart_old.vue')['default']
     Badge: typeof import('primevue/badge')['default']
-    Button: typeof import('primevue/button')['default']
     Card: typeof import('primevue/card')['default']
     Chart: typeof import('primevue/chart')['default']
     Column: typeof import('primevue/column')['default']
-    copy: typeof import('./src/components/Masthead copy.vue')['default']
     DataTable: typeof import('primevue/datatable')['default']
     Dropdown: typeof import('primevue/dropdown')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']

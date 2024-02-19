@@ -1,62 +1,63 @@
-<script lang="ts">
-import { use } from "echarts/core";
-import { UniversalTransition } from "echarts/features";
-import { CanvasRenderer } from "echarts/renderers";
-import { PieChart } from "echarts/charts";
-import VChart from "vue-echarts";
-import { ref, defineComponent } from "vue";
+<script setup lang="ts">
+import { ref, onMounted } from "vue";
 
-use([PieChart, CanvasRenderer, UniversalTransition]);
-
-export default defineComponent({
-  // A type helper for defining a Vue component with type inference
-  name: "Chart",
-  components: {
-    VChart,
-  },
-
-  props: ["values", "width", "height", "color"],
-
-  setup(props) {
-    const option = ref({
-      series: [
-        {
-          type: "pie",
-          data: props.values,
-        },
-      ],
-    });
-    const init_options = ref({
-      width: props.width,
-      height: props.height,
-    });
-
-    return { option, init_options };
-  },
+onMounted(() => {
+  chartData.value = setChartData();
+  chartOptions.value = setChartOptions();
 });
+
+const chartData = ref();
+const chartOptions = ref();
+const props = defineProps(["values"]);
+
+const setChartData = () => {
+  const documentStyle = getComputedStyle(document.body);
+
+  return {
+    labels: ["images", "scripts", "document", "fontes", "styles", "modules tierce partie"],
+    datasets: [
+      {
+        data: props.values,
+        backgroundColor: [
+          documentStyle.getPropertyValue("--cyan-500"),
+          documentStyle.getPropertyValue("--orange-500"),
+          documentStyle.getPropertyValue("--gray-500"),
+          documentStyle.getPropertyValue("--purple-500"),
+          documentStyle.getPropertyValue("--green-500"),
+          documentStyle.getPropertyValue("--pink-500"),
+        ],
+        hoverBackgroundColor: [
+          documentStyle.getPropertyValue("--cyan-400"),
+          documentStyle.getPropertyValue("--orange-400"),
+          documentStyle.getPropertyValue("--gray-400"),
+          documentStyle.getPropertyValue("--purple-400"),
+          documentStyle.getPropertyValue("--green-400"),
+          documentStyle.getPropertyValue("--pink-400"),
+        ],
+      },
+    ],
+  };
+};
+
+const setChartOptions = () => {
+  const documentStyle = getComputedStyle(document.documentElement);
+  const textColor = documentStyle.getPropertyValue("--text-color");
+
+  return {
+    plugins: {
+      legend: {
+        labels: {
+          usePointStyle: true,
+          color: textColor,
+        },
+      },
+    },
+  };
+};
 </script>
 
 <template>
-  <div class="legend">Poids : images, scripts, document, fontes, styles, modules tierce partie</div>
-  <v-chart class="chart" :option="option" :init-options="init_options" />
+  <div class="card flex justify-content-center">
+    <Chart type="pie" :data="chartData" :options="chartOptions" class="w-full md:w-30rem" />
+  </div>
 </template>
-
-<style scoped>
-.chart {
-  height: 100vh;
-}
-
-.legend {
-  font-size: 10px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 200;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1;
-  letter-spacing: normal;
-  text-align: left;
-  color: black;
-  margin-top:30px;
-  margin-bottom: 5px;
-}
-</style>

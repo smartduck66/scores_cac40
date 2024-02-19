@@ -135,7 +135,7 @@ const onRowSelect_WebSite = async (event: any) => {
         <img src="../assets/img/close.png" class="Close" />
       </div>
       <div class="FlexWrapper_modal">
-        <div class="sous-titre2">{{ URL }} : KPIs & mix poids page ({{ store.milliers_2.format(page_weight / 1024) }} Mo)</div>
+        <div class="sous-titre2">{{ URL }} : KPIs & mix poids page ({{ store.milliers_2.format(page_weight) }} ko)</div>
         <div class="my_grid">
           <div class="c-item-1">
             <div>
@@ -192,7 +192,7 @@ const onRowSelect_WebSite = async (event: any) => {
             <div :style="{ 'background-color': TTFB_color, color: TTFB_color }">TTFB</div>
           </div>
         </div>
-        <Chart v-bind="{ values: weights, width: 320, height: 280, color: '#0a94a8' }" />
+        <Chart v-bind="{ values: weights }"  />
       </div>
     </div>
   </Teleport>
@@ -232,7 +232,7 @@ const onRowSelect_WebSite = async (event: any) => {
   left: 41.5%;
   margin-left: -150px;
   width: 360px;
-  height: 560px;
+  height: 570px;
   flex-grow: 0;
   border-radius: 10px;
   background-color: white;
@@ -241,7 +241,7 @@ const onRowSelect_WebSite = async (event: any) => {
 
 .FlexWrapper_modal {
   width: 320px;
-  height: 500px;
+  height: 510px;
   flex-grow: 0;
   display: flex;
   margin-left: 15px;
@@ -267,6 +267,7 @@ img.Close {
 }
 .my_grid {
   display: grid;
+  margin-bottom:10px;
 }
 
 [class^="c-item"] {

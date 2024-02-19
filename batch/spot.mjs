@@ -3,8 +3,8 @@
 // robots.txt peut également fournir l'URL d'une sitemap si elle n'est pas évidente à trouver
 // Sinon, un outil comme https://www.xml-sitemaps.com/ permet de générer un fichier sitemap.xml avec 500 urls -> Ils sont stockés dans /data_source/sitemaps
 // ou l'outil Screaming Frog SEO spider, application Windows
-// A convertir en TS
-// ******************************************************************
+// A convertir en TS : https://www.julienrollin.com/posts/node-typescript-starter/ ou utiliser BUN
+// ***********************************************************************************************
 
 import { lighthouseAPI_call } from "./lh.js";
 import * as fs1 from "fs";

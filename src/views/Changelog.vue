@@ -14,6 +14,7 @@ import Footer from "../components/Footer.vue";
       <li>Nouvelle fonctionnalité 'SPOT' qui permet d'obtenir les métriques moyennes calculées sur 100 pages de chaque site suivi</li>
       <li>Modification d'URL (.fr -> .com, pour le site institutionnel) : Michelin, Legrand</li>
       <li>Remplacement du module 'performance leaderboard' de Zach Leatherman par un appel direct à l'API Google Lighthouse</li>
+      <li>Remplacement du module graphique Apache e-charts par le module chart.js wrappé par PrimeVue (gain en poids)</li>
     </ul>
     <br />
     <h4>Janvier 2024</h4>

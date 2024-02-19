@@ -1,18 +1,16 @@
 <script setup lang="ts">
-import { defineAsyncComponent } from 'vue'
-const Chart = defineAsyncComponent(() => import('../components/HistoChart.vue'))
+import { defineAsyncComponent } from "vue";
+const Chart = defineAsyncComponent(() => import("../components/HistoChart.vue"));
 import Footer from "../components/Footer.vue";
 import { ref } from "vue";
 
 let dataset = ref([]);
 class graph_data {
-  name: string;
-  type: string;
+  label: string;
   data: number[];
 
   constructor() {
-    this.name = "";
-    this.type = "";
+    this.label = "";
     this.data = [];
   }
 }
@@ -32,8 +30,7 @@ fetch("/historique.json")
 
     dataset.value = jsonData.map(function (d: any) {
       var item = new graph_data(); // note the "new" keyword here
-      item.name = d.name;
-      item.type = d.type;
+      item.label = d.name;
       item.data = d.data;
       return item;
     });

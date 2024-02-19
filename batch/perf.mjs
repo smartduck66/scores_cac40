@@ -1,7 +1,7 @@
 // Calcul des indicateurs Lighthouse sur les pages d'accueil des sites du CAC40
 // A faire 'tourner' hebdomadairement
-// A convertir en TS
-// ******************************************************************
+// A convertir en TS : https://www.julienrollin.com/posts/node-typescript-starter/ ou utiliser BUN
+// ***********************************************************************************************
 
 import { lighthouseAPI_call } from "./lh.js";
 import * as fs1 from "fs";
@@ -188,7 +188,7 @@ async function fetchCO2(url) {
     })
   );
   fs1.writeFileSync(directoryDataPublicPath + filename, JSON.stringify(mesures, null, 2)); // Création du json final sur disque
-  
+
   // ******************************************************************************************************************************************************************************
   // Step #2 : construction du fichier mesures.json contenant l'ensemble des fichiers du répertoire, qui sera lu à partir du browser
 
@@ -208,7 +208,6 @@ async function fetchCO2(url) {
         2
       )
     );
-    
 
     // ******************************************************************************************************************************************************************************
     // Step #3 : construction du dataset historique 'historique.json' (inclus dans le fs1.readdir pour éviter des problèmes de synchronisation...)
@@ -257,7 +256,6 @@ async function fetchCO2(url) {
       dataset.push(item);
     }
     fs1.writeFileSync("../public/historique.json", JSON.stringify(dataset, null, 2)); // Création du json final sur disque
-    
   });
 
   // ******************************************************************************************************************************************************************************

@@ -44,7 +44,6 @@ Installations de modules NPM complémentaires :
 - AutoImport PrimeVue : npm i unplugin-vue-components -D
 - Pinia : npm i pinia (gestion des états)
 - Sharp : npm install sharp (package utilisé dans le script webp.cjs pour transformer en masse les images png/jpg en webp)
-- eCharts/vue-echarts : npm i echarts vue-echarts (graphiques)
 ---
 
 Recommandation : passer le site en production au "checker" HTML régulièrement -> https://validator.w3.org/
