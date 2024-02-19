@@ -50,6 +50,7 @@ const setChartOptions = () => {
           usePointStyle: true,
           color: textColor,
         },
+        position:'bottom',
       },
     },
   };

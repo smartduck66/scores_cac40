@@ -32,6 +32,7 @@ const setChartOptions = () => {
         labels: {
           color: textColor,
         },
+        position:'bottom',
       },
     },
     scales: {
