@@ -14,7 +14,7 @@ const setChartData = () => {
   const documentStyle = getComputedStyle(document.body);
 
   return {
-    labels: ["images", "scripts", "document", "fontes", "styles", "modules tierce partie"],
+    labels: ["media", "images", "scripts", "fontes", "autres", "styles", "document", "modules tiers"],
     datasets: [
       {
         data: props.values,
@@ -25,6 +25,8 @@ const setChartData = () => {
           documentStyle.getPropertyValue("--purple-500"),
           documentStyle.getPropertyValue("--green-500"),
           documentStyle.getPropertyValue("--pink-500"),
+          documentStyle.getPropertyValue("--yellow-500"),
+          documentStyle.getPropertyValue("--brown-500"),
         ],
         hoverBackgroundColor: [
           documentStyle.getPropertyValue("--cyan-400"),
@@ -33,6 +35,8 @@ const setChartData = () => {
           documentStyle.getPropertyValue("--purple-400"),
           documentStyle.getPropertyValue("--green-400"),
           documentStyle.getPropertyValue("--pink-400"),
+          documentStyle.getPropertyValue("--yellow-400"),
+          documentStyle.getPropertyValue("--brown-400"),
         ],
       },
     ],
@@ -50,7 +54,7 @@ const setChartOptions = () => {
           usePointStyle: true,
           color: textColor,
         },
-        position:'bottom',
+        position: "bottom",
       },
     },
   };

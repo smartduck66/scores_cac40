@@ -29,11 +29,13 @@ async function lighthouseAPI_call(urls) {
     FID;
     TTFB;
     total_weight;
+    media_weight;
     image_weight;
     script_weight;
-    document_weight;
     font_weight;
+    other_weight;
     stylesheet_weight;
+    document_weight;
     thirdParty_weight;
 
     constructor() {
@@ -53,11 +55,13 @@ async function lighthouseAPI_call(urls) {
       this.FID = 0;
       this.TTFB = 0;
       this.total_weight = 0;
+      this.media_weight = 0;
       this.image_weight = 0;
       this.script_weight = 0;
-      this.document_weight = 0;
       this.font_weight = 0;
+      this.other_weight = 0;
       this.stylesheet_weight = 0;
+      this.document_weight = 0;
       this.thirdParty_weight = 0;
     }
   }
@@ -91,7 +95,7 @@ async function lighthouseAPI_call(urls) {
 
       // `.lhr` is the Lighthouse Result as a JS object
       // https://github.com/GoogleChrome/lighthouse/blob/main/docs/understanding-results.md
-      const weights_mix = runnerResult.lhr.audits[`network-requests`].details.items.map(function (d) {
+      const weights_mix = runnerResult.lhr.audits[`resource-summary`].details.items.map(function (d) {
         var item = new weights(); // note the "new" keyword here
         item.transferSize = d.transferSize;
         item.resourceType = d.resourceType;
@@ -99,34 +103,8 @@ async function lighthouseAPI_call(urls) {
         return item;
       });
 
-      let totalByteWeight = 0;
-      let totalByteDocument = 0;
-      let totalByteImage = 0;
-      let totalByteScript = 0;
-      let totalByteFont = 0;
-      let totalByteStylesheet = 0;
-      let totalByteThirdparty = 0;
-      weights_mix.forEach((item) => {
-        totalByteWeight += item.transferSize;
-        if (item.resourceType === "Document" && url.includes(item.entity)) {
-          totalByteDocument += item.transferSize;
-        }
-        if (item.resourceType === "Image" && url.includes(item.entity)) {
-          totalByteImage += item.transferSize;
-        }
-        if (item.resourceType === "Script" && url.includes(item.entity)) {
-          totalByteScript += item.transferSize;
-        }
-        if (item.resourceType === "Font" && url.includes(item.entity)) {
-          totalByteFont += item.transferSize;
-        }
-        if (item.resourceType === "Stylesheet" && url.includes(item.entity)) {
-          totalByteStylesheet += item.transferSize;
-        }
-        if (!url.includes(item.entity)) {
-          totalByteThirdparty += item.transferSize;
-        }
-      });
+      // On recalcule le poids total car LHR ne prend pas en compte les modules tierce partie dans le total transféré au browser
+      const totalByteWeight = weights_mix.reduce((acc, objet) => acc + objet.transferSize, 0) - weights_mix[0].transferSize;
 
       // Complétude de l'objet
       KPI.error = false;
@@ -145,12 +123,14 @@ async function lighthouseAPI_call(urls) {
       KPI.FID = runnerResult.lhr.audits[`max-potential-fid`].numericValue;
       KPI.TTFB = runnerResult.lhr.audits[`server-response-time`].numericValue;
       KPI.total_weight = totalByteWeight;
-      KPI.document_weight = totalByteDocument;
-      KPI.image_weight = totalByteImage;
-      KPI.script_weight = totalByteScript;
-      KPI.font_weight = totalByteFont;
-      KPI.stylesheet_weight = totalByteStylesheet;
-      KPI.thirdParty_weight = totalByteThirdparty;
+      KPI.media_weight = weights_mix[1].transferSize;
+      KPI.image_weight = weights_mix[2].transferSize;
+      KPI.script_weight = weights_mix[3].transferSize;
+      KPI.font_weight = weights_mix[4].transferSize;
+      KPI.other_weight = weights_mix[5].transferSize;
+      KPI.stylesheet_weight = weights_mix[6].transferSize;
+      KPI.document_weight = weights_mix[7].transferSize;
+      KPI.thirdParty_weight = weights_mix[8].transferSize;
     }
 
     lh_kpi.push(KPI); // On alimente lh_kpi pour chaque URL testée

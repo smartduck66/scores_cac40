@@ -112,11 +112,13 @@ async function fetchCO2(url) {
     FID;
     TTFB;
     total_weight;
+    media_weight;
     image_weight;
     script_weight;
-    document_weight;
     font_weight;
+    other_weight;
     stylesheet_weight;
+    document_weight;
     thirdParty_weight;
     carbon_footprint;
 
@@ -138,11 +140,13 @@ async function fetchCO2(url) {
       this.FID = 0;
       this.TTFB = 0;
       this.total_weight = 0;
+      this.media_weight = 0;
       this.image_weight = 0;
       this.script_weight = 0;
-      this.document_weight = 0;
       this.font_weight = 0;
+      this.other_weight = 0;
       this.stylesheet_weight = 0;
+      this.document_weight = 0;
       this.thirdParty_weight = 0;
       this.carbon_footprint = "";
     }
@@ -176,11 +180,13 @@ async function fetchCO2(url) {
       item.FID = d.FID; // en millisecondes
       item.TTFB = d.TTFB; // en millisecondes
       item.total_weight = Math.round(d.total_weight / 1024); // en Ko
+      item.media_weight = Math.round(d.media_weight / 1024); // en Ko
       item.image_weight = Math.round(d.image_weight / 1024); // en Ko
       item.script_weight = Math.round(d.script_weight / 1024); // en Ko
-      item.document_weight = Math.round(d.document_weight / 1024); // en Ko
       item.font_weight = Math.round(d.font_weight / 1024); // en Ko
+      item.other_weight = Math.round(d.other_weight / 1024); // en Ko
       item.stylesheet_weight = Math.round(d.stylesheet_weight / 1024); // en Ko
+      item.document_weight = Math.round(d.document_weight / 1024); // en Ko
       item.thirdParty_weight = Math.round(d.thirdParty_weight / 1024); // en Ko
       item.carbon_footprint = await fetchCO2(d.url);
 

@@ -33,11 +33,13 @@ async function Result_table_build(filename: string) {
     FID: number;
     TTFB: number;
     total_weight: number;
+    media_weight:number;
     image_weight: number;
     script_weight: number;
-    document_weight: number;
     font_weight: number;
+    other_weight: number;
     stylesheet_weight: number;
+    document_weight: number;
     thirdParty_weight: number;
     carbon_footprint: string;
 
@@ -59,11 +61,13 @@ async function Result_table_build(filename: string) {
       this.FID = 0;
       this.TTFB = 0;
       this.total_weight = 0;
+      this.media_weight = 0;
       this.image_weight = 0;
       this.script_weight = 0;
-      this.document_weight = 0;
       this.font_weight = 0;
+      this.other_weight = 0;
       this.stylesheet_weight = 0;
+      this.document_weight = 0;
       this.thirdParty_weight = 0;
       this.carbon_footprint = "";
     }
@@ -103,11 +107,13 @@ async function Result_table_build(filename: string) {
         item.FID = d.FID; // en millisecondes
         item.TTFB = d.TTFB; // en millisecondes
         item.total_weight = d.total_weight; // en Ko
+        item.media_weight = d.media_weight; // en Ko
         item.image_weight = d.image_weight; // en Ko
         item.script_weight = d.script_weight; // en Ko
-        item.document_weight = d.document_weight; // en Ko
         item.font_weight = d.font_weight; // en Ko
+        item.other_weight = d.other_weight; // en Ko
         item.stylesheet_weight = d.stylesheet_weight; // en Ko
+        item.document_weight = d.document_weight; // en Ko
         item.thirdParty_weight = d.thirdParty_weight; // en Ko
         item.carbon_footprint = d.carbon_footprint;
 

@@ -75,11 +75,13 @@ const onRowSelect_WebSite = async (event: any) => {
   TTFB_color.value = couleur_indicateur_lighthouse(TTFB.value, 800, 1800);
   page_weight.value = event.data.total_weight;
   weights.value = [
+    { value: event.data.media_weight, name: "media" },
     { value: event.data.image_weight, name: "image" },
     { value: event.data.script_weight, name: "script" },
-    { value: event.data.document_weight, name: "document" },
     { value: event.data.font_weight, name: "font" },
+    { value: event.data.other_weight, name: "other" },
     { value: event.data.stylesheet_weight, name: "style" },
+    { value: event.data.document_weight, name: "document" },
     { value: event.data.thirdParty_weight, name: "3rd party" },
   ];
 };
@@ -106,11 +108,11 @@ const onRowSelect_WebSite = async (event: any) => {
           dataKey="id"
           @rowSelect="onRowSelect_WebSite"
         >
-          <Column field="url" header="URL testée" style="padding-top: 0.5em; padding-bottom: 0.5em;padding-left: 0.5em"></Column>
-          <Column  header="Rang" style="text-align: right; padding-left: 2em; padding-right: 2em">
+          <Column field="url" header="URL testée" style="padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 0.5em"></Column>
+          <Column header="Rang" style="text-align: right; padding-left: 2em; padding-right: 2em">
             <template #body="slotProps">
-            {{ slotProps.index + 1 }}
-        </template>
+              {{ slotProps.index + 1 }}
+            </template>
           </Column>
           <Column
             field="lh_total"
@@ -192,7 +194,7 @@ const onRowSelect_WebSite = async (event: any) => {
             <div :style="{ 'background-color': TTFB_color, color: TTFB_color }">TTFB</div>
           </div>
         </div>
-        <Chart v-bind="{ values: weights }"  />
+        <Chart v-bind="{ values: weights }" />
       </div>
     </div>
   </Teleport>
@@ -267,7 +269,7 @@ img.Close {
 }
 .my_grid {
   display: grid;
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
 
 [class^="c-item"] {
