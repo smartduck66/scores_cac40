@@ -1,5 +1,5 @@
 // Appel direct de l'API Google Lighthouse - Remplacement de performance Leaderboard écrit par Zach Leatherman
-// Derniers travaux : 12/2/2024
+// Derniers travaux : 19/2/2024
 // ***********************************************************************************************************
 
 import lighthouse from "lighthouse";
