@@ -102,7 +102,7 @@ const onRowSelect_WebSite = async (event: any) => {
           :rows="10"
           :rowsPerPageOptions="[5, 10, 20, 50]"
           size="large"
-          tableStyle="min-width: 70rem"
+          :tableStyle="{ 'min-width': '70rem'}"
           selectionMode="single"
           :metaKeySelection="false"
           dataKey="id"
