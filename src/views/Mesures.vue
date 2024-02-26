@@ -10,10 +10,6 @@ const store = useStore();
 let mesures: Ref<performance[]> = ref([]);
 const selectedDate = ref();
 
-function menu_choix_date_historique() {
-  Result_table_build(selectedDate.value.file); // On reconstruit la table des résultats
-}
-
 async function Result_table_build(filename: string) {
   class table_row implements performance {
     url: string;
@@ -137,7 +133,7 @@ Result_table_build(store.Liste_dates_mesure[0].file); // On construit la table d
       :options="store.Liste_dates_mesure"
       optionLabel="date"
       :placeholder="store.Liste_dates_mesure[0].date"
-      @update:modelValue="menu_choix_date_historique"
+      @update:modelValue="Result_table_build(selectedDate.file)"  
     />
   </div>
 
