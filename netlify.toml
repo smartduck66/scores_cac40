@@ -44,3 +44,8 @@
   [headers.values]
     cache-control = "public, max-age=31536000"
 
+# Override cache duration for json files : pas de cache pour forcer le rechargement (ex : mesures.json, historique.json...)
+[[headers]]
+  for = "*.json" 
+  [headers.values]
+    cache-control = "public, max-age=0,no-cache,no-store,must-revalidate"
