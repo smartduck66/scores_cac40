@@ -1,4 +1,5 @@
-### WebCheck'CAC40 : calcul des indicateurs LightHouse sur les sites de l'indice boursier CAC40
+### WebCheck'CAC40
+### Calcul des indicateurs LightHouse sur les sites de l'indice boursier français CAC40
 #### Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)
 #### Framework utilisé : Vue 3 + Typescript + Vite
 #### Derniers travaux : voir changelog.vue
@@ -23,5 +24,5 @@ Modules NPM nécessaires à l'application :
 ---
 
 Traitements batchs (à lancer du répertoire /batch) :
-- node perf.mjs: calcul des indicateurs Lighthouse sur l'ensemble des pages d'accueil des sites du CAC40 
+- node perf.mjs : calcul des indicateurs Lighthouse sur l'ensemble des pages d'accueil des sites du CAC40 
 - node spot.mjs bouygues.xml (exemple) : mesure 'spot' des indicateurs Lighthouse sur la profondeur d'un seul site (100 pages)
