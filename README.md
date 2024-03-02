@@ -1,4 +1,5 @@
-### WebCheck'CAC40
+## WebCheck'CAC40
+
 ### Calcul des indicateurs LightHouse sur les sites de l'indice boursier français CAC40
 #### Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)
 #### Framework utilisé : Vue 3 + Typescript + Vite
