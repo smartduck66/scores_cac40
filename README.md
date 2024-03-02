@@ -5,7 +5,7 @@
 > Démonstrateur : https://webcheckcac40.andretonic.fr/<br>
 > Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)<br>
 > Framework utilisé : Vue 3<br>
-> Derniers travaux : voir changelog.vue<br>
+> Derniers travaux : [voir changelog.vue](https://webcheckcac40.andretonic.fr/changelog)<br>
 
 ## Les fonctionnalités
 
