@@ -20,7 +20,7 @@
 
 ## Modules NPM nécessaires à l'application
 
-- Google Lighthouse : npm i lighthouse (utilisé dans /batch/lh.js)
+- Google Lighthouse : ```cmd npm i lighthouse ``` (utilisé dans /batch/lh.js)
 - Chrome Launcher : npm i chrome-launcher (utilisé dans /batch/lh.js)
 - Vue Router : npm i vue-router@4
 - Types Babel : npm i -D @babel/types
