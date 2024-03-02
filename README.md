@@ -12,7 +12,9 @@
 - batch : contient les deux scripts nécessaires à la construction des fichiers json alimentant l'application<br>
     - *perf.mjs* (aucun paramètre à passer) : ce script calcule les indicateurs lighthouse des pages d'accueil des sites du CAC40 
     - *spot.mjs* (aucun paramètre à passer) : ce script lit le fichier sitemaps.txt qui doit contenir la ou les sitemaps des sites à auditer. Un fichier xml sans URL (ex : 3ds.xml) indique que la sitemap a été générée avec un crawler externe (du type Screaming Frog SEO spider) et est stockée dans le répertoire /sitemaps
-- public
+- public : contient principalement les fichiers json statiques décrivant les valeurs à afficher
+    - */data* : chaque fichier json correspond à une date précise et stocke les indicateurs Lighthouse des sites institutionnels du CAC40
+    - */spot* : les 39 fichiers contiennent les valeurs moyennes des indicateurs Lighthouse, calculées sur 100 pages du site audité
 - src
 
 
