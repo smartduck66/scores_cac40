@@ -8,8 +8,8 @@
 
 Description des répertoires principaux de l'application :
 - batch : contient les deux scripts nécessaires à la construction des fichiers json alimentant l'application
-> perf.mjs (aucun paramètre à passer) : ce script calcule les indicateurs lighthouse des pages d'accueil des sites du CAC40 
-> spot.mjs (aucun paramètre à passer) : ce script lit le fichier sitemaps.txt qui doit contenir la ou les sitemaps des sites à auditer
+> perf.mjs (aucun paramètre à passer) : ce script calcule les indicateurs lighthouse des pages d'accueil des sites du CAC40 <br>
+> spot.mjs (aucun paramètre à passer) : ce script lit le fichier sitemaps.txt qui doit contenir la ou les sitemaps des sites à auditer. ???????????????????????
 - public
 - src
 
