@@ -1,6 +1,5 @@
 // Calcul des indicateurs Lighthouse sur les pages d'accueil des sites du CAC40
 // A faire 'tourner' hebdomadairement
-// A convertir en TS : https://www.julienrollin.com/posts/node-typescript-starter/ ou utiliser BUN
 // ***********************************************************************************************
 
 import { lighthouseAPI_call } from "./lh.js";
