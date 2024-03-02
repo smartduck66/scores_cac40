@@ -7,6 +7,11 @@ import Footer from "../components/Footer.vue";
     <h1>Changelog</h1>
     <br />
     <br />
+    <h4>Mars 2024</h4>
+    <ul>
+      <li>Passage de l'application en Open Source, licence MIT</li>
+    </ul>
+    <br />
     <h4>Février 2024</h4>
     <ul>
       <li>Mise en production v1.0</li>

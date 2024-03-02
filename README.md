@@ -45,4 +45,4 @@ L'application propose 3 fonctionnalités principales :
 ## Traitements batchs (à lancer du répertoire /batch)
 
 - ```node perf.mjs``` : calcul des indicateurs Lighthouse sur l'ensemble des pages d'accueil des sites du CAC40 
-- ```node spot.mjs``` : mesure 'spot' des indicateurs Lighthouse sur la profondeur d'un seul site (100 pages)
+- ```node spot.mjs``` : mesure 'spot' des indicateurs Lighthouse sur la profondeur d'un seul site
