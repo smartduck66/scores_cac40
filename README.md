@@ -10,9 +10,9 @@
 ## Les fonctionnalités
 
 L'application propose 3 fonctionnalités principales :
-- Mesures : tableau listant les 4 principaux indicateurs Lighthouse (Performance, Accessibilité, Bonnes Pratiques, SEO) ainsi que le poids de la page d'accueil et son empreinte CO2 (récupérée auprès du site Website Carbon Calculator). Un clic sur une ligne fournit des détails supplémentaires comme le FCP, le SI, le LCP, etc. 
-- Historique : graphique temporel présentant le total général sur 400 (somme des 4 indicateurs) pour chaque site testé
-- Spot : chaque site testé possède son cartouche décrivant les valeurs moyennes des 4 indicateurs sur 100 pages auditées. Ce nombre de pages n'est toutefois pas toujours atteignable.
+- **Mesures** : tableau listant les 4 principaux indicateurs Lighthouse (Performance, Accessibilité, Bonnes Pratiques, SEO) ainsi que le poids de la page d'accueil et son empreinte CO2 (récupérée auprès du site Website Carbon Calculator). Un clic sur une ligne fournit des détails supplémentaires comme le FCP, le SI, le LCP, etc. 
+- **Historique** : graphique temporel présentant le total général sur 400 (somme des 4 indicateurs) pour chaque site testé
+- **Spot** : chaque site testé possède son cartouche décrivant les valeurs moyennes des 4 indicateurs sur 100 pages auditées. Ce nombre de pages n'est toutefois pas toujours atteignable.
 
 ## Description des répertoires principaux de l'application
 
