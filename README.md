@@ -2,7 +2,7 @@
 
 > **Calcul des indicateurs LightHouse sur les sites institutionnels de l'indice boursier français CAC40**<br>
 > Seules 39 valeurs sont exposées car le site Hermes rejette toute tentative de mesure<br>
-> Démonstrateur : https://webcheckcac40.andretonic.fr/<br>
+> Démonstrateur : [voir le site live](https://webcheckcac40.andretonic.fr/)<br>
 > Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)<br>
 > Framework utilisé : Vue 3<br>
 > Derniers travaux : [voir changelog.vue](https://webcheckcac40.andretonic.fr/changelog)<br>
