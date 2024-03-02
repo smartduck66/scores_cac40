@@ -2,7 +2,7 @@
 
 <template>
   <div class="copyright">
-    <div>Site généré avec Vue.js - Hébergé @Netlify</div>
+    <div>Site bâti avec Vue.js - Hébergé @Netlify - <a target="_blank" href="https://github.com/smartduck66/scores_cac40">Source</a></div>
     <div>© André Tonic 2024 - Présent</div>
   </div>
 </template>
