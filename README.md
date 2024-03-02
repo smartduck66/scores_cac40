@@ -1,11 +1,18 @@
 # WebCheck'CAC40
 
 > Calcul des indicateurs LightHouse sur les sites de l'indice boursier français CAC40<br>
+> Seules 39 valeurs sont exposées car le site Hermes rejette toute tentative de mesure<br>
 > Démonstrateur : https://webcheckcac40.andretonic.fr/<br>
 > Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)<br>
 > Framework utilisé : Vue 3 + Typescript + Vite<br>
 > Derniers travaux : voir changelog.vue<br>
 
+## Les fonctionnalités
+
+L'application propose 3 fonctionnalités principales :
+- Mesures : tableau listant les 4 principaux indicateurs Lighthouse (Performance, Accessibilité, Bonnes Pratiques, SEO) ainsi que le poids de la page d'accueil et son empreinte CO2 (récupérée auprès du site Website Carbon Calculator). Un clic sur une ligne fournit des détails supplémentaires comme le FCP, le SI, le LCP, etc. 
+- Historique : graphique temporel présentant le total général sur 400 (somme des 4 indicateurs) pour chaque site testé
+- Spot : chaque site testé possède son cartouche décrivant les valeurs moyennes des 4 indicateurs sur 100 pages auditées. Ce nombre de pages n'est toutefois pas toujours atteignable.
 
 ## Description des répertoires principaux de l'application
 
@@ -15,7 +22,11 @@
 - public : contient principalement les fichiers json statiques décrivant les valeurs à afficher
     - */data* : chaque fichier json correspond à une date précise et stocke les indicateurs Lighthouse des sites institutionnels du CAC40
     - */spot* : les 39 fichiers contiennent les valeurs moyennes des indicateurs Lighthouse, calculées sur 100 pages du site audité
-- src
+- src : contient les sources de l'application
+    - */assets* : images et scripts JS partagés
+    - */components* : composants Vue
+    - */router* : gestion du routage entre pages
+    - */views* : écrans principaux
 
 
 ## Modules NPM nécessaires à l'application

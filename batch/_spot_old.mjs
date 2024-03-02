@@ -1,9 +1,9 @@
+// ANCIEN MODULE qui utilisait https://github.com/zachleat/performance-leaderboard
 // Mesure 'spot' des indicateurs Lighthouse sur la profondeur d'un seul site
 // A faire 'tourner' à la demande. Ex : node spot.mjs https://france.arcelormittal.com/sitemap.xml
 // robots.txt peut également fournir l'URL de la sitemap si elle n'est pas évidente à trouver
 // Sinon, un outil comme https://www.xml-sitemaps.com/ permet de générer un fichier sitemap.xml avec 500 urls -> Ils sont stockés dans /data_source/sitemaps
 // ou l'outil Screaming Frog SEO spider, application Windows
-// A convertir en TS
 // ******************************************************************
 
 import * as fs1 from "fs";

@@ -1,7 +1,6 @@
+// ANCIEN MODULE qui utilisait https://github.com/zachleat/performance-leaderboard
 // Calcul des indicateurs Lighthouse sur les pages d'accueil des sites du CAC40
-// Ancien module qui utilisait https://github.com/zachleat/performance-leaderboard
 // A faire 'tourner' hebdomadairement
-// A convertir en TS
 // ******************************************************************
 
 const PerfLeaderboard = require("performance-leaderboard");
