@@ -1,10 +1,10 @@
 # WebCheck'CAC40
 
-> Calcul des indicateurs LightHouse sur les sites de l'indice boursier français CAC40
-> Démonstrateur : https://webcheckcac40.andretonic.fr/
-> Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)
-> Framework utilisé : Vue 3 + Typescript + Vite
-> Derniers travaux : voir changelog.vue
+> Calcul des indicateurs LightHouse sur les sites de l'indice boursier français CAC40<br>
+> Démonstrateur : https://webcheckcac40.andretonic.fr/<br>
+> Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)<br>
+> Framework utilisé : Vue 3 + Typescript + Vite<br>
+> Derniers travaux : voir changelog.vue<br>
 
 
 ## Description des répertoires principaux de l'application
