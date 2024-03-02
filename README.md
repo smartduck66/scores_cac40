@@ -1,11 +1,11 @@
 ## WebCheck'CAC40
 
-### Calcul des indicateurs LightHouse sur les sites de l'indice boursier français CAC40
-#### Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)
-#### Framework utilisé : Vue 3 + Typescript + Vite
-#### Derniers travaux : voir changelog.vue
+#### Calcul des indicateurs LightHouse sur les sites de l'indice boursier français CAC40
+Librement inspiré des travaux de Zach Leatherman (https://github.com/zachleat/speedlify)
+Framework utilisé : Vue 3 + Typescript + Vite
+Derniers travaux : voir changelog.vue
 
----
+
 
 Description des répertoires principaux de l'application :
 - batch : contient les deux scripts nécessaires à la construction des fichiers json alimentant l'application
@@ -14,7 +14,7 @@ Description des répertoires principaux de l'application :
 - public
 - src
 
----
+
 
 Modules NPM nécessaires à l'application :
 - Google Lighthouse : npm i lighthouse (utilisé dans /batch/lh.js)
@@ -27,7 +27,7 @@ Modules NPM nécessaires à l'application :
 - Pinia : npm i pinia (gestion des états)
 - Sharp : npm install sharp (package utilisé dans le script webp.cjs pour transformer en masse les images png/jpg en webp)
 
----
+
 
 Traitements batchs (à lancer du répertoire /batch) :
 - node perf.mjs : calcul des indicateurs Lighthouse sur l'ensemble des pages d'accueil des sites du CAC40 
