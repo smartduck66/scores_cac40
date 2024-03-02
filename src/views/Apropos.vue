@@ -26,7 +26,7 @@ import Footer from "../components/Footer.vue";
     <br /><br />
     J'ai donc bâti une application en Vue.js, mon framework Javascript de prédilection. Et voici, WebCheck'CAC40 !
     <br /><br />
-    Un tableau collationne les 4 métriques principales issues de <i>Lighthouse</i> (performance, accessibilité, Bonnes pratiques, SEO) ainsi que la répartition du poids des pages auditées.
+    Un tableau collationne les 4 métriques principales issues de <i>Lighthouse</i> (performance, accessibilité, Bonnes pratiques, SEO), chacune notée sur 100, ainsi que la répartition du poids des pages auditées. Plus la note globale est proche de <b>400</b>, meilleur est le site !
     <br /><br />
     Un clic sur l'une des lignes du tableau vous permet de récupérer des indicateurs encore plus fins, comme le FCP, le SI, le LCP, le TBT ou encore le CLS.
     <br /><br />
