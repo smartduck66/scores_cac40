@@ -46,3 +46,20 @@ L'application propose 3 fonctionnalités principales :
 
 - ```node perf.mjs``` : calcul des indicateurs Lighthouse sur l'ensemble des pages d'accueil des sites du CAC40 
 - ```node spot.mjs``` : mesure 'spot' des indicateurs Lighthouse sur la profondeur d'un seul site
+
+
+## Polyvalence
+
+Les sites institutionnels de l'indice boursier français CAC40 ont été choisis pour illustrer l'utilisation de l'API Google Lighthouse. Ils sont paramétrés dans le script perf.mjs :
+
+```js
+ let urls = [
+    "https://www.airliquide.com/fr",
+    "https://www.airbus.com",
+     ...
+    "https://www.vivendi.com/",
+  ];
+
+```
+
+Il suffit de remplacer ces URLs par d'autres références pour que WebCheck audite des sites Web totalement différents. De la même manière, les URLs inscrites dans le fichier sitemaps.txt détermineront le type de sites surveillés par la fonctionnalité *spot*.
