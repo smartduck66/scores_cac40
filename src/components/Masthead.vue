@@ -7,7 +7,7 @@ const router = useRouter();
 
 const menu = ref();
 const app_title = "WebCheck'CAC40";
-const app_release = "v1.1g";
+const app_release = "v1.1h";
 
 const menuitems = ref([
   {
