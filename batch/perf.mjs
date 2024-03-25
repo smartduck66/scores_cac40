@@ -231,10 +231,9 @@ async function fetchCO2(url) {
     const ListFiles_to_read_chronologicalOrder = JSON.parse(fs1.readFileSync("../public/mesures.json", "utf8")).reverse(); // Car le fichier mesures.json est destiné à l'affichage... par ordre chronologique inverse
     let dataset = [];
 
-    for (let index = 0; index < urls.length; index++) {
+    for (let url of urls) {
       var item = new graph_data(); // note the "new" keyword here
-      const url_to_complete = urls[index];
-      item.name = extractDomainWithoutExtension(url_to_complete); // 'nom' de la société du CAC40 (ex : axa, bouygues, michelin...)
+      item.name = extractDomainWithoutExtension(url); // 'nom' de la société du CAC40 (ex : axa, bouygues, michelin...)
       item.type = "line";
 
       // On ouvre chaque fichier de mesures pour récupérer la valeur lh_total rattachée à chaque valeur du CAC40 afin de construire une array du type [400, 395, 380]
@@ -250,7 +249,7 @@ async function fetchCO2(url) {
             const performance = resultat.lh_total;
             lh_total.push(performance);
           } else {
-            console.log("Aucune occurrence trouvée pour :", url_to_complete);
+            console.log("Aucune occurrence trouvée pour :", url);
           }
         } catch (err) {
           console.error("Erreur lors de la lecture du fichier :", err);

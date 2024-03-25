@@ -66,10 +66,9 @@ async function lighthouseAPI_call(urls) {
     }
   }
 
-  for (let index = 0; index < urls.length; index++) {
+  for (let [idx,url] of urls.entries()) {
     // Le forEach ne fonctionne pas : double async en cause, comme dans Botanical ?
-    const url = urls[index];
-    console.log("Traitement de l'URL n°" + (index + 1).toString() + " -> " + url);
+    console.log("Traitement de l'URL n°" + (idx + 1).toString() + " -> " + url);
     const runnerResult = await lighthouse(url, options);
 
     const KPI = new lighthouse_KPI(); // note the "new" keyword here
