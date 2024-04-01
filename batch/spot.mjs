@@ -14,7 +14,7 @@ function extractDomainWithoutExtension(url) {
   url = url.replace(/^(https?:\/\/)?(www\.)?/, "");
 
   // Extraire le nom de domaine
-  var domain = url.split("/")[0];
+  let domain = url.split("/")[0];
 
   // Supprimer l'extension du nom de domaine
   domain = domain.replace(/\.[^.]+$/, "");
@@ -35,8 +35,8 @@ function extractDomainWithoutExtension(url) {
     const filename = extractDomainWithoutExtension(sitemap_to_audit) + ".json"; // ex : france.arcelormittal.json
 
     // On fetch le fichier sitemap.xml du site visé et on extrait l'ensemble des URLs repérées par les balises <loc></loc> (ex : 260 occurences pour ArcelorMittal le 9/2/24)
-    var xml;
-    var regex = /<loc>(.*?)<\/loc>/g;
+    let xml;
+    let regex = /<loc>(.*?)<\/loc>/g;
     if (sitemap_to_audit.includes("http")) {
       const res = await fetch(sitemap_to_audit);
       xml = await res.text();
@@ -82,7 +82,7 @@ function extractDomainWithoutExtension(url) {
 
     const jsonData = await lighthouseAPI_call(urls);
 
-    var mesures = new spot(); // note the "new" keyword here
+    let mesures = new spot(); // note the "new" keyword here
     let poids = 0;
     let perf = 0;
     let accessibility = 0;

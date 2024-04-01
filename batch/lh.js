@@ -95,7 +95,7 @@ async function lighthouseAPI_call(urls) {
       // `.lhr` is the Lighthouse Result as a JS object
       // https://github.com/GoogleChrome/lighthouse/blob/main/docs/understanding-results.md
       const weights_mix = runnerResult.lhr.audits[`resource-summary`].details.items.map(function (d) {
-        var item = new weights(); // note the "new" keyword here
+        let item = new weights(); // note the "new" keyword here
         item.transferSize = d.transferSize;
         item.resourceType = d.resourceType;
         item.entity = d.entity;

@@ -84,7 +84,7 @@ async function Result_table_build(filename: string) {
       });
 
       mesures.value = jsonData.map(function (d: any) {
-        var item = new table_row(); // note the "new" keyword here
+        let item = new table_row(); // note the "new" keyword here
 
         item.url = d.url;
         item.cac40 = d.cac40;

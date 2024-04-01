@@ -29,7 +29,7 @@ fetch("/historique.json")
     const jsonData = JSON.parse(content);
 
     dataset.value = jsonData.map(function (d: any) {
-      var item = new graph_data(); // note the "new" keyword here
+      let item = new graph_data(); // note the "new" keyword here
       item.label = d.name;
       item.data = d.data;
       return item;

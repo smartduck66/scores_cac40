@@ -10,7 +10,7 @@ function extractDomainWithoutExtension(url) {
   url = url.replace(/^(https?:\/\/)?(www\.)?/, "");
 
   // Extraire le nom de domaine
-  var domain = url.split("/")[0];
+  let domain = url.split("/")[0];
 
   // Supprimer l'extension du nom de domaine
   domain = domain.replace(/\.[^.]+$/, "");
@@ -159,7 +159,7 @@ async function fetchCO2(url) {
     // Le Promise.all est nécessaire pour 'attendre' les 'await'
     jsonData.map(async (d) => {
       // Le async est nécessaire dès qu'un await est présent dans le map
-      var item = new table_row(); // note the "new" keyword here
+      let item = new table_row(); // note the "new" keyword here
       // On ne vérifie pas 'd.error', comme cela est fait dans spot.mjs car on estime que les pages d'accueil des sites du CAC40 sont toujours crawlables par LH
       item.url = d.url;
       item.cac40 = extractDomainWithoutExtension(d.url);
@@ -232,7 +232,7 @@ async function fetchCO2(url) {
     let dataset = [];
 
     for (let url of urls) {
-      var item = new graph_data(); // note the "new" keyword here
+      let item = new graph_data(); // note the "new" keyword here
       item.name = extractDomainWithoutExtension(url); // 'nom' de la société du CAC40 (ex : axa, bouygues, michelin...)
       item.type = "line";
 

@@ -68,7 +68,7 @@ export const useStore = defineStore("storeId", {
         const results = await response.json();
 
         this.Liste_dates_mesure = results.map(function (d) {
-          var item = new dates_historique(); // note the "new" keyword here
+          let item = new dates_historique(); // note the "new" keyword here
           const timestamp = d.substring(0, d.indexOf(".json"));
           item.date = new Date(Number(timestamp)).toLocaleDateString("fr-FR");
           item.file = d;
