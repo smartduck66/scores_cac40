@@ -42,7 +42,7 @@ fetch("/historique.json")
 
 <template>
   <div v-if="dataset.length > 0">
-    <Chart v-bind="{ values: dataset, width: max_width, height: 500 }" />
+    <Chart v-bind="{ values: dataset, width: max_width, height:680 }" />
     <Footer />
   </div>
 </template>

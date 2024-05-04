@@ -10,7 +10,7 @@ onMounted(() => {
 
 const chartData = ref();
 const chartOptions = ref();
-const props = defineProps(["values"]);
+const props = defineProps(["values", "width", "height"]);
 
 const setChartData = () => {
   return {
@@ -32,7 +32,7 @@ const setChartOptions = () => {
         labels: {
           color: textColor,
         },
-        position:'bottom',
+        position: "bottom",
       },
     },
     scales: {
@@ -59,6 +59,6 @@ const setChartOptions = () => {
 
 <template>
   <div class="card">
-    <Chart type="line" :data="chartData" :options="chartOptions" class="h-30rem" :height="550" />
+    <Chart type="line" :data="chartData" :options="chartOptions" class="h-30rem" :height="props.height" />
   </div>
 </template>
