@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.axa.com/sitemap.xml",
   "cac40": "axa",
-  "timestamp": 1708187425926,
+  "timestamp": 1714830993994,
   "nb_total_url": 100,
-  "poids_moyen_page": 3197.433154296875,
-  "lh_perf_moyen": 52,
-  "lh_accessibility_moyen": 91,
+  "poids_moyen_page": 3969.117265625,
+  "lh_perf_moyen": 58,
+  "lh_accessibility_moyen": 86,
   "lh_bestpractices_moyen": 99,
-  "lh_seo_moyen": 89,
-  "lh_total_moyen": 331
+  "lh_seo_moyen": 85,
+  "lh_total_moyen": 328
 }

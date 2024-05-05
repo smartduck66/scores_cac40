@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.engie.com/sitemap.xml",
   "cac40": "engie",
-  "timestamp": 1708187425926,
-  "nb_total_url": 100,
-  "poids_moyen_page": 1456.27015625,
-  "lh_perf_moyen": 57,
-  "lh_accessibility_moyen": 83,
-  "lh_bestpractices_moyen": 93,
-  "lh_seo_moyen": 89,
-  "lh_total_moyen": 322
+  "timestamp": 1714849219229,
+  "nb_total_url": 40,
+  "poids_moyen_page": 1358.4380126953124,
+  "lh_perf_moyen": 75,
+  "lh_accessibility_moyen": 85,
+  "lh_bestpractices_moyen": 90,
+  "lh_seo_moyen": 90,
+  "lh_total_moyen": 340
 }

@@ -1,12 +1,12 @@
 {
-  "sitemap_url": "https://www.michelin.com/page-sitemap.xml",
+  "sitemap_url": "https://www.michelin.com/sitemap.xml",
   "cac40": "michelin",
-  "timestamp": 1708187425926,
-  "nb_total_url": 100,
-  "poids_moyen_page": 1562.29783203125,
-  "lh_perf_moyen": 56,
-  "lh_accessibility_moyen": 91,
-  "lh_bestpractices_moyen": 97,
-  "lh_seo_moyen": 92,
-  "lh_total_moyen": 336
+  "timestamp": 1714897816819,
+  "nb_total_url": 99,
+  "poids_moyen_page": 7779.203401199495,
+  "lh_perf_moyen": 61,
+  "lh_accessibility_moyen": 88,
+  "lh_bestpractices_moyen": 87,
+  "lh_seo_moyen": 99,
+  "lh_total_moyen": 335
 }

@@ -18,14 +18,14 @@ https://www.kering.com/fr/sitemap.xml
 legrandgroup.xml
 https://www.loreal.com/fr/sitemap.xml
 lvmh.xml
-https://www.michelin.com/page-sitemap.xml
+https://www.michelin.com/sitemap.xml
 https://www.orange.com/fr/sitemap.xml
 https://www.pernod-ricard.com/sitemap.xml
 https://www.publicisgroupe.com/fr/sitemap.pages.xml
 https://www.renaultgroup.com/sitemap.xml
 https://www.safran-group.com/sitemap.xml?page=1
 https://www.saint-gobain.com/sitemap.xml
-https://www.sanofi.fr/fr/sitemap.xml
+sanofi.xml
 se.xml
 societegenerale.xml
 st.xml

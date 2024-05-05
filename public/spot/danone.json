@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.danone.com/sitemap.xml",
   "cac40": "danone",
-  "timestamp": 1708187425926,
+  "timestamp": 1714830993994,
   "nb_total_url": 99,
-  "poids_moyen_page": 1554.0465198863637,
-  "lh_perf_moyen": 71,
+  "poids_moyen_page": 1821.267390703914,
+  "lh_perf_moyen": 74,
   "lh_accessibility_moyen": 78,
-  "lh_bestpractices_moyen": 72,
-  "lh_seo_moyen": 85,
-  "lh_total_moyen": 306
+  "lh_bestpractices_moyen": 75,
+  "lh_seo_moyen": 84,
+  "lh_total_moyen": 311
 }

@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.urw.com/fr-fr/sitemap.xml",
   "cac40": "urw",
-  "timestamp": 1708187425926,
+  "timestamp": 1714913742057,
   "nb_total_url": 100,
-  "poids_moyen_page": 2681.791416015625,
-  "lh_perf_moyen": 71,
-  "lh_accessibility_moyen": 88,
+  "poids_moyen_page": 4813.1743359375,
+  "lh_perf_moyen": 72,
+  "lh_accessibility_moyen": 85,
   "lh_bestpractices_moyen": 99,
-  "lh_seo_moyen": 82,
+  "lh_seo_moyen": 84,
   "lh_total_moyen": 340
 }

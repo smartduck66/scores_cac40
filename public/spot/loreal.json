@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.loreal.com/fr/sitemap.xml",
   "cac40": "loreal",
-  "timestamp": 1708187425926,
+  "timestamp": 1714895389904,
   "nb_total_url": 100,
-  "poids_moyen_page": 18090.401123046875,
-  "lh_perf_moyen": 71,
-  "lh_accessibility_moyen": 89,
-  "lh_bestpractices_moyen": 100,
-  "lh_seo_moyen": 86,
-  "lh_total_moyen": 346
+  "poids_moyen_page": 3749.564482421875,
+  "lh_perf_moyen": 70,
+  "lh_accessibility_moyen": 91,
+  "lh_bestpractices_moyen": 94,
+  "lh_seo_moyen": 90,
+  "lh_total_moyen": 345
 }

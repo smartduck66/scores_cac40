@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.veolia.com/sitemap.xml",
   "cac40": "veolia",
-  "timestamp": 1708187425926,
+  "timestamp": 1714913742057,
   "nb_total_url": 100,
-  "poids_moyen_page": 1794.43455078125,
-  "lh_perf_moyen": 54,
-  "lh_accessibility_moyen": 89,
+  "poids_moyen_page": 2484.860947265625,
+  "lh_perf_moyen": 56,
+  "lh_accessibility_moyen": 91,
   "lh_bestpractices_moyen": 95,
-  "lh_seo_moyen": 91,
-  "lh_total_moyen": 329
+  "lh_seo_moyen": 92,
+  "lh_total_moyen": 334
 }

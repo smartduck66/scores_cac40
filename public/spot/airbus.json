@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.airbus.com/sitemap.xml?page=1",
   "cac40": "airbus",
-  "timestamp": 1707647077764,
-  "nb_total_url": 49,
-  "poids_moyen_page": 465.8850247130102,
-  "lh_perf_moyen": 68,
-  "lh_accessibility_moyen": 57,
-  "lh_bestpractices_moyen": 78,
-  "lh_seo_moyen": 82,
-  "lh_total_moyen": 285
+  "timestamp": 1714830993994,
+  "nb_total_url": 6,
+  "poids_moyen_page": 2755.3343098958335,
+  "lh_perf_moyen": 64,
+  "lh_accessibility_moyen": 97,
+  "lh_bestpractices_moyen": 100,
+  "lh_seo_moyen": 86,
+  "lh_total_moyen": 347
 }

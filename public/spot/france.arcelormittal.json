@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://france.arcelormittal.com/sitemap.xml",
   "cac40": "france.arcelormittal",
-  "timestamp": 1708187425926,
+  "timestamp": 1714849219229,
   "nb_total_url": 100,
-  "poids_moyen_page": 375.0229296875,
+  "poids_moyen_page": 402.457412109375,
   "lh_perf_moyen": 99,
   "lh_accessibility_moyen": 96,
   "lh_bestpractices_moyen": 100,
-  "lh_seo_moyen": 99,
-  "lh_total_moyen": 394
+  "lh_seo_moyen": 100,
+  "lh_total_moyen": 395
 }

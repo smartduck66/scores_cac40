@@ -1,12 +1,12 @@
 {
   "sitemap_url": "carrefour.xml",
   "cac40": "carrefour",
-  "timestamp": 1708187425926,
+  "timestamp": 1714830993994,
   "nb_total_url": 98,
-  "poids_moyen_page": 1352.5765605070153,
-  "lh_perf_moyen": 49,
-  "lh_accessibility_moyen": 83,
+  "poids_moyen_page": 1619.6219108737246,
+  "lh_perf_moyen": 50,
+  "lh_accessibility_moyen": 80,
   "lh_bestpractices_moyen": 98,
-  "lh_seo_moyen": 88,
-  "lh_total_moyen": 318
+  "lh_seo_moyen": 87,
+  "lh_total_moyen": 315
 }

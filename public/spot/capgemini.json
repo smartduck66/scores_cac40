@@ -1,12 +1,12 @@
 {
   "sitemap_url": "https://www.capgemini.com/fr-fr/page-sitemap.xml",
   "cac40": "capgemini",
-  "timestamp": 1708174918488,
+  "timestamp": 1714830993994,
   "nb_total_url": 100,
-  "poids_moyen_page": 3381.1812109375,
-  "lh_perf_moyen": 51,
+  "poids_moyen_page": 4502.435126953125,
+  "lh_perf_moyen": 59,
   "lh_accessibility_moyen": 92,
-  "lh_bestpractices_moyen": 56,
-  "lh_seo_moyen": 78,
-  "lh_total_moyen": 277
+  "lh_bestpractices_moyen": 57,
+  "lh_seo_moyen": 76,
+  "lh_total_moyen": 284
 }

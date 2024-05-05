@@ -1,12 +1,12 @@
 {
   "sitemap_url": "vivendi.xml",
   "cac40": "vivendi",
-  "timestamp": 1708187425926,
+  "timestamp": 1714913742057,
   "nb_total_url": 100,
-  "poids_moyen_page": 1525.000986328125,
+  "poids_moyen_page": 1679.411513671875,
   "lh_perf_moyen": 73,
-  "lh_accessibility_moyen": 92,
+  "lh_accessibility_moyen": 96,
   "lh_bestpractices_moyen": 98,
-  "lh_seo_moyen": 70,
-  "lh_total_moyen": 333
+  "lh_seo_moyen": 68,
+  "lh_total_moyen": 335
 }
