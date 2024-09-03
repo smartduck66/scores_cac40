@@ -4,14 +4,24 @@ import App from "./App.vue";
 import router from "./router";
 import { useStore } from "./assets/mixins/store.js";
 
-// Composants graphiques
+// Composants graphiques : migration vers PrimeVue 4.0 le 9 juillet 2024
 import PrimeVue from "primevue/config";
-import "primevue/resources/themes/saga-blue/theme.css"; // 174k mais nécessaire pour ne pas casser l'UX lors d'une mise à jour de PrimeVue
-//import "./saga_blue_core_theme.css"; // 26k : https://forum.primefaces.org/viewtopic.php?t=68367
+import Aura from "@primevue/themes/aura";
+//import "primeicons/primeicons.css"; // Remplacé en insérant directement les fichiers C:\Users\andre\source\_web\pharaon\node_modules\primeicons\raw-svg dans \src\assets\svg
 
 const main = async () => {
   const app = createApp(App);
-  app.use(router).use(PrimeVue);
+  app.use(router).use(PrimeVue, {
+    // Default theme configuration
+    theme: {
+      preset: Aura,
+      options: {
+        prefix: "p",
+        darkModeSelector: "system",
+        cssLayer: false,
+      },
+    },
+  });
   // Initialiser Pinia, ajouter le magasin à l'application et initialiser le magasin
   const pinia = createPinia();
   app.use(pinia);

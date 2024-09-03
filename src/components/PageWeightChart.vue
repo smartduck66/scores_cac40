@@ -11,33 +11,14 @@ const chartOptions = ref();
 const props = defineProps(["values"]);
 
 const setChartData = () => {
-  const documentStyle = getComputedStyle(document.body);
-
   return {
     labels: ["media", "images", "scripts", "fontes", "autres", "styles", "document", "modules tiers"],
     datasets: [
       {
         data: props.values,
-        backgroundColor: [
-          documentStyle.getPropertyValue("--cyan-500"),
-          documentStyle.getPropertyValue("--orange-500"),
-          documentStyle.getPropertyValue("--gray-500"),
-          documentStyle.getPropertyValue("--purple-500"),
-          documentStyle.getPropertyValue("--green-500"),
-          documentStyle.getPropertyValue("--pink-500"),
-          documentStyle.getPropertyValue("--yellow-500"),
-          documentStyle.getPropertyValue("--brown-500"),
-        ],
-        hoverBackgroundColor: [
-          documentStyle.getPropertyValue("--cyan-400"),
-          documentStyle.getPropertyValue("--orange-400"),
-          documentStyle.getPropertyValue("--gray-400"),
-          documentStyle.getPropertyValue("--purple-400"),
-          documentStyle.getPropertyValue("--green-400"),
-          documentStyle.getPropertyValue("--pink-400"),
-          documentStyle.getPropertyValue("--yellow-400"),
-          documentStyle.getPropertyValue("--brown-400"),
-        ],
+        // Couleurs codées dans \node_modules\@primevue\themes\aura\index.mjs
+        backgroundColor: ["#06b6d4", "#f97316", "#6b7280", "#a855f7", "#22c55e", "#ec4899", "#eab308", "#3b82f6"],
+        hoverBackgroundColor: ["#22d3ee", "#fb923c", "#9ca3af", "#c084fc", "#4ade80", "#f472b6", "#facc15", "#60a5fa"],
       },
     ],
   };

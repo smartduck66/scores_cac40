@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import Select from "primevue/select";
 import { defineAsyncComponent } from "vue";
 const LastPerfDisplay = defineAsyncComponent(() => import("./LastPerf.vue"));
 import Footer from "../components/Footer.vue";
@@ -127,7 +128,7 @@ Result_table_build(store.Liste_dates_mesure[0].file); // On construit la table d
 <template>
   <div class="FlexWrapper_choix">
     <span class="sous-titre">Métriques du : </span>
-    <Dropdown
+    <Select
       class="menu"
       v-model="selectedDate"
       :options="store.Liste_dates_mesure"

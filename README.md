@@ -36,7 +36,7 @@ L'application propose 3 fonctionnalités principales :
 - Vue Router : ```npm i vue-router@4```
 - Types Babel : ```npm i -D @babel/types```
 - VueUse : ```npm i @vueuse/core``` (utilitaires)
-- PrimeVue : ```npm i primevue``` (composants graphiques)
+- PrimeVue : ```npm i primevue @primevue/themes``` (composants graphiques)
 - AutoImport PrimeVue : ```npm i unplugin-vue-components -D``` (pour éviter les déclarations manuelles d'importation des composants)
 - Pinia : ```npm i pinia``` (gestion des états)
 - Sharp : ```npm install sharp``` (package utilisé dans le script webp.cjs pour transformer en masse les images png/jpg en webp)

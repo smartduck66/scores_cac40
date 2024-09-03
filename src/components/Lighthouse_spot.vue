@@ -37,7 +37,7 @@ function couleur_indicateur_lighthouse(KPI: number, seuil1: number, seuil2: numb
     calculated_color = "success"; // vert
   }
   if (KPI >= seuil1 && KPI < seuil2) {
-    calculated_color = "warning"; // orange
+    calculated_color = "warn"; // orange
   }
   if (KPI < seuil1) {
     calculated_color = "danger"; // rouge

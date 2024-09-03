@@ -103,6 +103,7 @@ const onRowSelect_WebSite = async (event: any) => {
           :rowsPerPageOptions="[5, 10, 20, 50]"
           size="large"
           :tableStyle="{ 'min-width': '70rem'}"
+          class="row"
           selectionMode="single"
           :metaKeySelection="false"
           dataKey="id"
@@ -225,6 +226,18 @@ const onRowSelect_WebSite = async (event: any) => {
   text-align: left;
   color: grey;
   margin-bottom: 10px;
+}
+
+.row {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: black;
 }
 
 .modal {
