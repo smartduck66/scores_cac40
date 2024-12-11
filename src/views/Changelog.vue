@@ -9,7 +9,7 @@ import Footer from "../components/Footer.vue";
     <br />
     <h4>Décembre 2024</h4>
     <ul>
-      <li>Moyenne annuelle de la note globale accessible dans 'Mesures'</li>
+      <li>Moyenne annuelle de la note globale accessible dans 'Historique'</li>
     </ul>
     <br />
     <h4>Septembre 2024</h4>
