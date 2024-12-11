@@ -7,6 +7,11 @@ import Footer from "../components/Footer.vue";
     <h1>Changelog</h1>
     <br />
     <br />
+    <h4>Décembre 2024</h4>
+    <ul>
+      <li>Moyenne annuelle de la note globale accessible dans 'Mesures'</li>
+    </ul>
+    <br />
     <h4>Septembre 2024</h4>
     <ul>
       <li>Implémentation des composants graphiques PrimeVue v4</li>
